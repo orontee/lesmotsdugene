@@ -1,0 +1,21 @@
+Title: Dans la lune (planche 37)
+Date: 2016-07-04 16:27:14
+Modified: 2016-07-04 16:27:14
+Slug: dans-la-lune-planche-37
+Summary: 
+Author: None
+Lang: fr
+Status: published
+
+<img style="float: right;" alt="" src="{static}/images/planche_37.png"><p style="text-align:justify;">Planche de moyenne grandeur, verticale, légèrement plus étroite en bas. Le bord haut est légèrement concave. Les côtés ont gardé leur écorce. En haut, un dessin représente deux petits nuages et un croissant de lune caricaturé avec un profil humain qui semble regarder une fusée plus bas sur sa gauche. Le nombre "77" est gravé en haut à droite.</p>
+
+## Texte en patois
+Que Votié que j’alle fâre sû la lunâ i sû terre que sont le bône tôme le bon vèn le brave Fille  
+le gène
+
+## Traduction
+Que veux-tu que j'aille faire sur la lune ? C'est sur la terre que sont les bonnes tommes, le bon vin et les jolies filles ! 	
+ Le Gène
+
+## Commentaire
+Ce texte date des premiers pas de l'homme sur la lune en 1969. Cette phrase fut prononcée par un des voisins d'Eugène venu l'aider pour la construction de sa stabulation. 

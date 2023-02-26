@@ -1,0 +1,22 @@
+Title: La chasse aux subventions (planche 65 verso)
+Date: 2016-10-28 15:23:36
+Modified: 2016-10-28 15:23:36
+Slug: la-chasse-aux-subventions-planche-65-verso
+Summary: 
+Author: None
+Lang: fr
+Status: published
+
+<p style="text-align:justify;">Planche verticale de moyenne grandeur, légèrement fendue en bas et gravée sur les deux faces. Les bords bas et haut sont évasés. Les bords latéraux sont bordés d'écorce. </p>
+<img style="float: left;" alt="" src="{static}/images/planche_65_verso.png">
+## Texte en patois
+hooo Monsieu le maire pe fâre tou que lou tràvô ta biên seû allâ Kère lou picayon on te qui son côme louchèr a la chasse n’étion dou ien que baille de la voix l’ôtre que tién ou Ferme 
+
+## Traduction
+Oh !  M. le Maire, pour faire tous ces travaux, tu as bien su aller quérir les sous là où ils se trouvent.
+─    Comme les chiens de chasse, on était deux : un qui donne de la voix et l'autre qui va derrière pour harceler !
+
+## Commentaire
+<p style="text-align:justify;">Eugène a été longtemps conseiller municipal à Viriville. Il nous donne là, à sa façon, la recette d'une tactique sans doute bien rodée pour obtenir des subventions pour la commune.</p>
+
+

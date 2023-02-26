@@ -1,0 +1,24 @@
+Title: Le museau plein de plumes (planche 164)
+Date: 2016-05-23 18:22:17
+Modified: 2016-06-12 10:44:26
+Slug: le-museau-plein-de-plumes-planche-164
+Summary: 
+Author: None
+Lang: fr
+Status: published
+
+<p style="text-align:justify;">Planche verticale de grandeur moyenne en bois teinté assez sombre. Le bord haut est découpé pour former deux arcs de cercle. Au sommet, est gravé le dessin d'une tête de renard aux yeux un peu exorbités.</p><img style="float: right;" alt="Renard peureux" src="{static}/images/planche_164_detail_dessin.png">
+
+<img style="float: left;" alt="" src="{static}/images/planche_164.png">
+## Texte en patois
+jamè  Renâ  pourrou  a  ïeu  Le  môrre  Plûmou 		
+	  le gène
+
+## Traduction
+Jamais renard peureux n'eut le nez plein de plumes...  			
+ Le Gène
+
+## Commentaire
+ Dicton métaphorique pour signifier que lorsqu'on est paralysé par la peur on ne peut rien obtenir, à l'instar du renard, incapable d'attraper une poule.
+L'expression "le môrre plumou" pourrait se traduire littéralement par "le nez plumeux".
+Comme sur chaque planche, les lettres initiales des mots Renâ, Le et Plûmou sont gravées en majuscules pour le seul plaisir de tracer des belles courbes.

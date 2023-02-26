@@ -1,0 +1,23 @@
+Title: Morfondïu (planche 20)
+Date: 2018-02-09 15:49:15
+Modified: 2018-02-09 15:49:15
+Slug: morfondiu-planche-20
+Summary: 
+Author: None
+Lang: fr
+Status: published
+
+Petite planche dont les deux bords latéraux sont concaves et les bords hauts et bas ondulés.
+<img style="float: left;" alt="" src="{static}/images/planche_20.png">
+## Texte en patois
+je so morfondïu je n’arrive plû a bessâ mon jardïen ? je pô te fare ina joëntâ      le gène
+
+## Traduction
+Je suis las ! Je n'arrive plus à bêcher mon jardin ! 
+─   Je peux te faire une "jointe" !?  		
+						Le Gène
+
+## Commentaire
+Une "jointe" correspond à une demi-journée de travail pour une bête de somme.
+
+

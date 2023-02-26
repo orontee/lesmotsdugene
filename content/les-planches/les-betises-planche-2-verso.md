@@ -1,0 +1,21 @@
+Title: Les bêtises (planche 2 verso)
+Date: 2016-05-23 18:22:54
+Modified: 2019-07-25 14:04:26
+Slug: les-betises-planche-2-verso
+Summary: 
+Author: None
+Lang: fr
+Status: published
+
+Planche  verticale haute, étroite et légèrement courbe. Sa forme fait penser à une botte. 
+
+<img style="float: left;" alt="" src="{static}/images/planche_2_verso.png">
+## Texte en patois
+houâ mé gène ou jozé te tess mieu sovnïu de tote le bétïze que tâ entendïu que de ton  catechime 
+
+## Traduction
+Hé ! mon Gène ou Joseph, tu t'es bien mieux souvenu de toutes les bêtises que tu as entendues que de ton catéchisme.
+
+## Commentaire
+<p style=text-align:justify;">Eugène se moque ici joyeusement de lui-même. Il nous révèle également que le personnage de Joseph ou José, qui apparait fréquemment sur ses planches, n'est autre que lui-même.</p>
+

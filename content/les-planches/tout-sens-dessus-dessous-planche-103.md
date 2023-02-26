@@ -1,0 +1,20 @@
+Title: Tout sens dessus dessous (planche 103)
+Date: 2017-12-06 17:09:30
+Modified: 2017-12-06 17:09:30
+Slug: tout-sens-dessus-dessous-planche-103
+Summary: 
+Author: None
+Lang: fr
+Status: published
+
+Petite planche horizontale légèrement courbe. Le "O" de "solé" figure un soleil.
+<img style="float: center;" alt="" src="{static}/images/planche_103.png">
+
+## Texte en patois
+Ne man parla pâ fâ Ke  Ploure. lou monde le tan le sOlé . i tô â la renverse
+
+## Traduction
+Ne m'en parle pas ! Il ne fait que pleuvoir. Les gens, le temps, le soleil, c'est tout sens dessus dessous !
+
+## Commentaire
+L'expression bien imagée "tô â la renverse" correspond à "sens dessus dessous" ou plus familièrement "c'est n'importe quoi ! ".
