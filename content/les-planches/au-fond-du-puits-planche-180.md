@@ -1,0 +1,34 @@
+Title: Au fond du puits (planche 180)
+Date: 2016-05-23 18:05:09
+Modified: 2016-05-23 18:05:09
+Slug: au-fond-du-puits-planche-180
+Summary: 
+Author: None
+Lang: fr
+Status: published
+
+Petite planche horizontale aux bords arrondis et légèrement incurvée vers le haut. A droite, dessin d'un puits maçonné avec des galets roulés.
+
+<figure class="image-block" style="float: center;">
+  <img alt="" src="{static}/images/planche_180.png">
+  <figcaption style="max-width: 685px"></figcaption>
+</figure>
+
+## Texte en patois
+ou gâre soven le fond de la bosse jamé le Fond dou Puit
+
+le gène
+<figure class="image-block" style="float: left;">
+  <img alt="Le puits du Gène maçonné avec des galets roulés" src="{static}/images/planche_180_detail_dessin.png">
+  <figcaption style="max-width: 497px">Le puits du Gène maçonné avec des galets roulés</figcaption>
+</figure>
+
+
+## Traduction
+Il regarde souvent le fond du tonneau, jamais le fond du puits !
+
+Le Gène
+
+## Commentaire
+Expression autrefois courante pour évoquer avec humour les personnes qui manifestent un goût un peu trop immodéré pour le vin !
+
