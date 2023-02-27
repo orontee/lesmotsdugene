@@ -27,8 +27,6 @@ Summary: {summary}
 Author: {author}
 Lang: fr
 Status: published
-
-{text}
 """
 
 # Keep the \n at the beginning of next string!! Otherwise image
@@ -163,7 +161,6 @@ if __name__ == "__main__":
             "category": category,
             "slug": slug,
             "summary": a["descriptif"],
-            "text": text,
         }
         if a["id_rubrique"] == 4:
             context["author"] = "Brigitte Baret"
@@ -177,6 +174,11 @@ if __name__ == "__main__":
                 context["summary"] = ""
 
         page = ARTICLE_TEMPLATE.format(**context)
+
+        if slug == "eugene-vicat-dit-le-gene":
+            page += "save_as: index.html"
+
+        page += f"\n{text}\n"
 
         if a["id_rubrique"] == 1:
             filename = Path(OUTPUT_PATH) / "les-planches" / f"{slug}.md"

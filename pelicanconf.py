@@ -20,10 +20,10 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-    ('Eugène Vicat', '/pages/eugene-vicat-dit-le-gene.html'),
+    ('Eugène Vicat', '/index.html'),
     ('Planches', '/pages/les-planches.html'),
     ('Notes', '/pages/quelques-notes-a-propos-des-mots-d-eugene.html'),
-    ("Association «Les mots du Gène»", '/pages/presentation-de-l-association'),
+    ("Association «Les mots du Gène»", '/pages/presentation-de-l-association.html'),
 )
 
 # Blogroll
