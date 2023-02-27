@@ -31,3 +31,7 @@ Le Gène
 Un agriculteur avait accidentellement renversé sur la route de St Siméon de Bressieux quelques bottes de pailles. Eugène s'était alors arrêté pour aider à les ramasser quand un des hommes se mit à chanter en patois, une botte sous chaque bras, cette amusante petite comptine qui lui est restée dans la tête : *"Pâille  Pâille  Pâille,  Paye pa biên mé empâille Biên " ...
 *
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_10.mp4" type="video/mp4">
+</video>

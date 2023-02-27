@@ -23,3 +23,7 @@ Tu boîtes, tu es tout "déglingué" ?
 
 ## Commentaire
 Une "jaunasse" est une fiente. Le plus souvent, on donnait à picorer aux poules sur le seuil des maisons ce qui occasionnait parfois quelques "dégâts" pouvant s'avérer dangereux pour la santé !
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_10bis-2.mp4" type="video/mp4">
+</video>

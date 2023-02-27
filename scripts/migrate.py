@@ -1,7 +1,7 @@
 import html
 from pathlib import Path
 import re
-from typing import Dict, Any
+from typing import Any, Dict, List
 
 from slugify import slugify
 
@@ -10,6 +10,7 @@ import yaml
 
 ARTICLES_EXPORT_PATH = "lmdg_articles.yml"
 DOCUMENT_EXPORT_PATH = "lmdg_documents.yml"
+LINKS_EXPORT_PATH = "lmdg_documents_liens.yml"
 OUTPUT_PATH = "content"
 
 RUBRIQUE = {
@@ -39,31 +40,67 @@ IMAGE_TEMPLATE = """
 """
 
 
-PARSED_DOCUMENTS: Dict[str, Any] = {}
+VIDEO_TEMPLATE = """
+<video width="320" height="240" controls>
+  <source src="{path}" type="video/mp4">
+</video>
+"""
 
-def parse_documents(documents: Dict[str, Any]) -> None:
+PARSED_DOCUMENTS: Dict[str, Any] = {}
+PARSED_LINKS: Dict[str, List[str]] = {}
+
+def parse_documents() -> None:
     global PARSED_DOCUMENTS
 
+    with open(DOCUMENT_EXPORT_PATH, "r") as documents_fh:
+        documents = yaml.load(documents_fh, Loader=yaml.Loader)
+
     for doc in documents:
-        if doc["media"] != "image" or doc["statut"] not in ("publie", "prop", "prepa"):
+        if doc["statut"] not in ("publie", "prop", "prepa"):
             continue
 
         id = str(doc["id_document"])
         filename = doc["fichier"][4:]
-        if filename.startswith("pl_"):
-            filename = "planche_" + filename[3:]
-        elif filename.startswith("panche_"):
-            filename = "planche_" + filename[7:]
-        elif filename.startswith("planch_"):
-            filename = "planche_" + filename[7:]
+        media = doc["media"]
+        if media == "image":
+            if filename.startswith("pl_"):
+                filename = "planche_" + filename[3:]
+            elif filename.startswith("panche_"):
+                filename = "planche_" + filename[7:]
+            elif filename.startswith("planch_"):
+                filename = "planche_" + filename[7:]
+
+            prefix = "images"
+            width = doc["largeur"]
+            height = doc["hauteur"]
+        elif media == "video":
+            prefix = "videos"
+            width = 320
+            height = 240
+        else:
+            continue
 
         PARSED_DOCUMENTS[id] = {
             "id": id,
-            "path": f"images/{filename}",
+            "media": media,
+            "path": f"{prefix}/{filename}",
             "title": html.escape(doc["titre"]),
-            "width": doc["largeur"],
-            "height": doc["hauteur"],
+            "width": width,
+            "height": height,
         }
+
+def parse_liens() -> None:
+    global PARSED_LINKS
+
+    with open(LINKS_EXPORT_PATH, "r") as links_fh:
+        links = yaml.load(links_fh, Loader=yaml.Loader)
+
+    for link in links:
+        id = str(link["id_objet"])
+        if id not in PARSED_LINKS:
+            PARSED_LINKS[id] = []
+
+        PARSED_LINKS[id].append(str(link["id_document"]))
 
 
 def cleanup_title(title: str) -> str:
@@ -92,6 +129,9 @@ def image_ref_replace(m: re.Match) -> str:
     doc = PARSED_DOCUMENTS.get(id)
     if doc is None:
         print(f"WARNING: {id} not found!")
+        return ""
+    elif doc["media"] != "image":
+        print(f"WARNING: Unexpected media type!")
         return ""
 
     align = m.group(2).lower()
@@ -143,12 +183,12 @@ if __name__ == "__main__":
     with open(ARTICLES_EXPORT_PATH, "r") as articles_fh:
         articles = yaml.load(articles_fh, Loader=yaml.Loader)
 
-    with open(DOCUMENT_EXPORT_PATH, "r") as documents_fh:
-        documents = yaml.load(documents_fh, Loader=yaml.Loader)
-
-    parse_documents(documents)
+    parse_documents()
+    parse_liens()
 
     for a in articles:
+        id = str(a["id_article"])
+
         title = cleanup_title(a["titre"])
         slug = build_slug(a)
         category = RUBRIQUE.get(a["id_rubrique"])
@@ -180,10 +220,25 @@ if __name__ == "__main__":
 
         page += f"\n{text}\n"
 
+        doc_ids = PARSED_LINKS.get(id, [])
+        if len(doc_ids) > 0:
+            for doc_id in doc_ids:
+                doc = PARSED_DOCUMENTS.get(doc_id)
+                if doc is None or doc["media"] != "video":
+                    continue
+
+                source_path = Path("content/" + doc["path"])
+                if not source_path.exists():
+                    continue
+
+                path = "{static}/" + doc["path"]
+                page += VIDEO_TEMPLATE.format(path=path)
+
         if a["id_rubrique"] == 1:
             filename = Path(OUTPUT_PATH) / "les-planches" / f"{slug}.md"
         else:
             filename = Path(OUTPUT_PATH) / "pages" / f"{slug}.md"
+
         with open(filename, "w") as fh:
             fh.write(page)
 

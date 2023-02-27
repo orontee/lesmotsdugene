@@ -9,7 +9,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'fr'
 
-STATIC_PATHS = ['images', 'extra/favicon.ico']
+STATIC_PATHS = ['images', 'videos', 'extra/favicon.ico']
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
 }

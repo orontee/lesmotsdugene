@@ -46,3 +46,7 @@ A l'époque, dans l'église, la place de chacun correspondait à sa position soc
 Cet orage de grêle de 1939, pour Eugène, est resté le souvenir particulièrement traumatisant d'un événement dramatique pour sa famille et ses voisins.
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_107.mp4" type="video/mp4">
+</video>

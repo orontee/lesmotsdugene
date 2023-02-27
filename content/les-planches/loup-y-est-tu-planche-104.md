@@ -35,3 +35,7 @@ Le Gène
 <p style="text-align:justify;">C'est après avoir vu à la télévision, Ségolène Royale, alors candidate à la Présidence de la République qu'Eugène a gravé cette planche en jouant sur les deux sens du mot "loup". Ségolène Royale participait alors à une fête costumée et portait ce fameux masque sur les yeux.</p>
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_104.mp4" type="video/mp4">
+</video>
