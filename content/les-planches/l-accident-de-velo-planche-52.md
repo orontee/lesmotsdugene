@@ -3,7 +3,6 @@ Date: 2016-01-28 15:15:24
 Modified: 2016-01-28 15:15:24
 Slug: l-accident-de-velo-planche-52
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

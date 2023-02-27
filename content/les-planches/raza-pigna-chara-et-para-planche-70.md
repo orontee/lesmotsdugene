@@ -3,7 +3,6 @@ Date: 2016-03-16 15:59:44
 Modified: 2016-07-01 18:50:41
 Slug: raza-pigna-chara-et-para-planche-70
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

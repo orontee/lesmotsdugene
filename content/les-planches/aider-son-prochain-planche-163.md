@@ -3,7 +3,6 @@ Date: 2017-05-30 16:35:20
 Modified: 2017-05-30 16:35:20
 Slug: aider-son-prochain-planche-163
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

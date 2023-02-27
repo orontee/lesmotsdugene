@@ -3,7 +3,6 @@ Date: 2017-12-06 16:19:57
 Modified: 2017-12-06 16:19:57
 Slug: toutes-les-raisons-de-boire-planche-31-recto
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

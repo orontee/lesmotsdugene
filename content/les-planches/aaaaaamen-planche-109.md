@@ -3,7 +3,6 @@ Date: 2016-03-16 16:00:45
 Modified: 2016-03-16 16:00:45
 Slug: aaaaaamen-planche-109
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

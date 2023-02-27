@@ -3,7 +3,6 @@ Date: 2018-02-09 16:16:27
 Modified: 2018-02-09 16:16:27
 Slug: la-verite-planche-88
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

@@ -3,7 +3,6 @@ Date: 2017-01-30 15:47:01
 Modified: 2017-01-30 15:47:01
 Slug: les-outils-du-diable-planche-122
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

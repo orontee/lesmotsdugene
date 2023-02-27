@@ -3,7 +3,6 @@ Date: 2017-12-06 17:02:13
 Modified: 2017-12-06 17:02:13
 Slug: le-soleil-brille-pour-tous-planche-86
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

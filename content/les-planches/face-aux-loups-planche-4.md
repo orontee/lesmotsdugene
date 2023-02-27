@@ -3,7 +3,6 @@ Date: 2016-10-28 15:27:46
 Modified: 2016-10-28 15:27:46
 Slug: face-aux-loups-planche-4
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

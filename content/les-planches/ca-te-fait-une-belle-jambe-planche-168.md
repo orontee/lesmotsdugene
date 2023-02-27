@@ -3,7 +3,6 @@ Date: 2017-06-27 18:08:50
 Modified: 2017-06-27 18:08:50
 Slug: ca-te-fait-une-belle-jambe-planche-168
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

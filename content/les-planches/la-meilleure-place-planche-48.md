@@ -3,7 +3,6 @@ Date: 2016-05-23 17:58:50
 Modified: 2016-05-23 17:58:50
 Slug: la-meilleure-place-planche-48
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

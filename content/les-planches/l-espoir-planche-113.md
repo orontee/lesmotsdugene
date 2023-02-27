@@ -3,7 +3,6 @@ Date: 2016-01-28 15:14:08
 Modified: 2016-01-28 15:14:08
 Slug: l-espoir-planche-113
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

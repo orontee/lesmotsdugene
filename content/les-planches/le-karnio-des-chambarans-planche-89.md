@@ -3,7 +3,6 @@ Date: 2016-11-28 10:34:52
 Modified: 2016-11-28 10:34:52
 Slug: le-karnio-des-chambarans-planche-89
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

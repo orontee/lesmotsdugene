@@ -3,7 +3,6 @@ Date: 2016-09-28 15:27:18
 Modified: 2016-09-28 15:27:18
 Slug: un-bon-troc-planche-34
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

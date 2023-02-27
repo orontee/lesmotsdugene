@@ -3,7 +3,6 @@ Date: 2017-06-27 18:05:49
 Modified: 2017-06-27 18:05:49
 Slug: un-futur-champion-planche-177
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

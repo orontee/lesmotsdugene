@@ -3,7 +3,6 @@ Date: 2015-11-18 18:19:40
 Modified: 2016-01-20 16:07:00
 Slug: le-karnio-planche-74
 Summary: Comment ce fait-il que tu ne t'es jamais marié ?
-Author: None
 Lang: fr
 Status: published
 

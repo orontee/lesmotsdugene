@@ -3,7 +3,6 @@ Date: 2016-01-28 15:13:16
 Modified: 2016-01-28 15:13:16
 Slug: une-vie-cabossee-planche-126
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

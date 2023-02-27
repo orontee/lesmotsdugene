@@ -3,7 +3,6 @@ Date: 2016-12-30 14:55:12
 Modified: 2016-12-30 14:55:12
 Slug: la-modestie-des-chasseurs-planches-117-et-118
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

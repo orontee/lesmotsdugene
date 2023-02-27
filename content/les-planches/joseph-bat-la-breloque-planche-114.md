@@ -3,7 +3,6 @@ Date: 2016-12-30 14:47:25
 Modified: 2016-12-30 14:47:25
 Slug: joseph-bat-la-breloque-planche-114
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

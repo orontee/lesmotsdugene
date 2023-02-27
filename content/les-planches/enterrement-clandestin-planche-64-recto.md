@@ -3,7 +3,6 @@ Date: 2016-05-23 17:43:37
 Modified: 2016-08-16 16:56:56
 Slug: enterrement-clandestin-planche-64-recto
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

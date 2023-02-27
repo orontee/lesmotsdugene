@@ -3,7 +3,6 @@ Date: 2017-05-30 16:39:32
 Modified: 2017-05-30 16:39:32
 Slug: bien-chausses-planche-13
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

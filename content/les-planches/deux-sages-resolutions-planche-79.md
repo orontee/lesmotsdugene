@@ -3,7 +3,6 @@ Date: 2017-05-30 16:40:41
 Modified: 2017-05-30 16:40:41
 Slug: deux-sages-resolutions-planche-79
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

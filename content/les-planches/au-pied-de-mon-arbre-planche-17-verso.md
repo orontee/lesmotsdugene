@@ -3,7 +3,6 @@ Date: 2016-07-04 16:16:08
 Modified: 2016-07-09 22:13:25
 Slug: au-pied-de-mon-arbre-planche-17-verso
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

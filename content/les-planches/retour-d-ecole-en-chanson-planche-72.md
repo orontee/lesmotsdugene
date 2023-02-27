@@ -3,7 +3,6 @@ Date: 2016-03-16 16:00:53
 Modified: 2016-03-16 16:00:53
 Slug: retour-d-ecole-en-chanson-planche-72
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

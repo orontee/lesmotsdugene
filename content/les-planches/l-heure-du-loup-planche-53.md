@@ -3,7 +3,6 @@ Date: 2018-02-09 16:01:49
 Modified: 2018-02-09 16:03:42
 Slug: l-heure-du-loup-planche-53
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

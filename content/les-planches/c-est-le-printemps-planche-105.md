@@ -3,7 +3,6 @@ Date: 2016-05-23 17:35:25
 Modified: 2016-06-12 19:23:29
 Slug: c-est-le-printemps-planche-105
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

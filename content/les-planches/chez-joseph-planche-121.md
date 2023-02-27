@@ -3,7 +3,6 @@ Date: 2017-12-06 17:34:57
 Modified: 2017-12-06 17:34:57
 Slug: chez-joseph-planche-121
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

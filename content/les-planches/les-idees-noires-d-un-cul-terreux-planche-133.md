@@ -3,7 +3,6 @@ Date: 2016-10-28 15:22:03
 Modified: 2016-10-28 15:22:03
 Slug: les-idees-noires-d-un-cul-terreux-planche-133
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

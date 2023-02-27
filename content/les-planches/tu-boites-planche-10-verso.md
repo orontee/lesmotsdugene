@@ -3,7 +3,6 @@ Date: 2017-05-01 10:48:39
 Modified: 2017-05-01 10:48:39
 Slug: tu-boites-planche-10-verso
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

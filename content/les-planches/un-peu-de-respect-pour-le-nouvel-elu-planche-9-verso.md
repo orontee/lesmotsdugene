@@ -3,7 +3,6 @@ Date: 2016-07-04 16:35:31
 Modified: 2016-07-04 16:35:31
 Slug: un-peu-de-respect-pour-le-nouvel-elu-planche-9-verso
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

@@ -3,7 +3,6 @@ Date: 2018-02-09 16:51:31
 Modified: 2018-02-09 16:51:31
 Slug: chasse-de-nuit-planche-64-verso
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

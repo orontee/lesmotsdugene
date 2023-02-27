@@ -3,7 +3,6 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-08-16 16:59:04
 Slug: la-grande-cuillere-planche-165
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

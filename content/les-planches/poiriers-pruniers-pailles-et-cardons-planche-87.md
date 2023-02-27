@@ -3,7 +3,6 @@ Date: 2018-03-08 17:40:04
 Modified: 2018-03-08 17:40:04
 Slug: poiriers-pruniers-pailles-et-cardons-planche-87
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

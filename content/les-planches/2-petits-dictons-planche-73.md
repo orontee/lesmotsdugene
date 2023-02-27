@@ -3,7 +3,6 @@ Date: 2017-01-30 15:40:32
 Modified: 2017-01-30 15:40:32
 Slug: 2-petits-dictons-planche-73
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

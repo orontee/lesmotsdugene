@@ -3,7 +3,6 @@ Date: 2017-03-01 16:32:21
 Modified: 2017-03-01 16:32:21
 Slug: un-bon-gueuleton-planche-184
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

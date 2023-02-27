@@ -3,7 +3,6 @@ Date: 2017-03-01 16:33:42
 Modified: 2017-03-01 16:33:42
 Slug: laissez-donc-les-jonquilles-planche-116
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

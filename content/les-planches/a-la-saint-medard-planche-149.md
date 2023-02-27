@@ -3,7 +3,6 @@ Date: 2016-07-04 16:31:00
 Modified: 2016-07-04 16:31:00
 Slug: a-la-saint-medard-planche-149
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

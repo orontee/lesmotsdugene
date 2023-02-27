@@ -3,7 +3,6 @@ Date: 2017-06-27 18:05:06
 Modified: 2017-06-27 18:05:06
 Slug: un-bon-macon-planche-143
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

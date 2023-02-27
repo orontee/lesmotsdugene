@@ -3,7 +3,6 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:39:25
 Slug: brava-lize-planche-49
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

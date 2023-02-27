@@ -3,7 +3,6 @@ Date: 2017-05-01 10:35:45
 Modified: 2017-05-01 10:35:45
 Slug: il-a-la-broge-planche-135
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

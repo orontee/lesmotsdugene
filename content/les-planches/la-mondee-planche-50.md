@@ -3,7 +3,6 @@ Date: 2016-12-30 14:53:18
 Modified: 2016-12-30 14:53:18
 Slug: la-mondee-planche-50
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

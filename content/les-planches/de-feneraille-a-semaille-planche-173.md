@@ -3,7 +3,6 @@ Date: 2016-10-28 15:30:36
 Modified: 2016-10-28 15:31:49
 Slug: de-feneraille-a-semaille-planche-173
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

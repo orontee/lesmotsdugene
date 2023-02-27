@@ -3,10 +3,11 @@ Date: 2015-11-20 02:25:00
 Modified: 2016-03-15 15:21:44
 Slug: eugene-vicat-dit-le-gene
 Summary: Petite biographie du Gène
-Author: Brigitte Baret
 Lang: fr
 Status: published
 save_as: index.html
+Author: Brigitte Baret
+
 Eugène Vicat est né en 1933 dans le quartier isolé des Bouilleaux (*le bout haut*) de Viriville (38) en plein cœur des Chambarans.
 Paysan modeste des collines, amoureux de sa terre, de la nature environnante mais aussi curieux de tout et ouvert au monde c'est l'apprentissage d'une vie bien remplie qu'Eugène nous livre en gravant sur des planches à l'aspect brut, dessins et petits textes en patois.
 

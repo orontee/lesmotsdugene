@@ -3,7 +3,6 @@ Date: 2016-09-28 15:30:55
 Modified: 2016-09-28 15:30:55
 Slug: faut-laisser-murir-planche-92
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

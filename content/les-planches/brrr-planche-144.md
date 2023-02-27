@@ -3,7 +3,6 @@ Date: 2016-10-28 15:20:39
 Modified: 2016-10-28 15:20:39
 Slug: brrr-planche-144
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

@@ -3,7 +3,6 @@ Date: 2015-11-18 17:47:37
 Modified: 2016-01-20 16:05:49
 Slug: le-second-mois-de-l-an-planche-119
 Summary: Pour le second mois de l’an, le soleil est chaud ! 
-Author: None
 Lang: fr
 Status: published
 

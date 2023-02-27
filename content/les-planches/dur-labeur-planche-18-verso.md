@@ -3,7 +3,6 @@ Date: 2017-05-30 16:31:37
 Modified: 2017-05-30 16:31:37
 Slug: dur-labeur-planche-18-verso
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

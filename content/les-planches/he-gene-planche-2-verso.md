@@ -3,7 +3,6 @@ Date: 2016-11-28 10:13:52
 Modified: 2019-07-25 19:41:26
 Slug: he-gene-planche-2-verso
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

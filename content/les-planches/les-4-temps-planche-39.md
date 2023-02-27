@@ -3,7 +3,6 @@ Date: 2017-05-01 10:32:55
 Modified: 2017-05-01 10:32:55
 Slug: les-4-temps-planche-39
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

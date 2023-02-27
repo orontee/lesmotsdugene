@@ -3,7 +3,6 @@ Date: 2016-11-28 18:16:00
 Modified: 2016-12-12 18:17:56
 Slug: une-retraite-a-faire-pleurer-planche-134-verso
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

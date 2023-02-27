@@ -3,7 +3,6 @@ Date: 2017-06-27 18:12:15
 Modified: 2017-06-30 18:09:39
 Slug: les-roses-et-la-republique-planche-186
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

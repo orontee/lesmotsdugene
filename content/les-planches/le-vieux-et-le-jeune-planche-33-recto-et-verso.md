@@ -3,7 +3,6 @@ Date: 2018-02-09 16:32:29
 Modified: 2018-02-09 16:32:29
 Slug: le-vieux-et-le-jeune-planche-33-recto-et-verso
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

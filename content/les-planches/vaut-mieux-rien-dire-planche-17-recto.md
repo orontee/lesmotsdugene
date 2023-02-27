@@ -3,7 +3,6 @@ Date: 2016-09-28 15:50:06
 Modified: 2016-09-28 15:50:06
 Slug: vaut-mieux-rien-dire-planche-17-recto
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

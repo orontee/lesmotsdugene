@@ -3,7 +3,6 @@ Date: 2018-03-12 16:53:02
 Modified: 2018-03-12 16:53:02
 Slug: le-travail-c-est-la-sante-planche-57
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

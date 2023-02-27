@@ -3,7 +3,6 @@ Date: 2018-02-09 17:45:27
 Modified: 2018-02-09 17:46:49
 Slug: tu-travailles-encore-sous-la-pluie-planche-100
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

@@ -3,7 +3,6 @@ Date: 2017-12-06 16:48:07
 Modified: 2017-12-06 16:48:07
 Slug: travailler-pour-aider-planche-54
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

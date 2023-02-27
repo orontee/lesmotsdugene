@@ -3,7 +3,6 @@ Date: 2016-07-04 16:24:54
 Modified: 2016-07-04 16:24:54
 Slug: petit-poisson-planche-62
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

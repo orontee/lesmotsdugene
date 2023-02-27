@@ -3,9 +3,9 @@ Date: 2015-10-29 20:19:13
 Modified: 2015-11-24 11:57:23
 Slug: quelques-notes-a-propos-des-mots-d-eugene
 Summary: Le patois et l'écriture d'Eugène
-Author: Brigitte Baret
 Lang: fr
 Status: published
+Author: Brigitte Baret
 
 ## L'origine...
 

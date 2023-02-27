@@ -3,7 +3,6 @@ Date: 2017-05-30 16:21:25
 Modified: 2017-05-30 16:21:25
 Slug: c-est-dans-les-vieilles-marmites-planche-154
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

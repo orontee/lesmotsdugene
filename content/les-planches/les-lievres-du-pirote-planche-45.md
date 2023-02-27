@@ -3,7 +3,6 @@ Date: 2017-06-27 18:35:14
 Modified: 2017-06-27 18:35:14
 Slug: les-lievres-du-pirote-planche-45
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

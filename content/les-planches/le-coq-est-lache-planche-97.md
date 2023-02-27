@@ -3,7 +3,6 @@ Date: 2017-03-01 16:35:25
 Modified: 2017-03-01 16:35:25
 Slug: le-coq-est-lache-planche-97
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

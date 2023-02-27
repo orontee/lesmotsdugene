@@ -3,7 +3,6 @@ Date: 2015-11-24 18:21:24
 Modified: 2016-01-20 16:08:55
 Slug: ni-queue-ni-tete-planche-80
 Summary: étié in histoira a Dormi Debout que Finaï en quoua de Pésson
-Author: None
 Lang: fr
 Status: published
 

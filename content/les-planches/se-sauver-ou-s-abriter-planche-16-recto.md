@@ -3,7 +3,6 @@ Date: 2016-07-04 16:51:10
 Modified: 2016-07-04 16:51:10
 Slug: se-sauver-ou-s-abriter-planche-16-recto
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

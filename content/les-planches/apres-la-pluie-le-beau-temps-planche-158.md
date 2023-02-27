@@ -3,7 +3,6 @@ Date: 2018-03-12 16:58:42
 Modified: 2018-03-12 16:58:42
 Slug: apres-la-pluie-le-beau-temps-planche-158
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

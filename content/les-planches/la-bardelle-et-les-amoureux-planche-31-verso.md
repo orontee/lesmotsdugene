@@ -3,7 +3,6 @@ Date: 2017-05-30 16:25:21
 Modified: 2017-05-30 16:25:21
 Slug: la-bardelle-et-les-amoureux-planche-31-verso
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

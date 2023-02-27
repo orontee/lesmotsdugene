@@ -3,7 +3,6 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-04-23 17:42:57
 Slug: les-pieds-sur-terre-planche-1
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

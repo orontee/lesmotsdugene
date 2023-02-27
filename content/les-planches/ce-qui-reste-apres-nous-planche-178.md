@@ -3,7 +3,6 @@ Date: 2016-09-28 15:21:56
 Modified: 2016-09-28 15:23:48
 Slug: ce-qui-reste-apres-nous-planche-178
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

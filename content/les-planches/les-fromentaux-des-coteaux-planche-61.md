@@ -3,7 +3,6 @@ Date: 2017-06-27 18:11:00
 Modified: 2017-06-27 18:11:00
 Slug: les-fromentaux-des-coteaux-planche-61
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

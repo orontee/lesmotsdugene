@@ -3,7 +3,6 @@ Date: 2016-05-23 18:05:09
 Modified: 2016-05-23 18:05:09
 Slug: au-fond-du-puits-planche-180
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

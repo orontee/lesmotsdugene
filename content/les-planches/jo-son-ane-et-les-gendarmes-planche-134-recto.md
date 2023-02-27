@@ -3,7 +3,6 @@ Date: 2017-01-30 15:45:57
 Modified: 2017-01-30 15:45:57
 Slug: jo-son-ane-et-les-gendarmes-planche-134-recto
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

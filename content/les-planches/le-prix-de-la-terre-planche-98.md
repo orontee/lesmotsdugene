@@ -3,7 +3,6 @@ Date: 2016-07-04 16:18:48
 Modified: 2016-07-04 16:18:48
 Slug: le-prix-de-la-terre-planche-98
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

@@ -3,7 +3,6 @@ Date: 2016-12-30 14:52:43
 Modified: 2016-12-30 14:52:43
 Slug: le-poupon-dauphinois-s-accroche-planche-21
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

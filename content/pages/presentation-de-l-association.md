@@ -3,7 +3,6 @@ Date: 2015-12-14 17:37:00
 Modified: 2015-12-14 17:58:39
 Slug: presentation-de-l-association
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

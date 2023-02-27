@@ -3,7 +3,6 @@ Date: 2016-09-28 15:25:40
 Modified: 2016-09-28 15:25:40
 Slug: le-tavelo-planche-166
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

@@ -3,7 +3,6 @@ Date: 2017-12-06 17:28:08
 Modified: 2017-12-06 17:28:48
 Slug: a-la-chasse-planches-118-et-en-rappel-planche-117
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

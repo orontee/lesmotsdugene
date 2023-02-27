@@ -25,7 +25,6 @@ Date: {date}
 Modified: {modified}
 Slug: {slug}
 Summary: {summary}
-Author: {author}
 Lang: fr
 Status: published
 """
@@ -202,10 +201,6 @@ if __name__ == "__main__":
             "slug": slug,
             "summary": a["descriptif"],
         }
-        if a["id_rubrique"] == 4:
-            context["author"] = "Brigitte Baret"
-        else:
-            context["author"] = None
 
         if a["id_rubrique"] == 2:
             if slug not in ("presentation-de-l-association",):
@@ -216,7 +211,10 @@ if __name__ == "__main__":
         page = ARTICLE_TEMPLATE.format(**context)
 
         if slug == "eugene-vicat-dit-le-gene":
-            page += "save_as: index.html"
+            page += "save_as: index.html\n"
+
+        if a["id_rubrique"] == 4:
+            page += "Author: Brigitte Baret\n"
 
         page += f"\n{text}\n"
 

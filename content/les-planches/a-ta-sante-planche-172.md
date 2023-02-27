@@ -3,7 +3,6 @@ Date: 2017-12-06 17:41:08
 Modified: 2018-02-09 15:37:19
 Slug: a-ta-sante-planche-172
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

@@ -65,6 +65,10 @@ h1 a:hover {
     background-color: inherit
 }
 
+.author.vcard {
+    margin-bottom: 2em;
+}
+
 /* Paragraphs */
 div.line-block,
 p { margin-top: 1em;

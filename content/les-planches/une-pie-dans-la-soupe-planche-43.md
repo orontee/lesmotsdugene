@@ -3,7 +3,6 @@ Date: 2017-05-30 16:22:28
 Modified: 2017-05-30 16:22:28
 Slug: une-pie-dans-la-soupe-planche-43
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

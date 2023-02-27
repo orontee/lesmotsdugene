@@ -3,7 +3,6 @@ Date: 2017-03-29 18:32:56
 Modified: 2017-03-29 18:32:56
 Slug: rayonne-comme-le-soleil-planche-68
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

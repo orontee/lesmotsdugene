@@ -3,7 +3,6 @@ Date: 2016-12-30 14:56:14
 Modified: 2016-12-30 14:56:14
 Slug: les-riches-et-les-politiciens-planche-170
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

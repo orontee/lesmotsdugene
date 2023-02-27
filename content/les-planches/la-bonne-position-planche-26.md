@@ -3,7 +3,6 @@ Date: 2017-03-01 16:34:41
 Modified: 2017-03-06 16:48:56
 Slug: la-bonne-position-planche-26
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

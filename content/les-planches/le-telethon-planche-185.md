@@ -3,7 +3,6 @@ Date: 2016-11-28 10:45:07
 Modified: 2016-11-28 10:45:07
 Slug: le-telethon-planche-185
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

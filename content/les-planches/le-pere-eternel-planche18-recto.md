@@ -3,7 +3,6 @@ Date: 2017-12-06 15:53:51
 Modified: 2017-12-06 16:05:17
 Slug: le-pere-eternel-planche18-recto
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

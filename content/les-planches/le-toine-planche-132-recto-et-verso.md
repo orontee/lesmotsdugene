@@ -3,7 +3,6 @@ Date: 2017-05-01 10:38:53
 Modified: 2017-05-01 10:38:53
 Slug: le-toine-planche-132-recto-et-verso
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

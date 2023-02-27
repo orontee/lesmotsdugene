@@ -3,7 +3,6 @@ Date: 2017-03-29 18:28:31
 Modified: 2017-03-29 18:28:31
 Slug: mon-couteau-planche-160
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

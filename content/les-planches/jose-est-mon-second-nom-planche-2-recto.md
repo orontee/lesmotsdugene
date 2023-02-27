@@ -3,7 +3,6 @@ Date: 2015-11-18 17:27:12
 Modified: 2016-01-20 16:04:24
 Slug: jose-est-mon-second-nom-planche-2-recto
 Summary: jozé i mon segon nom  ?
-Author: None
 Lang: fr
 Status: published
 

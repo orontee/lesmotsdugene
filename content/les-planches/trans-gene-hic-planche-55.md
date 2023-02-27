@@ -3,7 +3,6 @@ Date: 2016-05-23 17:48:18
 Modified: 2016-05-23 17:48:18
 Slug: trans-gene-hic-planche-55
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

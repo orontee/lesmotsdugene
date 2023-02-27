@@ -3,7 +3,6 @@ Date: 2016-11-28 10:23:35
 Modified: 2016-11-28 10:23:35
 Slug: petites-maximes-des-chambarans-planche-30
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

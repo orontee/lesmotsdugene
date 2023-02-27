@@ -3,7 +3,6 @@ Date: 2016-05-23 18:22:54
 Modified: 2019-07-25 14:04:26
 Slug: les-betises-planche-2-verso
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

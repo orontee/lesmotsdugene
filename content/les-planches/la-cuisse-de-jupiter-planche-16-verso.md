@@ -3,7 +3,6 @@ Date: 2016-07-04 16:44:04
 Modified: 2016-07-04 16:44:04
 Slug: la-cuisse-de-jupiter-planche-16-verso
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

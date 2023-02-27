@@ -3,7 +3,6 @@ Date: 2016-12-30 14:54:39
 Modified: 2016-12-30 14:54:39
 Slug: lou-zane-que-non-jame-ren-fa-planche-56
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

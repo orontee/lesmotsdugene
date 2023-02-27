@@ -3,7 +3,6 @@ Date: 2016-03-16 16:01:11
 Modified: 2016-03-16 16:01:11
 Slug: pour-bien-voir-regarde-a-cote-planche-155
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

@@ -3,7 +3,6 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:40:42
 Slug: plutot-le-cheval-que-moi-planche-42
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

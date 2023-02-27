@@ -3,7 +3,6 @@ Date: 2016-07-04 16:57:14
 Modified: 2016-07-04 16:57:14
 Slug: pompette-comme-un-pompier-planche-110
 Summary: 
-Author: None
 Lang: fr
 Status: published
 

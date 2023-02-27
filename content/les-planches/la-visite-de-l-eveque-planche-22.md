@@ -3,7 +3,6 @@ Date: 2016-01-28 15:14:29
 Modified: 2016-01-28 15:14:29
 Slug: la-visite-de-l-eveque-planche-22
 Summary: 
-Author: None
 Lang: fr
 Status: published
 
