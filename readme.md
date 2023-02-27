@@ -18,4 +18,9 @@ $ source env/bin/activate
 (env)$ pelican --listen
 ```
 
-Ensuite consulter l'adresse [](http://127.0.0.1:8000).
+Ensuite consulter l'adresse [http://127.0.0.1:8000](http://127.0.0.1:8000).
+
+## Notes
+
+* Le thème est dérivé du thème par défaut de
+  [Pelican](https://github.com/getpelican/pelican).
