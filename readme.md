@@ -14,11 +14,22 @@ Dans un terminal, exécuter les commandes suivantes :
 $ python3 -m venv env
 $ source env/bin/activate
 (env)$ python -m pip install -r requirements.txt
-(env)$ pelican content
-(env)$ pelican --listen
+(env)$ invoke reserve
 ```
 
 Ensuite consulter l'adresse [http://127.0.0.1:8000](http://127.0.0.1:8000).
+
+## Publication
+
+Après avoir configuré [l'interface de ligne de
+commande](https://aws.amazon.com/fr/cli/) :
+
+```
+$ make s3_upload
+```
+
+Le site est consultable à l'adresse
+http://lesmotsdugene-test.s3-website.eu-west-3.amazonaws.com/.
 
 ## Notes
 
