@@ -25,3 +25,15 @@ Cette planche fait partie des dernières réalisées. L'idée est venue à Eugè
 C'est la mère d'Eugène qui prononçait souvent cette phrase : " Il y en a toujours pour trouver que le pain a trop de farine ! ".
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_174.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_174debut.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_174fin.mp4" type="video/mp4">
+</video>

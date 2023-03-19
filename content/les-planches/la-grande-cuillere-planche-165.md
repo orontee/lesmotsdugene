@@ -55,3 +55,11 @@ Dans le premier texte, un " paillé " est une meule de paille.
 C'est la forme de la planche qui a inspiré Eugène pour ces petits textes ainsi que le désir de conserver comme sur la plupart des planches, certaines expressions et mots en patois.
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_165.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_165bis.mp4" type="video/mp4">
+</video>

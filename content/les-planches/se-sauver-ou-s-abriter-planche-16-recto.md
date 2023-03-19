@@ -28,3 +28,7 @@ Pour échapper aux temps mauvais, il te faut avoir la foi, du toupet ou de grand
 <p style="text-align:justify;">Cette maxime pleine de bon sens permet à Eugène de graver les deux termes "l'ourri" et "l'assoute" qui signifient tout deux "l'abri" mais chacun dans des circonstances différentes. C'est en même temps une réflexion personnelle qui interroge sur un choix philosophique fondamental.</p>
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_16.mp4" type="video/mp4">
+</video>

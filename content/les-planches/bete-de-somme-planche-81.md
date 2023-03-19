@@ -32,3 +32,7 @@ Le Gène
 <p style="text-align:justify;">Cette planche permet de noter pour les sauvegarder tous ces termes techniques en patois. Les "joucles" sont des courroies en cuir, la "mène" une autre courroie tressée qui passe par le trou du joug, le "mènon" un morceau de bois qui sert à nouer la "mène". L'ensemble tient les "cordeu" qui sont également des boucles qui elles-mêmes tiennent "l'ételle" à laquelle est attachée le "targuillon", une grosse chaîne qui tire le "coutrier", c'est à dire la charrue.
 Tout cela pour atteler le pauvre Joseph devant sa charrue !       </p>
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_81.mp4" type="video/mp4">
+</video>

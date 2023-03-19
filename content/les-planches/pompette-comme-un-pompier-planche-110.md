@@ -38,3 +38,7 @@ Le Gène
 ## Commentaire
 <p style=text-align:justify;">Eugène nous conte une anecdote qui s'est réellement déroulée. On imagine bien, grâce aux dessins, la stupeur et la confusion de la "Marie", découvrant un pompier ivre mort à la place du petit veau attendu.
 Eugène choisit souvent des prénoms très courants comme Marie ici (ou Joseph ailleurs par exemple) pour ne pas dévoiler l'identité de la personne concernée.</p>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_110.mp4" type="video/mp4">
+</video>

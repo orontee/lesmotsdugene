@@ -32,3 +32,7 @@ Le Gène
 
 ## Commentaire
 Ce petit dialogue a été rapporté à Eugène par sa mère qui l'avait entendu lorsqu'elle était petite. La cruche derrière Joseph est censée récupérer l'huile des noix !
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_50.mp4" type="video/mp4">
+</video>

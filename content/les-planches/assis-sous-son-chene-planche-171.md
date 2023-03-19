@@ -35,3 +35,7 @@ Un voisin d'Eugène qui soufrait d'emphysème, passait beaucoup de temps assis, 
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_171-2.mp4" type="video/mp4">
+</video>

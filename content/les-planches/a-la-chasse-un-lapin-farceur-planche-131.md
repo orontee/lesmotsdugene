@@ -31,3 +31,7 @@ La "Caraborne" est un trou profond dans le tronc d'un châtaignier que les lapin
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_131.mp4" type="video/mp4">
+</video>

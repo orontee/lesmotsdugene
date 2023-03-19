@@ -45,3 +45,11 @@ Le bon sens étant parfois, d'après Eugène, une qualité trop peu répandue,  
  L'"ême" est un mot de patois qui signifie "le bon sens", "la sagesse".
  Eugène s'amuse en signant cette face double !
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_60.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_60bis.mp4" type="video/mp4">
+</video>

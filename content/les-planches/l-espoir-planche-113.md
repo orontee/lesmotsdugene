@@ -35,3 +35,7 @@ Le Gène
 ## Commentaire
 Réflexion désabusée à propos de la vie des petits paysans qui travaillent sans répit, se privent et s'endettent toujours plus dans l'espoir d'une vie meilleure... jamais gagnée. Les conseilleurs qui sont rarement les payeurs présentent toujours les investissements comme des perspectives d'enrichissement. Promesses le plus souvent déçues.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_113.mp4" type="video/mp4">
+</video>

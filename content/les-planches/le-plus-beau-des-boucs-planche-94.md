@@ -24,3 +24,7 @@ Le Gène
 ## Commentaire
 Pour Eugène, cette observation s'applique bien sûr aux hommes et aux femmes tout autant qu'aux caprins.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_94.mp4" type="video/mp4">
+</video>

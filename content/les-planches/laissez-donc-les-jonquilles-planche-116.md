@@ -25,3 +25,7 @@ Le Gène
 ## Commentaire
 Petite planche placée en bordure du champ pour essayer de décourager les promeneurs qui cueillent les jonquilles qui ornent, de part et d'autre, grâce à Eugène le chemin des Bouilleaux.
 Les "cornards" sont les "cocus" auxquels est habituellement associée la couleur jaune.
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_116.mp4" type="video/mp4">
+</video>

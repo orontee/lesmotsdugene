@@ -35,3 +35,7 @@ Ce texte reproduit un petit dialogue plusieurs fois répété, avec l'un des voi
 "Fo sié pe n’émouchillé  ién" (il faudra être 6 pour écarter les mouches) était une phrase souvent utilisée pour commenter le temps.  </p>
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_158.mp4" type="video/mp4">
+</video>

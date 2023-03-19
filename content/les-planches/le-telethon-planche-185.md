@@ -31,3 +31,7 @@ Cette planche a été présentée à Viriville lors d'un exposition des travaux 
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_185.mp4" type="video/mp4">
+</video>

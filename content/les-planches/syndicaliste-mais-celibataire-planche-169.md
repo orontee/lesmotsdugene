@@ -24,3 +24,7 @@ Avec TON SYNDICAT, si tu étais marié, tu ne pourrais pas courir comme ça !   
 
 ## Commentaire
 <p style="text-align:justify;">Les responsabilités d'Eugène au sein du syndicat agricole et du conseil municipal de Viriville le retenaient très souvent hors de chez lui où il vivait avec sa mère. La réflexion d'un de ses amis à ce propos, lui a inspiré cette planche et ce jeu de mots entre les homophones "mère" et "mer".</p>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_169.mp4" type="video/mp4">
+</video>

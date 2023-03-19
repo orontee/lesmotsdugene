@@ -24,3 +24,7 @@ Le Gène
 ## Commentaire
 Dicton reprenant une connaissance empirique des fluctuations du temps dans les Chambarans. Eugène extrapole pour le mettre en parallèle avec la météo des relations amoureuses.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_141.mp4" type="video/mp4">
+</video>

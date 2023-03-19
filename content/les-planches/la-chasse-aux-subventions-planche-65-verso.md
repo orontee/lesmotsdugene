@@ -25,3 +25,7 @@ Oh !  M. le Maire, pour faire tous ces travaux, tu as bien su aller quérir les 
 <p style="text-align:justify;">Eugène a été longtemps conseiller municipal à Viriville. Il nous donne là, à sa façon, la recette d'une tactique sans doute bien rodée pour obtenir des subventions pour la commune.</p>
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_65bis.mp4" type="video/mp4">
+</video>

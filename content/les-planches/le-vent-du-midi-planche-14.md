@@ -28,3 +28,7 @@ Quand le vent chaud du midi a soufflé durant trois jours, à la bise cela tremp
 Cette planche, comme quelques autres, énonce les connaissances empiriques des habitants des Chambarans à propos de la météorologie locale.
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_14.mp4" type="video/mp4">
+</video>

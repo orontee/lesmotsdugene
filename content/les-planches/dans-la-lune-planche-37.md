@@ -26,3 +26,7 @@ Le Gène
 ## Commentaire
 Ce texte date des premiers pas de l'homme sur la lune en 1969. Cette phrase fut prononcée par un des voisins d'Eugène venu l'aider pour la construction de sa stabulation.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_37.mp4" type="video/mp4">
+</video>

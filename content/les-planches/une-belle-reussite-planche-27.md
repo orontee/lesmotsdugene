@@ -26,3 +26,7 @@ Le Gène
 ## Commentaire
 Ce dialogue est une réponse à un agriculteur fier de sa réussite mais qui avait eu la chance au départ, d'hériter d'une belle ferme déjà bien installée.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_27.mp4" type="video/mp4">
+</video>

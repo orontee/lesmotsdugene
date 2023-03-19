@@ -45,3 +45,7 @@ Le Gène
 <p style="text-align:justify;">Expressions courantes et sage observation que l'on peut bien sûr généraliser mais également interpréter plus restrictivement dans un contexte de séduction amoureuse.
 "Faut pas être une poire !" équivaut à  "Il faut être un peu malin et pas trop naïf !".</p>
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_168.mp4" type="video/mp4">
+</video>

@@ -39,3 +39,7 @@ Le "patron des mal-habillés " est le soleil.
 Cette planche reprend un des dictons des Chambarans permettant de prévoir empiriquement le temps.
 Plus sobrement : " Si il fait soleil en janvier mais froid en février, alors le printemps sera tardif "
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_84.mp4" type="video/mp4">
+</video>

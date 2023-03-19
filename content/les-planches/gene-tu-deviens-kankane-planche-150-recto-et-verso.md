@@ -39,3 +39,11 @@ Eugène s'est amusé avec la consonance des mots en les inscrivant pour qu'ils n
 - Une "kankane" est une personne cancanière, médisante.
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_150.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_150bis.mp4" type="video/mp4">
+</video>

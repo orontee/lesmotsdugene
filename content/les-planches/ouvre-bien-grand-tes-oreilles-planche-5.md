@@ -33,3 +33,7 @@ Cette planche a été donnée telle quelle à Eugène. C'est sa forme si particu
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_5.mp4" type="video/mp4">
+</video>

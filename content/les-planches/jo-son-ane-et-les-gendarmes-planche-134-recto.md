@@ -37,3 +37,7 @@ Le Gène
 Eugène relate ici une anecdote vécue telle qu'elle lui a été racontée.
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_134.mp4" type="video/mp4">
+</video>

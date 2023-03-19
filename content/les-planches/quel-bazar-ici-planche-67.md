@@ -26,3 +26,7 @@ Chez lui, il y a un de ces bazars ! Il y a quinze jours qu'il n'a pas balayé sa
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_67.mp4" type="video/mp4">
+</video>

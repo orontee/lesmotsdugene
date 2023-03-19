@@ -54,3 +54,11 @@ Le "trop" qui pourrit est l'argent, bien entendu.
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_1bis.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_1_recto.mp4" type="video/mp4">
+</video>

@@ -34,3 +34,7 @@ Le Gène
 
 ## Commentaire
 Réflexion entendue et reproduite telle quelle par Eugène.
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_58-2.mp4" type="video/mp4">
+</video>

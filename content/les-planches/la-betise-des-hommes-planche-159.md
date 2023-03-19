@@ -53,3 +53,11 @@ Le pléonasme "bois d'arbre" était souvent utilisé pour décrire de façon amu
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_159recto.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_159verso.mp4" type="video/mp4">
+</video>

@@ -39,3 +39,7 @@ un CANON
  Cette planche très particulière est l'une des premières réalisées par Eugène.
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_127-2.mp4" type="video/mp4">
+</video>

@@ -35,3 +35,7 @@ Le Gène
 <p style="text-align:justify;">Jeu entre les deux mots paronymes "grand sifflet" et "grand soufflet".
 
 Au cours d'un travail de "batteuse", des amis d'Eugène avaient pour plaisanter, remplacé le lien habituel de la gerbe de blé par du fil de fer. Un "ancien", surpris en essayant de le couper, se mit en colère et s'en prit à Eugène qui n'y était pour rien. Les termes de cette invective injuste, Eugène en sourit encore, comme s'ils avaient été prononcés hier.</p>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_167.mp4" type="video/mp4">
+</video>

@@ -226,9 +226,6 @@ if __name__ == "__main__":
                     continue
 
                 source_path = Path("content/" + doc["path"])
-                if not source_path.exists():
-                    continue
-
                 path = "{static}/" + doc["path"]
                 page += VIDEO_TEMPLATE.format(path=path)
 

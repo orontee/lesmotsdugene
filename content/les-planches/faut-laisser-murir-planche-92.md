@@ -28,3 +28,7 @@ Le Gène
 ## Commentaire
 <p style="text-align:justify;">Cette planche fait partie des toutes premières gravées par Eugène dans les années 80. L'écriture sur le bois manquait un peu d'assurance et le texte était la retranscription exacte des phrases en patois entendues autrefois, sans apport personnel. Eugène n'osait pas encore y inclure des dessins.</p>
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_92.mp4" type="video/mp4">
+</video>

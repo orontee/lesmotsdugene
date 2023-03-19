@@ -22,3 +22,7 @@ Charbonnier était le surnom donné à un M. Charpenay, au physique très reconn
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_39-3.mp4" type="video/mp4">
+</video>

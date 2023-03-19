@@ -27,3 +27,7 @@ La vérité, cela soulage de la dire mais cela ne fait pas toujours plaisir de l
 </figure>
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_88.mp4" type="video/mp4">
+</video>

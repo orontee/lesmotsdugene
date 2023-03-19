@@ -43,3 +43,7 @@ Eugène a pris plaisir ici à graver de belles majuscules cursives, comme il aim
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_173.mp4" type="video/mp4">
+</video>

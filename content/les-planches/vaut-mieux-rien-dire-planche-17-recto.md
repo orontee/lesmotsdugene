@@ -47,3 +47,7 @@ Il est conseillé alors de prendre une grande fourchette pour ne pas avoir à s'
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_17.mp4" type="video/mp4">
+</video>

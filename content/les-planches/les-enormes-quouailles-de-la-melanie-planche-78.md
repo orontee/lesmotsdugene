@@ -30,3 +30,7 @@ Le Gène
 ## Commentaire
 "Quouaille" est un terme local péjoratif qui signifie "petites, ratatinées, rabougries ". Réflexion d'un habitant de Marnans, ami d'Eugène et bien connu pour son imagination, son sens de la répartie et de l'hyperbole.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_78.mp4" type="video/mp4">
+</video>

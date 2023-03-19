@@ -34,3 +34,7 @@ Le premier précepte ne s'applique pas qu'à la nourriture et le deuxième conce
 Le verbe "galocher" vient bien sûr du mot "galoches", chaussures à semelles de bois. Il signifie : "lever le pied et montrer le bout de ses galoches pour tenir un animal en respect".
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_137.mp4" type="video/mp4">
+</video>

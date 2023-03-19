@@ -44,3 +44,7 @@ Le quatrièmement fait bien sûr référence à la sexualité.
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_71.mp4" type="video/mp4">
+</video>

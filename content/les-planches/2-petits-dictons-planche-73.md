@@ -31,3 +31,7 @@ Le Gène
 ## Commentaire
 La première phrase est un dicton qui signifie que les gens qui se plaignent beaucoup ne sont pas forcément autant en danger qu'ils le croient et/ou le disent. On pouvait dire dans les mêmes circonstances : "Ça lui passera ! " ou "Ce n'est pas si grave ! ".
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_73.mp4" type="video/mp4">
+</video>

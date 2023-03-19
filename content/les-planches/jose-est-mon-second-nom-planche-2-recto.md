@@ -31,3 +31,7 @@ Réflexion ironique et malicieuse d'Eugène sur lui-même et son travail.
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_2.mp4" type="video/mp4">
+</video>

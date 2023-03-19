@@ -25,3 +25,7 @@ Quand les temps sont durs, les pauvres bêtes se sauvent par les bois et filent 
 ## Commentaire
 Il s'agit bien sûr d'une métaphore qui évoque essentiellement dans l'esprit d'Eugène, la période de l'occupation lors de la seconde guerre mondiale et les profiteurs de guerre.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_66.mp4" type="video/mp4">
+</video>

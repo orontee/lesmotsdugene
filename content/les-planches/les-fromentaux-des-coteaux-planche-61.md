@@ -38,3 +38,11 @@ Le Gène
 ## Commentaire
 <p style="text-align:justify;">Les "fromentaux" sont des champs de blé; les "Chèvres-mottes", des sauterelles.
 Dans ces dialogues savoureux, aux assertions pleines de sérieux et de fierté répondent des assertions moqueuses sous forme d'images hyperboliques.</p>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_61debut_avec_com.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_61fin_ok.mp4" type="video/mp4">
+</video>

@@ -39,3 +39,7 @@ Toutes ces expressions courantes sont un jeu à partir de la forme de la planche
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_16bis.mp4" type="video/mp4">
+</video>

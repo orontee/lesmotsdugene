@@ -29,3 +29,7 @@ Méfies-toi : fraisiers  "Trans" - "Gène" - "Hic"
 <p style="text-align:justify;">Jeu de mots avec le prénom "Gène" et le mot "transgénique".
 Eugène avait accroché cette petite planche au dessus des fraises qu'il avait replantées au bord de son chemin, pour essayer avec humour, de décourager les cueilleurs trop gourmands.
 Ces fraises provenaient au départ d'une petite variété sauvage qui poussait dans les vignes (les fraises blanches de St Pierre) et qui s'était croisée naturellement avec celle du jardin.</p>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_55-2.mp4" type="video/mp4">
+</video>

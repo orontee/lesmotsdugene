@@ -39,3 +39,7 @@ Re-tour-nez-moi
 ## Commentaire
 Les matefaims sont des petites crêpes assez épaisses.
 Texte ironique inspiré à Eugène lors d'un énième revirement gouvernemental sous la 4ème République.
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_3.mp4" type="video/mp4">
+</video>

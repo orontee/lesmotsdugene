@@ -44,3 +44,7 @@ Cette petite planche, la dernière inventoriée, était bien cachée, oubliée d
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_186.mp4" type="video/mp4">
+</video>

@@ -27,3 +27,7 @@ Réflexion entendue et retenue lors d'un travail en groupe. Les pigeons représe
   <figcaption style="max-width: 380px"></figcaption>
 </figure>
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_147.mp4" type="video/mp4">
+</video>

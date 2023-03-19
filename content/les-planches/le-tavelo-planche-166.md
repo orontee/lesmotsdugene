@@ -27,3 +27,7 @@ Le Gène
 ## Commentaire
 Jeu de mots en patois entre "Tàvelle" équivalent de "Je-m'en-foutiste" et "Tavelo" qui correspond à une petite entrave en bois comme celle qu'Eugène a suspendue sous cette planche en forme de tête.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_166.mp4" type="video/mp4">
+</video>

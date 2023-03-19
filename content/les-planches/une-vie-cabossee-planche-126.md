@@ -31,3 +31,7 @@ Le Gène
 Ici, c'est le clairon qui s'exprime.
 Comme pour d'autres planches, le texte est inspiré par l'instrument déniché dans cet état dans une brocante.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_126.mp4" type="video/mp4">
+</video>

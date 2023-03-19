@@ -39,3 +39,11 @@ Le Gène
 ## Commentaire
 <p style="text-align:justify;">Le "Pirôte" est un lieu-dit pierreux. Comme sur d'autres planches, celle-ci reprend l'anecdote ou "galéjade" rapportée par un voisin et ami, "raconteur d'histoires" de Marnans, bien connu pour son aptitude à l'extrapolation.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_45.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_45fin_avec_commentaire-2.mp4" type="video/mp4">
+</video>

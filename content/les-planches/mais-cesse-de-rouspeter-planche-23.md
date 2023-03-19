@@ -36,3 +36,7 @@ Anecdote entendue au cours d'une "batteuse" ou d'une "mondée". Il y est questio
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_23-2.mp4" type="video/mp4">
+</video>

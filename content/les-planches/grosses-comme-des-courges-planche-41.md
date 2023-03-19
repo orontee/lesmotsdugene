@@ -39,3 +39,7 @@ Le premier texte est la reprise d'une galéjade lancée par un personnage sympat
 Le deuxième texte signifie : " Si tu te retournes sans cesse sur tes problèmes pour évaluer comment tu te sens, tu vas finir par vraiment tomber malade".
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_41.mp4" type="video/mp4">
+</video>

@@ -32,3 +32,7 @@ C'est une "brave femme" de sa connaissance qui a inspiré à Eugène cette maxim
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_4.mp4" type="video/mp4">
+</video>

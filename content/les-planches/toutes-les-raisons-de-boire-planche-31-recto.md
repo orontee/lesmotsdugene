@@ -28,3 +28,7 @@ Le Gène
  Cette petite énumération édifiante a été rapportée à Eugène par un voisin originaire de Bourgogne. Les dernières raisons sont pleines de malicieux sous-entendus.
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_31.mp4" type="video/mp4">
+</video>

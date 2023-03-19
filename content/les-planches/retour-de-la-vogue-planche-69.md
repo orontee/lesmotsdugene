@@ -46,3 +46,11 @@ Eugène a retranscrit ces deux dialogues tels qu'ils ont étè échangés.
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_69debut.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_69fin.mp4" type="video/mp4">
+</video>

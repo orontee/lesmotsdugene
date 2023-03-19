@@ -54,3 +54,19 @@ Le Gène
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_153_h1_h2_h3-2.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_153_h4-2.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_153_h5_h6-2.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_153_h7-2.mp4" type="video/mp4">
+</video>

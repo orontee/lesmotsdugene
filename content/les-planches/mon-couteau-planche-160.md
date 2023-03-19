@@ -31,3 +31,7 @@ Le "chàtre-moryé" qui signifie littéralement "châtre-grillon" était un term
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_160.mp4" type="video/mp4">
+</video>

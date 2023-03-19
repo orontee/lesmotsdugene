@@ -26,3 +26,7 @@ Tu peux boire tant que tu veux mais ne va pas te cogner contre le sorbier !
 Souvent les noms des arbres fruitiers sont féminins en patois des Chambarans :  La "sorbière", la "cerisière", la "chataignière", l'"alizière" etc...
 Le mot "Pôkâ" correspond aux coups donnés par les vaches avec leurs cornes.</p>
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_179.mp4" type="video/mp4">
+</video>

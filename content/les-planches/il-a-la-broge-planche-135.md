@@ -26,3 +26,7 @@ La "broge" signifie avoir la tête ailleurs, avoir des soucis.
 Le "javanais" symbolisait un langage étranger incompréhensible et le "Javanère" est, en conséquence, le pays des inventions un peu folles et d'une imagination débridée.
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_135-2.mp4" type="video/mp4">
+</video>

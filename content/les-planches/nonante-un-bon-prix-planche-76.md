@@ -52,3 +52,11 @@ Un "russe" fait allusion aux emprunts russes jamais remboursés aux épargnants 
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_76_1ere_partie.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_76_2eme_partie.mp4" type="video/mp4">
+</video>

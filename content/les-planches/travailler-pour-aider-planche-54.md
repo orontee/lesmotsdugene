@@ -27,3 +27,7 @@ Morale pleine de bon sens.
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_54.mp4" type="video/mp4">
+</video>

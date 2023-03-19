@@ -37,3 +37,7 @@ Deux petites sentences, autrefois, souvent énoncées par la mère d'Eugène
 "A la bade" se disait à propos du bétail laissé libre, sans gardien de troupeau.
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_170.mp4" type="video/mp4">
+</video>

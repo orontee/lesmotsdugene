@@ -25,3 +25,7 @@ Le Gène
 
 ## Commentaire
 Il s'agit ici, essentiellement, de graver les noms patois des oiseaux (corneille, pie et geai) pour les sauvegarder.
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_44.mp4" type="video/mp4">
+</video>

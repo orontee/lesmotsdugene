@@ -38,3 +38,7 @@ Le Gène
 ## Commentaire
 <p style="text-align:justify;">Sur cette planche, Eugène évoque là une réaction humaine qu'il a eu l'occasion d'observer dans son entourage à plusieurs reprises : si un notable du village, fier de sa réussite, doit affronter une humiliation (par exemple, une fille engrossée hors mariage ou un fils qui a fait une bêtise) tout le monde se met alors à médire de lui, "à lui casser du sucre sur la tête".</p>
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_46.mp4" type="video/mp4">
+</video>

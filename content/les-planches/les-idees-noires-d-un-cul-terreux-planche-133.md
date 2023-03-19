@@ -40,3 +40,7 @@ La dernière phrase écrite en plus petits caractères complète la signature.
 Une personne qui a "La broge" reste repliée sur elle-même, de mauvaise humeur, pensive, mélancolique et brassant des idées noires.
 La "niar" signifie un peu la même chose mais avec la notion de colère et de révolte en plus. </p>
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_133.mp4" type="video/mp4">
+</video>

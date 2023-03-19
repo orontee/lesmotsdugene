@@ -27,3 +27,7 @@ Avec la sécheresse, l'eau est un bien rare et précieux.
 Quant au "canton de Montrou", tracé à côté du trou dans le bois, il s'agit d'une plaisanterie évoquant la partie du corps concernée par l'instrument...</p>
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_123.mp4" type="video/mp4">
+</video>

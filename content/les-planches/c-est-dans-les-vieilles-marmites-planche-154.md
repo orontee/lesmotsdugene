@@ -51,3 +51,7 @@ Cette planche est une des premières réalisées par Eugène. L'écriture ainsi 
 </figure>
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_154.mp4" type="video/mp4">
+</video>

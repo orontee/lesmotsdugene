@@ -27,3 +27,7 @@ Ce dicton signifie : "Tu pourrais encore être étonné", "Tu n'as encore rien v
   <figcaption style="max-width: 340px">Le loup qui pète sur la pierre de bois</figcaption>
 </figure>
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_40_2_-2.mp4" type="video/mp4">
+</video>

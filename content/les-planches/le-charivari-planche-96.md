@@ -28,3 +28,7 @@ Le "charivari" consistait à faire du bruit en tapant sur des casseroles quand q
 Eugène s'amuse avec la musicalité des mots "bôje en bòche" (la ruche en paille).
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_96.mp4" type="video/mp4">
+</video>

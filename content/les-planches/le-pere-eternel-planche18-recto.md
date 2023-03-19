@@ -27,3 +27,11 @@ Sans commentaire.
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_18_1ere_partie.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_18_2eme_partie.mp4" type="video/mp4">
+</video>

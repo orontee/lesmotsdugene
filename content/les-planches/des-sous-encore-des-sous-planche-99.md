@@ -41,3 +41,11 @@ Le Gène
 -  La deuxième petite phrase était souvent énoncée lorsque les gens s'étonnaient de voir une jolie fille accompagner un homme laid ou plus vieux qu'elle.</p>
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_99.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_99_bis.mp4" type="video/mp4">
+</video>

@@ -46,3 +46,7 @@ Une breloque est un petit bijou de peu de prix qu'on attache aux chaînes de mon
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_114.mp4" type="video/mp4">
+</video>

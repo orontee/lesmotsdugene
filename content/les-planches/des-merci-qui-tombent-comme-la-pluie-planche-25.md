@@ -33,3 +33,11 @@ La deuxième phrase s’énonçait et se répétait couramment pour s'encourager
 Eugène joue sur la similitude des mots "Plu" et "Plô" à la fin de chacun des deux textes.</p>
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_25.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_25_2eme_partie.mp4" type="video/mp4">
+</video>

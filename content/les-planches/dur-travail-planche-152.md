@@ -54,3 +54,23 @@ Longue planche horizontale en bois sombre qui comporte huit textes les uns à c�
 8.	Un "sublet" était  un sifflet. Lorsque le mari siffle c'est qu'il est heureux car sa femme attend un enfant.
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_152t1_et_t2.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_152t3_et_t4.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_152t5_et_t6.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_152t7.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_152t8_.mp4" type="video/mp4">
+</video>

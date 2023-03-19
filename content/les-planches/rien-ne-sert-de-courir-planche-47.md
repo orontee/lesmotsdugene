@@ -38,3 +38,7 @@ Le premier texte a été inspiré à Eugène par un visiteur de Faramans. Il ét
 Le second, est une réflexion ironique sur les réactions des citadins à la campagne au moment de la crise de la vache folle. Eugène a repris là, une litanie que répétait souvent sa mère. (Cf planche 174)</p>
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_47.mp4" type="video/mp4">
+</video>

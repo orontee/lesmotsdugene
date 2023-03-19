@@ -27,3 +27,7 @@ Status: published
 Il faut, bien sûr, rapporter la première fable aux personnes : il y a ceux qui ont une bonne situation et profitent du confort et ceux qui travaillent dur, mais parfois se rebellent...
 Dans le second texte, Eugène s'amuse de la mauvaise foi d'un chasseur maladroit.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_65.mp4" type="video/mp4">
+</video>

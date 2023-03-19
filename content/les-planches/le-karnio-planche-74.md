@@ -29,3 +29,7 @@ Le Gène
 
 Un "karnio" est un habitant des coteaux des Chambarans. Ils avaient la réputation d'être tellement pauvres qu'ils ne pouvaient se nourrir que de fruits secs, les fruits faisant partie des bons produits de l'agriculture vivrière des Chambarans. Une fois séchés, les fruits pouvaient ainsi servir, selon les médisants, d'aliments principaux, toute l'année.
 C'est lui-même à  20 ans qu'Eugène décrit ainsi.
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_74.mp4" type="video/mp4">
+</video>

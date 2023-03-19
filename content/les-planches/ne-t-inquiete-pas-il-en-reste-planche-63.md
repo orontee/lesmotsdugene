@@ -37,3 +37,7 @@ Eugène avait réalisé cette planche pour une exposition animale à l'occasion 
   <figcaption style="max-width: 320px">les vaches et les veaux en alpages</figcaption>
 </figure>
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_63.mp4" type="video/mp4">
+</video>

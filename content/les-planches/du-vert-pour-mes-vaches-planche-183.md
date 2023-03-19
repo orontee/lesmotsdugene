@@ -27,3 +27,7 @@ Le Gène
 <p style="text-align:justify;">Cette planche reprend une plaisanterie souvent entendue lorsque la sécheresse menaçait les vaches "d'ennui" (!), faute de trouver assez d'herbe à brouter. Il se trouvait alors toujours quelqu'un pour proposer de leur donner un journal à lire pour les occuper...  Eugène a amélioré la proposition en rajoutant la couleur verte pour pouvoir mieux les abuser.</p>
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_183.mp4" type="video/mp4">
+</video>

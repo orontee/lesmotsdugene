@@ -44,3 +44,7 @@ Status: published
 
 - "L'andain" est une bande continue de fourrage laissée sur le sol après la fauche.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_115.mp4" type="video/mp4">
+</video>

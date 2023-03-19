@@ -28,3 +28,7 @@ Le Gène
 <p style="text-align:justify;">Le dessin du grand diable a été dessiné avec l'aide d'une amie artiste, Emmanuelle Barret. Cette planche, comme plusieurs autres, permet à Eugène d'exposer quelques uns de ses vieux outils. Le texte s'en inspire et s'en amuse. Sacré diable qui vous pousse sans cesse à travailler !!!</p>
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_122.mp4" type="video/mp4">
+</video>

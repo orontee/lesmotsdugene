@@ -27,3 +27,7 @@ Le Gène
 Une "jointe" correspond à une demi-journée de travail pour une bête de somme.
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_20.mp4" type="video/mp4">
+</video>

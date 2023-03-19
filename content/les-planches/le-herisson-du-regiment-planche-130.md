@@ -25,3 +25,7 @@ Le Gène
 ## Commentaire
 *  "L'euressonà" signifie "hérisson" et désigne le porte-monnaie que l'on a du mal à sortir sans douleur de sa poche !
 Les "officiers" et Les "caporaux" sont ici les billets de banque et les "simples soldats", les pièces de monnaie.
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_130.mp4" type="video/mp4">
+</video>

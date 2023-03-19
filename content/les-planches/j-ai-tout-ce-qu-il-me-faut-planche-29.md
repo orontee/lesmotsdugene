@@ -31,3 +31,7 @@ Texte teinté d'ironie qui reflète bien les valeurs morales et la sagesse d'Eug
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_29.mp4" type="video/mp4">
+</video>

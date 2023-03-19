@@ -23,3 +23,7 @@ Ho la ! la ! la ! la ! la ! la ! Joseph, ne mets pas d'eau sur mon vin, jette la
 ## Commentaire
 <p style="text-align:justify;">Eugène reprend des phrases lancées avec humour entre convives au cours des repas de "batteuses" qui réunissaient une douzaine de personnes après les travaux partagés.</p>
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_9.mp4" type="video/mp4">
+</video>

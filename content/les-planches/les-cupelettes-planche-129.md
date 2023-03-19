@@ -48,3 +48,11 @@ Les termes "cupeletta" "cûpela" et "debarieula" sont des régionalismes qui per
 L'expression courante "avoir trop chargé la mule" est une métaphore pour désigner un excès de consommation d'alcool.
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_129recto.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_129verso.mp4" type="video/mp4">
+</video>

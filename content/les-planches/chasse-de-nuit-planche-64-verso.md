@@ -38,3 +38,7 @@ Eugène évoque là, un vieil habitant très respecté à Viriville que l'on sur
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_64bis_2.mp4" type="video/mp4">
+</video>

@@ -25,3 +25,7 @@ Tu sais, quand le gouvernement tape sur un tambour pour dire qu'il a donné 100 
 L'argent mentionné ici correspond aux subventions attribuées aux cultivateurs victimes de catastrophes naturelles.
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_139.mp4" type="video/mp4">
+</video>

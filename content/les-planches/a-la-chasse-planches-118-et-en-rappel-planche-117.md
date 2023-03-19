@@ -31,3 +31,11 @@ Toute petite planche horizontale légèrement incurvée qui fait partie d'un bin
 ## Commentaire
 Réponse sarcastique d'Eugène à un chasseur un peu vantard, un peu "viandard" pour s'amuser de la mauvaise foi de certains chasseurs et de leurs outrances.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_117-2.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_118.mp4" type="video/mp4">
+</video>

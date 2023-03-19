@@ -39,3 +39,11 @@ Les engoulevents sont des oiseaux (devenus rares dans les Chambarans) aux cris d
 Une "Piana" est une terre argilo-calcaire très fertile mais très dure à labourer. On ne peut donc que la travailler "piano" (lentement).
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_64debut-2.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_64fin-2.mp4" type="video/mp4">
+</video>

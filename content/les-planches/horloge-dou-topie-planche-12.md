@@ -71,3 +71,7 @@ L'horloge du taupier
 
 ## Historique et contexte
 Le métier de taupier consistait à détruire les taupes dans les propriétés. Il était rémunéré en fonction du nombre de taupes qu'il attrapait. La mère d'Eugène se souvenait avec amusement que le chien du taupier allait régulièrement rechercher les taupes tuées par son maître et jetées dans les buissons. Le taupier pouvait ainsi grandement améliorer ses revenus.
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_12.mp4" type="video/mp4">
+</video>

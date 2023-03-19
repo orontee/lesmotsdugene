@@ -33,3 +33,7 @@ Le Gène
 ## Commentaire
 Eugène a gravé cette planche après la visite chez lui, tôt le matin, d'un petit groupe de jeunes bien éméchés après avoir fait la fête toute la nuit.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_142.mp4" type="video/mp4">
+</video>

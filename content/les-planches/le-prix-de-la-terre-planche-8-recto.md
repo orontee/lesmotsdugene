@@ -31,3 +31,7 @@ N'oublie pas que le Père Eternel te l'a confiée pour la rendre meilleure.
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_8.mp4" type="video/mp4">
+</video>

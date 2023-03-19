@@ -30,3 +30,7 @@ Le Gène
 ## Commentaire
 La forme si particulière de cette planche a induit l'écriture de ces deux expressions très courantes qu'Eugène a rassemblées.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_80.mp4" type="video/mp4">
+</video>

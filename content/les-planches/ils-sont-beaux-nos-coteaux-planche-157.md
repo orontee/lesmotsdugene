@@ -33,3 +33,7 @@ Cette réflexion fataliste avait été rapportée à Eugène par sa mère. C'est
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_157.mp4" type="video/mp4">
+</video>

@@ -25,3 +25,7 @@ Hé ! mon Gène ou Joseph, tu t'es bien mieux souvenu de toutes les bêtises que
 ## Commentaire
 <p style=text-align:justify;">Eugène se moque ici joyeusement de lui-même. Il nous révèle également que le personnage de Joseph ou José, qui apparait fréquemment sur ses planches, n'est autre que lui-même.</p>
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_2bis-2.mp4" type="video/mp4">
+</video>

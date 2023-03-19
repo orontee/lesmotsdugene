@@ -24,3 +24,7 @@ Le Gène
 ## Commentaire
 <p style="text-align:justify;">Cette sentence fut exprimée par un maçon qui apprit à Eugène à construire les murs en pisé et en galets. Son expression favorite était "Milliards de Dieu" que Eugène a remplacé par un autre juron "Misère de foutre" pour ne pas risquer le blasphème !</p>
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_143.mp4" type="video/mp4">
+</video>

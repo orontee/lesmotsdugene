@@ -28,3 +28,7 @@ Le Gène
 Eugène joue sur le double sens du mot "percer".
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_177.mp4" type="video/mp4">
+</video>

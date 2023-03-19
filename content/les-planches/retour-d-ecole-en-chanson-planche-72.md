@@ -40,3 +40,7 @@ Ce texte est une chanson transmise aux enfants par les grand-mères.
 Eugène se souvient que les enfants la chantaient en allant à l'école de Roybon à pied.
 Le "cuzon" est un endroit où on entreposait les fagots derrière la cheminée.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_72chantee.mp4" type="video/mp4">
+</video>

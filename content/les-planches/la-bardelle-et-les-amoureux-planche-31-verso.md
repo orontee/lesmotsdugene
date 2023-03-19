@@ -33,3 +33,7 @@ A noter, l'expression "vous qui voyez le ciel et la terre" pour nous laisser ima
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_31bis.mp4" type="video/mp4">
+</video>

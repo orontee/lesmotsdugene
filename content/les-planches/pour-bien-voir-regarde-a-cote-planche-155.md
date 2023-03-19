@@ -41,3 +41,11 @@ Le Gène
 Sur la première face, cette maxime métaphorique pleine de bon sens et d'humour nous invite à la réflexion sur les comportements humains.
 Sur le verso, Eugène a retranscrit un petit dialogue qui l'avait amusé où l'expression "aller à la messe avec les autres" exprime de manière imagée un avis plutôt badin.
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_155recto.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_155verso.mp4" type="video/mp4">
+</video>

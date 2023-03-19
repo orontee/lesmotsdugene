@@ -26,3 +26,7 @@ Le Gène
 ## Commentaire
 <p style="text-align:justify;">Ce texte reprend un petit dialogue que la mère d'Eugène avait entendu entre une voisine et son mari. Elle le lui a rappelé pour se moquer gentiment de lui, lorsque il a été lui-même élu conseiller municipal à Viriville pour la première fois.</p>
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_9bis.mp4" type="video/mp4">
+</video>

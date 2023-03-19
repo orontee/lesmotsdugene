@@ -35,3 +35,7 @@ Le Gène
 <p style="text-align:justify;">On appelait "karnio" les habitants de ces terres pauvres des collines. "Karnio" signifie mangeurs de fruits secs car les Chambarans produisaient beaucoup de bons fruits que les paysans faisaient sécher pour pouvoir en consommer toute l'année. Les médisants de la plaine( ! ), pour s'en moquer,  prétendaient que cela constituait leur principale nourriture.
 
 "Brâmafan" ou "brame-la-faim" est un terme suffisamment explicite et imagé.</p>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_89.mp4" type="video/mp4">
+</video>

@@ -29,3 +29,7 @@ Le Gène
 ## Commentaire
 <p style="text-align:justify;">Conversation retranscrite telle quelle avait été entendue dans les années 1950/1960, période politiquement très instable de la IVème République.
 Le point d'interrogation doit plutôt être compris comme un point d'exclamation. Mais il est surtout plus agréable à Eugène de graver une jolie courbe (?) qu'un petit trait bien droit (!).</p>
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_36.mp4" type="video/mp4">
+</video>

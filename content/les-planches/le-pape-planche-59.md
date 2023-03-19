@@ -41,3 +41,7 @@ Il savait aussi se montrer très patient et même très rusé en affaire pour ve
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="{static}/videos/video_59.mp4" type="video/mp4">
+</video>
