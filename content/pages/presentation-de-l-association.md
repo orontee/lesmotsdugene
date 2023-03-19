@@ -1,4 +1,4 @@
-Title: Présentation de l'association
+Title: Présentation de l'association «Les mots du Gène»
 Date: 2015-12-14 17:37:00
 Modified: 2015-12-14 17:58:39
 Slug: presentation-de-l-association

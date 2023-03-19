@@ -14,7 +14,7 @@ Dans un terminal, exécuter les commandes suivantes :
 $ python3 -m venv env
 $ source env/bin/activate
 (env)$ python -m pip install -r requirements.txt
-(env)$ invoke reserve
+(env)$ pelican --listen --ignore-cache --autoreload
 ```
 
 Ensuite consulter l'adresse [http://127.0.0.1:8000](http://127.0.0.1:8000).

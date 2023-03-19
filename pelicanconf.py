@@ -38,8 +38,9 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
     ('Eugène Vicat', '/index.html'),
     ('Planches', '/pages/les-planches.html'),
+    ('Sculptures', '/pages/les-sculptures.html'),
     ('Notes', '/pages/quelques-notes-a-propos-des-mots-d-eugene.html'),
-    ("Association «Les mots du Gène»", '/pages/presentation-de-l-association.html'),
+    ("Association", '/pages/presentation-de-l-association.html'),
 )
 
 # Blogroll
