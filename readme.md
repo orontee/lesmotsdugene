@@ -34,3 +34,6 @@ Le site est consultable à l'adresse https://lesmotsdugene.alwaysdata.net/.
 
 * Le thème est dérivé du thème par défaut de
   [Pelican](https://github.com/getpelican/pelican).
+
+* Les vidéos sont stockées sur le *bucket* AWS S3 `s3://lesmotsdugene-test`
+  et servies via https://d1njpgd0ygatdn.cloudfront.net
