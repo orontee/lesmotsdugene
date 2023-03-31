@@ -43,9 +43,9 @@ Status: published
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_101_h1.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_101_h1.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_101de_2_a_fin.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_101de_2_a_fin.mp4" type="video/mp4">
 </video>

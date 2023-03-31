@@ -46,5 +46,5 @@ Cette histoire est véridique et a été racontée par une voisine.
 "la Poya" : un lieu-dit de la commune de Viriville.
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_52.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_52.mp4" type="video/mp4">
 </video>

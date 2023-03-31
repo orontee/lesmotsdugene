@@ -34,5 +34,5 @@ Tout cela pour atteler le pauvre Joseph devant sa charrue !       </p>
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_81.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_81.mp4" type="video/mp4">
 </video>

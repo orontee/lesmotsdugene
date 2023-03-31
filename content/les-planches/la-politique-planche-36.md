@@ -31,5 +31,5 @@ Le Gène
 Le point d'interrogation doit plutôt être compris comme un point d'exclamation. Mais il est surtout plus agréable à Eugène de graver une jolie courbe (?) qu'un petit trait bien droit (!).</p>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_36.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_36.mp4" type="video/mp4">
 </video>

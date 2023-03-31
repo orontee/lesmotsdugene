@@ -35,9 +35,9 @@ Eugène joue sur la similitude des mots "Plu" et "Plô" à la fin de chacun des 
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_25.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_25.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_25_2eme_partie.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_25_2eme_partie.mp4" type="video/mp4">
 </video>

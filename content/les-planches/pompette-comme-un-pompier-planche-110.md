@@ -40,5 +40,5 @@ Le Gène
 Eugène choisit souvent des prénoms très courants comme Marie ici (ou Joseph ailleurs par exemple) pour ne pas dévoiler l'identité de la personne concernée.</p>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_110.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_110.mp4" type="video/mp4">
 </video>

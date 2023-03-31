@@ -37,9 +37,9 @@ Ces planches forment un ensemble illustrant avec ironie un imaginaire dialogue e
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_117.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_117.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_118_.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_118_.mp4" type="video/mp4">
 </video>

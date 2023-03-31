@@ -35,5 +35,5 @@ En ce qui concerne le "cor à pompe", ici, la pompe désigne le piston de l'inst
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_124.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_124.mp4" type="video/mp4">
 </video>

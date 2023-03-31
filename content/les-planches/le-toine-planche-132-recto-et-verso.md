@@ -41,9 +41,9 @@ La forme de la planche a induit le texte du recto.
 Le texte du verso a été inspiré à Eugène par une anecdote dont il était le sujet. Au cours d'un voyage en car, ses compagnons, pour le provoquer, l'avaient menacé de rédiger une petite annonce dans "Terre Dauphinoise" pour lui trouver une compagne. Eugène avait alors répondu qu'il était d'accord mais à condition qu'il la rédige lui-même. Il ne l'a pas envoyée au journal, mais avec son humour et sa distance habituels, il en a toutefois gravé une planche ! </p>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_132-2.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_132-2.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_132bis-2.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_132bis-2.mp4" type="video/mp4">
 </video>

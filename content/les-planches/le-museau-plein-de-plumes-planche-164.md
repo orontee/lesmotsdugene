@@ -35,5 +35,5 @@ L'expression "le môrre plumou" pourrait se traduire littéralement par "le nez 
 Comme sur chaque planche, les lettres initiales des mots Renâ, Le et Plûmou sont gravées en majuscules pour le seul plaisir de tracer des belles courbes.
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_164-2.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_164-2.mp4" type="video/mp4">
 </video>

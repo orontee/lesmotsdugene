@@ -33,5 +33,5 @@ La première phrase est un dicton qui signifie que les gens qui se plaignent bea
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_73.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_73.mp4" type="video/mp4">
 </video>

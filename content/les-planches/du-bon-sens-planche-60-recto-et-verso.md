@@ -47,9 +47,9 @@ Le bon sens étant parfois, d'après Eugène, une qualité trop peu répandue,  
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_60.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_60.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_60bis.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_60bis.mp4" type="video/mp4">
 </video>

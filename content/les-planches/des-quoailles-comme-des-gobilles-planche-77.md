@@ -41,5 +41,5 @@ Ce texte est un dialogue entre deux paysans, relevé lors d'une année de grande
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_77.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_77.mp4" type="video/mp4">
 </video>

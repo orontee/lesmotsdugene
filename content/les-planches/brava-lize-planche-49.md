@@ -42,5 +42,5 @@ Le dernier des mots qui reprend la finale homophone "asse" et dont la première 
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_49.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_49.mp4" type="video/mp4">
 </video>

@@ -32,5 +32,5 @@ Cette plaisanterie était fréquemment réitérée pour se moquer gentiment des 
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_6.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_6.mp4" type="video/mp4">
 </video>

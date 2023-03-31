@@ -41,9 +41,9 @@ Une "Piana" est une terre argilo-calcaire très fertile mais très dure à labou
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_64debut-2.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_64debut-2.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_64fin-2.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_64fin-2.mp4" type="video/mp4">
 </video>

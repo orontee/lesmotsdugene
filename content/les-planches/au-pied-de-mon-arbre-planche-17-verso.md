@@ -45,5 +45,5 @@ Eugène l'a gravée après avoir abandonné ses responsabilités syndicales et c
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_17bis.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_17bis.mp4" type="video/mp4">
 </video>

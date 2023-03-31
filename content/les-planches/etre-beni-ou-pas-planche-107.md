@@ -47,5 +47,5 @@ Cet orage de grêle de 1939, pour Eugène, est resté le souvenir particulièrem
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_107.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_107.mp4" type="video/mp4">
 </video>

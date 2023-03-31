@@ -38,5 +38,5 @@ Le maïs se disait  autrefois en patois "trôqui", car l'idée s'était répandu
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_176-2.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_176-2.mp4" type="video/mp4">
 </video>

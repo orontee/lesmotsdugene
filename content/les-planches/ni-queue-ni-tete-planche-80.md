@@ -32,5 +32,5 @@ La forme si particulière de cette planche a induit l'écriture de ces deux expr
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_80.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_80.mp4" type="video/mp4">
 </video>

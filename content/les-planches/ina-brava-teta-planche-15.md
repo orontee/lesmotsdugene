@@ -32,5 +32,5 @@ Le Gène
 Cette histoire a été rapportée à Eugène par un vieil homme lors d'une moisson (une batteuse). Ce travail collectif donnait l'occasion de s'amuser, de boire et de manger ensemble. Le "grand-père" l'avait racontée à Eugène alors qu'un des convives, pris de boisson, avait trébuché manquant de tomber du "gerbier".  Cette scène reste très présente dans la mémoire d'Eugène.</p>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_15.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_15.mp4" type="video/mp4">
 </video>

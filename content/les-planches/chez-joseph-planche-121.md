@@ -27,5 +27,5 @@ Les "truffes" sont des pommes de terre. Ce que l'on appelait "l'ordienère" éta
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_121.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_121.mp4" type="video/mp4">
 </video>

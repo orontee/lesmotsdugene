@@ -30,5 +30,5 @@ Pour échapper aux temps mauvais, il te faut avoir la foi, du toupet ou de grand
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_16.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_16.mp4" type="video/mp4">
 </video>

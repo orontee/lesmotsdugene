@@ -39,5 +39,5 @@ Deux petites sentences, autrefois, souvent énoncées par la mère d'Eugène
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_170.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_170.mp4" type="video/mp4">
 </video>

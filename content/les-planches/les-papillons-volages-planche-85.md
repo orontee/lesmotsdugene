@@ -38,5 +38,5 @@ C'est une candidate à la présidence de la République, Ségolène Royale, qui 
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_85.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_85.mp4" type="video/mp4">
 </video>

@@ -40,5 +40,5 @@ Petite variation à partir du dicton : "S'il pleut à la St Médard, il pleut qu
 <p style="text-align:justify;">
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_149.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_149.mp4" type="video/mp4">
 </video>

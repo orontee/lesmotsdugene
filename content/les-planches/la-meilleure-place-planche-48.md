@@ -55,5 +55,5 @@ Petite phrase entendue plusieurs fois au cours des repas de "batteuse" en 1969, 
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_48-2.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_48-2.mp4" type="video/mp4">
 </video>

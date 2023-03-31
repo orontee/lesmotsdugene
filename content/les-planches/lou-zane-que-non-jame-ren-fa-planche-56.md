@@ -34,5 +34,5 @@ Le Gène
 Eugène a écrit ce texte à son retour d'une réunion difficile durant laquelle il avait été injustement remis en question par d'autres participants. Il traduit ainsi son sentiment que ceux qui en font le moins sont souvent les premiers à critiquer.</p>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_56.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_56.mp4" type="video/mp4">
 </video>

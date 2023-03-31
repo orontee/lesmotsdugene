@@ -35,5 +35,5 @@ Cette planche reprend le texte d'une autre, offerte à l'un des maires de Virivi
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_91.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_91.mp4" type="video/mp4">
 </video>

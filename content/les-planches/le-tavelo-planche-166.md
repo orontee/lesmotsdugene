@@ -29,5 +29,5 @@ Jeu de mots en patois entre "Tàvelle" équivalent de "Je-m'en-foutiste" et "Tav
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_166.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_166.mp4" type="video/mp4">
 </video>

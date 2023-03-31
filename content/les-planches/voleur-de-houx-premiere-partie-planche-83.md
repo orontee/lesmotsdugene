@@ -31,5 +31,5 @@ Cette planche a été gravée suite à un petit différent avec un voisin qui av
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_83.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_83.mp4" type="video/mp4">
 </video>

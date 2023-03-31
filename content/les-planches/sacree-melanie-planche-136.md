@@ -42,5 +42,5 @@ Le Gène   C O
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_136.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_136.mp4" type="video/mp4">
 </video>

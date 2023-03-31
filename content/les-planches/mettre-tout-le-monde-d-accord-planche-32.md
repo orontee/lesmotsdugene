@@ -48,9 +48,9 @@ Sur la première face, le texte est explicite et se passe de commentaire.
 <p style="text-align:justify;">Pour le texte du verso, le père Sanfon est un personnage récurrent des historiettes narrées pour animer les veillées. Sous ce pseudonyme, Eugène évoque un habitant  du village qui prenait plaisir à semer la zizanie parmi les gens autour de lui jusqu'à ce qu'ils en arrivent à se chamailler. Lorsque le mal était fait, il s'éloignait alors discrètement pour se mettre en sécurité.</p>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_32.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_32.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_32bis.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_32bis.mp4" type="video/mp4">
 </video>

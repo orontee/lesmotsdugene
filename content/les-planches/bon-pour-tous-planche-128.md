@@ -27,5 +27,5 @@ Le Gène
 Ces clystères étaient utilisés pour les animaux, d'où leurs tailles différentes. Ils font partie de la collection d'objets ruraux anciens d'Eugène. Ceux-ci lui ont inspiré cette planche amusante.
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_128.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_128.mp4" type="video/mp4">
 </video>

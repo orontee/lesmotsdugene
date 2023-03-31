@@ -25,5 +25,5 @@ Ho la ! la ! la ! la ! la ! la ! Joseph, ne mets pas d'eau sur mon vin, jette la
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_9.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_9.mp4" type="video/mp4">
 </video>

@@ -44,9 +44,9 @@ Le Gène
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_33.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_33.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_33bis.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_33bis.mp4" type="video/mp4">
 </video>

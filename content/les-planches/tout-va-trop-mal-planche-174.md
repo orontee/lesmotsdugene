@@ -27,13 +27,13 @@ C'est la mère d'Eugène qui prononçait souvent cette phrase : " Il y en a touj
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_174.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_174.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_174debut.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_174debut.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_174fin.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_174fin.mp4" type="video/mp4">
 </video>

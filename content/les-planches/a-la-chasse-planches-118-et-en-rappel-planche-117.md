@@ -33,9 +33,9 @@ Réponse sarcastique d'Eugène à un chasseur un peu vantard, un peu "viandard" 
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_117-2.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_117-2.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_118.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_118.mp4" type="video/mp4">
 </video>

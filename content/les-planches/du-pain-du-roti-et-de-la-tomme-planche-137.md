@@ -36,5 +36,5 @@ Le verbe "galocher" vient bien sûr du mot "galoches", chaussures à semelles de
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_137.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_137.mp4" type="video/mp4">
 </video>

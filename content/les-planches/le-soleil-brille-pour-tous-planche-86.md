@@ -33,5 +33,5 @@ C'est la forme de la planche offerte par un ami, qui a inspiré ce texte optimis
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_86.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_86.mp4" type="video/mp4">
 </video>

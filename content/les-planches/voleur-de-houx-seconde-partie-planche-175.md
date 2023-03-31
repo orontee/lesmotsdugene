@@ -25,5 +25,5 @@ Moi, sans gêne, comme je suis <u>**C**</u>onservateur et <u>**O**</u>bservateur
 L'acronyme suivant, constitué des lettres majuscules et soulignées, C, O et N, exprime l'amertume et le recul sur soi-même d'Eugène. Ce texte s'adresse à la personne indélicate qui l'avait injustement accusé d'avoir volé les cisailles oubliées après qu'il eût coupé tout le houx. Les deux trous indiquent certainement que cette planche fut suspendue vers le lieu du "conflit" pour être lu par le voisin concerné.</p>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_175.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_175.mp4" type="video/mp4">
 </video>

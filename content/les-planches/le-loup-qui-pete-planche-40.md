@@ -29,5 +29,5 @@ Ce dicton signifie : "Tu pourrais encore être étonné", "Tu n'as encore rien v
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_40_2_-2.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_40_2_-2.mp4" type="video/mp4">
 </video>

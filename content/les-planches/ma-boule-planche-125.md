@@ -27,5 +27,5 @@ Dans la vie, "Faut-cille" pas trop se poser des questions, tu en perdrais la bou
 Jeux de mots avec le mot "faucille" à la place de "faut-il?" et de la boule fixées sur la planche.
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_125.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_125.mp4" type="video/mp4">
 </video>

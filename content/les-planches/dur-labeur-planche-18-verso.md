@@ -33,9 +33,9 @@ Tu peux faucher, le temps s'arrange et se pomponne. Il va faire beau...
 La deuxième historiette joue avec la musicalité des mots "parâ" et "charâ". Leur humour tient à la comparaison qui est faite entre la météo et l'auteur.
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_18bis_1ere_partie.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_18bis_1ere_partie.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_18bis_2eme_partie.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_18bis_2eme_partie.mp4" type="video/mp4">
 </video>

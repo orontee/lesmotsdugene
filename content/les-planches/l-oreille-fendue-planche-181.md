@@ -43,5 +43,5 @@ Les trois parties du texte écrites en lettres de plus en plus petites indiquent
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_181.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_181.mp4" type="video/mp4">
 </video>

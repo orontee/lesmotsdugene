@@ -27,5 +27,5 @@ Petite planche placée en bordure du champ pour essayer de décourager les prome
 Les "cornards" sont les "cocus" auxquels est habituellement associée la couleur jaune.
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_116.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_116.mp4" type="video/mp4">
 </video>

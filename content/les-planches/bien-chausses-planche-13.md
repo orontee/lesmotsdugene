@@ -27,5 +27,5 @@ Le Gène
 Ce texte lui permet également de montrer quelques objets de sa collection d'outils agricoles.</p>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_13.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_13.mp4" type="video/mp4">
 </video>

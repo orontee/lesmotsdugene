@@ -23,5 +23,5 @@ Quand j'allais au catéchisme, mon curé me disait toujours : "Faut prendre le t
 Cette sentence, ce n'est pas le curé de Viriville, mais un responsable du syndicat agricole très connu à l'époque (Fréjus Michon) qui l'a énoncée à Eugène. Les agriculteurs subissaient alors une longue période de pluie.
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_146.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_146.mp4" type="video/mp4">
 </video>

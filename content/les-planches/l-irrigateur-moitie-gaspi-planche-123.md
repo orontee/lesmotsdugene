@@ -29,5 +29,5 @@ Quant au "canton de Montrou", tracé à côté du trou dans le bois, il s'agit d
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_123.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_123.mp4" type="video/mp4">
 </video>

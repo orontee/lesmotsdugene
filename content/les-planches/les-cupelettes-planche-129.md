@@ -50,9 +50,9 @@ L'expression courante "avoir trop chargé la mule" est une métaphore pour dési
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_129recto.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_129recto.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_129verso.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_129verso.mp4" type="video/mp4">
 </video>

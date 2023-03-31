@@ -34,5 +34,5 @@ Le Gène
 Globalement, cette planche évoque grossièrement la forme d'un oiseau par le dessin d'une queue contre le côté gauche, la tête d'oiseau contre le bord droit et le"crochet" du bas pouvant figurer les pattes.</p>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_140.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_140.mp4" type="video/mp4">
 </video>

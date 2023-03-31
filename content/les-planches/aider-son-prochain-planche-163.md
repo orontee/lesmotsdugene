@@ -32,5 +32,5 @@ Il est certes toujours plus valorisant d'aider un riche. Aider un "pauvre bougre
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_163.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_163.mp4" type="video/mp4">
 </video>

@@ -30,5 +30,5 @@ Eugène décrit de manière imagée le temps et la forme de la lune juste avant 
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_119.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_119.mp4" type="video/mp4">
 </video>

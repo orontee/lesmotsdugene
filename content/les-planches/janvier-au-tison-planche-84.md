@@ -41,5 +41,5 @@ Plus sobrement : " Si il fait soleil en janvier mais froid en février, alors le
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_84.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_84.mp4" type="video/mp4">
 </video>

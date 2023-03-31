@@ -40,9 +40,9 @@ Le Gène
 Dans ces dialogues savoureux, aux assertions pleines de sérieux et de fierté répondent des assertions moqueuses sous forme d'images hyperboliques.</p>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_61debut_avec_com.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_61debut_avec_com.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_61fin_ok.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_61fin_ok.mp4" type="video/mp4">
 </video>

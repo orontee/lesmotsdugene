@@ -34,5 +34,5 @@ Les gens qui n'ont rien se moquent du temps, sont joyeux et contents, font la f�
 Comme souvent, Eugène s'inspire et utilise les particularités du bois. Ici, la forme du nœud et le trou autour duquel est gravé la petite maxime qui invite à l'optimisme.
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_68.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_68.mp4" type="video/mp4">
 </video>

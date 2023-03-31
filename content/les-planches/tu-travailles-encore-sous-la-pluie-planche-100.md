@@ -25,5 +25,5 @@ Le Gène
 Réflexion entendue et notée lors de la rencontre avec un agriculteur qui piochait avec ardeur pour terminer sa raie de betteraves malgré la pluie.
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_100.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_100.mp4" type="video/mp4">
 </video>

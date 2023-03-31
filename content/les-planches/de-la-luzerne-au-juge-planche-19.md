@@ -23,5 +23,5 @@ Oooh ! Monsieur, le Juge ! Je ne sais pas bien comment dire. Je ne sais pas bien
 <p style="text-align:justify;">Cette anecdote était racontée de différentes manières dans chaque commune. Il s'agit d'un témoignage devant le Juge de Paix à propos d'une grossesse hors mariage. Le couvercle, la marmite et le rôti représentent ici les images métaphoriques d'un accouplement et d'une maternité.</p>
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_19.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_19.mp4" type="video/mp4">
 </video>

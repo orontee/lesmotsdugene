@@ -54,5 +54,5 @@ Eugène signe "trois fois" pour chacune des trois historiettes, la première se 
 
 
 <video width="320" height="240" controls>
-  <source src="{static}/videos/video_134bis.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_134bis.mp4" type="video/mp4">
 </video>
