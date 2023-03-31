@@ -7,7 +7,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = 'http://lesmotsdugene-test.s3-website.eu-west-3.amazonaws.com'
+SITEURL = 'https://lesmotsdugene.alwaysdata.net'
 RELATIVE_URLS = False
 
 #FEED_ALL_ATOM = 'feeds/all.atom.xml'

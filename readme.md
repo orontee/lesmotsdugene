@@ -25,11 +25,10 @@ Après avoir configuré [l'interface de ligne de
 commande](https://aws.amazon.com/fr/cli/) :
 
 ```
-$ make s3_upload
+$ make ssh_upload
 ```
 
-Le site est consultable à l'adresse
-http://lesmotsdugene-test.s3-website.eu-west-3.amazonaws.com/.
+Le site est consultable à l'adresse https://lesmotsdugene.alwaysdata.net/.
 
 ## Notes
 
