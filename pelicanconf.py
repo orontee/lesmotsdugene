@@ -16,8 +16,8 @@ EXTRA_PATH_METADATA = {
 # Disable generation of some pages
 AUTHOR_SAVE_AS = ''
 AUTHORS_SAVE_AS = ''
-CATEGORY_SAVE_AS = ''
-CATEGORIES_SAVE_AS = ''
+# CATEGORY_SAVE_AS = ''
+# CATEGORIES_SAVE_AS = ''
 ARCHIVE_SAVE_AS = ''
 ARCHIVES_SAVE_AS = ''
 TAG_SAVE_AS = ''
@@ -40,7 +40,7 @@ MENUITEMS = (
     ('Planches', '/pages/les-planches.html'),
     ('Sculptures', '/pages/les-sculptures.html'),
     ('Notes', '/pages/quelques-notes-a-propos-des-mots-d-eugene.html'),
-    ("Association", '/pages/presentation-de-l-association.html'),
+    ("Association", '/category/l-association.html'),
 )
 
 # Blogroll

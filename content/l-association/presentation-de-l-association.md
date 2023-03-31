@@ -1,10 +1,12 @@
 Title: Présentation de l'association «Les mots du Gène»
 Date: 2015-12-14 17:37:00
-Modified: 2015-12-14 17:58:39
-Slug: presentation-de-l-association
-Summary: 
-Lang: fr
-Status: published
+Summary: Soucieuse de préserver la collection de planches gravées
+    qu'Eugène Vicat crée depuis plusieurs décennies, notre association
+    a pour but de conserver cet ensemble d'environ 200 planches et de
+    le mettre en valeur et le faire connaître pour continuer à en
+    partager le plaisir et la saveur avec toutes les personnes pouvant
+    l'apprécier.
+
 
 <p style="text-align: center;">
   Association «Les mots du Gène»<br>
