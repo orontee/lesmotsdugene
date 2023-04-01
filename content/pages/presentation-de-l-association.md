@@ -48,15 +48,17 @@ d'un temps passé vous intéressent et si ses réflexions
 (im-)pertinentes sur la nature et les hommes vous touchent nous vous
 invitons à nous rejoindre au sein de cette association.
 
-## Le Bureau
+## Le Bureau 2022-2023
 
-Président d'honneur : Eugène Vicat
-
-Président : Christian Deville
-
-Vice-présidente : Françoise Sempé
-
-Secrétaire et trésorière : Brigitte Baret
+<p>
+    Eugène Vicat, fondateur<br>
+    Christian Deville, président<br>
+    Françoise Sempé, vice-Présidente<br>
+    Brigitte Baret, secrétaire et trésorière<br>
+    Alain Courbis, membre du bureau<br>
+    Armel Perron, membre du bureau<br>
+    Martine Valin, membre du bureau<br>
+</p>
 
 ## Les adhésions
 
