@@ -71,10 +71,3 @@ invitons à nous rejoindre au sein de cette association.
   doivent être supérieures au double de la cotisation normale.
 
 Merci pour tous vos nombreux encouragements...
-
-Merci à Martine Valin pour son aide précieuse lors du classement et
-rangement des planches.
-
-Ce site a été conçu et réalisé par Matthias Meulien. Merci à lui pour
-la patience avec laquelle il nous a fait bénéficier de ses
-compétences.
