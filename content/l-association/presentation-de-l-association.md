@@ -5,7 +5,7 @@ Summary: Soucieuse de préserver la collection de planches gravées
     a pour but de conserver cet ensemble d'environ 200 planches et de
     le mettre en valeur et le faire connaître pour continuer à en
     partager le plaisir et la saveur avec toutes les personnes pouvant
-    l'apprécier.
+    l'apprécier
 
 
 <p style="text-align: center;">

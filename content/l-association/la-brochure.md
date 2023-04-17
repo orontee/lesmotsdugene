@@ -1,7 +1,7 @@
 Title: La brochure
 Date: 2023-04-16 10:59:00
 Summary: Brochure de 74 pages où sont présentées plus d'une
-    soixantaine de planches.
+    soixantaine de planches
 
 Cette brochure, tirée en nombre limité, comporte 74 pages où sont
 présentées plus d'une soixantaine de planches regroupées dans 5
