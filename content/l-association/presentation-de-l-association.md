@@ -9,7 +9,7 @@ Summary: Soucieuse de préserver la collection de planches gravées
 
 
 <p style="text-align: center;">
-  Association «Les mots du Gène»<br>
+  Association « Les mots du Gène »<br>
   61 rue de la Poste - 38980 Viriville<br>
   Tél. : 04 51 13 74 15<br>
   <a href="mailto:contact@lesmotsdugene.fr">contact@lesmotsdugene.fr</a>
@@ -31,7 +31,7 @@ Vicat crée depuis plusieurs décennies, notre association a pour but :
 Nous en avons déjà réalisé l'inventaire : pour chaque planche gravée,
 une fiche regroupe sa description détaillée, la transcription du texte
 en patois, une traduction et un commentaire particulier. Tous les
-textes en patois lus et «interprétés» par Eugène ont fait l'objet
+textes en patois lus et « interprétés » par Eugène ont fait l'objet
 d'enregistrements vidéo.
 
 Ce site, réservé aux adhérents de l'association, va vous permettre de
@@ -71,8 +71,9 @@ invitons à nous rejoindre au sein de cette association.
 
 Merci pour tous vos nombreux encouragements...
 
-Merci à **Martine Valin** pour son aide précieuse lors du classement et rangement des planches.
+Merci à Martine Valin pour son aide précieuse lors du classement et
+rangement des planches.
 
-**Ce site a été conçu et réalisé par Matthias Meulien**. Merci à lui
-pour la patience avec laquelle il nous a fait bénéficier de ses
+Ce site a été conçu et réalisé par Matthias Meulien. Merci à lui pour
+la patience avec laquelle il nous a fait bénéficier de ses
 compétences.

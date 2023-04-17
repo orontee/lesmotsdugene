@@ -8,13 +8,14 @@ Version statique du site de l'association «Les mots du Gène».
 
 ## Génération
 
-Dans un terminal, exécuter les commandes suivantes :
+Dans un terminal, exécuter les commandes suivantes (en adaptant le
+port selon l'environnement) :
 
 ```
 $ python3 -m venv env
 $ source env/bin/activate
 (env)$ python -m pip install -r requirements.txt
-(env)$ pelican --listen --ignore-cache --autoreload
+(env)$ make devserver PORT=8000
 ```
 
 Ensuite consulter l'adresse [http://127.0.0.1:8000](http://127.0.0.1:8000).
