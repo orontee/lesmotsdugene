@@ -1,11 +1,10 @@
 Title: Présentation de l'association
 Date: 2015-12-14 17:37:00
-Summary: Soucieuse de préserver la collection de planches gravées
-    qu'Eugène Vicat crée depuis plusieurs décennies, notre association
-    a pour but de conserver cet ensemble d'environ 200 planches et de
-    le mettre en valeur et le faire connaître pour continuer à en
-    partager le plaisir et la saveur avec toutes les personnes pouvant
-    l'apprécier
+Summary: Soucieuse de préserver planches gravées et sculptures
+    qu'Eugène Vicat a créées pendant plusieurs décennies, notre
+    association a pour but de conserver cet ensemble, de le mettre en
+    valeur et le faire connaître pour continuer à en partager le
+    plaisir et la saveur avec toutes les personnes pouvant l'apprécier
 
 
 <p style="text-align: center;">
@@ -17,10 +16,12 @@ Summary: Soucieuse de préserver la collection de planches gravées
 
 ## Les objectifs
 
-Soucieuse de préserver la collection de planches gravées qu'Eugène
-Vicat crée depuis plusieurs décennies, notre association a pour but :
+Soucieuse de préserver les planches gravées et sculptures qu'Eugène
+Vicat a créées pendant plusieurs décennies, notre association a pour
+but :
 
-- conserver cet ensemble d'environ 200 planches,
+- conserver cet ensemble d'environ 200 planches et une quinzaine de
+  sculptures,
 
 - le mettre en valeur et le faire connaître pour continuer à en
   partager le plaisir et la saveur avec toutes les personnes pouvant

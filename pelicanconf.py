@@ -1,5 +1,5 @@
 SITENAME = 'Les mots du Gène'
-SITESUBTITLE = 'Collection de planches gravées par Eugène Vicat'
+SITESUBTITLE = 'Planches gravées et sculptures par Eugène Vicat'
 SITEURL = ''
 
 PATH = 'content'
