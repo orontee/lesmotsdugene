@@ -1,7 +1,6 @@
 Title: Le papé (planche 59)
 Date: 2017-01-30 15:52:15
 Modified: 2017-01-30 15:52:15
-Slug: le-pape-planche-59
 Summary: 
 Lang: fr
 Status: published

@@ -1,7 +1,6 @@
 Title: Du pain, du rôti et de la tomme (planche 137)
 Date: 2018-02-09 17:38:32
 Modified: 2018-02-09 17:38:32
-Slug: du-pain-du-roti-et-de-la-tomme-planche-137
 Summary: 
 Lang: fr
 Status: published

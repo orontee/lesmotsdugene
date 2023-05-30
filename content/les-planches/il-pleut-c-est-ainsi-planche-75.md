@@ -1,7 +1,6 @@
 Title: Il pleut, c'est ainsi ! (planche 75)
 Date: 2017-05-30 16:28:25
 Modified: 2017-05-30 16:28:25
-Slug: il-pleut-c-est-ainsi-planche-75
 Summary: 
 Lang: fr
 Status: published

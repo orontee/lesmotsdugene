@@ -1,7 +1,6 @@
 Title: Aider son prochain (planche 163)
 Date: 2017-05-30 16:35:20
 Modified: 2017-05-30 16:35:20
-Slug: aider-son-prochain-planche-163
 Summary: 
 Lang: fr
 Status: published

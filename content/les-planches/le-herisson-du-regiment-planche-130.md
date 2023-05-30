@@ -1,7 +1,6 @@
 Title: Le hérisson du règiment (planche 130)
 Date: 2016-01-28 15:13:41
 Modified: 2016-01-28 15:13:41
-Slug: le-herisson-du-regiment-planche-130
 Summary: 
 Lang: fr
 Status: published

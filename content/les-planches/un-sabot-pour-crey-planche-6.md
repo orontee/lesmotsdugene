@@ -1,7 +1,6 @@
 Title: Un sabot pour "crey" (planche 6)
 Date: 2016-01-28 15:14:58
 Modified: 2016-01-28 15:14:58
-Slug: un-sabot-pour-crey-planche-6
 Summary: 
 Lang: fr
 Status: published

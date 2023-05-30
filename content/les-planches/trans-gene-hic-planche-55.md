@@ -1,7 +1,6 @@
 Title: Trans-Géne-Hic (planche 55)
 Date: 2016-05-23 17:48:18
 Modified: 2016-05-23 17:48:18
-Slug: trans-gene-hic-planche-55
 Summary: 
 Lang: fr
 Status: published

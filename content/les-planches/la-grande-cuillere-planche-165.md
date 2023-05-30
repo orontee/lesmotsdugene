@@ -1,7 +1,6 @@
 Title: La grande cuillère (planche 165)
 Date: 2016-04-22 12:00:00
 Modified: 2016-08-16 16:59:04
-Slug: la-grande-cuillere-planche-165
 Summary: 
 Lang: fr
 Status: published

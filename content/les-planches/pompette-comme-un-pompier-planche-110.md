@@ -1,7 +1,6 @@
 Title: Pompette comme un pompier (planche 110)
 Date: 2016-07-04 16:57:14
 Modified: 2016-07-04 16:57:14
-Slug: pompette-comme-un-pompier-planche-110
 Summary: 
 Lang: fr
 Status: published

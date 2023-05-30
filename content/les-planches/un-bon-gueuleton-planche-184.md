@@ -1,7 +1,6 @@
 Title: Un bon gueuleton (planche 184)
 Date: 2017-03-01 16:32:21
 Modified: 2017-03-01 16:32:21
-Slug: un-bon-gueuleton-planche-184
 Summary: 
 Lang: fr
 Status: published

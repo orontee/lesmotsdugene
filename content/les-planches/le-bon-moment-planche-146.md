@@ -1,7 +1,6 @@
 Title: Le bon moment (planche 146)
 Date: 2017-03-29 18:31:59
 Modified: 2017-03-29 18:31:59
-Slug: le-bon-moment-planche-146
 Summary: 
 Lang: fr
 Status: published

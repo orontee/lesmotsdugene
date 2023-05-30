@@ -1,7 +1,6 @@
 Title: Des quoailles comme des gobilles (planche 77)
 Date: 2016-04-22 10:31:04
 Modified: 2016-04-22 10:31:04
-Slug: des-quoailles-comme-des-gobilles-planche-77
 Summary: 
 Lang: fr
 Status: published

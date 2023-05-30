@@ -1,7 +1,6 @@
 Title: Le prix de la terre (planche 176)
 Date: 2017-05-01 10:45:48
 Modified: 2017-05-01 10:45:48
-Slug: le-prix-de-la-terre-planche-176
 Summary: 
 Lang: fr
 Status: published

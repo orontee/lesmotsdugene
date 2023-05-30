@@ -1,7 +1,6 @@
 Title: Syndicaliste mais célibataire (planche 169)
 Date: 2017-03-01 16:30:53
 Modified: 2017-03-01 16:30:53
-Slug: syndicaliste-mais-celibataire-planche-169
 Summary: 
 Lang: fr
 Status: published

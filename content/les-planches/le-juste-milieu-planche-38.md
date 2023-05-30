@@ -1,7 +1,6 @@
 Title: Le juste milieu (planche 38)
 Date: 2016-10-28 15:24:23
 Modified: 2016-10-28 15:24:23
-Slug: le-juste-milieu-planche-38
 Summary: 
 Lang: fr
 Status: published

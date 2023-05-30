@@ -1,7 +1,6 @@
 Title: Un bon maçon (planche 143)
 Date: 2017-06-27 18:05:06
 Modified: 2017-06-27 18:05:06
-Slug: un-bon-macon-planche-143
 Summary: 
 Lang: fr
 Status: published

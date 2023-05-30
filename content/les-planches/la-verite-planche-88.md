@@ -1,7 +1,6 @@
 Title: La vérité (planche 88)
 Date: 2018-02-09 16:16:27
 Modified: 2018-02-09 16:16:27
-Slug: la-verite-planche-88
 Summary: 
 Lang: fr
 Status: published

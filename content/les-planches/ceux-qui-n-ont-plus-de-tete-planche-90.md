@@ -1,7 +1,6 @@
 Title: Ceux qui n'ont plus de tête (planche 90)
 Date: 2017-03-29 18:27:49
 Modified: 2017-03-29 18:27:49
-Slug: ceux-qui-n-ont-plus-de-tete-planche-90
 Summary: 
 Lang: fr
 Status: published

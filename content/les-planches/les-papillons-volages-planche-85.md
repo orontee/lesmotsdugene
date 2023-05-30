@@ -1,7 +1,6 @@
 Title: Les papillons volages (planche 85)
 Date: 2018-03-12 17:00:13
 Modified: 2018-03-12 17:00:13
-Slug: les-papillons-volages-planche-85
 Summary: 
 Lang: fr
 Status: published

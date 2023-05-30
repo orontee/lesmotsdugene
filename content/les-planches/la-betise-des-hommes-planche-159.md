@@ -1,7 +1,6 @@
 Title: La bêtise des hommes (planche 159)
 Date: 2016-03-16 16:00:34
 Modified: 2016-03-16 16:00:34
-Slug: la-betise-des-hommes-planche-159
 Summary: 
 Lang: fr
 Status: published

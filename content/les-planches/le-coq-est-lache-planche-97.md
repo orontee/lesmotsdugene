@@ -1,7 +1,6 @@
 Title: Le coq est laché ! (planche 97)
 Date: 2017-03-01 16:35:25
 Modified: 2017-03-01 16:35:25
-Slug: le-coq-est-lache-planche-97
 Summary: 
 Lang: fr
 Status: published

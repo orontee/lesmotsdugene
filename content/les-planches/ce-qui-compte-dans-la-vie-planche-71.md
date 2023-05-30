@@ -1,7 +1,6 @@
 Title:  Ce qui compte dans la vie (planche 71)
 Date: 2017-12-06 17:02:33
 Modified: 2017-12-06 17:02:33
-Slug: ce-qui-compte-dans-la-vie-planche-71
 Summary: 
 Lang: fr
 Status: published

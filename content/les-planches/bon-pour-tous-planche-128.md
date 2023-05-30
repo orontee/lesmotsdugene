@@ -1,7 +1,6 @@
 Title: Bon pour tous (planche 128)
 Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:42:32
-Slug: bon-pour-tous-planche-128
 Summary: 
 Lang: fr
 Status: published

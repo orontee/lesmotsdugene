@@ -1,7 +1,6 @@
 Title: Les défauts de la bardelle (planche 35)
 Date: 2016-05-23 17:46:12
 Modified: 2016-05-23 17:46:12
-Slug: les-defauts-de-la-bardelle-planche-35
 Summary: 
 Lang: fr
 Status: published

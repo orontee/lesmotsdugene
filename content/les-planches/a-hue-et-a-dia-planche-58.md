@@ -1,7 +1,6 @@
 Title: A Hue et à Dia (planche 58)
 Date: 2016-05-23 18:01:47
 Modified: 2016-05-23 18:01:47
-Slug: a-hue-et-a-dia-planche-58
 Summary: 
 Lang: fr
 Status: published

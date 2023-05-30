@@ -1,7 +1,6 @@
 Title: Dans la lune (planche 37)
 Date: 2016-07-04 16:27:14
 Modified: 2016-07-04 16:27:14
-Slug: dans-la-lune-planche-37
 Summary: 
 Lang: fr
 Status: published

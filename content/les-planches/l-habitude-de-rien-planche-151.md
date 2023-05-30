@@ -1,7 +1,6 @@
 Title: L'habitude de rien (planche 151)
 Date: 2016-03-16 16:00:23
 Modified: 2016-03-16 16:00:23
-Slug: l-habitude-de-rien-planche-151
 Summary: 
 Lang: fr
 Status: published

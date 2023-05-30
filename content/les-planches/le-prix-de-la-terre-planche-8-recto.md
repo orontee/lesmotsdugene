@@ -1,7 +1,6 @@
 Title: Le prix de la terre (planche 8 recto)
 Date: 2016-10-28 15:25:25
 Modified: 2016-10-28 15:25:25
-Slug: le-prix-de-la-terre-planche-8-recto
 Summary: 
 Lang: fr
 Status: published

@@ -1,7 +1,6 @@
 Title: La jolie lune (planche 138)
 Date: 2016-03-16 15:59:55
 Modified: 2016-03-16 15:59:55
-Slug: la-jolie-lune-planche-138
 Summary: 
 Lang: fr
 Status: published

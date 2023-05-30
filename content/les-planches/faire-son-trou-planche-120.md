@@ -1,7 +1,6 @@
 Title: Faire son trou (planche 120)
 Date: 2015-11-24 18:00:35
 Modified: 2016-01-20 16:07:54
-Slug: faire-son-trou-planche-120
 Summary: C'est en laissant faire les jeunes...
 Lang: fr
 Status: published

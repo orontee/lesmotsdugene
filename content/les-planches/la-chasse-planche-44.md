@@ -1,7 +1,6 @@
 Title: La chasse (planche 44)
 Date: 2018-03-12 16:56:44
 Modified: 2018-03-12 16:56:44
-Slug: la-chasse-planche-44
 Summary: 
 Lang: fr
 Status: published

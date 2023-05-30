@@ -1,7 +1,6 @@
 Title: Ina brava têta (planche 15)
 Date: 2016-01-28 15:16:07
 Modified: 2016-01-28 15:16:07
-Slug: ina-brava-teta-planche-15
 Summary: 
 Lang: fr
 Status: published

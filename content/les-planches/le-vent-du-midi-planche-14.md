@@ -1,7 +1,6 @@
 Title: Le vent du midi (planche 14)
 Date: 2017-06-27 18:03:25
 Modified: 2019-07-25 19:38:53
-Slug: le-vent-du-midi-planche-14
 Summary: 
 Lang: fr
 Status: published

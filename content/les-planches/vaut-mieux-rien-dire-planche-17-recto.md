@@ -1,7 +1,6 @@
 Title: Vaut mieux rien dire (planche 17 recto)
 Date: 2016-09-28 15:50:06
 Modified: 2016-09-28 15:50:06
-Slug: vaut-mieux-rien-dire-planche-17-recto
 Summary: 
 Lang: fr
 Status: published

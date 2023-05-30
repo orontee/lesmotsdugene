@@ -1,7 +1,6 @@
 Title: Un cœur d'artichaut (planche 101)
 Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:41:15
-Slug: un-coeur-d-artichaut-planche-101
 Summary: 
 Lang: fr
 Status: published

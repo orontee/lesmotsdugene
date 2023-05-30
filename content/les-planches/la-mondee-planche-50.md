@@ -1,7 +1,6 @@
 Title: La mondée (planche 50)
 Date: 2016-12-30 14:53:18
 Modified: 2016-12-30 14:53:18
-Slug: la-mondee-planche-50
 Summary: 
 Lang: fr
 Status: published

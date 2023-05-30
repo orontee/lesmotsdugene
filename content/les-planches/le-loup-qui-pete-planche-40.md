@@ -1,7 +1,6 @@
 Title: Le loup qui pète (planche 40)
 Date: 2017-05-01 10:39:52
 Modified: 2017-05-01 10:39:52
-Slug: le-loup-qui-pete-planche-40
 Summary: 
 Lang: fr
 Status: published

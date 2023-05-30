@@ -1,7 +1,6 @@
 Title: Gène, tu deviens "Kankane" (planche 150 recto et verso)
 Date: 2017-03-29 18:31:11
 Modified: 2017-03-29 18:31:11
-Slug: gene-tu-deviens-kankane-planche-150-recto-et-verso
 Summary: 
 Lang: fr
 Status: published

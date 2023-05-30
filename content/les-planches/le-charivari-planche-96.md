@@ -1,7 +1,6 @@
 Title:  Le charivari (planche 96)
 Date: 2016-12-30 14:41:42
 Modified: 2016-12-30 14:41:42
-Slug: le-charivari-planche-96
 Summary: 
 Lang: fr
 Status: published

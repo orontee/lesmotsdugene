@@ -1,7 +1,6 @@
 Title: Râza, pignâ, charâ et parâ (planche 70)
 Date: 2016-03-16 15:59:44
 Modified: 2016-07-01 18:50:41
-Slug: raza-pigna-chara-et-para-planche-70
 Summary: 
 Lang: fr
 Status: published

@@ -1,7 +1,6 @@
 Title: La maison de Mathieu (planche 7)
 Date: 2017-03-29 18:35:56
 Modified: 2017-03-29 18:35:56
-Slug: la-maison-de-mathieu-planche-7
 Summary: 
 Lang: fr
 Status: published

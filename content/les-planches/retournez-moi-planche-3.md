@@ -1,7 +1,6 @@
 Title: Retournez moi (planche 3)
 Date: 2015-09-11 18:07:46
 Modified: 2016-01-20 16:02:51
-Slug: retournez-moi-planche-3
 Summary: Re  vi  rié  me  
 Lang: fr
 Status: published

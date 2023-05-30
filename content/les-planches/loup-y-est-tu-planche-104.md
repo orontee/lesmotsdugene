@@ -1,7 +1,6 @@
 Title: Loup y est-tu? (planche 104)
 Date: 2018-03-12 16:55:40
 Modified: 2018-03-12 16:55:40
-Slug: loup-y-est-tu-planche-104
 Summary: 
 Lang: fr
 Status: published

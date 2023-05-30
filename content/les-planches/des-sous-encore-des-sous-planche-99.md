@@ -1,7 +1,6 @@
 Title: Des sous, encore, des sous ! (planche 99)
 Date: 2016-09-28 15:59:26
 Modified: 2016-09-28 15:59:26
-Slug: des-sous-encore-des-sous-planche-99
 Summary: 
 Lang: fr
 Status: published

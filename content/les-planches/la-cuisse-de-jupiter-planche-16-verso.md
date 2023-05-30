@@ -1,7 +1,6 @@
 Title: La cuisse de Jupiter (planche 16 verso)
 Date: 2016-07-04 16:44:04
 Modified: 2016-07-04 16:44:04
-Slug: la-cuisse-de-jupiter-planche-16-verso
 Summary: 
 Lang: fr
 Status: published

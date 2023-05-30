@@ -1,7 +1,6 @@
 Title: Dur travail (planche 153)
 Date: 2016-05-23 18:20:06
 Modified: 2016-05-23 18:20:06
-Slug: dur-travail-planche-153
 Summary: 
 Lang: fr
 Status: published

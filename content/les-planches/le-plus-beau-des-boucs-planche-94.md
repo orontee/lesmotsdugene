@@ -1,7 +1,6 @@
 Title: Le plus beau des boucs (planche 94) 
 Date: 2018-03-12 16:57:22
 Modified: 2018-03-12 16:57:22
-Slug: le-plus-beau-des-boucs-planche-94
 Summary: 
 Lang: fr
 Status: published

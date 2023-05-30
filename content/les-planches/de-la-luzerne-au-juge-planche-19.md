@@ -1,7 +1,6 @@
 Title: De la luzerne au juge (planche 19)
 Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:41:28
-Slug: de-la-luzerne-au-juge-planche-19
 Summary: 
 Lang: fr
 Status: published

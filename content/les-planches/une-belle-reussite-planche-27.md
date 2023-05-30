@@ -1,7 +1,6 @@
 Title: Une belle réussite (planche 27)
 Date: 2017-01-30 15:49:00
 Modified: 2017-01-30 15:49:00
-Slug: une-belle-reussite-planche-27
 Summary: 
 Lang: fr
 Status: published

@@ -1,7 +1,6 @@
 Title: Morfondïu (planche 20)
 Date: 2018-02-09 15:49:15
 Modified: 2018-02-09 15:49:15
-Slug: morfondiu-planche-20
 Summary: 
 Lang: fr
 Status: published

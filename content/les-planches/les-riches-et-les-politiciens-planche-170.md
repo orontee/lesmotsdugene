@@ -1,7 +1,6 @@
 Title: Les riches et les politiciens (planche 170)
 Date: 2016-12-30 14:56:14
 Modified: 2016-12-30 14:56:14
-Slug: les-riches-et-les-politiciens-planche-170
 Summary: 
 Lang: fr
 Status: published

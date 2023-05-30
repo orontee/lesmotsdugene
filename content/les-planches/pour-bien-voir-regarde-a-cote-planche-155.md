@@ -1,7 +1,6 @@
 Title: Pour bien voir...regarde à côté (planche 155)
 Date: 2016-03-16 16:01:11
 Modified: 2016-03-16 16:01:11
-Slug: pour-bien-voir-regarde-a-cote-planche-155
 Summary: 
 Lang: fr
 Status: published

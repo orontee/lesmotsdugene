@@ -1,7 +1,6 @@
 Title: Paille, paille, paille (planche 10 recto)
 Date: 2017-03-29 18:35:23
 Modified: 2017-03-29 18:35:23
-Slug: paille-paille-paille-planche-10-recto
 Summary: 
 Lang: fr
 Status: published

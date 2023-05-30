@@ -1,7 +1,6 @@
 Title: La chasse aux bécasses (planche 24)
 Date: 2016-10-28 15:28:54
 Modified: 2016-10-28 15:28:54
-Slug: la-chasse-aux-becasses-planche-24
 Summary: 
 Lang: fr
 Status: published

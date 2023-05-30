@@ -1,7 +1,6 @@
 Title: Janvier au tison... (planche 84)
 Date: 2017-01-30 15:44:33
 Modified: 2017-01-30 15:44:33
-Slug: janvier-au-tison-planche-84
 Summary: 
 Lang: fr
 Status: published

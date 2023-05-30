@@ -1,7 +1,6 @@
 Title: L'oreille fendue (planche 181)
 Date: 2016-11-28 10:23:51
 Modified: 2016-11-28 10:23:51
-Slug: l-oreille-fendue-planche-181
 Summary: 
 Lang: fr
 Status: published

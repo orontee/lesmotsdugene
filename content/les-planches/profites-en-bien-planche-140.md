@@ -1,7 +1,6 @@
 Title: Profites-en bien (planche 140)
 Date: 2016-09-28 15:53:30
 Modified: 2016-09-28 15:53:30
-Slug: profites-en-bien-planche-140
 Summary: 
 Lang: fr
 Status: published

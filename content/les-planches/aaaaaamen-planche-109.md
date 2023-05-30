@@ -1,7 +1,6 @@
 Title: Aaaaaamen (planche 109)
 Date: 2016-03-16 16:00:45
 Modified: 2016-03-16 16:00:45
-Slug: aaaaaamen-planche-109
 Summary: 
 Lang: fr
 Status: published

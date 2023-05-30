@@ -1,7 +1,6 @@
 Title: Le matin, c'est la Marie qui empêche Joseph de se lever (planche 145)
 Date: 2017-06-27 18:11:59
 Modified: 2017-06-27 18:11:59
-Slug: le-matin-c-est-la-marie-qui-empeche-joseph-de-se-lever-planche-145
 Summary: 
 Lang: fr
 Status: published

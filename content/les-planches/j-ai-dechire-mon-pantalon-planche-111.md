@@ -1,7 +1,6 @@
 Title: J'ai déchiré mon pantalon (planche 111)
 Date: 2018-03-12 16:44:31
 Modified: 2018-03-12 16:44:31
-Slug: j-ai-dechire-mon-pantalon-planche-111
 Summary: 
 Lang: fr
 Status: published

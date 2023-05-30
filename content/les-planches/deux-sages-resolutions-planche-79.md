@@ -1,7 +1,6 @@
 Title: Deux sages résolutions  (planche 79)
 Date: 2017-05-30 16:40:41
 Modified: 2017-05-30 16:40:41
-Slug: deux-sages-resolutions-planche-79
 Summary: 
 Lang: fr
 Status: published

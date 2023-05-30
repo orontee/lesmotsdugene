@@ -1,7 +1,6 @@
 Title: Pigeons, pigeonnes (planche 147)
 Date: 2017-03-01 16:37:35
 Modified: 2017-03-01 16:37:35
-Slug: pigeons-pigeonnes-planche-147
 Summary: 
 Lang: fr
 Status: published

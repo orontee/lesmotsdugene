@@ -1,7 +1,6 @@
 Title: La politique (planche 36)
 Date: 2016-11-28 10:39:59
 Modified: 2016-11-28 10:39:59
-Slug: la-politique-planche-36
 Summary: 
 Lang: fr
 Status: published

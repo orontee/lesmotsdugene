@@ -1,7 +1,6 @@
 Title: Retour de la vogue (planche 69)
 Date: 2016-07-04 16:22:58
 Modified: 2016-07-04 16:22:58
-Slug: retour-de-la-vogue-planche-69
 Summary: 
 Lang: fr
 Status: published

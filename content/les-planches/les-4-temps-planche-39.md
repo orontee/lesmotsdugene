@@ -1,7 +1,6 @@
 Title: Les 4 temps (planche 39)
 Date: 2017-05-01 10:32:55
 Modified: 2017-05-01 10:32:55
-Slug: les-4-temps-planche-39
 Summary: 
 Lang: fr
 Status: published

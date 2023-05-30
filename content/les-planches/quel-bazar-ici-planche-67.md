@@ -1,7 +1,6 @@
 Title: Quel bazar ici ! (planche 67)
 Date: 2017-05-30 16:16:33
 Modified: 2017-05-30 16:16:33
-Slug: quel-bazar-ici-planche-67
 Summary: 
 Lang: fr
 Status: published

@@ -1,7 +1,6 @@
 Title: Du bon sens (planche 60 recto et verso)
 Date: 2018-03-12 16:47:39
 Modified: 2018-03-12 16:47:39
-Slug: du-bon-sens-planche-60-recto-et-verso
 Summary: 
 Lang: fr
 Status: published

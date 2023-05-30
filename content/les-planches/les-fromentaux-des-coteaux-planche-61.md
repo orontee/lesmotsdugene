@@ -1,7 +1,6 @@
 Title: Les fromentaux des côteaux (planche 61)
 Date: 2017-06-27 18:11:00
 Modified: 2017-06-27 18:11:00
-Slug: les-fromentaux-des-coteaux-planche-61
 Summary: 
 Lang: fr
 Status: published

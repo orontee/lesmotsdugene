@@ -1,7 +1,6 @@
 Title: Rien ne sert de courir ... (planche 47)
 Date: 2017-03-01 16:28:32
 Modified: 2017-03-01 16:28:32
-Slug: rien-ne-sert-de-courir-planche-47
 Summary: 
 Lang: fr
 Status: published

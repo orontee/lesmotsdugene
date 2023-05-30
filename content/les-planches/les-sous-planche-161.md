@@ -1,7 +1,6 @@
 Title: Les sous (planche 161)
 Date: 2017-05-30 16:17:19
 Modified: 2017-05-30 16:17:19
-Slug: les-sous-planche-161
 Summary: 
 Lang: fr
 Status: published

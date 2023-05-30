@@ -1,7 +1,6 @@
 Title: Les cupelettes (planche 129)
 Date: 2016-01-28 15:12:54
 Modified: 2016-01-28 15:12:54
-Slug: les-cupelettes-planche-129
 Summary: 
 Lang: fr
 Status: published

@@ -1,7 +1,6 @@
 Title: Un peu de respect pour le nouvel élu (planche 9 verso)
 Date: 2016-07-04 16:35:31
 Modified: 2016-07-04 16:35:31
-Slug: un-peu-de-respect-pour-le-nouvel-elu-planche-9-verso
 Summary: 
 Lang: fr
 Status: published

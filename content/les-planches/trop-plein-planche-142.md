@@ -1,7 +1,6 @@
 Title: Trop "plein" (planche 142)
 Date: 2016-03-16 15:59:24
 Modified: 2016-03-16 15:59:24
-Slug: trop-plein-planche-142
 Summary: 
 Lang: fr
 Status: published

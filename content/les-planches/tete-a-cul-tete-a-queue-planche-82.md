@@ -1,7 +1,6 @@
 Title: Tête à cul, tête à queue (planche 82)
 Date: 2018-03-12 16:56:14
 Modified: 2018-03-12 16:56:14
-Slug: tete-a-cul-tete-a-queue-planche-82
 Summary: 
 Lang: fr
 Status: published

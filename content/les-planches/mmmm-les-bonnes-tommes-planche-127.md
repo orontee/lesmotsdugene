@@ -1,7 +1,6 @@
 Title: Mmmm! Les bonnes tommes (planche 127)
 Date: 2017-05-01 11:00:41
 Modified: 2017-05-01 11:00:41
-Slug: mmmm-les-bonnes-tommes-planche-127
 Summary: 
 Lang: fr
 Status: published

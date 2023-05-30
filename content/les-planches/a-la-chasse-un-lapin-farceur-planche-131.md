@@ -1,7 +1,6 @@
 Title: A la chasse, un lapin farceur (planche 131)
 Date: 2017-03-29 18:27:00
 Modified: 2017-03-29 18:27:00
-Slug: a-la-chasse-un-lapin-farceur-planche-131
 Summary: 
 Lang: fr
 Status: published

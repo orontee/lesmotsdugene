@@ -1,7 +1,6 @@
 Title: Mais cesse de rouspèter ! (planche 23)
 Date: 2017-05-01 10:51:24
 Modified: 2017-05-01 10:51:24
-Slug: mais-cesse-de-rouspeter-planche-23
 Summary: 
 Lang: fr
 Status: published

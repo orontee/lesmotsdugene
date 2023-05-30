@@ -1,7 +1,6 @@
 Title: Allez ! Courage ! (planche 112)
 Date: 2017-06-27 18:06:48
 Modified: 2017-06-27 18:06:48
-Slug: allez-courage-planche-112
 Summary: 
 Lang: fr
 Status: published

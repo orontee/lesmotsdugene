@@ -1,7 +1,6 @@
 Title: Horloge dou tôpié (planche 12)
 Date: 2015-06-15 00:16:30
 Modified: 2016-02-22 16:21:17
-Slug: horloge-dou-topie-planche-12
 Summary: Inâ tôpa. dïeu tôpa tré tôpa quatre...
 Lang: fr
 Status: published

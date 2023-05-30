@@ -1,7 +1,6 @@
 Title: Grosses comme des courges (planche 41)
 Date: 2016-12-30 14:50:41
 Modified: 2016-12-30 14:50:41
-Slug: grosses-comme-des-courges-planche-41
 Summary: 
 Lang: fr
 Status: published

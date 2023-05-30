@@ -1,7 +1,6 @@
 Title: Le roi de la basse-cour (planche 46)
 Date: 2017-12-06 16:37:03
 Modified: 2017-12-06 16:40:51
-Slug: le-roi-de-la-basse-cour-planche-46
 Summary: 
 Lang: fr
 Status: published

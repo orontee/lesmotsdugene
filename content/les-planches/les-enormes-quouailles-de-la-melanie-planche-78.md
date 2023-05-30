@@ -1,7 +1,6 @@
 Title: Les énormes "quouailles" de la Mélanie (planche 78)
 Date: 2017-03-01 16:29:20
 Modified: 2017-03-01 16:29:20
-Slug: les-enormes-quouailles-de-la-melanie-planche-78
 Summary: 
 Lang: fr
 Status: published

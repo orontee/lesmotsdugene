@@ -1,7 +1,6 @@
 Title: Facheuses conséquences ? (planche 115)
 Date: 2016-11-28 10:19:35
 Modified: 2016-11-28 10:19:35
-Slug: facheuses-consequences-planche-115
 Summary: 
 Lang: fr
 Status: published

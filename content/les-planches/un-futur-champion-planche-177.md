@@ -1,7 +1,6 @@
 Title: Un futur champion ? (planche 177)
 Date: 2017-06-27 18:05:49
 Modified: 2017-06-27 18:05:49
-Slug: un-futur-champion-planche-177
 Summary: 
 Lang: fr
 Status: published

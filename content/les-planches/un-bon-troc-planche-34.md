@@ -1,7 +1,6 @@
 Title: Un bon troc (planche 34)
 Date: 2016-09-28 15:27:18
 Modified: 2016-09-28 15:27:18
-Slug: un-bon-troc-planche-34
 Summary: 
 Lang: fr
 Status: published

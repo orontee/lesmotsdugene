@@ -1,7 +1,6 @@
 Title: L'irrigateur moitié-gaspi (planche 123)
 Date: 2016-12-30 14:42:27
 Modified: 2016-12-30 14:42:27
-Slug: l-irrigateur-moitie-gaspi-planche-123
 Summary: 
 Lang: fr
 Status: published

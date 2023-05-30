@@ -1,7 +1,6 @@
 Title: Tout sens dessus dessous (planche 103)
 Date: 2017-12-06 17:09:30
 Modified: 2017-12-06 17:09:30
-Slug: tout-sens-dessus-dessous-planche-103
 Summary: 
 Lang: fr
 Status: published

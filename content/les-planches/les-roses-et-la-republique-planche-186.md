@@ -1,7 +1,6 @@
 Title: Les roses et la république (planche 186)
 Date: 2017-06-27 18:12:15
 Modified: 2017-06-30 18:09:39
-Slug: les-roses-et-la-republique-planche-186
 Summary: 
 Lang: fr
 Status: published

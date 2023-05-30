@@ -1,7 +1,6 @@
 Title: Mettre tout le monde d'accord (planche 32)
 Date: 2016-09-28 15:23:15
 Modified: 2016-09-28 15:23:15
-Slug: mettre-tout-le-monde-d-accord-planche-32
 Summary: 
 Lang: fr
 Status: published

@@ -1,7 +1,6 @@
 Title: Les beaux jours (planche 141)
 Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:41:51
-Slug: les-beaux-jours-planche-141
 Summary: 
 Lang: fr
 Status: published

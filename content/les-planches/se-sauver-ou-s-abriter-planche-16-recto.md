@@ -1,7 +1,6 @@
 Title: Se sauver ou s'abriter (planche 16 recto)
 Date: 2016-07-04 16:51:10
 Modified: 2016-07-04 16:51:10
-Slug: se-sauver-ou-s-abriter-planche-16-recto
 Summary: 
 Lang: fr
 Status: published

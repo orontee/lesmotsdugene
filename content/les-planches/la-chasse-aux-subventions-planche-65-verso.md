@@ -1,7 +1,6 @@
 Title: La chasse aux subventions (planche 65 verso)
 Date: 2016-10-28 15:23:36
 Modified: 2016-10-28 15:23:36
-Slug: la-chasse-aux-subventions-planche-65-verso
 Summary: 
 Lang: fr
 Status: published
