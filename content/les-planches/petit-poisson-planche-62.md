@@ -28,3 +28,6 @@ Le Gène
 <p style="text-align:justify;">Eugène évoque là un ancien voisin du quartier des Bouilleaux que l'on trouvait un peu simplet mais qui savait se  révéler pourtant très malin et très efficace dans la négociation des prix.</p>
 
 
+<video width="320" height="240" controls>
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_62.mp4" type="video/mp4">
+</video>

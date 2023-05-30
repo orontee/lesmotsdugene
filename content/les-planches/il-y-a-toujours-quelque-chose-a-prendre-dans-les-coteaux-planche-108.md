@@ -23,3 +23,8 @@ a la monta je ne po ren adûre a la descente je po tô emporta
 
 ## Commentaire
 Eugène avait gravé une première planche, plus caustique, pour exprimer sa légère amertume devant l'avidité de certains profiteurs, chasseurs ou promeneurs qui viennent se ravitailler à la campagne à bon compte ; mais il ne l'a pas gardée et l'a remplacée par celle-ci pour ne pas risquer de blesser ceux qui auraient pu se sentir concernés.
+
+
+<video width="320" height="240" controls>
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_108.mp4" type="video/mp4">
+</video>

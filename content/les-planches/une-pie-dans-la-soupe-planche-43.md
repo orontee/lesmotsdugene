@@ -40,5 +40,5 @@ Planche inspirée par un voisin, "raconteur d'anecdotes" qui aimait bien utilise
 
 
 <video width="320" height="240" controls>
-  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_43_2_.mp4" type="video/mp4">
+  <source src="https://d1njpgd0ygatdn.cloudfront.net/video_43_2.mp4" type="video/mp4">
 </video>
