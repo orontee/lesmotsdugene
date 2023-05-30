@@ -18,7 +18,7 @@
 
     <ul>
       {% for category, articles in categories if category == 'les-planches' %}
-      {% for article in articles %}
+      {% for article in articles|sort(attribute='sortorder') %}
       <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
       {% endfor %}
       {% endfor %}
