@@ -5,7 +5,7 @@ Summary:
 Lang: fr
 Sortorder: 165-1
 
-<p style="text-align:justify;">Grande planche verticale en bois très sombre, découpée en forme de cuillère.  Un trou a été percé au sommet. Au verso, dessin d'un homme torse nu brandissant une masse.
+<p style="text-align:justify;">Grande planche verticale en bois très sombre, découpée en forme de cuillère.  Un trou a été percé au sommet. Au verso, dessin d'un homme torse nu brandissant une masse.</p>
 
 
 <figure class="image-block" style="float: left;">

@@ -41,8 +41,6 @@ Il ne faut pas croire que le monde tourne autour de ton nombril.  Regarde plutô
 
 Le Gène
 
-## .
-
 ## Commentaire
 Est-ce la découpe originale ou la position du nœud dans le bois qui a inspiré Eugène ???
 

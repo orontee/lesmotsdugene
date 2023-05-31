@@ -22,8 +22,6 @@ le gène
   <figcaption style="max-width: 277px">Bou diou qui piquant</figcaption>
 </figure>
 
-
-
 ## Traduction
 Bon Dieu, que c'est piquant !
 

@@ -12,7 +12,8 @@ Sortorder: 178-1
   <img alt="" src="{static}/images/planche_178-2.png">
   <figcaption style="max-width: 689px"></figcaption>
 </figure>
- ## Texte en patois
+
+## Texte en patois
 Lou z'avare é lou cayon Fan mé plaizi mort que vii
 
 le gène

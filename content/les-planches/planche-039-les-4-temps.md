@@ -5,8 +5,13 @@ Summary:
 Lang: fr
 Sortorder: 039-1
 
+<figure class="image-block" style="float: left;">
+  <img alt="" src="{static}/images/planche_39.png">
+  <figcaption style="max-width: 208px"></figcaption>
+</figure>
+
 <p style="text-align:justify;">Planche rectangulaire verticale. Le bord haut a une forme légèrement concave comme les lignes d'écriture.  En bas, au dessus d'un gros nœud, la dernière ligne de mots est encore plus incurvée.  </p>
-<img554|left>
+
 ## Texte en patois
 lou quatre.tan se son fâ pe tré jô de bize. bize drèta. â pâques ou vingt ávrï lou rôve fôille avan lou Fress  charbonnié ?  oré dié nô sôme ou pié dièn éssû                          le gène
 

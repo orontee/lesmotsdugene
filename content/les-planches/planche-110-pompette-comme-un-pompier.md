@@ -7,18 +7,16 @@ Sortorder: 110-1
 
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_110.png">
-  <figcaption style="max-width: 161px"></figcaption>
-</figure>
-
-<p style=text-align:justify;">Planche de bois clair, verticale et de moyenne grandeur. En haut, sont dessinés : une vache couchée dans une écurie aux murs en galets, un râtelier à foin et deux toiles d'araignées dans les angles. En dessous se trouve un personnage souriant, étendu à terre, la tête relevée, l'air égaré, entouré d'un casque de pompier et d'une bouteille presque vide.</p>
-
-
-<figure class="image-block" style="float: right;">
   <img alt="Qu&#x27;est-ce donc que ce veau là ?" src="{static}/images/planche_110_detail_dessin_haut.png">
   <figcaption style="max-width: 342px">Qu&#x27;est-ce donc que ce veau là ?</figcaption>
 </figure>
 
+<figure class="image-block" style="float: right;">
+  <img alt="" src="{static}/images/planche_110.png">
+  <figcaption style="max-width: 161px"></figcaption>
+</figure>
+
+<p style="text-align:justify;">Planche de bois clair, verticale et de moyenne grandeur. En haut, sont dessinés : une vache couchée dans une écurie aux murs en galets, un râtelier à foin et deux toiles d'araignées dans les angles. En dessous se trouve un personnage souriant, étendu à terre, la tête relevée, l'air égaré, entouré d'un casque de pompier et d'une bouteille presque vide.</p>
 
 ## Texte en patois
 a la sainte Barbe le banquet dou  pompié la bardelle étié ou vio. mé marie diéme preque a mié. no sû la paille ayé ién  Pompié

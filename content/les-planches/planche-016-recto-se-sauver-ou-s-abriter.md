@@ -10,7 +10,7 @@ Sortorder: 016-1
   <img alt="" src="{static}/images/planche_16_recto.png">
   <figcaption style="max-width: 204px"></figcaption>
 </figure>
-<p style="text-align:justify;">Planche étroite en bois clair, de grande taille et gravée des deux côtés. Elle est posée sur un socle et découpée en forme de jambe. Sur le recto, dessin légèrement esquissé de la tête joufflue d'un Eole soufflant fort sur un couple en marche.
+<p style="text-align:justify;">Planche étroite en bois clair, de grande taille et gravée des deux côtés. Elle est posée sur un socle et découpée en forme de jambe. Sur le recto, dessin légèrement esquissé de la tête joufflue d'un Eole soufflant fort sur un couple en marche.</p>
 
 ## Texte en patois
 pe te sôtre dou mové tan te fô la creyanse le tôpé ou de grandâ jambà ou te mettà â l’ourri dou vent è à l’assoute de la plève

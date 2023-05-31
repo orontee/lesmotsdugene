@@ -8,9 +8,9 @@ Sortorder: 133-1
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_133.png">
-  <figcaption style="max-width: 249px"></figcaption>
 </figure>
-<p style="text-align:justify;">Planche verticale légèrement incurvée vers la gauche. Tous les côtés sont découpés mécaniquement et trois des angles biseautés.<p/>
+
+<p style="text-align:justify;">Planche verticale légèrement incurvée vers la gauche. Tous les côtés sont découpés mécaniquement et trois des angles biseautés.</p>
 
 ## Texte en patois
 Na plu de chèn dressia pe garda lou tropeu de vache i son dressia pe garda lou monde lou cul–tarrou son  partii de chez nòu mé lou bicorne son trey fé mé nombrou en villa le z‘ églièze son vouïde le prezon son Plène
