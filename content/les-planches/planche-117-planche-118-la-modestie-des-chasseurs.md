@@ -3,7 +3,7 @@ Date: 2016-12-30 14:55:12
 Modified: 2016-12-30 14:55:12
 Summary: 
 Lang: fr
-Sortorder: 117-2
+Sortorder: 117-1
 
 <p style="text-align:justify;">Très petite planche horizontale. Le coté gauche est lisse et relevé vers le haut. Le côté droit est découpé sinueusement. Les bords inférieur et supérieur sont bruts et bordés d'écorce. Les chiffres sont soulignés de deux traits.</p>
 
@@ -25,15 +25,6 @@ Tu sais, à la chasse, à présent, il n'y a plus rien, mais il y en a qui ne sa
 
 ## Commentaire
 Ces planches forment un ensemble illustrant avec ironie un imaginaire dialogue entre un chasseur et un autre, sans doute Eugène.
-
-
-
-
-
-
-
-
-
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_117.mp4" type="video/mp4">
