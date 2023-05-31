@@ -10,7 +10,7 @@ Sortorder: 174-1
   <img alt="" src="{static}/images/planche_174-2.png">
   <figcaption style="max-width: 90px"></figcaption>
 </figure>
-<p style="text-align:justify;">Très longue planche verticale très étroite, en bois clair d'alisier (150cm  x 25cm). Les lettres sont gravées et brulées par la mèche usée de la perceuse utilisée par Eugène. Le bas et le haut sont fendus.</p>
+<p style="text-align:justify;">Très longue planche verticale très étroite, en bois clair d'alisier (150cm x 25cm). Les lettres sont gravées et brulées par la mèche usée de la perceuse utilisée par Eugène. Le bas et le haut sont fendus.</p>
 
 ## Texte en patois
 ankio tó va mâ se fâ to de travè la terra i sovan trop basse lou zoutii le manche pâ remborra pe s’assetâ le selle son trop basse fâ solé ou plo Kan fo pâ. pe migé le pan a bïen trop de farine na pâ dou sû cent de contan ? si te cré que to vâ si mâ i que to vâ pa trop mâ dereu lontan na plu personne po zou vère
