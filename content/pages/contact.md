@@ -1,7 +1,7 @@
 Title: Contact
 Slug: contact
 Summary: Contact
-Status: published
+Status: hidden
 
 <p>
   Association « Les mots du Gène »<br>

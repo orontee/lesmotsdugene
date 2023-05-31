@@ -23,7 +23,7 @@ ARCHIVES_SAVE_AS = ''
 TAG_SAVE_AS = ''
 TAGS_SAVE_AS = ''
 
-DIRECT_TEMPLATES = []
+DIRECT_TEMPLATES = ['index']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -40,7 +40,7 @@ MENUITEMS = (
     ('Planches', '/pages/les-planches.html'),
     ('Sculptures', '/pages/les-sculptures.html'),
     ('Notes', '/pages/quelques-notes-a-propos-des-mots-d-eugene.html'),
-    ("Association", '/category/l-association.html'),
+    ("Association", '/pages/l-association.html'),
 )
 
 # Blogroll
@@ -50,10 +50,10 @@ LINKS = (
 )
 
 # Social widget
-SOCIAL = (
-    ('You can add links in your config file', '#'),
-    ('Another social link', '#'),
-)
+# SOCIAL = (
+#     ('You can add links in your config file', '#'),
+#     ('Another social link', '#'),
+# )
 
 DEFAULT_PAGINATION = 10
 

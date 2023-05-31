@@ -1,7 +1,7 @@
 Title: Mentions légales
 Slug: mentions
 Summary: Mentions légales
-Status: published
+Status: hidden
 
 # Éditeur
 
