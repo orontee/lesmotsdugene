@@ -46,6 +46,7 @@ MENUITEMS = (
 # Blogroll
 LINKS = (
     ('Contact', '/pages/contact.html'),
+    ('Mentions légales', '/pages/mentions.html'),
 )
 
 # Social widget
