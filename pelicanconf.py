@@ -16,14 +16,14 @@ EXTRA_PATH_METADATA = {
 # Disable generation of some pages
 AUTHOR_SAVE_AS = ''
 AUTHORS_SAVE_AS = ''
-# CATEGORY_SAVE_AS = ''
-# CATEGORIES_SAVE_AS = ''
+CATEGORY_SAVE_AS = ''
+CATEGORIES_SAVE_AS = ''
 ARCHIVE_SAVE_AS = ''
 ARCHIVES_SAVE_AS = ''
 TAG_SAVE_AS = ''
 TAGS_SAVE_AS = ''
 
-DIRECT_TEMPLATES = ['index']
+DIRECT_TEMPLATES = []
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
