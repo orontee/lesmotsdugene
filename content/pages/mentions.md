@@ -18,7 +18,7 @@ Status: hidden
 <p>
   ALWAYSDATA<br>
   91, rue du Faubourg Saint-Honoré, 75008 Paris<br>
-  Tél. : tél. +33 1 84 16 23 40
+  tél. +33 1 84 16 23 40
 </p>
 
 # Réutilisation des contenus
