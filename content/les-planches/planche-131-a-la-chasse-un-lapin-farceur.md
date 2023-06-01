@@ -3,7 +3,8 @@ Date: 2017-03-29 18:27:00
 Modified: 2017-03-29 18:27:00
 Summary: 
 Lang: fr
-Sortorder: 131-1
+Series: planches
+series_index: 138
 
 <p style="text-align:justify;">Grande planche verticale assez brute en forme de virgule recourbée sur la droite et très étroite en bas. En haut, dessin d'un homme assis à califourchon sur un rondin de bois et pointant un fusil devant lui. Il est entouré de petits lapins. Sur la droite, dessin d'une tête de lapin semblant observer le chasseur. </p>
 

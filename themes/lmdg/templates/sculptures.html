@@ -17,10 +17,8 @@
     {{ page.content }}
 
     <ul>
-      {% for category, articles in categories if category == 'les-sculptures' %}
-      {% for article in articles %}
+      {% for article in series.sculptures %}
       <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
-      {% endfor %}
       {% endfor %}
     </ul>
 </section>

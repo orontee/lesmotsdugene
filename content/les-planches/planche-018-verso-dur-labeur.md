@@ -3,7 +3,8 @@ Date: 2017-05-30 16:31:37
 Modified: 2017-05-30 16:31:37
 Summary: 
 Lang: fr
-Sortorder: 018-2
+Series: planches
+series_index: 24
 
 <p style="text-align:justify;">Planche de moyenne grandeur, assez large, de forme trapézoïdale. Les bords supérieurs et inférieurs sont droits. Les côtés latéraux ont des formes sinueuses. La planche est fissurée en bas. Sur chaque face, on trouve deux anecdotes séparées par un petit trait.</p>
 

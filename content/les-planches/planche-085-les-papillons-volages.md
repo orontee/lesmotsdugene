@@ -3,7 +3,8 @@ Date: 2018-03-12 17:00:13
 Modified: 2018-03-12 17:00:13
 Summary: 
 Lang: fr
-Sortorder: 085-1
+Series: planches
+series_index: 94
 
  <p style="text-align:justify;">Grande planche verticale. Le bord supérieur est découpé en dents de scie. Dessin d'un papillon à droite du "y" en début de phrase. Dessin inséré sous le mot "pistil" d'une marguerite à onze pétales qui figurent des visages. Le cœur de la fleur est un nœud du bois et elle est entourée de deux papillons très détaillés. La boucle du deuxième "i" du mot "pistil" est évasée en forme d'ampoule éclairée. La boucle du "P" majuscule du mot "Papillon" forme le dessin d'un papillon. Un trou bouché se trouve tout en bas.</p>
 

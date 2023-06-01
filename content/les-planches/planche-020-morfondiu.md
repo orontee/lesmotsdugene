@@ -3,7 +3,8 @@ Date: 2018-02-09 15:49:15
 Modified: 2018-02-09 15:49:15
 Summary: 
 Lang: fr
-Sortorder: 020-1
+Series: planches
+series_index: 26
 
 Petite planche dont les deux bords latéraux sont concaves et les bords hauts et bas ondulés.
 

@@ -3,7 +3,8 @@ Date: 2016-12-30 14:42:27
 Modified: 2016-12-30 14:42:27
 Summary: 
 Lang: fr
-Sortorder: 123-1
+Series: planches
+series_index: 130
 
 <p style="text-align:justify;">Planche verticale, peu épaisse. En bas, on trouve un gros trou dû à un nœud dans le bois. En haut à droite, dessin d'un soleil rayonnant. Au sommet, est suspendu un objet ancien en métal pourvu d'un robinet qui servait autrefois aux soins des bêtes.</p>
 <figure class="image-block" style="float: right;">

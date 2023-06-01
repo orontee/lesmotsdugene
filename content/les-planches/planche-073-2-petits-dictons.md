@@ -3,7 +3,8 @@ Date: 2017-01-30 15:40:32
 Modified: 2017-01-30 15:40:32
 Summary: 
 Lang: fr
-Sortorder: 073-1
+Series: planches
+series_index: 82
 
 Petite planche horizontale en deux parties séparées par un trait vertical. Le nombre "78" est gravé en haut à droite.
 

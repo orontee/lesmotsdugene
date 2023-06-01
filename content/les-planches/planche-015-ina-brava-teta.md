@@ -3,7 +3,8 @@ Date: 2016-01-28 15:16:07
 Modified: 2016-01-28 15:16:07
 Summary: 
 Lang: fr
-Sortorder: 015-1
+Series: planches
+series_index: 18
 
 <p style="text-align:justify;">Planche de taille moyenne de forme ovale, représentant une tête d'homme au menton pointu. De chaque côté, les oreilles sont dessinées et découpées.Le texte est gravé sur toute la surface en suivant la découpe de la planche et le dessin des sourcils, des yeux, du nez et de la bouche.</p>
 

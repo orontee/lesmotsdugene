@@ -3,7 +3,8 @@ Date: 2017-05-01 11:04:06
 Modified: 2017-05-01 11:04:06
 Summary: 
 Lang: fr
-Sortorder: 124-1
+Series: planches
+series_index: 131
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur aux bords très droits. Sur le haut est fixé un cor à trois pistons un peu cabossé. Un petit trait sinueux sépare les deux textes.</p>
 

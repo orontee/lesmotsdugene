@@ -3,7 +3,8 @@ Date: 2017-03-29 18:32:56
 Modified: 2017-03-29 18:32:56
 Summary: 
 Lang: fr
-Sortorder: 068-1
+Series: planches
+series_index: 77
 
 <p style="text-align:justify;">Très grande planche verticale, épaisse et lourde. Le bord supérieur est découpé en angle obtus. En haut est dessiné un soleil. Un trait sépare la première phrase de la suite. La phrase «Fo prendre la via dou bon Flan » est gravée en arrondi autour d'un nœud sombre où des fentes figurent les traits caricaturaux d'un visage. Dans la partie inférieure, un autre gros nœud percé est traversé par une fente verticale.</p>
 

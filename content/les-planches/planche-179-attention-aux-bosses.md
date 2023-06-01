@@ -3,7 +3,8 @@ Date: 2016-09-28 15:21:48
 Modified: 2016-09-28 15:21:48
 Summary: 
 Lang: fr
-Sortorder: 179-1
+Series: planches
+series_index: 186
 
 Toute petite planche verticale un peu plus large en haut qu'en bas. Le bord inférieur est ondulé. Les lettres sont repeintes en doré.
 

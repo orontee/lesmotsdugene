@@ -3,7 +3,8 @@ Date: 2017-06-27 18:11:00
 Modified: 2017-06-27 18:11:00
 Summary: 
 Lang: fr
-Sortorder: 061-1
+Series: planches
+series_index: 68
 
 <p style="text-align:justify;">Planche horizontale en forme de vague : le bord supérieur est à peu près droit, le bord inférieur est arrondi. A droite la planche a une forme recourbée vers le bas et présente la marque d'un large nœud de bois très foncé. Cette planche comprend deux textes : l'un à gauche, l'autre à droite et entre les deux, l'esquisse d'un paysage de montagnes sous un soleil rayonnant.</p>
 

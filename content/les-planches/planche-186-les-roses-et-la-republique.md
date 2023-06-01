@@ -3,7 +3,8 @@ Date: 2017-06-27 18:12:15
 Modified: 2017-06-30 18:09:39
 Summary: 
 Lang: fr
-Sortorder: 186-1
+Series: planches
+series_index: 192
 
 Planche verticale de moyenne grandeur bordée d'écorces et en forme de X. Un petit dessin représentant un bouquet de roses orne le coin gauche en haut de la planche. Un petit trait au milieu  de la planche sépare les deux phrases.
 

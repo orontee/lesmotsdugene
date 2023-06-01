@@ -3,7 +3,8 @@ Date: 2015-11-18 17:47:37
 Modified: 2016-01-20 16:05:49
 Summary: Pour le second mois de l’an, le soleil est chaud ! 
 Lang: fr
-Sortorder: 119-1
+Series: planches
+series_index: 126
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur. En haut à gauche, dessin d'un soleil aux longs rayons sinueux dans lequel est dessiné un visage humain. À la troisième ligne, le « O » de « chO » est utilisé pour représenter un soleil identique mais plus petit. Une lune à profil humain illustre dans le texte les mots « novella lûna ». De nombreuses étoiles à cinq branches parsèment cette partie du texte.</p>
 

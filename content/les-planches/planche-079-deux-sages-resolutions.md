@@ -3,7 +3,8 @@ Date: 2017-05-30 16:40:41
 Modified: 2017-05-30 16:40:41
 Summary: 
 Lang: fr
-Sortorder: 079-1
+Series: planches
+series_index: 88
 
 Petite planche horizontale. Texte en deux parties séparées par un trait vertical sinueux.
 

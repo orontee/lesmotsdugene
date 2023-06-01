@@ -3,7 +3,8 @@ Date: 2016-09-28 15:53:30
 Modified: 2016-09-28 15:53:30
 Summary: 
 Lang: fr
-Sortorder: 140-1
+Series: planches
+series_index: 148
 
 <p style="text-align:justify;">Petite planche horizontale dont la forme originale présente sur le bas un appendice de type crochet. A gauche, contre le bord en biais, dessin d'une ou plusieurs plumes. Au centre, dessin d'un oiseau perché dans un arbre, la queue dressée. A droite, dessin d'une bécasse, la queue oblique vers le bas. Elle semble tenir au bout de son bec un petit ver dessiné par un défaut du bois. Complètement à droite, une tête de bécasse est gravée tout contre le bord droit. Les deux parties de la phrase se répartissent à gauche et à droite du dessin central.</p>
 

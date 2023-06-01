@@ -3,7 +3,8 @@ Date: 2016-07-04 16:24:54
 Modified: 2016-07-04 16:24:54
 Summary: 
 Lang: fr
-Sortorder: 062-1
+Series: planches
+series_index: 69
 
 <p style="text-align:justify;">Petite planche horizontale en forme de poisson. Le nombre "56"  est gravé en haut à gauche. Une fente naturelle dans le bois figure la bouche. Le mot unique "pesson" est placé un peu en biais dans la partie correspondant à la queue du poisson pour s'associer aux deux adjectifs "petié" et "gréo".</p>
 

@@ -3,7 +3,8 @@ Date: 2016-12-30 14:41:33
 Modified: 2016-12-30 14:41:33
 Summary: 
 Lang: fr
-Sortorder: 152-1
+Series: planches
+series_index: 160
 
 Longue planche horizontale en bois sombre qui comporte huit textes les uns à côté des autres, séparés par un trait.
 

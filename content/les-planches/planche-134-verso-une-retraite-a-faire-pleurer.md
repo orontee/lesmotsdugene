@@ -3,7 +3,8 @@ Date: 2016-11-28 18:16:00
 Modified: 2016-12-12 18:17:56
 Summary: 
 Lang: fr
-Sortorder: 134-2
+Series: planches
+series_index: 142
 
 <p style="text-align:justify;">Planche naturellement très découpée avec des nœuds sombres, des cicatrices et des fentes dans le bois. Les deux tiers du haut sont deux fois plus larges que le bas.  Dessin d'une tête d'âne en haut à gauche et une bulle contenant l'onomatopée "iiian", les "i" de plus en plus petits. Vers le bas à gauche, dessin d'un âne qui pleure devant le mot "cadichon".</p>
 

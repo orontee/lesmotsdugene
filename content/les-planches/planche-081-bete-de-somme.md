@@ -3,7 +3,8 @@ Date: 2018-02-09 17:08:16
 Modified: 2018-02-09 17:19:55
 Summary: 
 Lang: fr
-Sortorder: 081-1
+Series: planches
+series_index: 90
 
 <p style="text-align:justify;">Planche verticale trapézoïdale, un peu plus large en haut. Le bord droit est un peu fendu. A droite, en haut, dessin d'un joug, puis insérées entre les termes correspondants, deux petites boucles fermées et la silhouette d'une pièce de bois rectangulaire et crantée. Au bas de la planche, dessin d'une charrue vigneronne.     </p>
 

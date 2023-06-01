@@ -3,7 +3,8 @@ Date: 2017-06-27 18:03:25
 Modified: 2019-07-25 19:38:53
 Summary: 
 Lang: fr
-Sortorder: 014-1
+Series: planches
+series_index: 17
 
 <p style="text-align:justify;">Planche verticale rectangulaire de taille moyenne. Les bords latéraux sont bruts, le bord supérieur ondulé et le bord du bas, droit. En bas à gauche, est dessiné un pot avant le mot "PO". </p>
 <figure class="image-block" style="float: left;">

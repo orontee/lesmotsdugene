@@ -3,7 +3,8 @@ Date: 2016-12-30 14:55:12
 Modified: 2016-12-30 14:55:12
 Summary: 
 Lang: fr
-Sortorder: 117-1
+Series: planches
+series_index: 125
 
 <p style="text-align:justify;">Très petite planche horizontale. Le coté gauche est lisse et relevé vers le haut. Le côté droit est découpé sinueusement. Les bords inférieur et supérieur sont bruts et bordés d'écorce. Les chiffres sont soulignés de deux traits.</p>
 

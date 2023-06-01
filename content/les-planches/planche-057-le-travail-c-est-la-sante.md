@@ -3,7 +3,8 @@ Date: 2018-03-12 16:53:02
 Modified: 2018-03-12 16:53:02
 Summary: 
 Lang: fr
-Sortorder: 057-1
+Series: planches
+series_index: 64
 
 Petite planche horizontale de forme concave. A gauche, dessin d'un homme assis au pied d'un arbre sous un soleil rayonnant.
 

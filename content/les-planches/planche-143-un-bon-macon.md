@@ -3,7 +3,8 @@ Date: 2017-06-27 18:05:06
 Modified: 2017-06-27 18:05:06
 Summary: 
 Lang: fr
-Sortorder: 143-1
+Series: planches
+series_index: 151
 
 Petite planche rectangulaire verticale bordée d'écorce. Une petite fente part du sommet.
 

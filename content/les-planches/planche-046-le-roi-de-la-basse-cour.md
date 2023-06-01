@@ -3,7 +3,8 @@ Date: 2017-12-06 16:37:03
 Modified: 2017-12-06 16:40:51
 Summary: 
 Lang: fr
-Sortorder: 046-1
+Series: planches
+series_index: 53
 
 
 <figure class="image-block" style="float: left;">

@@ -3,7 +3,8 @@ Date: 2016-01-28 15:12:26
 Modified: 2016-01-28 15:12:26
 Summary: 
 Lang: fr
-Sortorder: 107-1
+Series: planches
+series_index: 115
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur à la forme atypique. En haut à droite, elle forme une grande saillie sur laquelle est gravé le nombre "67", dont le premier chiffre est difficilement lisible suivi de la première partie du texte : " entendïu en 1939 aprés ien tarrible ouragan de grèle". Le bord gauche est bordé d'écorce. Tout en bas, sous la signature et en petits caractères, Eugène a rajouté la phrase « il avait 5 ans ».</p>
 

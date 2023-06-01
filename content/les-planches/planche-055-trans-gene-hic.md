@@ -3,7 +3,8 @@ Date: 2016-05-23 17:48:18
 Modified: 2016-05-23 17:48:18
 Summary: 
 Lang: fr
-Sortorder: 055-1
+Series: planches
+series_index: 62
 
 <p style="text-align:justify;">Petite planche horizontale percée de deux trous sur le haut pour pouvoir y faire passer une ficelle et faciliter ainsi son accrochage. Sur la droite, dessin peu appuyé d'une grosse fraise avec son calice et son pédoncule.</p>
 

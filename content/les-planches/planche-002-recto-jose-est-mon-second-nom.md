@@ -3,7 +3,8 @@ Date: 2015-11-18 17:27:12
 Modified: 2016-01-20 16:04:24
 Summary: jozé i mon segon nom  ?
 Lang: fr
-Sortorder: 002-1
+Series: planches
+series_index: 2
 
 <p style="text-align:justify;">Planche verticale haute, étroite et légèrement courbe. Sa forme ressemble vaguement à une botte. </p>
 

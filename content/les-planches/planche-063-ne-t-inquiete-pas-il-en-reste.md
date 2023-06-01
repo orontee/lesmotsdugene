@@ -3,7 +3,8 @@ Date: 2017-03-01 16:36:44
 Modified: 2017-03-06 16:44:20
 Summary: 
 Lang: fr
-Sortorder: 063-1
+Series: planches
+series_index: 70
 
 <p style="text-align:justify;">Planche verticale. Le bord supérieur est découpé avec des sinuosités qui soulignent la forme des sommets des montagne dessinées en dessous ainsi que deux vaches et deux arbres.</p>
 <figure class="image-block" style="float: right;">

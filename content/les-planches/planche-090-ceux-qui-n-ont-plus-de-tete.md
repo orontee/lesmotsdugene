@@ -3,7 +3,8 @@ Date: 2017-03-29 18:27:49
 Modified: 2017-03-29 18:27:49
 Summary: 
 Lang: fr
-Sortorder: 090-1
+Series: planches
+series_index: 99
 
 <p style="text-align:justify;">Planche verticale très étroite en bas et s'évasant vers le haut. Le bord haut est découpé en formant des sinuosités, les bords latéraux sont bruts. Le nombre "82" est gravé en haut à gauche. En haut à droite, dessin d'un homme tenant sa tête sous le bras.  A sa place, un point d'interrogation est coiffé d'une casquette.</p>
 <figure class="image-block" style="float: right;">

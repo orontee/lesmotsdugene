@@ -3,7 +3,8 @@ Date: 2017-01-30 15:51:17
 Modified: 2017-01-30 15:51:17
 Summary: 
 Lang: fr
-Sortorder: 009-1
+Series: planches
+series_index: 11
 
 <p style="text-align:justify;">Grande planche rectangulaire, assez large aux bords très découpés, gravée sur les deux faces. Elle présente un gros trou dans le premier tiers de la hauteur. Le bord inférieur s'évase vers la gauche.</p>
 

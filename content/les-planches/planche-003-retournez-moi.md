@@ -3,7 +3,8 @@ Date: 2015-09-11 18:07:46
 Modified: 2016-01-20 16:02:51
 Summary: Re  vi  rié  me  
 Lang: fr
-Sortorder: 003-1
+Series: planches
+series_index: 5
 
  Petite planche recto et verso qui tourne sur un axe fiché sur un petit socle en terre.
 

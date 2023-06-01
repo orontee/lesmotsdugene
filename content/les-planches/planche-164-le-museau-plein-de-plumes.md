@@ -3,7 +3,8 @@ Date: 2016-05-23 18:22:17
 Modified: 2016-06-12 10:44:26
 Summary: 
 Lang: fr
-Sortorder: 164-1
+Series: planches
+series_index: 171
 
 <p style="text-align:justify;">Planche verticale de grandeur moyenne en bois teinté assez sombre. Le bord haut est découpé pour former deux arcs de cercle. Au sommet, est gravé le dessin d'une tête de renard aux yeux un peu exorbités.</p>
 <figure class="image-block" style="float: right;">

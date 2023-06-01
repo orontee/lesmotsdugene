@@ -3,7 +3,8 @@ Date: 2017-05-01 11:00:41
 Modified: 2017-05-01 11:00:41
 Summary: 
 Lang: fr
-Sortorder: 127-1
+Series: planches
+series_index: 134
 
 <p style="text-align:justify;">Petite planche rectangulaire, horizontale en bois sombre. Au centre est fixé un morceau de bois sculpté qui constitue une poignée, donnant à l'ensemble l'aspect d'un plateau de fromage. Le texte se répartit de part et d'autre de la poignée.</p>
 

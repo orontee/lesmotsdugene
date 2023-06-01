@@ -3,7 +3,8 @@ Date: 2016-03-16 16:00:34
 Modified: 2016-03-16 16:00:34
 Summary: 
 Lang: fr
-Sortorder: 159-1
+Series: planches
+series_index: 167
 
 <p style="text-align:justify;">Planche horizontale double face, en bois d'if très dur. Elle est bordée d'écorce et légèrement courbe. Sur le recto, la deuxième partie du texte est gravé autour d'un gros nœud de bois sombre traversant.</p>
 

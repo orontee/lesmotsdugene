@@ -3,7 +3,8 @@ Date: 2017-03-01 16:31:54
 Modified: 2017-03-01 16:31:54
 Summary: 
 Lang: fr
-Sortorder: 183-1
+Series: planches
+series_index: 189
 
 <p style="text-align:justify;">Planche verticale. Les bords latéraux sont bordés d'écorce. Le haut et le bas sont découpés afin de représenter la silhouette d'une tête de vache. Les cornes et les oreilles sont redessinées pour souligner le sommet de la tête, les yeux et le mufle.</p>
 <figure class="image-block" style="float: center;">

@@ -3,7 +3,8 @@ Date: 2016-10-28 15:30:36
 Modified: 2016-10-28 15:31:49
 Summary: 
 Lang: fr
-Sortorder: 173-1
+Series: planches
+series_index: 180
 
 Toute petite planche verticale légèrement bordée d'écorce.
 

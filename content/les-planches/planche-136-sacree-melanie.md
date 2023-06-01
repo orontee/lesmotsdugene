@@ -3,7 +3,8 @@ Date: 2016-11-28 10:26:08
 Modified: 2016-11-28 10:26:08
 Summary: 
 Lang: fr
-Sortorder: 136-1
+Series: planches
+series_index: 144
 
 <p style="text-align:justify;">Grande planche verticale rectangulaire. En haut avant le texte, dessin d'un homme et d'une femme qui se tiennent par la main, tous les deux coiffés d'un chapeau. Leurs visages sont très expressifs. Tout en bas, sous la signature, semblent gravées les lettres "C" et "O" (?).</p>
 

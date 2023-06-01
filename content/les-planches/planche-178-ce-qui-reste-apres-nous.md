@@ -3,7 +3,8 @@ Date: 2016-09-28 15:21:56
 Modified: 2016-09-28 15:23:48
 Summary: 
 Lang: fr
-Sortorder: 178-1
+Series: planches
+series_index: 185
 
 <p style="text-align:justify;">Planche horizontale de moyenne grandeur. Elle présente deux petites aspérités vers son milieu, l'une sur le bord supérieur et l'autre sous le bord inférieur. A gauche, dessin d'un homme coiffé d'une casquette qui porte un coffre marqué "C.F." et marche derrière un cochon.</p>
 

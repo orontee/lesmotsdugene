@@ -3,7 +3,8 @@ Date: 2017-03-29 18:30:14
 Modified: 2017-04-24 17:58:01
 Summary: 
 Lang: fr
-Sortorder: 157-1
+Series: planches
+series_index: 165
 
 <p style="text-align:justify;">Planche verticale très veinée, de moyenne grandeur. Tous les bords sont découpés; celui du haut est sinueux. Au dessus du texte, un dessin de paysage de collines avec deux chèvres, un lièvre, une ferme et des arbres.</p>
 

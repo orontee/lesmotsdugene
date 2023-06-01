@@ -3,7 +3,8 @@ Date: 2017-01-30 15:49:48
 Modified: 2017-02-08 11:31:18
 Summary: 
 Lang: fr
-Sortorder: 139-1
+Series: planches
+series_index: 147
 
 <p style="text-align:justify;">Petite planche rectangulaire verticale en bois clair très veiné. Le bord haut a une forme doublement bosselée. Le bord bas est également un peu sinueux. Les côtés latéraux s'évasent très légèrement de bas en haut.</p>
 

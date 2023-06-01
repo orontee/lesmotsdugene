@@ -3,7 +3,8 @@ Date: 2016-05-23 17:46:12
 Modified: 2016-05-23 17:46:12
 Summary: 
 Lang: fr
-Sortorder: 035-1
+Series: planches
+series_index: 42
 
 <p style="text-align:justify;">Grande planche verticale étroite, en forme de "V" très effilé et découpé en "cascades". Le bord supérieur est droit. En haut à gauche, dessin d'une vache; à droite, est gravé le nombre "35" Les lettres du texte sont peintes en doré. </p>
 

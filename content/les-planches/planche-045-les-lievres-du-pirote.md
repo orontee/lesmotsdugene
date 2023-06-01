@@ -3,7 +3,8 @@ Date: 2017-06-27 18:35:14
 Modified: 2017-06-27 18:35:14
 Summary: 
 Lang: fr
-Sortorder: 045-1
+Series: planches
+series_index: 52
 
 <p style="text-align:justify;">Grande planche verticale, très découpée en haut. En haut, à droite, dessin d'un homme tenant un lièvre par les pattes au dessus d'un autre. En dessous, dessin d'un homme prêt à jeter quelque chose qui ressemble à une pierre. En haut à gauche, dessin d'un lièvre et en dessous contre le bord, dessin d'une tête de lièvre. Le nombre "45" est gravé en haut à droite.</p>
 <figure class="image-block" style="float: left;">

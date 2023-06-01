@@ -3,7 +3,8 @@ Date: 2017-12-06 16:48:07
 Modified: 2017-12-06 16:48:07
 Summary: 
 Lang: fr
-Sortorder: 054-1
+Series: planches
+series_index: 61
 
 Petite planche  horizontale. Les bords sont ondulés. Le bas présente des petites rayures verticales.
 

@@ -3,7 +3,8 @@ Date: 2016-07-04 16:31:00
 Modified: 2016-07-04 16:31:00
 Summary: 
 Lang: fr
-Sortorder: 149-1
+Series: planches
+series_index: 157
 
 Toute petite planche verticale fendue sur une petite moitié de sa hauteur.
 

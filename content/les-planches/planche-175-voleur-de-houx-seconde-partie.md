@@ -3,7 +3,8 @@ Date: 2016-10-27 20:00:00
 Modified: 2016-10-28 15:19:25
 Summary: 
 Lang: fr
-Sortorder: 175-1
+Series: planches
+series_index: 182
 
 <p style="text-align:justify;">Planche verticale en bois clair, un peu plus large en haut et percée de deux trous au sommet. Les lettres sont brun sombre. Les trois initiales C, O et N des mots Conservateû, Obsêrvateû et Naturalaman sont en gras et soulignées.</p>
 <figure class="image-block" style="float: right;">

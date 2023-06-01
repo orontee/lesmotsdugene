@@ -3,7 +3,8 @@ Date: 2017-03-29 18:31:59
 Modified: 2017-03-29 18:31:59
 Summary: 
 Lang: fr
-Sortorder: 146-1
+Series: planches
+series_index: 154
 
 Petite planche rectangulaire et horizontale, bordée d'écorce. Le nombre "77" est gravé en haut à droite.
 

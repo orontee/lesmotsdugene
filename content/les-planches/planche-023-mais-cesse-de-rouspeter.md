@@ -3,7 +3,8 @@ Date: 2017-05-01 10:51:24
 Modified: 2017-05-01 10:51:24
 Summary: 
 Lang: fr
-Sortorder: 023-1
+Series: planches
+series_index: 29
 
 <p style="text-align:justify;">Planche verticale de dimension moyenne. En haut, dessin de la tête d'une vache qui meugle ("B'heueû") et de deux chèvres perchées sur des rochers. A droite, est gravé le nombre raturé "23" ou "24" (?).</p>
 

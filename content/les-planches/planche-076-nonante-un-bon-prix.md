@@ -3,7 +3,8 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:40:58
 Summary: 
 Lang: fr
-Sortorder: 076-1
+Series: planches
+series_index: 85
 
 <p style="text-align:justify;">Très grande planche horizontale en trois parties : Les textes sont répartis à gauche et à droite, séparés par le dessin d'un chèque du Crédit Agricole adressé à M. Tartempion. A gauche, dessin de deux moutons.</p>
 

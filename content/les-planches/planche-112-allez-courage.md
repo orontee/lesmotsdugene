@@ -3,7 +3,8 @@ Date: 2017-06-27 18:06:48
 Modified: 2017-06-27 18:06:48
 Summary: 
 Lang: fr
-Sortorder: 112-1
+Series: planches
+series_index: 120
 
 <p style="text-align:justify;">Planche rectangulaire verticale en bois clair. En haut deux traits en forme d'accent circonflexe figurent peut-être le sommet d'une colline (?). A droite, au milieu de la planche, dessin de plusieurs outils (faux, fourche, serpe, faucille). En bas à gauche, dessin d'un bras musclé. Une petite fente part du bas.</p>
 

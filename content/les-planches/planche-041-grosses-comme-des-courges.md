@@ -3,7 +3,8 @@ Date: 2016-12-30 14:50:41
 Modified: 2016-12-30 14:50:41
 Summary: 
 Lang: fr
-Sortorder: 041-1
+Series: planches
+series_index: 48
 
 <p style="text-align:justify;">Grande planche verticale, rectangulaire. En haut de la planche, à gauche, dessin peu appuyé d'une carotte géante contre laquelle est appuyée une échelle tenue par une femme coiffée d'un grand chapeau. Un panier est à ses pieds. Deux textes sont gravés sur cette planche, l'un au dessus de l'autre.</p>
 

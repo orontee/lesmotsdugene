@@ -3,7 +3,8 @@ Date: 2017-05-30 16:35:20
 Modified: 2017-05-30 16:35:20
 Summary: 
 Lang: fr
-Sortorder: 163-1
+Series: planches
+series_index: 170
 
 Planche verticale de moyenne grandeur, légèrement recourbée vers la droite, un peu plus large en haut. Les traces du pinceau qui a servi a teindre la planche sont visibles.
 

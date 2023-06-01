@@ -3,7 +3,8 @@ Date: 2018-03-12 16:52:23
 Modified: 2018-03-12 16:52:23
 Summary: 
 Lang: fr
-Sortorder: 065-1
+Series: planches
+series_index: 73
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur, un peu fendue en bas et gravée sur les deux faces. Les bords bas et haut sont évasés et les bords latéraux sont bordés d'écorce. Sur le recto : deux textes séparés par un petit trait. Le nombre "64" est gravé en haut à droite. </p>
 

@@ -3,7 +3,8 @@ Date: 2017-06-27 18:08:50
 Modified: 2017-06-27 18:08:50
 Summary: 
 Lang: fr
-Sortorder: 168-1
+Series: planches
+series_index: 175
 
 <p style="text-align:justify;">Grande planche verticale, légère, très étroite, découpée en forme de jambe. Les lettres du texte sont dorées. En haut, sous la première phrase, dessin d'une pomme et d'une branche de pommier. En bas, le mot "Perè" est gravé à l'intérieur d'un dessin figurant une poire. La signature est écrite en blanc, en biais dans la forme de pied.</p>
 

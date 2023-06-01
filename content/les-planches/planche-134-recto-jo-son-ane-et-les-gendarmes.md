@@ -3,7 +3,8 @@ Date: 2017-01-30 15:45:57
 Modified: 2017-01-30 15:45:57
 Summary: 
 Lang: fr
-Sortorder: 134-1
+Series: planches
+series_index: 141
 
 <p style="text-align:justify;">Planche naturellement très découpée avec des nœuds sombres, des cicatrices et des fentes dans le bois. Les deux tiers du haut sont deux fois plus larges que le bas. Au centre, dessin d'un homme tirant une carriole devant un âne. </p>
 

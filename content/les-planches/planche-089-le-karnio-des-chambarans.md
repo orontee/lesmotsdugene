@@ -3,7 +3,8 @@ Date: 2016-11-28 10:34:52
 Modified: 2016-11-28 10:34:52
 Summary: 
 Lang: fr
-Sortorder: 089-1
+Series: planches
+series_index: 98
 
 <p style="text-align:justify;">Planche rectangulaire verticale, fendue en bas. Deux textes sont gravés, l'un au dessus de l'autre, séparés par un petit trait ondulé.</p>
 <figure class="image-block" style="float: right;">

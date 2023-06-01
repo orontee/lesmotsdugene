@@ -3,7 +3,8 @@ Date: 2018-02-09 16:01:49
 Modified: 2018-02-09 16:03:42
 Summary: 
 Lang: fr
-Sortorder: 053-1
+Series: planches
+series_index: 60
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur. Les bords latéraux sont bordés d'écorce. Le bord droite est concave dans sa moitié inférieure ce qui rend le bas plus étroit. Sur le haut de la planche, à gauche, dessin d'un croissant de lune avec figure humaine et à droite, deux amoureux assis par terre et entrelacés. Un peu plus bas, dessin d'un loup aux mâchoires béantes. Dans le "O" de "nô" et celui de "loup", sont esquissés des traits figurant des têtes (yeux et bouche ou museau ?). </p>
 

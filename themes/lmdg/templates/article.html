@@ -26,6 +26,16 @@
       {% include 'twitter.html' %}
     </header>
 
+    {% if article.series %}
+    {% if article.series.previous %}
+    <a href="{{ article.series.previous.url }}">Précédent</a>
+    {% endif %}
+
+    {% if article.series.next %}
+    <a href="{{ article.series.next.url }}">Suivant</a>
+    {% endif %}
+    {% endif %}
+
     <div class="entry-content">
       {{ article.content }}
     </div><!-- /.entry-content -->

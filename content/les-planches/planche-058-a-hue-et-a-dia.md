@@ -3,7 +3,8 @@ Date: 2016-05-23 18:01:47
 Modified: 2016-05-23 18:01:47
 Summary: 
 Lang: fr
-Sortorder: 058-1
+Series: planches
+series_index: 65
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur. En haut à gauche, dessin d'une vache la queue dressée, un point d'interrogation au dessus de la tête entre les mots "gôche" et "drete". Le point du "i" du premier mot est remplacé par une esquisse de tête de vache.</p>
 

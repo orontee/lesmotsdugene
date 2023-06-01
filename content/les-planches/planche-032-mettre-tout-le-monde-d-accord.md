@@ -3,7 +3,8 @@ Date: 2016-09-28 15:23:15
 Modified: 2016-09-28 15:23:15
 Summary: 
 Lang: fr
-Sortorder: 032-1
+Series: planches
+series_index: 39
 
 <p style="text-align:justify;">Planche très sombre, découpée en forme de poisson et gravée sur les deux faces. Un rond dessine l'œil, deux traits courbes autour des mots "lou éperlan", figurent les ouïes.</p>
 

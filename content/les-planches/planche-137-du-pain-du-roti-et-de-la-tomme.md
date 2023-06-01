@@ -3,7 +3,8 @@ Date: 2018-02-09 17:38:32
 Modified: 2018-02-09 17:38:32
 Summary: 
 Lang: fr
-Sortorder: 137-1
+Series: planches
+series_index: 145
 
 Planche verticale rectangulaire. le bord supérieur est sinueux. Une petite fente part du bord inférieur. Un petit trait sépare les deux textes.
 <figure class="image-block" style="float: left;">

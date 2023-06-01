@@ -17,10 +17,8 @@
     {{ page.content }}
 
     <ul>
-      {% for category, articles in categories if category == 'les-planches' %}
-      {% for article in articles|sort(attribute='sortorder') %}
+      {% for article in series.planches %}
       <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
-      {% endfor %}
       {% endfor %}
     </ul>
 </section>

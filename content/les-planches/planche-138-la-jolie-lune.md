@@ -3,7 +3,8 @@ Date: 2016-03-16 15:59:55
 Modified: 2016-03-16 15:59:55
 Summary: 
 Lang: fr
-Sortorder: 138-1
+Series: planches
+series_index: 146
 
 <p style="text-align:justify;">Cette planche est un segment du plateau d'une table ronde. On peut voir sur le bord inférieur, les deux marques des attaches. Le texte est gravé en suivant la forme du bord supérieur arrondi. Sous le texte, dessins d'un croissant de lune présentant le profil d'un visage et un soleil.</p>
 

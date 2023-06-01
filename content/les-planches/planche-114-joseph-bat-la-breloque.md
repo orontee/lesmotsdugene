@@ -3,7 +3,8 @@ Date: 2016-12-30 14:47:25
 Modified: 2016-12-30 14:47:25
 Summary: 
 Lang: fr
-Sortorder: 114-1
+Series: planches
+series_index: 122
 
 <p style="text-align:justify;">Planche verticale rectangulaire en bois clair. Le bord supérieur est découpé en ondulations et le bord du bas est droit mais fendu. En haut à gauche, dessin d'une horloge avec un cadran indiquant treize heures de 1 à 13. Sur le côté, treize fois le mot "dong". En dessous, sur le côté droit, une tête d’homme avec les mots «trèz bô.yor hé ben» en très petits caractères.</p>
 

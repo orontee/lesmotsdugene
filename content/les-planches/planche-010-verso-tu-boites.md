@@ -3,7 +3,8 @@ Date: 2017-05-01 10:48:39
 Modified: 2017-05-01 10:48:39
 Summary: 
 Lang: fr
-Sortorder: 010-2
+Series: planches
+series_index: 14
 
 Grande planche rectangulaire verticale. Les bords latéraux sont bruts. Les deux faces sont gravées.
 

@@ -3,7 +3,8 @@ Date: 2016-12-30 14:41:42
 Modified: 2016-12-30 14:41:42
 Summary: 
 Lang: fr
-Sortorder: 096-1
+Series: planches
+series_index: 105
 
 Grande planche verticale. Le bord latéral gauche est ondulé, brut et bordé d'écorce. Le côté droit est rectiligne. Le sommet est découpé comme une moitié d'hexagone.
 

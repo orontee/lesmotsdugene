@@ -3,7 +3,8 @@ Date: 2016-01-28 15:15:24
 Modified: 2016-01-28 15:15:24
 Summary: 
 Lang: fr
-Sortorder: 052-1
+Series: planches
+series_index: 59
 
 <p style="text-align:justify;">Longue et lourde planche verticale, très sombre. La découpe du côté gauche présente un long crochet s'étirant vers le bas. Le bas de la planche est convexe et bordé d'écorce. Le haut est découpé et présente une double sinuosité. En haut sont dessinés : une femme assise en tailleur sur un chemin et à droite, un homme sur une bicyclette, des buissons, une chèvre et des oiseaux.</p>
 

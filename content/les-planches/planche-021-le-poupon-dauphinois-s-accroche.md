@@ -3,7 +3,8 @@ Date: 2016-12-30 14:52:43
 Modified: 2016-12-30 14:52:43
 Summary: 
 Lang: fr
-Sortorder: 021-1
+Series: planches
+series_index: 27
 
 <p style="text-align:justify;">Planche verticale rectangulaire, très légèrement courbe. En haut, dessin d'un petit enfant qui semble accroché à un grappin à puits en métal, fixé sur le sommet de la planche.</p>
 

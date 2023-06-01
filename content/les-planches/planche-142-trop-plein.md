@@ -3,7 +3,8 @@ Date: 2016-03-16 15:59:24
 Modified: 2016-03-16 15:59:24
 Summary: 
 Lang: fr
-Sortorder: 142-1
+Series: planches
+series_index: 150
 
 <p style="text-align:justify;">Petite planche verticale en forme de vagues. Ses bords latéraux sont bordés d'écorce. Une grosse tâche sombre due à un nœud occupe une bonne partie de la surface. Le nombre "86" est gravé en haut à droite. Sur la gauche, dessin de deux personnages masculins : l'un tient un verre et l'autre une bouteille. </p>
 

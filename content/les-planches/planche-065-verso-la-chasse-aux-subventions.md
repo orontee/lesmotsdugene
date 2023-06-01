@@ -3,7 +3,8 @@ Date: 2016-10-28 15:23:36
 Modified: 2016-10-28 15:23:36
 Summary: 
 Lang: fr
-Sortorder: 065-2
+Series: planches
+series_index: 74
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur, légèrement fendue en bas et gravée sur les deux faces. Les bords bas et haut sont évasés. Les bords latéraux sont bordés d'écorce. </p>
 

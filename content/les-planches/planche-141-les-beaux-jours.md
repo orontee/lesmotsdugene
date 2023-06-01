@@ -3,7 +3,8 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:41:51
 Summary: 
 Lang: fr
-Sortorder: 141-1
+Series: planches
+series_index: 149
 
 <p style="text-align:justify;">Petite planche horizontale bordée d'écorces épaisses. Elle est un peu plus large à gauche où l'on peut voir un gros nœud sombre. Ses bords latéraux sont découpés en forme de vagues.</p>
 

@@ -3,7 +3,8 @@ Date: 2016-01-28 15:13:41
 Modified: 2016-01-28 15:13:41
 Summary: 
 Lang: fr
-Sortorder: 130-1
+Series: planches
+series_index: 137
 
 Planche rectangulaire verticale légèrement recourbée vers la gauche.
 <figure class="image-block" style="float: right;">

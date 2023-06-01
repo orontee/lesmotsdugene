@@ -3,7 +3,8 @@ Date: 2017-01-30 15:52:15
 Modified: 2017-01-30 15:52:15
 Summary: 
 Lang: fr
-Sortorder: 059-1
+Series: planches
+series_index: 66
 
 <p style="text-align:justify;">Planche verticale, étroite et un peu courbe. En haut, dessin d'un homme coiffé d'un chapeau, assis  sur une souche en dessous d'un arbre, un soleil rayonnant au dessus de lui. Au milieu du texte, après "no que la", est inséré le dessin d'une tête d'homme très souriant coiffé d'un chapeau.
 <figure class="image-block" style="float: right;">

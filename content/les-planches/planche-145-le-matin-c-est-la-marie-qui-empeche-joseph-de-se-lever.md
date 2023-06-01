@@ -3,7 +3,8 @@ Date: 2017-06-27 18:11:59
 Modified: 2017-06-27 18:11:59
 Summary: 
 Lang: fr
-Sortorder: 145-1
+Series: planches
+series_index: 153
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur en bois clair. Sa forme à peu près rectangulaire présente sur le côté droit deux protubérances en pointe. Dans celle du haut, dessin d'un homme coiffé d'un chapeau. Tout en haut à droite, un soleil est gravé. Dans le bas de la planche, sous le texte, dessin d'un lit vu de dessus, dans lequel sont couchés côte à côte un homme et une femme. Dessous ce dessin, une bulle dans laquelle est inscrite la mention : « marie  léssè me  sôtre  le  pantillon ». </p>
 

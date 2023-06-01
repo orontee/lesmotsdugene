@@ -3,7 +3,8 @@ Date: 2017-01-30 15:44:33
 Modified: 2017-01-30 15:44:33
 Summary: 
 Lang: fr
-Sortorder: 084-1
+Series: planches
+series_index: 93
 
 <p style="text-align:justify;">Planche de bouleau, claire, rectangulaire et verticale. Au sommet est gravé le nombre "54". La première phrase est tracée en petits caractères difficilement déchiffrables à côté du dessin d'un soleil rayonnant. Au centre à droite, dessin d'une hotte de cheminée (c'est sa propre cheminée qui a servi à Eugène de modèle) contenant trois grosses bûches dans l’âtre. Un homme et un chat sont assis, tournant le dos au feu.</p>
 

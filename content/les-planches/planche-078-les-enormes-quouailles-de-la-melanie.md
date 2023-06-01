@@ -3,7 +3,8 @@ Date: 2017-03-01 16:29:20
 Modified: 2017-03-01 16:29:20
 Summary: 
 Lang: fr
-Sortorder: 078-1
+Series: planches
+series_index: 87
 
 <p style="text-align:justify;">Planche triangulaire verticale, évasée en partant du bas. La base est très étroite. Le haut est fendu. En haut à droite, un dessin peu visible représente un personnage à cheval sur une énorme pomme de terre. </p>
 

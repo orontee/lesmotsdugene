@@ -3,7 +3,8 @@ Date: 2017-03-01 16:28:32
 Modified: 2017-03-01 16:28:32
 Summary: 
 Lang: fr
-Sortorder: 047-1
+Series: planches
+series_index: 54
 
 Grande planche rectangulaire vernie, verticale, légèrement courbe et un peu plus large vers le haut. Deux textes assez denses sont gravés l'un au dessus de l'autre, séparés par la signature.
 

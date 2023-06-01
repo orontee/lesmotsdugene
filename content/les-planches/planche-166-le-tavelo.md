@@ -3,7 +3,8 @@ Date: 2016-09-28 15:25:40
 Modified: 2016-09-28 15:25:40
 Summary: 
 Lang: fr
-Sortorder: 166-1
+Series: planches
+series_index: 173
 
 <p style="text-align:justify;">Planche découpée en forme de tête de vache. Une chaîne permet de la suspendre. Les cornes, les oreilles, les yeux et le museau sont soulignés par des traits gravés. Un "tavelo" (petite entrave) est accroché sous la tête par une chaîne.</p>
 

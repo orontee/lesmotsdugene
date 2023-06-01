@@ -3,7 +3,8 @@ Date: 2017-05-01 10:41:36
 Modified: 2017-05-01 10:47:24
 Summary: 
 Lang: fr
-Sortorder: 171-1
+Series: planches
+series_index: 178
 
 Planche rectangulaire verticale légèrement fendue. En haut, dessin (très léger) d'un homme assis sur une souche, sous un arbre entouré de silhouettes d'oiseaux en vol.
 

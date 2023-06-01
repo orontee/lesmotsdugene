@@ -3,7 +3,8 @@ Date: 2018-03-08 17:40:04
 Modified: 2018-03-08 17:40:04
 Summary: 
 Lang: fr
-Sortorder: 087-1
+Series: planches
+series_index: 96
 
 <p style="text-align:justify;">Longue planche horizontale assez étroite. Sa forme pourrait vaguement évoquer la forme d'un crocodile. Le bord gauche est concave et percé d'un trou. Le bord droit ressemble à une tête d'animal au museau très allongé, un nœud de bois très foncé figurant l'œil. Trois textes indépendants sont répartis de gauche à droite, séparés par le dessin d'un arbre portant des fruits puis celui d'une chèvre. A gauche, est gravé le nombre "63".</p>
 

@@ -3,7 +3,8 @@ Date: 2016-03-16 16:00:53
 Modified: 2016-03-16 16:00:53
 Summary: 
 Lang: fr
-Sortorder: 072-1
+Series: planches
+series_index: 81
 
 <p style="text-align:justify;">Grande planche rectangulaire verticale. Du bord supérieur à droite part un petit trait creusé en forme de virgule. En haut, dessin de deux amoureux se tenant par la main. Le garçon porte un béret, tout deux sont souriant. Sous la première ligne, un trou dans le bois est dû à un nœud. A droite, au milieu de la hauteur, un autre trou est prolongé par un trait gravé pour figurer le manche d'une poêle.</p>
 

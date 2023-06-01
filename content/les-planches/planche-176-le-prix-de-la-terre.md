@@ -3,7 +3,8 @@ Date: 2017-05-01 10:45:48
 Modified: 2017-05-01 10:45:48
 Summary: 
 Lang: fr
-Sortorder: 176-1
+Series: planches
+series_index: 183
 
 <p style="text-align:justify;">Grande planche rectangulaire verticale. Le bord inférieur est ondulé, celui du haut est droit. Au sommet, dessin d'un paysage avec un cheval, des nuages, des oiseaux et un arbre. A gauche, à mi-hauteur, dessin d'un plant de maïs et la silhouette d'un oiseau dans le ciel.</p>
 

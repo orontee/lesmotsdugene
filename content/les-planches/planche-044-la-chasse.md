@@ -3,7 +3,8 @@ Date: 2018-03-12 16:56:44
 Modified: 2018-03-12 16:56:44
 Summary: 
 Lang: fr
-Sortorder: 044-1
+Series: planches
+series_index: 51
 
 Petite planche horizontale très sombre. Deux traits verticaux sinueux séparent la première partie de l'énumération du gibier. Les lettres sont repeintes en doré.
 

@@ -3,7 +3,8 @@ Date: 2017-12-06 17:41:08
 Modified: 2018-02-09 15:37:19
 Summary: 
 Lang: fr
-Sortorder: 172-1
+Series: planches
+series_index: 179
 
 Petite planche horizontale. Le bord droite est déchiqueté. Deux textes sont gravés à gauche et à droite, séparés par un trait sinueux vertical.
 

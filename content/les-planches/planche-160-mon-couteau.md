@@ -3,7 +3,8 @@ Date: 2017-03-29 18:28:31
 Modified: 2017-03-29 18:28:31
 Summary: 
 Lang: fr
-Sortorder: 160-1
+Series: planches
+series_index: 168
 
 <p style="text-align:justify;">Planche horizontale très sombre, découpée en forme de couteau. Les deux parties du texte sont gravées à gauche dans la partie évoquant le manche et à droite dans la partie figurant la lame. Au centre, deux traits verticaux encadrant des petits cercles, figurent la virole. </p>
 

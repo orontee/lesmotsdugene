@@ -3,7 +3,8 @@ Date: 2018-02-09 16:16:27
 Modified: 2018-02-09 16:16:27
 Summary: 
 Lang: fr
-Sortorder: 088-1
+Series: planches
+series_index: 97
 
 <p style="text-align:justify;">Petite planche horizontale. Les bords latéraux sont découpés en ondulations, les bords inférieurs et supérieurs sont bruts. Sur le dos de la planche, Eugène s'est exercé à tracer des lettres avec des jolies courbes, comme ils les aime. </p>
 <figure class="image-block" style="float: center;">

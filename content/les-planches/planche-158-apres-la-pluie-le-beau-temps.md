@@ -3,7 +3,8 @@ Date: 2018-03-12 16:58:42
 Modified: 2018-03-12 16:58:42
 Summary: 
 Lang: fr
-Sortorder: 158-1
+Series: planches
+series_index: 166
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur, en bois clair. En haut, dessin gravé légèrement d'un paysage avec un soleil, des arbres et des traits en zigzags figurant des éclairs surmontés de la mention "BROUM".</p>
 

@@ -3,7 +3,8 @@ Date: 2016-12-30 14:53:18
 Modified: 2016-12-30 14:53:18
 Summary: 
 Lang: fr
-Sortorder: 050-1
+Series: planches
+series_index: 57
 
 <p style="text-align:justify;">Planche verticale, incurvée sur la gauche et bordée d'écorce. Le haut est orné d'un dessin représentant une tablée où quatre personnes sont en train de monder des noix.</p>
 <figure class="image-block" style="float: left;">

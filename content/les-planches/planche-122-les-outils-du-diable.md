@@ -3,7 +3,8 @@ Date: 2017-01-30 15:47:01
 Modified: 2017-01-30 15:47:01
 Summary: 
 Lang: fr
-Sortorder: 122-1
+Series: planches
+series_index: 129
 
 <p style="text-align:justify;">Planche verticale s'évasant vers le haut. Une fente largement ouverte part du sommet jusqu'au centre. Le haut est découpé en deux arrondis autour de cette fente. Deux embouts de gaffe en métal sont fixés de part et d'autre sur le haut. Sur la droite, au milieu de la hauteur, dessin d'un diable levant de longs bras encadrant sa tête grimaçante. Tout en bas, après le mot "Fio" dessin de bûches en flammes. </p>
 

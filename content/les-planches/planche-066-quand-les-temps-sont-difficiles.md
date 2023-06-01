@@ -3,7 +3,8 @@ Date: 2015-07-16 01:50:13
 Modified: 2016-01-20 17:15:50
 Summary: Quand les temps sont durs, les pauvres bêtes...
 Lang: fr
-Sortorder: 066-1
+Series: planches
+series_index: 75
 
 <p style="text-align:justify;">Grande planche verticale à la forme originale. Son bord latéral droit présente une importante excroissance autour d'un trou formé par un gros nœud allongé. Le bas est plus étroit que le haut.</p>
 

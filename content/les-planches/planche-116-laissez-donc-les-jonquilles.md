@@ -3,7 +3,8 @@ Date: 2017-03-01 16:33:42
 Modified: 2017-03-01 16:33:42
 Summary: 
 Lang: fr
-Sortorder: 116-1
+Series: planches
+series_index: 124
 
 <p style="text-align:justify;">Petite planche horizontale légèrement incurvée. A gauche et à droite, dessins de plants de jonquilles. Le "Ô" de "CÔrna" figure la caricature d'une tête portant deux cornes et coiffé par l'accent circonflexe .</p>
 

@@ -3,7 +3,8 @@ Date: 2016-05-23 17:35:25
 Modified: 2016-06-12 19:23:29
 Summary: 
 Lang: fr
-Sortorder: 105-1
+Series: planches
+series_index: 114
 
 <p style"text-align:justify;">Grande planche verticale, étroite, s'évasant un peu vers le haut à partir du milieu. Les bords latéraux sont plus clairs. En haut à gauche, sont dessinés un pin parasol qui semble posé sur ce qui semble être deux chemins qui se croisent, sous les branches, un petit oiseau en train de voler et au centre de la planche, deux lièvres qui s'étreignent.</p>
 

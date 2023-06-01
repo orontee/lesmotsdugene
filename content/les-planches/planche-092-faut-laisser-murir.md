@@ -3,7 +3,8 @@ Date: 2016-09-28 15:30:55
 Modified: 2016-09-28 15:30:55
 Summary: 
 Lang: fr
-Sortorder: 092-1
+Series: planches
+series_index: 101
 
 Petite planche horizontale. Les bords latéraux ont une découpe sinueuse.
 

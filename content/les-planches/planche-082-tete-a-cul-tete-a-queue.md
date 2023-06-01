@@ -3,7 +3,8 @@ Date: 2018-03-12 16:56:14
 Modified: 2018-03-12 16:56:14
 Summary: 
 Lang: fr
-Sortorder: 082-1
+Series: planches
+series_index: 91
 
 <p style="text-align:justify;">Petite planche horizontale. Le bord latéral gauche est découpé en dents de scie. Sur la découpe est esquissé le profil d'une tête d'animal. Au centre, dessin des deux moitiés (avant et arrière) d'un âne se faisant face. La tête de celui de droite est fixée sur la croupe au bout de la queue. Le nombre "57" est gravé en haut à droite.</p>
 

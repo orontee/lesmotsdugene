@@ -3,7 +3,8 @@ Date: 2017-03-29 18:35:56
 Modified: 2017-03-29 18:35:56
 Summary: 
 Lang: fr
-Sortorder: 007-1
+Series: planches
+series_index: 9
 
 Petite planche horizontale en forme de parallélogramme. Une tête en pierre sculptée figurant une tête de diable est fixée en bas et à gauche.
 

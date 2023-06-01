@@ -3,7 +3,8 @@ Date: 2016-12-30 14:56:14
 Modified: 2016-12-30 14:56:14
 Summary: 
 Lang: fr
-Sortorder: 170-1
+Series: planches
+series_index: 177
 
 <p style="text-align:justify;">Longue planche verticale en bois clair comportant deux textes, l'un au dessus de l'autre. Du bas part une longue fente presque jusqu'au centre. Un trou de nœud très sombre se trouve sous l'avant-dernière ligne du premier texte, un autre tout en bas.</p>
 

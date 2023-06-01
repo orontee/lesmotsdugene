@@ -3,7 +3,8 @@ Date: 2018-03-12 16:47:39
 Modified: 2018-03-12 16:47:39
 Summary: 
 Lang: fr
-Sortorder: 060-1
+Series: planches
+series_index: 67
 
 <p style="text-align:justify;">Planche de grandeur moyenne, très veinée, en forme légèrement évasée vers le haut et gravée des deux côtés.  Le verso est bordé sur les côtés et en bas d'une large bande d'écorce en forme de "V".</p>
 

@@ -3,7 +3,8 @@ Date: 2016-11-28 10:21:27
 Modified: 2016-11-28 10:21:27
 Summary: 
 Lang: fr
-Sortorder: 102-1
+Series: planches
+series_index: 111
 
 <p style="text-align:justify;">Grande planche sombre légèrement torsadée qui présente une petite fente verticale en son centre. Le bord inférieur est coupé droit et le bord supérieur arrondi. Un dessin de lanterne peu visible se trouve sur la gauche en dessous du mot "lanterna".</p>
 

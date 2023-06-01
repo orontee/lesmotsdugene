@@ -3,7 +3,8 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-04-23 17:42:57
 Summary: 
 Lang: fr
-Sortorder: 001-1
+Series: planches
+series_index: 1
 
 <p style="text-align:justify;">Planche verticale gravée recto et verso sur un bois assez foncé. Le bord supérieur est convexe, le bord inférieur est rectiligne, les bords latéraux sont bruts.
 La dernière phrase du recto "ne te pran pa trôp ..." est gravée au bas de la planche en arc de cercle concave. </p>

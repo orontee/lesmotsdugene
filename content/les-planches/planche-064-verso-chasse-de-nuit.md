@@ -3,7 +3,8 @@ Date: 2018-02-09 16:51:31
 Modified: 2018-02-09 16:51:31
 Summary: 
 Lang: fr
-Sortorder: 064-2
+Series: planches
+series_index: 72
 
 <p style="text-align:justify;">Grande planche verticale double face, fendue en bas, légèrement incurvée sur un côté. Les bords latéraux sont bordés d'écorce. Un nœud dans le bois perce le haut de la planche.</p>
 

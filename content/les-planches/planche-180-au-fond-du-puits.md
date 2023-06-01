@@ -3,7 +3,8 @@ Date: 2016-05-23 18:05:09
 Modified: 2016-05-23 18:05:09
 Summary: 
 Lang: fr
-Sortorder: 180-1
+Series: planches
+series_index: 187
 
 Petite planche horizontale aux bords arrondis et légèrement incurvée vers le haut. A droite, dessin d'un puits maçonné avec des galets roulés.
 

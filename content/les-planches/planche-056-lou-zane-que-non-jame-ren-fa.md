@@ -3,7 +3,8 @@ Date: 2016-12-30 14:54:39
 Modified: 2016-12-30 14:54:39
 Summary: 
 Lang: fr
-Sortorder: 056-1
+Series: planches
+series_index: 63
 
 <p style="text-align:justify;">Longue planche horizontale assez étroite, un peu concave, dont la forme évoque vaguement celle d'un joug. Entre les deux parties du texte, dessin de deux ânes près d'un chemin, d'un pommier et d'une charrue.</p>
 

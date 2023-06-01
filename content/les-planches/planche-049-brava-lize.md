@@ -3,7 +3,8 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:39:25
 Summary: 
 Lang: fr
-Sortorder: 049-1
+Series: planches
+series_index: 56
 
 <p style="text-align:justify;">Grande planche verticale présentant une jolie courbure vers le milieu de sa hauteur.
 En haut à droite, petit dessin d'un personnage féminin, échevelé et souriant, vêtu d'une robe dessinée avec des traits en dents de scie.

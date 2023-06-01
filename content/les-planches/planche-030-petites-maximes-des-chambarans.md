@@ -3,7 +3,8 @@ Date: 2016-11-28 10:23:35
 Modified: 2016-11-28 10:23:35
 Summary: 
 Lang: fr
-Sortorder: 030-1
+Series: planches
+series_index: 36
 
 Planche rectangulaire verticale qui présente un nœud en bas à droite prolongé par une strie profonde. La planche regroupe trois textes courts, séparés par des petits traits.
 <figure class="image-block" style="float: right;">

@@ -3,7 +3,8 @@ Date: 2017-05-01 10:35:45
 Modified: 2017-05-01 10:35:45
 Summary: 
 Lang: fr
-Sortorder: 135-1
+Series: planches
+series_index: 143
 
 <p style="text-align:justify;">Petite planche horizontale. Le bord gauche et la moitié du bord inférieur sont découpés de manière rectiligne. L'autre partie du bas est naturellement en biais rendant la partie droite plus étroite. Elle est de plus, rayée par des fentes et des traits sombres.</p>
 

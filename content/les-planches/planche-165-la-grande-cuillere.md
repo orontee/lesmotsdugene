@@ -3,7 +3,8 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-08-16 16:59:04
 Summary: 
 Lang: fr
-Sortorder: 165-1
+Series: planches
+series_index: 172
 
 <p style="text-align:justify;">Grande planche verticale en bois très sombre, découpée en forme de cuillère.  Un trou a été percé au sommet. Au verso, dessin d'un homme torse nu brandissant une masse.</p>
 
