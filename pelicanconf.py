@@ -61,3 +61,18 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 THEME = 'themes/lmdg'
+
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "articles": 0.5,
+        "indexes": 0,
+        "pages": 1.0
+    },
+    "changefreqs": {
+        "articles": "monthly",
+        "indexes": "never",
+        "pages": "yearly"
+    },
+    "exclude": ["tag/", "category/"]
+}

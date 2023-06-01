@@ -5,7 +5,7 @@ Summary: jozé i mon segon nom  ?
 Lang: fr
 Sortorder: 002-1
 
-<p style="text-align:justify;">Planche  verticale haute, étroite et légèrement courbe. Sa forme ressemble vaguement à une botte. </p>
+<p style="text-align:justify;">Planche verticale haute, étroite et légèrement courbe. Sa forme ressemble vaguement à une botte. </p>
 
 <figure class="image-block" style="float: right;">
   <img alt="" src="{static}/images/planche_2_recto.png">
