@@ -11,7 +11,7 @@ series_index: 45
   <img alt="" src="{static}/images/planche_38.png">
   <figcaption style="max-width: 208px"></figcaption>
 </figure>
-<p style="text-align:justify;">Planche verticale de moyenne grandeur.  Tout en haut, est écrit en petits caractères et en biais : "bou-diou qui piquant". Dessous cette courte phrase se trouve le dessin d'un homme souriant coiffé d'un béret ; il s'appuie sur une canne et est assis sur une pierre très pointue. Les lignes du texte principal sont gravées de plus en plus gros en allant vers le bas.</p>
+<p style="text-align:justify;">Planche verticale de moyenne grandeur.  Tout en haut, est écrit en petits caractères et en biais : « bou-diou qui piquant ». Dessous cette courte phrase se trouve le dessin d'un homme souriant coiffé d'un béret ; il s'appuie sur une canne et est assis sur une pierre très pointue. Les lignes du texte principal sont gravées de plus en plus gros en allant vers le bas.</p>
 
 ## Texte en patois
 bou-diou qui piquant   Le jêuste méttan é ina pointà qui bïen dïfficile de resseta assetà dessû

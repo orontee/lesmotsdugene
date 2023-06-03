@@ -25,7 +25,7 @@ pe te sôtre dou mové tan te fô la creyanse le tôpé ou de grandâ jambà ou 
 Pour échapper aux temps mauvais, il te faut avoir la foi, du toupet ou de grandes jambes… ou bien alors, te mettre à l'abri du vent et à l'abri de la pluie.
 
 ## Commentaire
-<p style="text-align:justify;">Cette maxime pleine de bon sens permet à Eugène de graver les deux termes "l'ourri" et "l'assoute" qui signifient tout deux "l'abri" mais chacun dans des circonstances différentes. C'est en même temps une réflexion personnelle qui interroge sur un choix philosophique fondamental.</p>
+<p style="text-align:justify;">Cette maxime pleine de bon sens permet à Eugène de graver les deux termes « l'ourri » et « l'assoute » qui signifient tout deux « l'abri » mais chacun dans des circonstances différentes. C'est en même temps une réflexion personnelle qui interroge sur un choix philosophique fondamental.</p>
 
 
 

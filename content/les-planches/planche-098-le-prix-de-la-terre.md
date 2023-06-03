@@ -27,7 +27,7 @@ Pour y construire une maison, tu n'as pas vendu ta terre bien chère.
 Le Gène
 
 ## Commentaire
-De même que sur d'autres planches, Eugène exprime ici l'idée que la valeur financière de la terre ne devrait compter que pour le travail qu'on y a accompli. La nature appartient "au Père Éternel", c'est à dire à celui qui l'a créée et ne devrait donc faire l'objet d'aucune spéculation.
+De même que sur d'autres planches, Eugène exprime ici l'idée que la valeur financière de la terre ne devrait compter que pour le travail qu'on y a accompli. La nature appartient « au Père Éternel », c'est à dire à celui qui l'a créée et ne devrait donc faire l'objet d'aucune spéculation.
 D'autre part, il vaut mieux cultiver de bonnes relations de voisinage que d'essayer de réaliser une trop bonne affaire.
 
 

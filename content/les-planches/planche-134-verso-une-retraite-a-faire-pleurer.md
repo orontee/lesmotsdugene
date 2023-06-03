@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 142
 
-<p style="text-align:justify;">Planche naturellement très découpée avec des nœuds sombres, des cicatrices et des fentes dans le bois. Les deux tiers du haut sont deux fois plus larges que le bas.  Dessin d'une tête d'âne en haut à gauche et une bulle contenant l'onomatopée "iiian", les "i" de plus en plus petits. Vers le bas à gauche, dessin d'un âne qui pleure devant le mot "cadichon".</p>
+<p style="text-align:justify;">Planche naturellement très découpée avec des nœuds sombres, des cicatrices et des fentes dans le bois. Les deux tiers du haut sont deux fois plus larges que le bas.  Dessin d'une tête d'âne en haut à gauche et une bulle contenant l'onomatopée « iiian », les « i » de plus en plus petits. Vers le bas à gauche, dessin d'un âne qui pleure devant le mot « cadichon ».</p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_134_verso.png">
@@ -47,8 +47,8 @@ series_index: 142
 ## Commentaire
 Petite anecdote rapportée (presque) telle quelle.
 
-Un "cadichon" est un petit âne. Ce mot vient du personnage d'âne savant dans l’œuvre de la comtesse de Ségur : "Mémoires d'un âne".
-Eugène signe "trois fois" pour chacune des trois historiettes, la première se trouvant sur la première face de la planche.
+Un « cadichon » est un petit âne. Ce mot vient du personnage d'âne savant dans l’œuvre de la comtesse de Ségur : « Mémoires d'un âne ».
+Eugène signe « trois fois » pour chacune des trois historiettes, la première se trouvant sur la première face de la planche.
 
 
 

@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 111
 
-<p style="text-align:justify;">Grande planche sombre légèrement torsadée qui présente une petite fente verticale en son centre. Le bord inférieur est coupé droit et le bord supérieur arrondi. Un dessin de lanterne peu visible se trouve sur la gauche en dessous du mot "lanterna".</p>
+<p style="text-align:justify;">Grande planche sombre légèrement torsadée qui présente une petite fente verticale en son centre. Le bord inférieur est coupé droit et le bord supérieur arrondi. Un dessin de lanterne peu visible se trouve sur la gauche en dessous du mot « lanterna ».</p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_102-3.png">
@@ -44,7 +44,7 @@ le gène
 Le Gène
 
 ## Commentaire
-La première et la deuxième phrase sont, comme presque toujours, des métaphores que l'on pourrait traduire par les équivalents : "On ne se cache rien entre amis" et "Informe toi avant de décider quoique se soit".
+La première et la deuxième phrase sont, comme presque toujours, des métaphores que l'on pourrait traduire par les équivalents : « On ne se cache rien entre amis » et « Informe toi avant de décider quoique se soit ».
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_102.mp4" type="video/mp4">

@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 66
 
-<p style="text-align:justify;">Planche verticale, étroite et un peu courbe. En haut, dessin d'un homme coiffé d'un chapeau, assis  sur une souche en dessous d'un arbre, un soleil rayonnant au dessus de lui. Au milieu du texte, après "no que la", est inséré le dessin d'une tête d'homme très souriant coiffé d'un chapeau.
+<p style="text-align:justify;">Planche verticale, étroite et un peu courbe. En haut, dessin d'un homme coiffé d'un chapeau, assis  sur une souche en dessous d'un arbre, un soleil rayonnant au dessus de lui. Au milieu du texte, après « no que la », est inséré le dessin d'une tête d'homme très souriant coiffé d'un chapeau.
 <figure class="image-block" style="float: right;">
   <img alt="Le pépé assis sur sa souche" src="{static}/images/planche_59_dessin_haut.png">
   <figcaption style="max-width: 315px">Le pépé assis sur sa souche</figcaption>
@@ -35,7 +35,7 @@ Le Gène
 
 
 ## Commentaire
-Ce "papé" qui a inspiré ce dialogue à Eugène, avait pour habitude de rester longuement assis sur une souche au bord du chemin des Bouilleaux. Il ne travaillait pas beaucoup et avait l'air un peu "endormi", mais il observait et comprenait très bien tout ce qui se passait autour de lui.
+Ce « papé » qui a inspiré ce dialogue à Eugène, avait pour habitude de rester longuement assis sur une souche au bord du chemin des Bouilleaux. Il ne travaillait pas beaucoup et avait l'air un peu « endormi », mais il observait et comprenait très bien tout ce qui se passait autour de lui.
 
 Il savait aussi se montrer très patient et même très rusé en affaire pour vendre ou acheter toujours à son avantage.
 

@@ -1,4 +1,4 @@
-Title: Les lièvres du "Pirôte" (planche 45)
+Title: Les lièvres du « Pirôte » (planche 45)
 Date: 2017-06-27 18:35:14
 Modified: 2017-06-27 18:35:14
 Summary: 
@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 52
 
-<p style="text-align:justify;">Grande planche verticale, très découpée en haut. En haut, à droite, dessin d'un homme tenant un lièvre par les pattes au dessus d'un autre. En dessous, dessin d'un homme prêt à jeter quelque chose qui ressemble à une pierre. En haut à gauche, dessin d'un lièvre et en dessous contre le bord, dessin d'une tête de lièvre. Le nombre "45" est gravé en haut à droite.</p>
+<p style="text-align:justify;">Grande planche verticale, très découpée en haut. En haut, à droite, dessin d'un homme tenant un lièvre par les pattes au dessus d'un autre. En dessous, dessin d'un homme prêt à jeter quelque chose qui ressemble à une pierre. En haut à gauche, dessin d'un lièvre et en dessous contre le bord, dessin d'une tête de lièvre. Le nombre « 45 » est gravé en haut à droite.</p>
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_45-2.png">
   <figcaption style="max-width: 191px"></figcaption>
@@ -27,7 +27,7 @@ le gène
 
 
 ## Traduction
-Je venais de rafistoler une paire de vieilles galoches. Je descendais le "Pirôte". Les lièvres montaient tout droit vers moi. Même pas une seule pierre ! Je leur lance une poignée de poix… qui se colle juste sur leurs nez. La lièvre se retourne, se cogne contre le mâle qui la suivait. Je les assomme avec mes galoches et les ramène directement pour la casserole de la Marie…
+Je venais de rafistoler une paire de vieilles galoches. Je descendais le « Pirôte ». Les lièvres montaient tout droit vers moi. Même pas une seule pierre ! Je leur lance une poignée de poix… qui se colle juste sur leurs nez. La lièvre se retourne, se cogne contre le mâle qui la suivait. Je les assomme avec mes galoches et les ramène directement pour la casserole de la Marie…
 
 Le Gène
 <figure class="image-block" style="float: right;">
@@ -37,7 +37,7 @@ Le Gène
 
 
 ## Commentaire
-<p style="text-align:justify;">Le "Pirôte" est un lieu-dit pierreux. Comme sur d'autres planches, celle-ci reprend l'anecdote ou "galéjade" rapportée par un voisin et ami, "raconteur d'histoires" de Marnans, bien connu pour son aptitude à l'extrapolation.
+<p style="text-align:justify;">Le « Pirôte » est un lieu-dit pierreux. Comme sur d'autres planches, celle-ci reprend l'anecdote ou « galéjade » rapportée par un voisin et ami, « raconteur d'histoires » de Marnans, bien connu pour son aptitude à l'extrapolation.
 
 
 <video width="320" height="240" controls>

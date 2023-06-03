@@ -21,13 +21,13 @@ côme  tò  que  se  fâ  que  te  tess  jamé  maria.  Pe  tou  lou  monde  â 
 ## Traduction
 
 Comment ce fait-il que tu ne t'es jamais marié ?
-─  Pour tout le monde, à 20 ans, je n'étais qu'un "karnio", né dans les coteaux et la tête vide comme le portefeuille.
+─  Pour tout le monde, à 20 ans, je n'étais qu'un « karnio », né dans les coteaux et la tête vide comme le portefeuille.
 
 Le Gène
 
 ## Commentaire
 
-Un "karnio" est un habitant des coteaux des Chambarans. Ils avaient la réputation d'être tellement pauvres qu'ils ne pouvaient se nourrir que de fruits secs, les fruits faisant partie des bons produits de l'agriculture vivrière des Chambarans. Une fois séchés, les fruits pouvaient ainsi servir, selon les médisants, d'aliments principaux, toute l'année.
+Un « karnio » est un habitant des coteaux des Chambarans. Ils avaient la réputation d'être tellement pauvres qu'ils ne pouvaient se nourrir que de fruits secs, les fruits faisant partie des bons produits de l'agriculture vivrière des Chambarans. Une fois séchés, les fruits pouvaient ainsi servir, selon les médisants, d'aliments principaux, toute l'année.
 C'est lui-même à  20 ans qu'Eugène décrit ainsi.
 
 <video width="320" height="240" controls>

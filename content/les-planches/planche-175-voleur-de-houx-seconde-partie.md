@@ -21,8 +21,8 @@ Moi, sans gêne, comme je suis <u>**C**</u>onservateur et <u>**O**</u>bservateur
 
 
 ## Commentaire
-<p style="text-align:justify;">Ce texte est une suite de la planche 83 où Eugène rapportait, à sa façon, la petite querelle qui l'avait opposé à un habitant de Viriville à propos de son houx. Le premier jeu de mot porte sur la confusion possible entre le mot "gêne" et le surnom "Gène".
-L'acronyme suivant, constitué des lettres majuscules et soulignées, C, O et N, exprime l'amertume et le recul sur soi-même d'Eugène. Ce texte s'adresse à la personne indélicate qui l'avait injustement accusé d'avoir volé les cisailles oubliées après qu'il eût coupé tout le houx. Les deux trous indiquent certainement que cette planche fut suspendue vers le lieu du "conflit" pour être lu par le voisin concerné.</p>
+<p style="text-align:justify;">Ce texte est une suite de la planche 83 où Eugène rapportait, à sa façon, la petite querelle qui l'avait opposé à un habitant de Viriville à propos de son houx. Le premier jeu de mot porte sur la confusion possible entre le mot « gêne » et le surnom « Gène ».
+L'acronyme suivant, constitué des lettres majuscules et soulignées, C, O et N, exprime l'amertume et le recul sur soi-même d'Eugène. Ce texte s'adresse à la personne indélicate qui l'avait injustement accusé d'avoir volé les cisailles oubliées après qu'il eût coupé tout le houx. Les deux trous indiquent certainement que cette planche fut suspendue vers le lieu du « conflit » pour être lu par le voisin concerné.</p>
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_175.mp4" type="video/mp4">

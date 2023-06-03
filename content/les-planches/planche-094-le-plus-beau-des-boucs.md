@@ -11,7 +11,7 @@ series_index: 103
   <img alt="" src="{static}/images/planche_94-2.png">
   <figcaption style="max-width: 190px"></figcaption>
 </figure>
-<p style="text-align:justify;">Planche rectangulaire verticale en bois clair. Bord supérieur ondulé. Légèrement plus étroite en bas. Le nombre "76" est gravé en haut à droite. En haut, dessin d'un bouc. Le bas de la planche présente des traces d'humidité. Des lignes tracées au crayon sont encore visibles. </p>
+<p style="text-align:justify;">Planche rectangulaire verticale en bois clair. Bord supérieur ondulé. Légèrement plus étroite en bas. Le nombre « 76 » est gravé en haut à droite. En haut, dessin d'un bouc. Le bas de la planche présente des traces d'humidité. Des lignes tracées au crayon sont encore visibles. </p>
 
 ## Texte en patois
 i pâ lou Bô lou plû  Brâve que le chêure corre apré                                le gène

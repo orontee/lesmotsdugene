@@ -22,7 +22,7 @@ Chez toi, on mange toujours bien, c'est pas comme chez Joseph.
 ─  Oh ! il a acheté toutes les terres du coin mais, à part le pot de caillé et les pommes de terre, il ne fait pas de cuisine !
 
 ## Commentaire
-Les "truffes" sont des pommes de terre. Ce que l'on appelait "l'ordienère" était la bonne cuisine simple et variée de tous les jours. Ce terme n'était pas péjoratif, au contraire.
+Les « truffes » sont des pommes de terre. Ce que l'on appelait « l'ordienère » était la bonne cuisine simple et variée de tous les jours. Ce terme n'était pas péjoratif, au contraire.
 
 
 

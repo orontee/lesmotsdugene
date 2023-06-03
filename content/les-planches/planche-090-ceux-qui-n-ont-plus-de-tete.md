@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 99
 
-<p style="text-align:justify;">Planche verticale très étroite en bas et s'évasant vers le haut. Le bord haut est découpé en formant des sinuosités, les bords latéraux sont bruts. Le nombre "82" est gravé en haut à gauche. En haut à droite, dessin d'un homme tenant sa tête sous le bras.  A sa place, un point d'interrogation est coiffé d'une casquette.</p>
+<p style="text-align:justify;">Planche verticale très étroite en bas et s'évasant vers le haut. Le bord haut est découpé en formant des sinuosités, les bords latéraux sont bruts. Le nombre « 82 » est gravé en haut à gauche. En haut à droite, dessin d'un homme tenant sa tête sous le bras.  A sa place, un point d'interrogation est coiffé d'une casquette.</p>
 <figure class="image-block" style="float: right;">
   <img alt="" src="{static}/images/planche_90.png">
   <figcaption style="max-width: 140px"></figcaption>
@@ -37,7 +37,7 @@ Le Gène
 
 ## Commentaire
 
-"Couper la tête" de quelqu'un signifie ici "dire du mal" de lui.
+« Couper la tête » de quelqu'un signifie ici « dire du mal » de lui.
 
 
 

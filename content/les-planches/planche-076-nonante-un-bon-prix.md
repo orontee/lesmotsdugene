@@ -30,10 +30,10 @@ le gène
 
 ## Traduction
 Tes moutons ne sont pas très jolis !  Je ne peux t'en donner que quatre-vingt-dix (francs) !
-─   Tu n'es jamais "au prix" ! Moi j'en veux NONANTE, pas un sou de moins !
+─   Tu n'es jamais « au prix » ! Moi j'en veux NONANTE, pas un sou de moins !
 
 
-Tu me payes avec un chèque ? Qu'est-ce-que c'est que ça ? Ce n'est pas un "russe" au moins ?
+Tu me payes avec un chèque ? Qu'est-ce-que c'est que ça ? Ce n'est pas un « russe » au moins ?
 
   ─   Je vais te faire un morceau de papier et quand il sera usé, je t'en ferai un autre !
 
@@ -47,7 +47,7 @@ Le Gène
 
 ## Commentaire
 Dialogues entendus au cours d'une foire agricole.
-Un "russe" fait allusion aux emprunts russes jamais remboursés aux épargnants français après la révolution d'octobre en Russie.
+Un « russe » fait allusion aux emprunts russes jamais remboursés aux épargnants français après la révolution d'octobre en Russie.
 
 
 

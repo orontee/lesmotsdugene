@@ -17,7 +17,7 @@ series_index: 38
 mon Père gardâve son tropé dian lou chambaran la bardelle s’etié Fâ la bella la cherchan. ou  pied dou grand rôve cha sû dou amoréou  ho°  lou joén vô que veyé le cié é la terra vô n’ète pâ veû ma Vâche                     le gène
 
 ## Traduction
-Mon père gardait son troupeau dans les Chambarans et la "Bardelle" s'était fait la belle. En la cherchant, au pied d'un grand chêne, je tombe sur deux amoureux : "Oh ! les jeunes ! vous qui voyez le ciel et la terre ! vous n'auriez pas vu ma vache ?"
+Mon père gardait son troupeau dans les Chambarans et la « Bardelle » s'était fait la belle. En la cherchant, au pied d'un grand chêne, je tombe sur deux amoureux : « Oh ! les jeunes ! vous qui voyez le ciel et la terre ! vous n'auriez pas vu ma vache ? »
 
 Le Gène
 <figure class="image-block" style="float: right;">
@@ -27,8 +27,8 @@ Le Gène
 
 
 ## Commentaire
-<p style="text-align:justify;">Une "bardelle" est une vache de deux couleurs. L'anecdote vient de la mère d'Eugène à qui il arrivait fréquemment, en suivant sa vache fugueuse, de surprendre des amoureux dans les bosquets. Elle disait que "si on supprimait l'amour, ce serait pire que la bombe atomique. Il n'y aurait plus personne sur terre !"
-A noter, l'expression "vous qui voyez le ciel et la terre" pour nous laisser imaginer la position des amoureux.</p>
+<p style="text-align:justify;">Une « bardelle » est une vache de deux couleurs. L'anecdote vient de la mère d'Eugène à qui il arrivait fréquemment, en suivant sa vache fugueuse, de surprendre des amoureux dans les bosquets. Elle disait que « si on supprimait l'amour, ce serait pire que la bombe atomique. Il n'y aurait plus personne sur terre ! »
+A noter, l'expression « vous qui voyez le ciel et la terre » pour nous laisser imaginer la position des amoureux.</p>
 
 
 

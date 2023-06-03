@@ -31,7 +31,7 @@ Longue planche horizontale en bois sombre qui comporte huit textes les uns à c�
 8.	Kan  le  Merle  Suble  la  Merlesse  Couve.
 
 ## Traduction
-1.	Il est comme l'âne qui n'a pas entendu ses parents : il ne sait pas dire "Hi ! Han !"
+1.	Il est comme l'âne qui n'a pas entendu ses parents : il ne sait pas dire « Hi ! Han ! »
 
 2.	La meilleure façon de dire non c'est de dire OUI mais de ne rien faire !
 
@@ -62,8 +62,8 @@ Longue planche horizontale en bois sombre qui comporte huit textes les uns à c�
 
 3.	Petit dialogue entendu devant la porte d'un vétérinaire.
 
-4.	Jeu avec la rime des mots inventés "demigezom, cratézon,
-    ciusson". Souvenir de catéchisme lorsque Eugène soufflait la
+4.	Jeu avec la rime des mots inventés « demigezom, cratézon,
+    ciusson ». Souvenir de catéchisme lorsque Eugène soufflait la
     réponse à un ami interrogé sur les vertus théologales (foi,
     espérance et charité).
 
@@ -74,7 +74,7 @@ Longue planche horizontale en bois sombre qui comporte huit textes les uns à c�
 7.	Si le sommet de la colline de Sainte Baudille est dans le
     brouillard, c'est qu'il va faire froid à Viriville.
 
-8.	Un "sublet" était un sifflet. Lorsque le mari siffle c'est qu'il
+8.	Un « sublet » était un sifflet. Lorsque le mari siffle c'est qu'il
     est heureux car sa femme attend un enfant.
 
 

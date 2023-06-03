@@ -1,4 +1,4 @@
-Title: Trop "plein" (planche 142)
+Title: Trop « plein » (planche 142)
 Date: 2016-03-16 15:59:24
 Modified: 2016-03-16 15:59:24
 Summary: 
@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 150
 
-<p style="text-align:justify;">Petite planche verticale en forme de vagues. Ses bords latéraux sont bordés d'écorce. Une grosse tâche sombre due à un nœud occupe une bonne partie de la surface. Le nombre "86" est gravé en haut à droite. Sur la gauche, dessin de deux personnages masculins : l'un tient un verre et l'autre une bouteille. </p>
+<p style="text-align:justify;">Petite planche verticale en forme de vagues. Ses bords latéraux sont bordés d'écorce. Une grosse tâche sombre due à un nœud occupe une bonne partie de la surface. Le nombre « 86 » est gravé en haut à droite. Sur la gauche, dessin de deux personnages masculins : l'un tient un verre et l'autre une bouteille. </p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_142.png">
@@ -26,7 +26,7 @@ i de bon è brâve garçon pa trop mâ Finï ?  mè pe l’arrosage ou pastis d
 
 
 ## Traduction
-Ce sont de bons et braves garçons,  pas trop mal finis, mais pour l'arrosage au pastis en fin de semaine, il vaut mieux les "brancher" au goutte à goutte !
+Ce sont de bons et braves garçons,  pas trop mal finis, mais pour l'arrosage au pastis en fin de semaine, il vaut mieux les « brancher » au goutte à goutte !
 
 Le Gène
 

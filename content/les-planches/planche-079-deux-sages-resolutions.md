@@ -28,9 +28,9 @@ Petite planche horizontale. Texte en deux parties séparées par un trait vertic
 Le Gène
 
 ## Commentaire
-<p style="text-align:justify;">Le premier dicton signifie : "Ne te mêle pas des histoires des autres" ou plus précisément : "N'essaye pas de coucher avec celui ou celle qui vit déjà une liaison avec un(e) autre".
+<p style="text-align:justify;">Le premier dicton signifie : « Ne te mêle pas des histoires des autres » ou plus précisément : « N'essaye pas de coucher avec celui ou celle qui vit déjà une liaison avec un(e) autre ».
 
-La deuxième réflexion, pleine de bon sens, pourrait correspondre à : "On ne tire pas sur une ambulance", c'est à dire : "Si tu t'acharnes sur quelqu'un qui est déjà très malheureux, tu vas l'achever."
+La deuxième réflexion, pleine de bon sens, pourrait correspondre à : « On ne tire pas sur une ambulance », c'est à dire : « Si tu t'acharnes sur quelqu'un qui est déjà très malheureux, tu vas l'achever. »
 </p>
 
 

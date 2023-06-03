@@ -27,7 +27,7 @@ Tu as vu comme il boite !? Je lui ai demandé s'il s'était fait mal, s'il avai
 Le Gène
 
 ## Commentaire
-<p style"text-align:justify;">Cette anecdote évoque un personnage qui continuait volontairement à utiliser son cheval de trait pour tous ses travaux agricoles alors qu'autour de lui ses voisins s'étaient déjà motorisés. En fait, il attendait que son fils revienne du service militaire pour conduire un tracteur. A l'époque, à la fin des années 50, les anciens ont souvent eu du mal à s'habituer à cet engin : il leur arrivait de crier "OOOH" au bout du champ pour tenter de l'arrêter  comme il le faisait avec le cheval et il n'était pas rare de les voir défoncer les clôtures.</p>
+<p style"text-align:justify;">Cette anecdote évoque un personnage qui continuait volontairement à utiliser son cheval de trait pour tous ses travaux agricoles alors qu'autour de lui ses voisins s'étaient déjà motorisés. En fait, il attendait que son fils revienne du service militaire pour conduire un tracteur. A l'époque, à la fin des années 50, les anciens ont souvent eu du mal à s'habituer à cet engin : il leur arrivait de crier « OOOH » au bout du champ pour tenter de l'arrêter  comme il le faisait avec le cheval et il n'était pas rare de les voir défoncer les clôtures.</p>
 
 
 

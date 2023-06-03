@@ -46,7 +46,7 @@ Le Gène
 
 ## Commentaire
 
-Eugène voulait avec le deuxième texte, sauvegarder les mots "violé" et "caizon" qui désignaient respectivement le sentier et la haie.
+Eugène voulait avec le deuxième texte, sauvegarder les mots « violé » et « caizon » qui désignaient respectivement le sentier et la haie.
 
 
 

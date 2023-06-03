@@ -11,7 +11,7 @@ series_index: 44
   <img alt="" src="{static}/images/planche_37.png">
   <figcaption style="max-width: 230px"></figcaption>
 </figure>
-<p style="text-align:justify;">Planche de moyenne grandeur, verticale, légèrement plus étroite en bas. Le bord haut est légèrement concave. Les côtés ont gardé leur écorce. En haut, un dessin représente deux petits nuages et un croissant de lune caricaturé avec un profil humain qui semble regarder une fusée plus bas sur sa gauche. Le nombre "77" est gravé en haut à droite.</p>
+<p style="text-align:justify;">Planche de moyenne grandeur, verticale, légèrement plus étroite en bas. Le bord haut est légèrement concave. Les côtés ont gardé leur écorce. En haut, un dessin représente deux petits nuages et un croissant de lune caricaturé avec un profil humain qui semble regarder une fusée plus bas sur sa gauche. Le nombre « 77 » est gravé en haut à droite.</p>
 
 ## Texte en patois
 Que Votié que j’alle fâre sû la lunâ i sû terre que sont le bône tôme le bon vèn le brave Fille

@@ -1,4 +1,4 @@
-Title: Un sabot pour "crey" (planche 6)
+Title: Un sabot pour « crey » (planche 6)
 Date: 2016-01-28 15:14:58
 Modified: 2016-01-28 15:14:58
 Summary: 
@@ -25,7 +25,7 @@ Avec ses grands panards il pourrait avoir des jumeaux : ses deux sabots leur se
 Le Gène
 
 ## Commentaire
-Un "crey" est un "berceau". A rapprocher du mot "crèche".
+Un « crey » est un « berceau ». A rapprocher du mot « crèche ».
 Cette plaisanterie était fréquemment réitérée pour se moquer gentiment des personnes qui avaient de grands pieds.
 
 

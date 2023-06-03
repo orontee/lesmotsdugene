@@ -17,12 +17,12 @@ series_index: 50
 je tïére la margòt â la sùmâ dou pive i s’envÒle côme de ren mè sú la maison plonge pe la chemenèyâ châ  dan la òulâ  Fricâsse la Marie Ke guerave còuère la sòupâ  		  le gène
 
 ## Traduction
-Je tire sur la pie à la cime du peuplier, mais elle s'envole "comme de rien" vers la maison, plonge par la cheminée dans la marmite et ébouillante la Marie qui regardait cuire la soupe !
+Je tire sur la pie à la cime du peuplier, mais elle s'envole « comme de rien » vers la maison, plonge par la cheminée dans la marmite et ébouillante la Marie qui regardait cuire la soupe !
 
 Le Gène
 
 ## Commentaire
-Planche inspirée par un voisin, "raconteur d'anecdotes" qui aimait bien utiliser l'hyperbole pour amuser ses compères.
+Planche inspirée par un voisin, « raconteur d'anecdotes » qui aimait bien utiliser l'hyperbole pour amuser ses compères.
 <figure class="image-block" style="float: left;">
   <img alt="Je tire sur la pie" src="{static}/images/planche_43_dessin_haut.png">
   <figcaption style="max-width: 380px">Je tire sur la pie</figcaption>

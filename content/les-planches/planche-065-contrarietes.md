@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 73
 
-<p style="text-align:justify;">Planche verticale de moyenne grandeur, un peu fendue en bas et gravée sur les deux faces. Les bords bas et haut sont évasés et les bords latéraux sont bordés d'écorce. Sur le recto : deux textes séparés par un petit trait. Le nombre "64" est gravé en haut à droite. </p>
+<p style="text-align:justify;">Planche verticale de moyenne grandeur, un peu fendue en bas et gravée sur les deux faces. Les bords bas et haut sont évasés et les bords latéraux sont bordés d'écorce. Sur le recto : deux textes séparés par un petit trait. Le nombre « 64 » est gravé en haut à droite. </p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_65_recto.png">

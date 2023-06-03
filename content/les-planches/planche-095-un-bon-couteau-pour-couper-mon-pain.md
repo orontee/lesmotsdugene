@@ -11,7 +11,7 @@ series_index: 104
   <img alt="" src="{static}/images/planche_95.png">
   <figcaption style="max-width: 227px"></figcaption>
 </figure>
-Grande planche verticale qui présente en son milieu de haut en bas, une veine naturelle un peu plus sombre, et une fente qui part du bord inférieur. Sous le bord supérieur un petit nœud sombre en forme d'amande et un autre en bas à gauche. Au dessus du texte, dessins d'un arbre, d'un soleil, d'un insecte, de plusieurs oiseaux,  du mot "coucou" répété trois fois et de plusieurs fleurs, marguerites (?) et plants de muguets.</p>
+Grande planche verticale qui présente en son milieu de haut en bas, une veine naturelle un peu plus sombre, et une fente qui part du bord inférieur. Sous le bord supérieur un petit nœud sombre en forme d'amande et un autre en bas à gauche. Au dessus du texte, dessins d'un arbre, d'un soleil, d'un insecte, de plusieurs oiseaux,  du mot « coucou » répété trois fois et de plusieurs fleurs, marguerites (?) et plants de muguets.</p>
 
 ## Texte en patois
 ou printan Kan chante le premié coucou dian me poche je né jamé ién soû mé ien côté pe copâ le pan. je ne petafinaré pa de Fan   		  le  gène
@@ -30,7 +30,7 @@ Le Gène
 
 
 ## Commentaires
-"Pétafinaré" est un terme métaphorique pour signifier mourir. Allusion à la "pétafine" qui est un fromage du Dauphiné, souvent très fort, élaboré essentiellement à partir de vieux restes de fromages et d'eau de vie.
+« Pétafinaré » est un terme métaphorique pour signifier mourir. Allusion à la « pétafine » qui est un fromage du Dauphiné, souvent très fort, élaboré essentiellement à partir de vieux restes de fromages et d'eau de vie.
 
 
 

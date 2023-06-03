@@ -30,7 +30,7 @@ le gène
 
 ## Traduction
 1/   Dis !  Jo ! tu es bien rentré de la vogue, hier soir ?
-─   Ne m'en parle pas, mon pauvre Gène ! Quand on est arrivé au grand virage de Marnans, j'ai fait : "Jésus, Marie…". Je n'ai pas eu le temps de dire "Joseph", que nous étions dans le FOSSÉ.
+─   Ne m'en parle pas, mon pauvre Gène ! Quand on est arrivé au grand virage de Marnans, j'ai fait : « Jésus, Marie… ». Je n'ai pas eu le temps de dire « Joseph », que nous étions dans le FOSSÉ.
 
 2/   Madame, vos tommes sont pur chèvre, au moins ?
 ─    Non, monsieur, chez nous, c'est mélangé : chèvres et biques !!!

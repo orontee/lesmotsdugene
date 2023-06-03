@@ -18,7 +18,7 @@ series_index: 90
 sû la têta de josé te li mète ién joug lia avé le joucle la mène le mènon Ke tienne lou côrdeu lételle é le targuillon ou tiére le coutrié solé                  le  gène
 
 ## Traduction
-Sur la tête de Joseph, tu y mets un joug, attaché avec les "joucles", la "mène", le "mènon" qui tiennent les "cordeu", "l'ételle" et le "targuillon" qui tire le "coutrier" tout seul.
+Sur la tête de Joseph, tu y mets un joug, attaché avec les « joucles », la « mène », le « mènon » qui tiennent les « cordeu », « l'ételle » et le « targuillon » qui tire le « coutrier » tout seul.
 Le Gène
 <figure class="image-block" style="float: right;">
   <img alt="La charrue vigneronne ou coutrier" src="{static}/images/planche_81_dessin_coutrie-2.png">
@@ -29,7 +29,7 @@ Le Gène
 ## Commentaire
 
 
-<p style="text-align:justify;">Cette planche permet de noter pour les sauvegarder tous ces termes techniques en patois. Les "joucles" sont des courroies en cuir, la "mène" une autre courroie tressée qui passe par le trou du joug, le "mènon" un morceau de bois qui sert à nouer la "mène". L'ensemble tient les "cordeu" qui sont également des boucles qui elles-mêmes tiennent "l'ételle" à laquelle est attachée le "targuillon", une grosse chaîne qui tire le "coutrier", c'est à dire la charrue.
+<p style="text-align:justify;">Cette planche permet de noter pour les sauvegarder tous ces termes techniques en patois. Les « joucles » sont des courroies en cuir, la « mène » une autre courroie tressée qui passe par le trou du joug, le « mènon » un morceau de bois qui sert à nouer la « mène ». L'ensemble tient les « cordeu » qui sont également des boucles qui elles-mêmes tiennent « l'ételle » à laquelle est attachée le « targuillon », une grosse chaîne qui tire le « coutrier », c'est à dire la charrue.
 Tout cela pour atteler le pauvre Joseph devant sa charrue !       </p>
 
 

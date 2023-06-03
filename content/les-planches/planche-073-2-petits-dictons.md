@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 82
 
-Petite planche horizontale en deux parties séparées par un trait vertical. Le nombre "78" est gravé en haut à droite.
+Petite planche horizontale en deux parties séparées par un trait vertical. Le nombre « 78 » est gravé en haut à droite.
 
 <figure class="image-block" style="float: center;">
   <img alt="" src="{static}/images/planche_73.png">
@@ -29,7 +29,7 @@ Il ne s'agit pas de paraître, il faut aussi ÊTRE.
 Le Gène
 
 ## Commentaire
-La première phrase est un dicton qui signifie que les gens qui se plaignent beaucoup ne sont pas forcément autant en danger qu'ils le croient et/ou le disent. On pouvait dire dans les mêmes circonstances : "Ça lui passera !" ou "Ce n'est pas si grave !".
+La première phrase est un dicton qui signifie que les gens qui se plaignent beaucoup ne sont pas forcément autant en danger qu'ils le croient et/ou le disent. On pouvait dire dans les mêmes circonstances : « Ça lui passera ! » ou « Ce n'est pas si grave ! ».
 
 
 <video width="320" height="240" controls>

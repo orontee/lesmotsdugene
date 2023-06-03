@@ -29,14 +29,14 @@ series_index: 110
 - Il m'a donné un coup de pied au cul qui m'a bien fait mal. Je lui en ai rendu un autre qui m'a bien fait mal aux orteils aussi ! Aie !
 - Ouvre la porte, il fait chaud ! Après tu pourras sortir et… la refermer.  Merci !
 - Il est comme les passereaux : tout seul, il peut peupler toute la plaine !
-- Elle avait mangé l'herbe de la "requinquille"  et j'ai eu droit à une fricassée de "regregnia"
+- Elle avait mangé l'herbe de la « requinquille »  et j'ai eu droit à une fricassée de « regregnia »
 
 
 ## Commentaire
 <p style="text-align:justify;">C'est une des premières planches gravées par Eugène avec le souci d'utiliser le plus possible de la surface de la planche.
 
-- La troisième historiette se situe au "bistrot". La phrase s'adresse à un raseur que l'on prie de sortir en plaisantant.
-- Dans le dernier texte, il s'agit de la réaction d'une femme au retour de son mari après une sortie bien arrosée. La "requinquille" est une tisane tellement mauvaise qu'elle faisait faire la grimace à qui la buvait et la "fricassée de regregnia" est  un plat à base de restes de saindoux fripés par la cuisson comme la grimace de colère sur le visage de la femme.</p>
+- La troisième historiette se situe au « bistrot ». La phrase s'adresse à un raseur que l'on prie de sortir en plaisantant.
+- Dans le dernier texte, il s'agit de la réaction d'une femme au retour de son mari après une sortie bien arrosée. La « requinquille » est une tisane tellement mauvaise qu'elle faisait faire la grimace à qui la buvait et la « fricassée de regregnia » est  un plat à base de restes de saindoux fripés par la cuisson comme la grimace de colère sur le visage de la femme.</p>
 
 
 

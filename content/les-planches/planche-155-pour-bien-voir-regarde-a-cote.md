@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 163
 
-<p style="text-align:judtify;">Grande planche verticale bordée d'écorce, plus large en haut qu'en bas. Au sommet de la première face sont gravés un cheval et le nombre "73". </p>
+<p style="text-align:judtify;">Grande planche verticale bordée d'écorce, plus large en haut qu'en bas. Au sommet de la première face sont gravés un cheval et le nombre « 73 ». </p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_155.png">
@@ -39,7 +39,7 @@ Le Gène
 
 ## Commentaires
 Sur la première face, cette maxime métaphorique pleine de bon sens et d'humour nous invite à la réflexion sur les comportements humains.
-Sur le verso, Eugène a retranscrit un petit dialogue qui l'avait amusé où l'expression "aller à la messe avec les autres" exprime de manière imagée un avis plutôt badin.
+Sur le verso, Eugène a retranscrit un petit dialogue qui l'avait amusé où l'expression « aller à la messe avec les autres » exprime de manière imagée un avis plutôt badin.
 
 
 <video width="320" height="240" controls>

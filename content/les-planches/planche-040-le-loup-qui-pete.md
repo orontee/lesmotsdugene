@@ -21,7 +21,7 @@ Tu peux encore voir le loup péter sur une pierre de bois !
 
 
 ## Commentaire
-Ce dicton signifie : "Tu pourrais encore être étonné", "Tu n'as encore rien vu, toi qui crois déjà tout connaître !"
+Ce dicton signifie : « Tu pourrais encore être étonné », « Tu n'as encore rien vu, toi qui crois déjà tout connaître ! »
 <figure class="image-block" style="float: left;">
   <img alt="Le loup qui pète sur la pierre de bois" src="{static}/images/planche_40_dessin_loup.png">
   <figcaption style="max-width: 340px">Le loup qui pète sur la pierre de bois</figcaption>

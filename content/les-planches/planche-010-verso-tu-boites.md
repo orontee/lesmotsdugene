@@ -19,15 +19,15 @@ te bôuite te tess éKalancha ne men parla pa jé déripa sû le liétâ de la p
 
 ## Traduction
 
-Tu boîtes, tu es tout "déglingué" ?
+Tu boîtes, tu es tout « déglingué » ?
 
-─ Ne m'en parle pas ! J'ai dérapé sur le seuil de la porte, la poule avait déposé une belle "jaunasse".
+─ Ne m'en parle pas ! J'ai dérapé sur le seuil de la porte, la poule avait déposé une belle « jaunasse ».
 
 ## Commentaire
 
-Une "jaunasse" est une fiente. Le plus souvent, on donnait à picorer
+Une « jaunasse » est une fiente. Le plus souvent, on donnait à picorer
 aux poules sur le seuil des maisons ce qui occasionnait parfois
-quelques "dégâts" pouvant s'avérer dangereux pour la santé !
+quelques « dégâts » pouvant s'avérer dangereux pour la santé !
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_10bis-2.mp4" type="video/mp4">

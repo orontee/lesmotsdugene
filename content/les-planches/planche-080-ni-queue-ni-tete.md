@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 89
 
-<p style="text-align:justify;">Petite planche verticale en forme de poisson. La forme naturelle du bas évoquant la queue a conduit Eugène a découper le haut en forme de tête de poisson. L'œil est figuré par un cercle entourant un point, la bouche par la découpe et l'ouïe par des traits. Des écailles sont tracées de manière à peine visible sur le côté droit.Les lettres sont peintes en doré. Le nombre "50" est gravé tout en bas sur la partie droite.</p>
+<p style="text-align:justify;">Petite planche verticale en forme de poisson. La forme naturelle du bas évoquant la queue a conduit Eugène a découper le haut en forme de tête de poisson. L'œil est figuré par un cercle entourant un point, la bouche par la découpe et l'ouïe par des traits. Des écailles sont tracées de manière à peine visible sur le côté droit.Les lettres sont peintes en doré. Le nombre « 50 » est gravé tout en bas sur la partie droite.</p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_80.png">

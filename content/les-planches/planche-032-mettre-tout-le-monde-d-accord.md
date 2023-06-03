@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 39
 
-<p style="text-align:justify;">Planche très sombre, découpée en forme de poisson et gravée sur les deux faces. Un rond dessine l'œil, deux traits courbes autour des mots "lou éperlan", figurent les ouïes.</p>
+<p style="text-align:justify;">Planche très sombre, découpée en forme de poisson et gravée sur les deux faces. Un rond dessine l'œil, deux traits courbes autour des mots « lou éperlan », figurent les ouïes.</p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_32.png">

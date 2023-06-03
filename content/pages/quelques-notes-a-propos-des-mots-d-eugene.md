@@ -25,7 +25,7 @@ Ce n'est pas toujours le patois tel qu'il était pratiqué à Viriville. C'est p
 
 - C'est celui qu'il a entendu et mémorisé depuis son enfance. C'est un mélange du patois des coteaux, de Roybon, de Viriville, de la Côte St André ou d'autres communes pour retranscrire certaines anecdotes ou sentences entendues telles quelles.
 
-- C'est celui qu'il a étudié à partir de documents comme "L'Almanach du Vieux Dauphinois" ou "Le dictionnaire du patois Dauphinois" ou "L'Impartial de la Drôme" qui traitait dans certains de ses articles de la langue des collines.
+- C'est celui qu'il a étudié à partir de documents comme « L'Almanach du Vieux Dauphinois » ou « Le dictionnaire du patois Dauphinois » ou « L'Impartial de la Drôme » qui traitait dans certains de ses articles de la langue des collines.
 
 
 
@@ -41,7 +41,7 @@ Eugène a inventé sa propre phonétique. Les majuscules, les accents aigus, gra
 
 - Les points d'interrogation reviennent très souvent pour remplacer les points d'exclamations, séparer deux paragraphes, marquer un temps de pause dans la lecture du texte ou…  exprimer un doute quant à la façon dont la phrase ou le mot risque d'être compris !
 
-- Les accents sont des indications de prononciations. L'accent circonflexe qu'Eugène appelle "l'accent chapeau de paille" indique un son grave et/ou une tonique : le tréma, souligne normalement la prononciation bien distincte de deux voyelles contigües.
+- Les accents sont des indications de prononciations. L'accent circonflexe qu'Eugène appelle « l'accent chapeau de paille » indique un son grave et/ou une tonique : le tréma, souligne normalement la prononciation bien distincte de deux voyelles contigües.
 
 
 
@@ -75,13 +75,13 @@ Les planches sont en bois fruitiers parce qu'ils ont la dureté souhaitée. Le b
 
 
 
-Les planches sont la pour plupart revêtues de leur écorce, récupérées parce qu'inutilisables dans les scieries après le dégrossissage de la grume.  Les formes les plus étranges ou aux bords tortueux sont celles qu'Eugène préfère. Elles l'inspirent et "dialoguent" avec le texte, de même que les nœuds, fentes, perforations ou tout autre défaut dans le bois.
+Les planches sont la pour plupart revêtues de leur écorce, récupérées parce qu'inutilisables dans les scieries après le dégrossissage de la grume.  Les formes les plus étranges ou aux bords tortueux sont celles qu'Eugène préfère. Elles l'inspirent et « dialoguent » avec le texte, de même que les nœuds, fentes, perforations ou tout autre défaut dans le bois.
 
 
 
 
 ## La méthode de gravure
 
-Pour graver il utilise une défonceuse à la mèche émoussée. Cette mèche de plus en plus usée brûle le bois en le creusant traçant ainsi des sillons plus foncés. Eugène a acheté, longtemps après ses débuts, un outil de pyrogravure dans un magasin spécialisé dans les fournitures pour travaux manuels qui lui a permis de dessiner sur les planches plus finement. Mais cet outil n'a jamais remplacé sa "défonceuse".
+Pour graver il utilise une défonceuse à la mèche émoussée. Cette mèche de plus en plus usée brûle le bois en le creusant traçant ainsi des sillons plus foncés. Eugène a acheté, longtemps après ses débuts, un outil de pyrogravure dans un magasin spécialisé dans les fournitures pour travaux manuels qui lui a permis de dessiner sur les planches plus finement. Mais cet outil n'a jamais remplacé sa « défonceuse ».
 
 

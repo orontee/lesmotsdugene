@@ -25,7 +25,7 @@ a la sainte Barbe le banquet dou  pompié la bardelle étié ou vio. mé marie d
 le gène
 
 ## Traduction
-A la Sainte Barbe, le jour du banquet des pompiers, la "Bardelle" était prête à vêler…
+A la Sainte Barbe, le jour du banquet des pompiers, la « Bardelle » était prête à vêler…
 ─   Mais, Marie, dis-moi pourquoi, à minuit, c'est un pompier qui se trouvait sur la paille !???
 
 Le Gène
@@ -34,7 +34,7 @@ Le Gène
 
 
 ## Commentaire
-<p style=text-align:justify;">Eugène nous conte une anecdote qui s'est réellement déroulée. On imagine bien, grâce aux dessins, la stupeur et la confusion de la "Marie", découvrant un pompier ivre mort à la place du petit veau attendu.
+<p style=text-align:justify;">Eugène nous conte une anecdote qui s'est réellement déroulée. On imagine bien, grâce aux dessins, la stupeur et la confusion de la « Marie », découvrant un pompier ivre mort à la place du petit veau attendu.
 Eugène choisit souvent des prénoms très courants comme Marie ici (ou Joseph ailleurs par exemple) pour ne pas dévoiler l'identité de la personne concernée.</p>
 
 <video width="320" height="240" controls>

@@ -27,7 +27,7 @@ Quand tu ne peux plus prendre la fuite, il faut toujours dire au loup qu'il est 
 
 ## Commentaire
 <p style="text-align:justify;">Cette planche a été réalisée pour être exposée lors d'une manifestation organisée par le Crédit Agricole.
-C'est une "brave femme" de sa connaissance qui a inspiré à Eugène cette maxime. Elle avait été arrêtée par les gendarmes sur la route à cause d'un phare cassé et se vantait d'avoir réussi à les amadouer.</p>
+C'est une « brave femme » de sa connaissance qui a inspiré à Eugène cette maxime. Elle avait été arrêtée par les gendarmes sur la route à cause d'un phare cassé et se vantait d'avoir réussi à les amadouer.</p>
 
 
 

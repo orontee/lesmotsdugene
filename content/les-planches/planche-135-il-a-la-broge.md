@@ -18,12 +18,12 @@ jé parla  e chaó ou gène ou ma repondiu de rave   ne fé pà attention ou dey
 
 ## Traduction
 J'ai parlé de choux au Gène, il m'a répondu en parlant de raves.
-─   Ne fais pas attention, il doit avoir la "broge". Il se trouve un peu en pays javanais !
+─   Ne fais pas attention, il doit avoir la « broge ». Il se trouve un peu en pays javanais !
 
 ## Commentaire
-La première phrase utilise les choux et les raves pour imager l'expression "répondre à côté de la plaque".
-La "broge" signifie avoir la tête ailleurs, avoir des soucis.
-Le "javanais" symbolisait un langage étranger incompréhensible et le "Javanère" est, en conséquence, le pays des inventions un peu folles et d'une imagination débridée.
+La première phrase utilise les choux et les raves pour imager l'expression « répondre à côté de la plaque ».
+La « broge » signifie avoir la tête ailleurs, avoir des soucis.
+Le « javanais » symbolisait un langage étranger incompréhensible et le « Javanère » est, en conséquence, le pays des inventions un peu folles et d'une imagination débridée.
 
 
 

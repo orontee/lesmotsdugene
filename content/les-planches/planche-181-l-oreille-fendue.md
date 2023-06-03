@@ -32,7 +32,7 @@ Le Gène
 
 ## Commentaire
 <p style="text-align:justify;">Cette pierre a été trouvée ainsi par Eugène et elle lui a inspiré ce texte.
-Les deux mots "môre" et "nâ" signifient le nez. Le premier vient du mot en patois signifiant "noir" comme le museau des animaux et se réfère donc plutôt à ceux-ci, mais il était employé également couramment pour les personnes, non sans humour.
+Les deux mots « môre » et « nâ » signifient le nez. Le premier vient du mot en patois signifiant « noir » comme le museau des animaux et se réfère donc plutôt à ceux-ci, mais il était employé également couramment pour les personnes, non sans humour.
 Les trois parties du texte écrites en lettres de plus en plus petites indiquent qu'il faille les lires en baissant progressivement le son, comme pour tester le malentendant.  </p>
 
 

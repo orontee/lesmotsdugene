@@ -20,7 +20,7 @@ te  mâ  dïé te vé chez mathieu.  y ? la mézon dou Bon-dieu  ji.é tróvâ 
 Tu m'as dit : tu vas chez Mathieu ?  C'est la maison du bon Dieu, et moi, je n'y ai trouvé qu'un bon diable.
 
 ## Commentaire
-Se disait couramment. Jeu avec les expressions courantes : "Maison du bon Dieu" et "Un bon diable".
+Se disait couramment. Jeu avec les expressions courantes : « Maison du bon Dieu » et « Un bon diable ».
 
 
 

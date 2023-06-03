@@ -36,7 +36,7 @@ Le Gène
 </figure>
 
 ## Commentaire
-Petit texte coquin autour du mot "pantillon".
+Petit texte coquin autour du mot « pantillon ».
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_145.mp4" type="video/mp4">

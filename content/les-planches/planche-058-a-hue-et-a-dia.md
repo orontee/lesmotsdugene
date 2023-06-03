@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 65
 
-<p style="text-align:justify;">Planche verticale de moyenne grandeur. En haut à gauche, dessin d'une vache la queue dressée, un point d'interrogation au dessus de la tête entre les mots "gôche" et "drete". Le point du "i" du premier mot est remplacé par une esquisse de tête de vache.</p>
+<p style="text-align:justify;">Planche verticale de moyenne grandeur. En haut à gauche, dessin d'une vache la queue dressée, un point d'interrogation au dessus de la tête entre les mots « gôche » et « drete ». Le point du« i » du premier mot est remplacé par une esquisse de tête de vache.</p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_58.png">

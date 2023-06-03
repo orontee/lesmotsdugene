@@ -21,7 +21,7 @@ ho la la la la la la  jozé ne metta pâ d’aigua sû mon vén jetal dian le tr
 Ho la ! la ! la ! la ! la ! la ! Joseph, ne mets pas d'eau sur mon vin, jette la dans le trou, ça gâte complètement le vin. Par contre, tu peux mettre autant de vin que tu veux sur l'eau, ça l'arrange bien, l'eau !
 
 ## Commentaire
-<p style="text-align:justify;">Eugène reprend des phrases lancées avec humour entre convives au cours des repas de "batteuses" qui réunissaient une douzaine de personnes après les travaux partagés.</p>
+<p style="text-align:justify;">Eugène reprend des phrases lancées avec humour entre convives au cours des repas de « batteuses » qui réunissaient une douzaine de personnes après les travaux partagés.</p>
 
 
 <video width="320" height="240" controls>

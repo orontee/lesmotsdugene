@@ -19,12 +19,12 @@ avé l’éssû l’aiguâ i ién bien rare é préciou te pô économizié ién
 
 ## Traduction
 Avec la sécheresse, l'eau est un bien rare et précieux.
-─   Tu peux en économiser au moins un quart avec le nouvel irrigateur "moitié gaspi" pour le canton de "montrou" !
+─   Tu peux en économiser au moins un quart avec le nouvel irrigateur « moitié gaspi » pour le canton de « montrou » !
 
 ## Commentaire
 <p style="text-align:justify;">Sur cette planche comme sur plusieurs autres, Eugène joue avec les mots autour de l'objet ancien exposé.
-"L'irrigateur", instrument servant aux lavements en permettant d'économiser la moitié de l'eau nécessaire, est qualifié avec humour de "moitié gaspi", comme dans un texte publicitaire vantant ses mérites.
-Quant au "canton de Montrou", tracé à côté du trou dans le bois, il s'agit d'une plaisanterie évoquant la partie du corps concernée par l'instrument…</p>
+« L'irrigateur », instrument servant aux lavements en permettant d'économiser la moitié de l'eau nécessaire, est qualifié avec humour de « moitié gaspi », comme dans un texte publicitaire vantant ses mérites.
+Quant au « canton de Montrou », tracé à côté du trou dans le bois, il s'agit d'une plaisanterie évoquant la partie du corps concernée par l'instrument…</p>
 
 
 

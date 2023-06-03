@@ -22,12 +22,12 @@ le gène
 
 ## Traduction
 Au marché : Tu as apporté mes tommes, Louis ?
---  Oh ! ma pauvre femme ! Je ne peux pas vous apporter des tommes de "chèvres à grande queue", ma vache n'a plus de lait !!!
+--  Oh ! ma pauvre femme ! Je ne peux pas vous apporter des tommes de « chèvres à grande queue », ma vache n'a plus de lait !!!
 
 ## Commentaire
-Plaisanterie sur les "chèvres à grande queue".
+Plaisanterie sur les « chèvres à grande queue ».
 
-Louis était un voisin d'Eugène, bien connu à Viriville sous le sobriquet de "Grand Louis".
+Louis était un voisin d'Eugène, bien connu à Viriville sous le sobriquet de « Grand Louis ».
 
 
 <video width="320" height="240" controls>

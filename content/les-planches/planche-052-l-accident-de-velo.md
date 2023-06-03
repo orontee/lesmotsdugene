@@ -26,7 +26,7 @@ le gène
 
 ## Traduction
 Mais qu'est-ce qui t'est arrivé, Henri, l'autre jour ?
-─  Ne m'en parle pas ! Je descendais à bicyclette dans la pente du lieu-dit la "Poya".
+─  Ne m'en parle pas ! Je descendais à bicyclette dans la pente du lieu-dit la « Poya ».
  La Marie gardait ses chèvres. Elle était assise sur le sentier. Les freins ont lâché. J'ai alors laissé traîner mes galoches… Cela n'a rien fait ! Et je lui suis rentré en plein dedans !!!
 
 Le Gène
@@ -42,8 +42,8 @@ Le Gène
 
 ## Commentaire
 Cette histoire est véridique et a été racontée par une voisine.
-"L'ensso" est une pente assez raide.
-"la Poya" : un lieu-dit de la commune de Viriville.
+« L'ensso » est une pente assez raide.
+« la Poya » : un lieu-dit de la commune de Viriville.
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_52.mp4" type="video/mp4">

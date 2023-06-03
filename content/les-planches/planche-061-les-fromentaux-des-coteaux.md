@@ -36,7 +36,7 @@ Le Gène
 </figure>
 
 ## Commentaire
-<p style="text-align:justify;">Les "fromentaux" sont des champs de blé; les "Chèvres-mottes", des sauterelles.
+<p style="text-align:justify;">Les « fromentaux » sont des champs de blé; les « Chèvres-mottes », des sauterelles.
 Dans ces dialogues savoureux, aux assertions pleines de sérieux et de fierté répondent des assertions moqueuses sous forme d'images hyperboliques.</p>
 
 <video width="320" height="240" controls>

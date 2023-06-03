@@ -11,7 +11,7 @@ series_index: 106
   <img alt="" src="{static}/images/planche_97.png">
   <figcaption style="max-width: 282px"></figcaption>
 </figure>
-<p style="text-align:justify;">Petite planche verticale, peu épaisse. Le haut est très profondément échancré. Sur les deux branches en forme de "V" sont dessinés un poussin et un coq à gauche, deux poules et deux poussins à droite.</p>
+<p style="text-align:justify;">Petite planche verticale, peu épaisse. Le haut est très profondément échancré. Sur les deux branches en forme de « V » sont dessinés un poussin et un coq à gauche, deux poules et deux poussins à droite.</p>
 
 ## Texte en patois
 i  pa  a  coze  que  jé  abadà  mou  coq  que  tess  obligea  de  fâre  parreu  pe  te  Pôlëtte

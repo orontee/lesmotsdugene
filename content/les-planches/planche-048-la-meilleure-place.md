@@ -51,7 +51,7 @@ Le Gène
 .
 
 ## Commentaire
-Petite phrase entendue plusieurs fois au cours des repas de "batteuse" en 1969, au moment où des hommes ont marché pour la première fois sur la lune.
+Petite phrase entendue plusieurs fois au cours des repas de « batteuse » en 1969, au moment où des hommes ont marché pour la première fois sur la lune.
 
 
 <video width="320" height="240" controls>

@@ -35,7 +35,7 @@ Le Gène
 ## Commentaire
 <p style="text-align:justify;">Il s'agit ici d'une femme miséreuse qui vivait seule à Marnans. La mère d'Eugène se souvenait qu'elle était tellement pauvre qu'elle devait lacer ses galoches avec des lianes.
 
-Le dernier des mots qui reprend la finale homophone "asse" et dont la première partie est remplacée par un point d'interrogation évoque pudiquement l'habitude de "courir après les filles".</p>
+Le dernier des mots qui reprend la finale homophone « asse » et dont la première partie est remplacée par un point d'interrogation évoque pudiquement l'habitude de « courir après les filles ».</p>
 
 
 

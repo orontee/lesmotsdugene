@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 121
 
-<p style="text-align:justify;">Planche horizontale de taille moyenne. A droite, les bords supérieur et inférieur présentent des excroissances. A droite, séparé du texte par un trait, dessin d'un personnage coiffé d'une casquette chevauchant un âne. Il tient devant lui une perche au bout de laquelle est accrochée une carotte. En dessous du dessin, écrits en plus petits caractères, les mots : "carotte", "revenu", "retraite", "repos" et  "vacance".
+<p style="text-align:justify;">Planche horizontale de taille moyenne. A droite, les bords supérieur et inférieur présentent des excroissances. A droite, séparé du texte par un trait, dessin d'un personnage coiffé d'une casquette chevauchant un âne. Il tient devant lui une perche au bout de laquelle est accrochée une carotte. En dessous du dessin, écrits en plus petits caractères, les mots : « carotte », « revenu », « retraite », « repos » et  « vacance ».
 </p>
 
 <figure class="image-block" style="float: center;">

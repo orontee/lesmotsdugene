@@ -11,7 +11,7 @@ series_index: 102
   <img alt="" src="{static}/images/planche_93.png">
   <figcaption style="max-width: 201px"></figcaption>
 </figure>
-<p style="text-align:justify;">Grande planche verticale. Le bord droit est bordé d'écorce. Le coin supérieur gauche présente une sorte de "bec" percé d'un trou formé par un nœud. En haut, dessin d'une poule tenant dans son bec un couteau.Le nombre "63" est gravé en haut à droite. Plus bas, dessin d’un couteau à droite du mot « cóté »</p>
+<p style="text-align:justify;">Grande planche verticale. Le bord droit est bordé d'écorce. Le coin supérieur gauche présente une sorte de « bec » percé d'un trou formé par un nœud. En haut, dessin d'une poule tenant dans son bec un couteau.Le nombre « 63 » est gravé en haut à droite. Plus bas, dessin d’un couteau à droite du mot « cóté »</p>
 
 ## Texte en patois
 hOoo Fà ren bàme tïen tess entreprey de te man côme ina pòlà Ka trovà èn còté ne fô pâ  Fare pe défàre le gène
@@ -33,7 +33,7 @@ Le Gène
 
 
 ## Commentaires
-Expressions couramment employées par les "anciens" agacés par les maladresses des jeunes apprentis.
+Expressions couramment employées par les « anciens » agacés par les maladresses des jeunes apprentis.
 
 
 

@@ -42,15 +42,15 @@ C'est pas du brouillard toute cette fumée !  C'est bien du feu !
 
 ## Commentaire
 
-- "Si tu dis les choses à ta façon" signifie "Si tu mens".
+- « Si tu dis les choses à ta façon » signifie « Si tu mens ».
 
-- "Tu manges avec lui" équivaut à "Tu ne vaux pas mieux que lui". Il
+- « Tu manges avec lui » équivaut à « Tu ne vaux pas mieux que lui ». Il
   est conseillé alors de prendre une grande fourchette pour ne pas
   avoir à s'approcher trop près du feu, assimilé ici au diable, et ne
   pas risquer de ce bruler.
 
-- "C'est bien du feu !" est le raccourci de "Il en reste toujours
-  quelque chose" ou "Il n'y a pas de fumée sans feu".
+- « C'est bien du feu ! » est le raccourci de « Il en reste toujours
+  quelque chose » ou « Il n'y a pas de fumée sans feu ».
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_17.mp4" type="video/mp4">

@@ -29,9 +29,9 @@ Le Gène
 
 ## Commentaire
 L'art de voir le bon côté des choses !!!
-"Quoailles" est un terme local péjoratif qui signifie "petites, ratatinées…".
+« Quoailles » est un terme local péjoratif qui signifie « petites, ratatinées… ».
 
-Les "gobilles" sont des petites billes.
+Les « gobilles » sont des petites billes.
 
 Ce texte est un dialogue entre deux paysans, relevé lors d'une année de grande sécheresse avec pour conséquence la petite taille des légumes du potager.
 

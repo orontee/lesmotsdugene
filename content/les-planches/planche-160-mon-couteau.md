@@ -25,7 +25,7 @@ Ce n'est pas un couteau, que tu as ! Il est juste bon à châtrer les grillons�
 Le Gène
 
 ## Commentaire
-Le "chàtre-moryé" qui signifie littéralement "châtre-grillon" était un terme humoristique couramment employé pour désigner un vieux couteau mal aiguisé. Ce petit dialogue est un bon exemple des petites plaisanteries échangées au cours des regroupements entre voisins et membres de la même famille pour les travaux agricoles.
+Le « chàtre-moryé » qui signifie littéralement « châtre-grillon » était un terme humoristique couramment employé pour désigner un vieux couteau mal aiguisé. Ce petit dialogue est un bon exemple des petites plaisanteries échangées au cours des regroupements entre voisins et membres de la même famille pour les travaux agricoles.
 
 
 

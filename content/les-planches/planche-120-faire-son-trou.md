@@ -25,7 +25,7 @@ C'est en laissant faire les jeunes qu'ils peuvent arriver à faire leur trou dan
 Le Gène
 
 ## Commentaire
-<p style="text-align:justify;"> L'outil illustre de manière amusante l'expression "faire son trou" c'est à dire "réussir". Ce vilebrequin fait partie de la collection d'outils agricoles d'Eugène. C'est lui qui l'a inspiré pour mettre en forme cette petite sentence éducative.
+<p style="text-align:justify;"> L'outil illustre de manière amusante l'expression « faire son trou » c'est à dire « réussir ». Ce vilebrequin fait partie de la collection d'outils agricoles d'Eugène. C'est lui qui l'a inspiré pour mettre en forme cette petite sentence éducative.
 </p>
 
 

@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 93
 
-<p style="text-align:justify;">Planche de bouleau, claire, rectangulaire et verticale. Au sommet est gravé le nombre "54". La première phrase est tracée en petits caractères difficilement déchiffrables à côté du dessin d'un soleil rayonnant. Au centre à droite, dessin d'une hotte de cheminée (c'est sa propre cheminée qui a servi à Eugène de modèle) contenant trois grosses bûches dans l’âtre. Un homme et un chat sont assis, tournant le dos au feu.</p>
+<p style="text-align:justify;">Planche de bouleau, claire, rectangulaire et verticale. Au sommet est gravé le nombre « 54 ». La première phrase est tracée en petits caractères difficilement déchiffrables à côté du dessin d'un soleil rayonnant. Au centre à droite, dessin d'une hotte de cheminée (c'est sa propre cheminée qui a servi à Eugène de modèle) contenant trois grosses bûches dans l’âtre. Un homme et un chat sont assis, tournant le dos au feu.</p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_84.png">
@@ -25,7 +25,7 @@ le  Patron dou  ma habiila se Fâ vèr to janvier    Janvier â rétrâ le grôb
 le gène
 
 ## Traduction
-Si le "Patron des mal habillés" se fait voir tout janvier, si en janvier on a rentré les souches, qu'en février on les brûle et que le grand-père et le vieux matou montrent leur derrière au feu… alors… le printemps n'est pas pour demain.
+Si le « Patron des mal habillés » se fait voir tout janvier, si en janvier on a rentré les souches, qu'en février on les brûle et que le grand-père et le vieux matou montrent leur derrière au feu… alors… le printemps n'est pas pour demain.
 
 Le Gène
 <figure class="image-block" style="float: right;">
@@ -35,9 +35,9 @@ Le Gène
 
 
 ## Commentaire
-Le "patron des mal-habillés" est le soleil.
+Le « patron des mal-habillés » est le soleil.
 Cette planche reprend un des dictons des Chambarans permettant de prévoir empiriquement le temps.
-Plus sobrement : "Si il fait soleil en janvier mais froid en février, alors le printemps sera tardif".
+Plus sobrement : « Si il fait soleil en janvier mais froid en février, alors le printemps sera tardif ».
 
 
 <video width="320" height="240" controls>

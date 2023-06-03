@@ -19,12 +19,12 @@ je so morfondïu je n’arrive plû a bessâ mon jardïen ? je pô te fare ina 
 ## Traduction
 Je suis las ! Je n'arrive plus à bêcher mon jardin !
 
-─   Je peux te faire une "jointe" !?
+─   Je peux te faire une « jointe » !?
 
 Le Gène
 
 ## Commentaire
-Une "jointe" correspond à une demi-journée de travail pour une bête de somme.
+Une « jointe » correspond à une demi-journée de travail pour une bête de somme.
 
 
 

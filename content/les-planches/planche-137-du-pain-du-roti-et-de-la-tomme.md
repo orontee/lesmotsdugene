@@ -28,10 +28,10 @@ Planche verticale rectangulaire. le bord supérieur est sinueux. Une petite fent
 Le Gène.
 
 ## Commentaire
-Le "frico" est un morceau de viande délicieux, rôti au four.
+Le « frico » est un morceau de viande délicieux, rôti au four.
 
 Le premier précepte ne s'applique pas qu'à la nourriture et le deuxième concerne les gens plus que les chiens
-Le verbe "galocher" vient bien sûr du mot "galoches", chaussures à semelles de bois. Il signifie : "lever le pied et montrer le bout de ses galoches pour tenir un animal en respect".
+Le verbe « galocher » vient bien sûr du mot « galoches », chaussures à semelles de bois. Il signifie : « lever le pied et montrer le bout de ses galoches pour tenir un animal en respect ».
 
 
 

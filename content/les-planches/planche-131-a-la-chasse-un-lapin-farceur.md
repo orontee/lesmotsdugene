@@ -27,7 +27,7 @@ Le Gène
 
 ## Commentaire
 Histoire racontée par un voisin et un peu transformée.
-La "Caraborne" est un trou profond dans le tronc d'un châtaignier que les lapins aiment utiliser comme terrier.
+La « Caraborne » est un trou profond dans le tronc d'un châtaignier que les lapins aiment utiliser comme terrier.
 
 
 

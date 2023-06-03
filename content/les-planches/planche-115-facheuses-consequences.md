@@ -39,10 +39,10 @@ series_index: 123
 - En vingt-neuf, il a tellement fait froid que les canards ont gelé sur l'étang. Avec ma faux je n'ai fauché que deux paires d'andains !   -                              Le Gène
 
 ## Commentaire
-- Droit ou devoir du sol pour le propriétaire du lieu du "délit"  qui dans tous les cas s'en lave les mains !
+- Droit ou devoir du sol pour le propriétaire du lieu du « délit »  qui dans tous les cas s'en lave les mains !
 
 
-- "L'andain" est une bande continue de fourrage laissée sur le sol après la fauche.
+- « L'andain » est une bande continue de fourrage laissée sur le sol après la fauche.
 
 
 <video width="320" height="240" controls>

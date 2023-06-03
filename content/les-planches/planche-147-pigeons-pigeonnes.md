@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 155
 
-<p style="text-align:justify;">Petite planche horizontale. Les bords inférieur et supérieur sont bordés d'écorce, le bord gauche est droit et le bord droite en biais forme une pointe dans le haut supérieur où est gravé le nombre "86". Sous le texte, dessin de deux oiseaux entourant un nid contenant deux œufs. </p>
+<p style="text-align:justify;">Petite planche horizontale. Les bords inférieur et supérieur sont bordés d'écorce, le bord gauche est droit et le bord droite en biais forme une pointe dans le haut supérieur où est gravé le nombre « 86 ». Sous le texte, dessin de deux oiseaux entourant un nid contenant deux œufs. </p>
 
 <figure class="image-block" style="float: center;">
   <img alt="" src="{static}/images/planche_147-2.png">

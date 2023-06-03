@@ -31,7 +31,7 @@ Le Gène
 
 ## Commentaire
  Dicton métaphorique pour signifier que lorsqu'on est paralysé par la peur on ne peut rien obtenir, à l'instar du renard, incapable d'attraper une poule.
-L'expression "le môrre plumou" pourrait se traduire littéralement par "le nez plumeux".
+L'expression « le môrre plumou » pourrait se traduire littéralement par « le nez plumeux ».
 Comme sur chaque planche, les lettres initiales des mots Renâ, Le et Plûmou sont gravées en majuscules pour le seul plaisir de tracer des belles courbes.
 
 <video width="320" height="240" controls>

@@ -26,15 +26,15 @@ le gène
 
 
 ## Traduction
-Originaire des Chambarans, je suis comme les poires et les prunes séchées, un vrai "karnio". Mais ailleurs, il y a autant de "brame-la-faim".
+Originaire des Chambarans, je suis comme les poires et les prunes séchées, un vrai « karnio ». Mais ailleurs, il y a autant de « brame-la-faim ».
 
 En revenant de la foire, Joseph a toute cabossé et enroulé sa carriole autour d'un Chêne. Mais si tu l'écoutes, c'est la faute du chêne !!!
 Le Gène
 
 ## Commentaire
-<p style="text-align:justify;">On appelait "karnio" les habitants de ces terres pauvres des collines. "Karnio" signifie mangeurs de fruits secs car les Chambarans produisaient beaucoup de bons fruits que les paysans faisaient sécher pour pouvoir en consommer toute l'année. Les médisants de la plaine( ! ), pour s'en moquer,  prétendaient que cela constituait leur principale nourriture.
+<p style="text-align:justify;">On appelait « karnio » les habitants de ces terres pauvres des collines. « Karnio » signifie mangeurs de fruits secs car les Chambarans produisaient beaucoup de bons fruits que les paysans faisaient sécher pour pouvoir en consommer toute l'année. Les médisants de la plaine( ! ), pour s'en moquer,  prétendaient que cela constituait leur principale nourriture.
 
-"Brâmafan" ou "brame-la-faim" est un terme suffisamment explicite et imagé.</p>
+« Brâmafan » ou « brame-la-faim » est un terme suffisamment explicite et imagé.</p>
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_89.mp4" type="video/mp4">

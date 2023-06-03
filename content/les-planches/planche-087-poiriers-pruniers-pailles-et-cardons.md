@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 96
 
-<p style="text-align:justify;">Longue planche horizontale assez étroite. Sa forme pourrait vaguement évoquer la forme d'un crocodile. Le bord gauche est concave et percé d'un trou. Le bord droit ressemble à une tête d'animal au museau très allongé, un nœud de bois très foncé figurant l'œil. Trois textes indépendants sont répartis de gauche à droite, séparés par le dessin d'un arbre portant des fruits puis celui d'une chèvre. A gauche, est gravé le nombre "63".</p>
+<p style="text-align:justify;">Longue planche horizontale assez étroite. Sa forme pourrait vaguement évoquer la forme d'un crocodile. Le bord gauche est concave et percé d'un trou. Le bord droit ressemble à une tête d'animal au museau très allongé, un nœud de bois très foncé figurant l'œil. Trois textes indépendants sont répartis de gauche à droite, séparés par le dessin d'un arbre portant des fruits puis celui d'une chèvre. A gauche, est gravé le nombre « 63 ».</p>
 
 <figure class="image-block" style="float: center;">
   <img alt="" src="{static}/images/planche_87.png">
@@ -40,9 +40,9 @@ series_index: 96
   <figcaption style="max-width: 286px"></figcaption>
 </figure>
 
-- Les poires "bacho" sont des petites poires sauvages. Ce texte évoque les "petites gens" qui murissent souvent avant les autres.
+- Les poires « bacho » sont des petites poires sauvages. Ce texte évoque les « petites gens » qui murissent souvent avant les autres.
 - Le deuxième texte compare les mimiques que l'on fait en mangeant ces mauvaises prunes et les grimaces que font les chèvres avec le bouc.
-- Les "pailles et des cardons"  donnent l'image des jambes toutes blanches que l'on redécouvre au début du printemps.
+- Les « pailles et des cardons »  donnent l'image des jambes toutes blanches que l'on redécouvre au début du printemps.
 
 
 

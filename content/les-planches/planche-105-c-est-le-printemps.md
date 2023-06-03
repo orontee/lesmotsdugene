@@ -36,8 +36,8 @@ Le Gène
 ## Commentaire
 Cet arbre qui observe et qu'Eugène fait parler existe réellement. Il se situe à une intersection du chemin du Pré Reynaud sur le plateau à Viriville.
 
-Ce texte utilise un ensemble de mots savoureux : "Farfassié", "boquinna", "bizouillié" pour évoquer les étreintes amoureuses au printemps.
-Les "buïsonnna" correspondent à un ensemble de buissons et le "Kézon" à une haie très épaisse.
+Ce texte utilise un ensemble de mots savoureux : « Farfassié », « boquinna », « bizouillié » pour évoquer les étreintes amoureuses au printemps.
+Les « buïsonnna » correspondent à un ensemble de buissons et le « Kézon » à une haie très épaisse.
 
 
 

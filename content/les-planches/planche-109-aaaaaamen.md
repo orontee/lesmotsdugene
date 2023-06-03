@@ -18,12 +18,12 @@ Mi le père éternè je né tójô èn morcé pe tô le monde mè si je té dié
 le gène
 
 ## Traduction
-Moi, le Père Eternel, j'ai toujours un morceau pour tout le monde. Mais si je te dis "Amen", c'est ta bourse avec la mienne !
+Moi, le Père Eternel, j'ai toujours un morceau pour tout le monde. Mais si je te dis « Amen », c'est ta bourse avec la mienne !
 
 Le Gène
 
 ## Commentaire
-Jeu de mots un peu sarcastique entre "Amen" et "amène".
+Jeu de mots un peu sarcastique entre « Amen » et « amène ».
 
 
 

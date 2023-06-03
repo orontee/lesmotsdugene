@@ -19,13 +19,13 @@ ton gosse Fa le corse de velo - yore fo léssiè Fâre sou l'arrive a Pretuziè
 le gène
 
 ## Traduction
-Ton gosse fait des courses de vélo. Maintenant, il faut bien le laisser faire au cas où il arriverait à "percer".
+Ton gosse fait des courses de vélo. Maintenant, il faut bien le laisser faire au cas où il arriverait à « percer ».
 
 Le Gène
 
 ## Commentaire
-"Pretuziè" signifie : réussir, percer, arriver. Cette planche a été gravée alors que les médias célébraient un fameux champion de courses cyclistes.
-Eugène joue sur le double sens du mot "percer".
+« Pretuziè » signifie : réussir, percer, arriver. Cette planche a été gravée alors que les médias célébraient un fameux champion de courses cyclistes.
+Eugène joue sur le double sens du mot « percer ».
 
 
 

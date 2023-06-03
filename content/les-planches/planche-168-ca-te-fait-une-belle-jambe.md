@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 175
 
-<p style="text-align:justify;">Grande planche verticale, légère, très étroite, découpée en forme de jambe. Les lettres du texte sont dorées. En haut, sous la première phrase, dessin d'une pomme et d'une branche de pommier. En bas, le mot "Perè" est gravé à l'intérieur d'un dessin figurant une poire. La signature est écrite en blanc, en biais dans la forme de pied.</p>
+<p style="text-align:justify;">Grande planche verticale, légère, très étroite, découpée en forme de jambe. Les lettres du texte sont dorées. En haut, sous la première phrase, dessin d'une pomme et d'une branche de pommier. En bas, le mot « Perè » est gravé à l'intérieur d'un dessin figurant une poire. La signature est écrite en blanc, en biais dans la forme de pied.</p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_168.png">
@@ -43,7 +43,7 @@ Le Gène
 
 ## Commentaire
 <p style="text-align:justify;">Expressions courantes et sage observation que l'on peut bien sûr généraliser mais également interpréter plus restrictivement dans un contexte de séduction amoureuse.
-"Faut pas être une poire !" équivaut à  "Il faut être un peu malin et pas trop naïf !".</p>
+« Faut pas être une poire ! » équivaut à  « Il faut être un peu malin et pas trop naïf ! ».</p>
 
 
 <video width="320" height="240" controls>

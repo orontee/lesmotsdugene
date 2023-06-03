@@ -32,7 +32,7 @@ Le Gène
 ## Commentaire
 Ces deux petites histoires sous forme de dialogues évoquent le braconnage.
 
-Eugène évoque là, un vieil habitant très respecté à Viriville que l'on surnommait "le Valet".
+Eugène évoque là, un vieil habitant très respecté à Viriville que l'on surnommait « le Valet ».
 
 
 

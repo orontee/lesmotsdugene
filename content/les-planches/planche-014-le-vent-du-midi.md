@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 17
 
-<p style="text-align:justify;">Planche verticale rectangulaire de taille moyenne. Les bords latéraux sont bruts, le bord supérieur ondulé et le bord du bas, droit. En bas à gauche, est dessiné un pot avant le mot "PO". </p>
+<p style="text-align:justify;">Planche verticale rectangulaire de taille moyenne. Les bords latéraux sont bruts, le bord supérieur ondulé et le bord du bas, droit. En bas à gauche, est dessiné un pot avant le mot « PO ». </p>
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_14.png">
   <figcaption style="max-width: 236px"></figcaption>

@@ -27,13 +27,13 @@ le gène
 
 ## Traduction
 Tu t'es fait beau, Joseph ! Comme ça, tu vaux deux sous de plus !
-─  C'est vrai que bien rasé, bien peigné, bien pomponné, bien apprêté, j'ai l'air d'être "quelqu'un" et tu ne peux pas dire que je ressemble à un "pas grand-chose" sans revenu.
+─  C'est vrai que bien rasé, bien peigné, bien pomponné, bien apprêté, j'ai l'air d'être « quelqu'un » et tu ne peux pas dire que je ressemble à un « pas grand-chose » sans revenu.
 
 Le Gène
 
 ## Commentaire
 Le portrait représente un personnage souriant comme tous les portraits réalisés par Eugène.
-Ce petit texte est surtout un jeu ludique avec la musicalité des mots "râza", "pignâ",  "charâ"  et "parâ" puis "revegniu" et "rabatiu".
+Ce petit texte est surtout un jeu ludique avec la musicalité des mots « râza », « pignâ »,  « charâ »  et « parâ » puis « revegniu » et « rabatiu ».
 Comme souvent, il s'agit également de graver dans le bois, tous ces termes difficilement traduisibles avec précision,  pour qu'ils ne soient pas complétement oubliés !
 
 

@@ -22,7 +22,7 @@ Dis la Mère, j'ai déchiré mes pantalons sur une souche. Avant que cela ne par
 Le Gène
 
 ## Commentaire
-Cette planche permet de mémoriser les mots en patois tout en jouant avec leur musicalité : "braille" (pantalons), "dépenaille" (déchirer, partir en lambeaux), "Chatraille" (petit rapiéçage, raccommodage rapide).
+Cette planche permet de mémoriser les mots en patois tout en jouant avec leur musicalité : « braille » (pantalons), « dépenaille » (déchirer, partir en lambeaux), « Chatraille » (petit rapiéçage, raccommodage rapide).
 
 
 

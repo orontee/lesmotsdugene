@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 29
 
-<p style="text-align:justify;">Planche verticale de dimension moyenne. En haut, dessin de la tête d'une vache qui meugle ("B'heueû") et de deux chèvres perchées sur des rochers. A droite, est gravé le nombre raturé "23" ou "24" (?).</p>
+<p style="text-align:justify;">Planche verticale de dimension moyenne. En haut, dessin de la tête d'une vache qui meugle ("B'heueû") et de deux chèvres perchées sur des rochers. A droite, est gravé le nombre raturé « 23 » ou « 24 » (?).</p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_23.png">
@@ -26,7 +26,7 @@ Pauvre homme, rouspéter n'est souvent pas la solution !
 Le Gène.
 
 ## Commentaire
-Anecdote entendue au cours d'une "batteuse" ou d'une "mondée". Il y est question d'une personne qui se plaignait sans cesse mais ne travaillait pas beaucoup.
+Anecdote entendue au cours d'une « batteuse » ou d'une « mondée ». Il y est question d'une personne qui se plaignait sans cesse mais ne travaillait pas beaucoup.
 
 
 <figure class="image-block" style="float: right;">

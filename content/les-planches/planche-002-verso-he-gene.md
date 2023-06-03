@@ -24,7 +24,7 @@ Hé ! mon Gène ou Joseph, tu t'es bien mieux souvenu de toutes les bêtises qu
 ## Commentaire
 
 
-Eugène s'interpelle lui-même avec autodérision. Il confirme là également que le prénom "Jozé" ou Joseph, fréquent dans ses planches, lui sert souvent de pseudonyme.
+Eugène s'interpelle lui-même avec autodérision. Il confirme là également que le prénom « Jozé » ou Joseph, fréquent dans ses planches, lui sert souvent de pseudonyme.
 
 
 

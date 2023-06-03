@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 122
 
-<p style="text-align:justify;">Planche verticale rectangulaire en bois clair. Le bord supérieur est découpé en ondulations et le bord du bas est droit mais fendu. En haut à gauche, dessin d'une horloge avec un cadran indiquant treize heures de 1 à 13. Sur le côté, treize fois le mot "dong". En dessous, sur le côté droit, une tête d’homme avec les mots «trèz bô.yor hé ben» en très petits caractères.</p>
+<p style="text-align:justify;">Planche verticale rectangulaire en bois clair. Le bord supérieur est découpé en ondulations et le bord du bas est droit mais fendu. En haut à gauche, dessin d'une horloge avec un cadran indiquant treize heures de 1 à 13. Sur le côté, treize fois le mot « dong ». En dessous, sur le côté droit, une tête d’homme avec les mots «trèz bô.yor hé ben» en très petits caractères.</p>
 
 <figure class="image-block" style="float: right;">
   <img alt="" src="{static}/images/planche_114.png">
@@ -31,7 +31,7 @@ le gène
 </figure>
 
 ## Traduction
-Treize "Dong", l'horloge est comme moi, trop vieille : elle bat la breloque !
+Treize « Dong », l'horloge est comme moi, trop vieille : elle bat la breloque !
 
 Joseph
 (*treize ?! ben alors ! hé bien !*)
@@ -39,9 +39,9 @@ Joseph
 Il faut toujours qu'il fasse plus fort que les autres : c'est lui qui a inventé l'horloge à treize coups !
 
 ## Commentaire
-<p style="text-align:justify;">Jeu avec le mot "breloque" contenu dans l'expression "battre la breloque" et  l'horloge.
+<p style="text-align:justify;">Jeu avec le mot « breloque » contenu dans l'expression « battre la breloque » et  l'horloge.
 Une breloque est un petit bijou de peu de prix qu'on attache aux chaînes de montre; il peut ainsi être assimilé à une montre à gousset.
-"Battre la breloque" est une expression populaire qui signifie "perdre la tête",  déraisonner, avoir le cerveau détraqué comme une vieille pendule.</p>
+« Battre la breloque » est une expression populaire qui signifie « perdre la tête »,  déraisonner, avoir le cerveau détraqué comme une vieille pendule.</p>
 
 
 

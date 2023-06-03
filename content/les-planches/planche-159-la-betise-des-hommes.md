@@ -35,7 +35,7 @@ le gène
 
 Le Gène
 
-**Verso :** L'If, Ho ho ho ! Qu'il est joli ! Mais il est comme les garçons : joyeux, pas toujours commodes et durs comme du "bois d'arbre" !
+**Verso :** L'If, Ho ho ho ! Qu'il est joli ! Mais il est comme les garçons : joyeux, pas toujours commodes et durs comme du « bois d'arbre » !
 
 <figure class="image-block" style="float: right;">
   <img alt="Le soleil, la lune et la terre" src="{static}/images/planche_159_recto_detail.png">
@@ -48,7 +48,7 @@ Le Gène
 
 <p style="text-align:justify;">**Sur le verso,** Eugène met en parallèle la difficulté à travailler du bois d'if et la personnalité d'un jeune garçon en formation. Cette comparaison témoigne ici de son amour du bois.
 
-Le pléonasme "bois d'arbre" était souvent utilisé pour décrire de façon amusante le caractère difficile d'une personne ou d'une activité</p>
+Le pléonasme « bois d'arbre » était souvent utilisé pour décrire de façon amusante le caractère difficile d'une personne ou d'une activité</p>
 
 
 

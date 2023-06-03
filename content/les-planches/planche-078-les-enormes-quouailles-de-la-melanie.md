@@ -1,4 +1,4 @@
-Title: Les énormes "quouailles" de la Mélanie (planche 78)
+Title: Les énormes « quouailles » de la Mélanie (planche 78)
 Date: 2017-03-01 16:29:20
 Modified: 2017-03-01 16:29:20
 Summary: 
@@ -17,7 +17,7 @@ series_index: 87
 Si te trûffe son de quouaille le miénne on tellaman bien Fâ que la Mélanie mónte  à califòrchon dessû pe le Parrà                          	      le gène
 
 ## Traduction
-Si tes pommes de terre sont des "quouailles", les miennes ont tellement bien grossi que la Mélanie monte dessus à califourchon pour les éplucher !
+Si tes pommes de terre sont des « quouailles », les miennes ont tellement bien grossi que la Mélanie monte dessus à califourchon pour les éplucher !
 
 Le Gène
 <figure class="image-block" style="float: right;">
@@ -28,7 +28,7 @@ Le Gène
 
 
 ## Commentaire
-"Quouaille" est un terme local péjoratif qui signifie "petites, ratatinées, rabougries". Réflexion d'un habitant de Marnans, ami d'Eugène et bien connu pour son imagination, son sens de la répartie et de l'hyperbole.
+« Quouaille » est un terme local péjoratif qui signifie « petites, ratatinées, rabougries ». Réflexion d'un habitant de Marnans, ami d'Eugène et bien connu pour son imagination, son sens de la répartie et de l'hyperbole.
 
 
 <video width="320" height="240" controls>

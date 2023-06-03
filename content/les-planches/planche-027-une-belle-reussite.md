@@ -11,7 +11,7 @@ series_index: 33
   <img alt="" src="{static}/images/planche_27.png">
   <figcaption style="max-width: 219px"></figcaption>
 </figure>
-Planche rectangulaire verticale très veinée. Le nombre "27" est gravé en haut à droite.
+Planche rectangulaire verticale très veinée. Le nombre « 27 » est gravé en haut à droite.
 
 ## Texte en patois
 te vè i mi kè  Fâ tien. tien è même tien  Oua ta bien travaillâ mè si t’ètiâ Arriva nïu su èn Kichon de Pièrre t’orâ Fâ Ke .

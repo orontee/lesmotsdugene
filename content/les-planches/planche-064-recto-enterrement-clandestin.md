@@ -23,7 +23,7 @@ hoo  te  sâ  jozé  ne  jamé  parti  que  kan  sôrte  lou  chouche-bô  (ango
 le gène
 
 ## Traduction
-Dis Tintin ! Avant-hier, au début de la nuit, j'ai entendu comme un coup de canon, c'était pas le lièvre dans la luzerne à la "Piana" ?
+Dis Tintin ! Avant-hier, au début de la nuit, j'ai entendu comme un coup de canon, c'était pas le lièvre dans la luzerne à la « Piana » ?
  ─  Oh !  Joseph, Chut ! Chut ! Chut ! C'était un enterrement civil ! Faut pas faire sonner les cloches.
 
 Le Gène
@@ -36,7 +36,7 @@ Le Gène
 Ces deux petites histoires sous forme de dialogues évoquent le braconnage.
 La première historiette évoque un coup de feu. Pendant la guerre, les fusils ayant été réquisitionnés, il était très dangereux de se faire prendre en possession d'une arme à feu.
 Les engoulevents sont des oiseaux (devenus rares dans les Chambarans) aux cris désagréables et qui ne sortent que la nuit.
-Une "Piana" est une terre argilo-calcaire très fertile mais très dure à labourer. On ne peut donc que la travailler "piano" (lentement).
+Une « Piana » est une terre argilo-calcaire très fertile mais très dure à labourer. On ne peut donc que la travailler « piano » (lentement).
 
 
 

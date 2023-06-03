@@ -29,7 +29,7 @@ Pour la météo et pour les amoureux, une jolie lune et une petite bise précéd
 
 
 ## Commentaire
-Eugène s'amuse avec le double sens des mots "lune" et "bise". Il nous livre ainsi avec malice, un dicton local qui traduit la connaissance empirique des données météorologiques des Chambarans.
+Eugène s'amuse avec le double sens des mots « lune » et « bise ». Il nous livre ainsi avec malice, un dicton local qui traduit la connaissance empirique des données météorologiques des Chambarans.
 
 
 

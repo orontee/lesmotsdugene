@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 67
 
-<p style="text-align:justify;">Planche de grandeur moyenne, très veinée, en forme légèrement évasée vers le haut et gravée des deux côtés.  Le verso est bordé sur les côtés et en bas d'une large bande d'écorce en forme de "V".</p>
+<p style="text-align:justify;">Planche de grandeur moyenne, très veinée, en forme légèrement évasée vers le haut et gravée des deux côtés.  Le verso est bordé sur les côtés et en bas d'une large bande d'écorce en forme de« V ».</p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_60_recto.png">
@@ -42,7 +42,7 @@ Le Gène…  à nouveau.
 
 ## Commentaires
 Le bon sens étant parfois, d'après Eugène, une qualité trop peu répandue,  impossible de créer un tel parti !
- L'"ême" est un mot de patois qui signifie "le bon sens", "la sagesse".
+ L'"ême" est un mot de patois qui signifie « le bon sens », « la sagesse ».
  Eugène s'amuse en signant cette face double !
 
 

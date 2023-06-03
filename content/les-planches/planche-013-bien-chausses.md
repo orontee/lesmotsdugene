@@ -23,7 +23,7 @@ Bien chaussés, les bœufs et les chevaux sont plus faciles à tirer.
 Le Gène
 
 ## Commentaire
-<p style="text-align:justify;">Chacun peut méditer cette maxime à sa guise.Outre le rappel de bons sens concernant le bon usage de la traction animale, Eugène veut surtout rappeler l'importance de pourvoir les jeunes d'une bonne éducation pour leur permettre de bien "avancer" dans la vie.
+<p style="text-align:justify;">Chacun peut méditer cette maxime à sa guise.Outre le rappel de bons sens concernant le bon usage de la traction animale, Eugène veut surtout rappeler l'importance de pourvoir les jeunes d'une bonne éducation pour leur permettre de bien « avancer » dans la vie.
 Ce texte lui permet également de montrer quelques objets de sa collection d'outils agricoles.</p>
 
 <video width="320" height="240" controls>

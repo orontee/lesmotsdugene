@@ -24,7 +24,7 @@ Quand je passe vers chez toi, tu es toujours assis sous ton chêne rouvre. Comme
 Le Gène
 
 ## Commentaire
-Un voisin d'Eugène qui soufrait d'emphysème, passait beaucoup de temps assis, toujours sur la même souche d'arbre, son seul effort consistant à alterner son point d'appui… "d'une fesse à l'autre".
+Un voisin d'Eugène qui soufrait d'emphysème, passait beaucoup de temps assis, toujours sur la même souche d'arbre, son seul effort consistant à alterner son point d'appui… « d'une fesse à l'autre ».
 
 
 <figure class="image-block" style="float: right;">

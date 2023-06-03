@@ -23,9 +23,9 @@ La nuit nous prend
 
 A la maison, la maman fait des bugnes
 
-Derrière le "cuzon"
+Derrière le « cuzon »
 
-Le "marmot" en mange quelques-unes.
+Le « marmot » en mange quelques-unes.
 
 <figure class="image-block" style="float: right;">
   <img alt="" src="{static}/images/planche_72_detail_dessin.png">
@@ -38,7 +38,7 @@ Le "marmot" en mange quelques-unes.
 ## Commentaire
 Ce texte est une chanson transmise aux enfants par les grand-mères.
 Eugène se souvient que les enfants la chantaient en allant à l'école de Roybon à pied.
-Le "cuzon" est un endroit où on entreposait les fagots derrière la cheminée.
+Le « cuzon » est un endroit où on entreposait les fagots derrière la cheminée.
 
 
 <video width="320" height="240" controls>

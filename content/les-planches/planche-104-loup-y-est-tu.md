@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 113
 
-<p style="text-align:justify;">Petite planche  horizontale, gravée sur une seule face. En haut à gauche, figure un beau dessin de loup. A droite, dessin d'un buste de femme aux cheveux longs, portant un masque sur les yeux et levant le bras droit. Dessous est dessiné un masque, (un "loup") pourvu d'un petit manche.</p>
+<p style="text-align:justify;">Petite planche  horizontale, gravée sur une seule face. En haut à gauche, figure un beau dessin de loup. A droite, dessin d'un buste de femme aux cheveux longs, portant un masque sur les yeux et levant le bras droit. Dessous est dessiné un masque, (un « loup ») pourvu d'un petit manche.</p>
 
 <figure class="image-block" style="float: center;">
   <img alt="" src="{static}/images/planche_104.png">
@@ -31,7 +31,7 @@ Le Gène
 </figure>
 
 ## Commentaire
-<p style="text-align:justify;">C'est après avoir vu à la télévision, Ségolène Royale, alors candidate à la Présidence de la République qu'Eugène a gravé cette planche en jouant sur les deux sens du mot "loup". Ségolène Royale participait alors à une fête costumée et portait ce fameux masque sur les yeux.</p>
+<p style="text-align:justify;">C'est après avoir vu à la télévision, Ségolène Royale, alors candidate à la Présidence de la République qu'Eugène a gravé cette planche en jouant sur les deux sens du mot « loup ». Ségolène Royale participait alors à une fête costumée et portait ce fameux masque sur les yeux.</p>
 
 
 

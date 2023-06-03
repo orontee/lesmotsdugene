@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 100
 
-Petite planche horizontale présentant une excroissance au centre du bord supérieur. A gauche est gravé le nombre "59", à droite, le nombre "58" et dessous, dessin d'un personnage représentant un élu avec chapeau haut de forme et écharpe républicaine sous le porche d'une mairie. La dernière partie de la phrase et la signature sont inscrites en suivant la découpe du bord inférieur de la planche, en forme de pointe.
+Petite planche horizontale présentant une excroissance au centre du bord supérieur. A gauche est gravé le nombre « 59 », à droite, le nombre « 58 » et dessous, dessin d'un personnage représentant un élu avec chapeau haut de forme et écharpe républicaine sous le porche d'une mairie. La dernière partie de la phrase et la signature sont inscrites en suivant la découpe du bord inférieur de la planche, en forme de pointe.
 
 
 <figure class="image-block" style="float: center;">

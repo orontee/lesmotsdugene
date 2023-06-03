@@ -39,7 +39,7 @@ Le Gène
 
 ## Commentaire
 Cette petite planche, la dernière inventoriée, était bien cachée, oubliée derrière d'autres matériaux dans le garage d'Eugène.
-"Vivre (sous) une bonne République" est une expression qui signifie avoir eu une vie ou une période de vie, facile, sans désagrément ni travail trop pénible.
+« Vivre (sous) une bonne République » est une expression qui signifie avoir eu une vie ou une période de vie, facile, sans désagrément ni travail trop pénible.
 
 
 

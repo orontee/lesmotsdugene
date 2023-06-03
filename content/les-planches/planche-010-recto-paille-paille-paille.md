@@ -23,7 +23,7 @@ gène en devenan vieux tess jamé contan que vô-tié jé travaillâ  dïu totâ
 
 ─  Que veux-tu ? J'ai travaillé dur toute ma vie pour rentrer du bon foin, et pour manger
 
-Paille ! Paille ! Paille ! Ne paye pas bien mais "empaille" bien.
+Paille ! Paille ! Paille ! Ne paye pas bien mais « empaille » bien.
 
 Le Gène
 

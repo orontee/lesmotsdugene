@@ -18,13 +18,13 @@ Jozé je ne pô pâ te pâyé lou officié é lou caporô on dezerta mon euresso
 le gène
 
 ## Traduction
-Joseph, je ne peux pas te payer : les "officiers" et les "caporaux" ont déserté mon hérisson *. Il ne me reste plus que les simples "soldats".
+Joseph, je ne peux pas te payer : les « officiers » et les « caporaux » ont déserté mon hérisson *. Il ne me reste plus que les simples « soldats ».
 
 Le Gène
 
 ## Commentaire
-"L'euressonà" signifie "hérisson" et désigne le porte-monnaie que l'on a du mal à sortir sans douleur de sa poche !
-Les "officiers" et Les "caporaux" sont ici les billets de banque et les "simples soldats", les pièces de monnaie.
+« L'euressonà » signifie « hérisson » et désigne le porte-monnaie que l'on a du mal à sortir sans douleur de sa poche !
+Les « officiers » et Les « caporaux » sont ici les billets de banque et les « simples soldats », les pièces de monnaie.
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_130.mp4" type="video/mp4">

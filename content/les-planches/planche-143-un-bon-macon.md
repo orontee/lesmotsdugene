@@ -17,12 +17,12 @@ Petite planche rectangulaire verticale bordée d'écorce. Une petite fente part 
 pe Fáre èn bon maçon fò ina truèllà èn niveau èn fi a plomb é dou plan sà de  Misère de Foûtre      le  gène
 
 ## Traduction
-Pour faire un bon maçon, il faut une truelle, un niveau, un fil à plomb et deux pleins sacs de "Misère de Foutre" !
+Pour faire un bon maçon, il faut une truelle, un niveau, un fil à plomb et deux pleins sacs de « Misère de Foutre » !
 
 Le Gène
 
 ## Commentaire
-<p style="text-align:justify;">Cette sentence fut exprimée par un maçon qui apprit à Eugène à construire les murs en pisé et en galets. Son expression favorite était "Milliards de Dieu" que Eugène a remplacé par un autre juron "Misère de foutre" pour ne pas risquer le blasphème !</p>
+<p style="text-align:justify;">Cette sentence fut exprimée par un maçon qui apprit à Eugène à construire les murs en pisé et en galets. Son expression favorite était « Milliards de Dieu » que Eugène a remplacé par un autre juron « Misère de foutre » pour ne pas risquer le blasphème !</p>
 
 
 <video width="320" height="240" controls>

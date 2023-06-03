@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 91
 
-<p style="text-align:justify;">Petite planche horizontale. Le bord latéral gauche est découpé en dents de scie. Sur la découpe est esquissé le profil d'une tête d'animal. Au centre, dessin des deux moitiés (avant et arrière) d'un âne se faisant face. La tête de celui de droite est fixée sur la croupe au bout de la queue. Le nombre "57" est gravé en haut à droite.</p>
+<p style="text-align:justify;">Petite planche horizontale. Le bord latéral gauche est découpé en dents de scie. Sur la découpe est esquissé le profil d'une tête d'animal. Au centre, dessin des deux moitiés (avant et arrière) d'un âne se faisant face. La tête de celui de droite est fixée sur la croupe au bout de la queue. Le nombre « 57 » est gravé en haut à droite.</p>
 
 <figure class="image-block" style="float: center;">
   <img alt="" src="{static}/images/planche_82.png">
@@ -17,12 +17,12 @@ series_index: 91
 i  tôu  tètâ  â  cû   tètâ  â  qouâ                                le  gène
 
 ## Traduction
-C'est tout "tête à cul, tête à queue".
+C'est tout « tête à cul, tête à queue ».
 
 Le Gène
 
 ## Commentaire
-Expression courante pour exprimer que "tout est sans dessus dessous".
+Expression courante pour exprimer que « tout est sans dessus dessous ».
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_82.mp4" type="video/mp4">

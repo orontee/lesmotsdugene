@@ -23,14 +23,14 @@ te pôu  scié le tan se pâre le tan se châre va Fare bô ?
 ## Traduction
  Tu arraches les ronces et les orties sans gants ?
 
-─  Le chat qui "couve" la cheminée si il porte des gants ça ne l'empêche pas de manger, mais le chat qui est obligé de gagner sa vie, lui, il crève de faim.
+─  Le chat qui « couve » la cheminée si il porte des gants ça ne l'empêche pas de manger, mais le chat qui est obligé de gagner sa vie, lui, il crève de faim.
 
 Tu peux faucher, le temps s'arrange et se pomponne. Il va faire beau…
 ─  Moi (aussi), quand je suis bien arrangé et pomponné, je suis bien plus joli !!!
 
 
 ## Commentaire
-La deuxième historiette joue avec la musicalité des mots "parâ" et "charâ". Leur humour tient à la comparaison qui est faite entre la météo et l'auteur.
+La deuxième historiette joue avec la musicalité des mots « parâ » et « charâ ». Leur humour tient à la comparaison qui est faite entre la météo et l'auteur.
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_18bis_1ere_partie.mp4" type="video/mp4">

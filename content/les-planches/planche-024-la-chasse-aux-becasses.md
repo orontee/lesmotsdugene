@@ -27,16 +27,16 @@ le gène
 
 
 ## Traduction
-Quand je vais à la bécasse, à la grande "taillée", je porte ma poêle à rissoler, je leur rive le bec dans les trous et je reviens quand la queue de la poêle finit par ployer.
+Quand je vais à la bécasse, à la grande « taillée », je porte ma poêle à rissoler, je leur rive le bec dans les trous et je reviens quand la queue de la poêle finit par ployer.
 
 ─ N'exagère donc pas tant ! Tu m'en fais tomber les cornes !!!
 
 Le Gène
 
 ## Commentaire
-Une "taillée" est une jeune forêt.
-Eugène reprend ici ce que lui avait raconté un ami qui avait pour habitude de "broder" beaucoup autour des anecdotes dont il aimait régaler son auditoire.
-La traduction littérale de la phrase  "Ne tappá pâ si fort te m'ébane" est "Ne tape pas si fort, tu "m'écornes" !
+Une « taillée » est une jeune forêt.
+Eugène reprend ici ce que lui avait raconté un ami qui avait pour habitude de « broder » beaucoup autour des anecdotes dont il aimait régaler son auditoire.
+La traduction littérale de la phrase  « Ne tappá pâ si fort te m'ébane » est « Ne tape pas si fort, tu  »m'écornes" !
 
 
 

@@ -1,4 +1,4 @@
-Title: Gène, tu deviens "Kankane" (planche 150 recto et verso)
+Title: Gène, tu deviens « Kankane » (planche 150 recto et verso)
 Date: 2017-03-29 18:31:11
 Modified: 2017-03-29 18:31:11
 Summary: 
@@ -20,7 +20,7 @@ Petite planche verticale trapézoïdale, bordée d'écorce. Les deux faces sont 
 **Verso :**  Gène te devin KanKane
 
 ## Traduction
-**Recto :**  C'est un bon à rien, ravagé par la larve du hanneton, presque en train de devenir "marteau".
+**Recto :**  C'est un bon à rien, ravagé par la larve du hanneton, presque en train de devenir « marteau ».
 
 Le Gène
 **Verso :**  Gène, tu deviens mauvaise langue !
@@ -33,10 +33,10 @@ Eugène s'est amusé avec la consonance des mots en les inscrivant pour qu'ils n
   <figcaption style="max-width: 334px"></figcaption>
 </figure>
 
-- Une "kankerne" est un traine-savate, un paresseux ou un bon à rien.
-- Un "kankare" est un personnage déboussolé, un peu fou, sur lequel on ne peut pas compter.
-- Le "guergne" une larve de hanneton qui faisait beaucoup de dégâts.
-- Une "kankane" est une personne cancanière, médisante.
+- Une « kankerne » est un traine-savate, un paresseux ou un bon à rien.
+- Un « kankare » est un personnage déboussolé, un peu fou, sur lequel on ne peut pas compter.
+- Le « guergne » une larve de hanneton qui faisait beaucoup de dégâts.
+- Une « kankane » est une personne cancanière, médisante.
 
 
 

@@ -34,7 +34,7 @@ Le Gène
 
 ## Commentaire
 Deux petites sentences, autrefois, souvent énoncées par la mère d'Eugène
-"A la bade" se disait à propos du bétail laissé libre, sans gardien de troupeau.
+« A la bade » se disait à propos du bétail laissé libre, sans gardien de troupeau.
 
 
 

@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 42
 
-<p style="text-align:justify;">Grande planche verticale étroite, en forme de "V" très effilé et découpé en "cascades". Le bord supérieur est droit. En haut à gauche, dessin d'une vache; à droite, est gravé le nombre "35" Les lettres du texte sont peintes en doré. </p>
+<p style="text-align:justify;">Grande planche verticale étroite, en forme de« V » très effilé et découpé en « cascades ». Le bord supérieur est droit. En haut à gauche, dessin d'une vache; à droite, est gravé le nombre « 35 » Les lettres du texte sont peintes en doré. </p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_35.png">
@@ -19,7 +19,7 @@ ta Bardéla Ne vo ren le corna son tordio la qoua i basa, la pôsa ma poza  OOo 
 le gène
 
 ## Traduction
-Ta "bardelle" ne vaut rien : les cornes sont tordues, la queue est basse, la mamelle est mal placée.
+Ta « bardelle » ne vaut rien : les cornes sont tordues, la queue est basse, la mamelle est mal placée.
 ─    Oh !  c'est rien ça ! En montant dans ta carriole, tous ces défauts seront tombés par terre !
 
 Le Gène
