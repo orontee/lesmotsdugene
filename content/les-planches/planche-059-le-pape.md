@@ -25,7 +25,7 @@ le gène
 
 ## Traduction
 En le regardant sous son chapeau, le pépé, il a l'air, comme moi, pas bien dégourdi.
-─  HOoo ! tu sais, méfie-toi, il n'en a que l'air, d'être bête.
+─  HOoo ! tu sais, méfie-toi, il n'en a que l'air, d'être bête.
 
 Le Gène
 <figure class="image-block" style="float: right;">

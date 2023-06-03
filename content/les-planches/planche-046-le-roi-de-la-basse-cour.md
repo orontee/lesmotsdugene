@@ -16,7 +16,7 @@ series_index: 53
 ## Texte en patois
 co co ri co
 
-Mon Bô Pollèt y le roi de la Basse–cô ? mè sou se fâ ecrazâ èn ârteu tòtâ la Volaille câquète en li tapant sû la crètâ
+Mon Bô Pollèt y le roi de la Basse–cô ? mè sou se fâ ecrazâ èn ârteu tòtâ la Volaille câquète en li tapant sû la crètâ
 
 le gène
 
@@ -30,13 +30,13 @@ le gène
 </figure>
 
 
-Cocorico !
+Cocorico !
 Mon beau poulet, c'est le roi de la basse-cour. Mais s'il se fait écraser les orteils, toutes les volailles se mettent à caqueter en lui tapant sur la crête…
 
 Le Gène
 
 ## Commentaire
-<p style="text-align:justify;">Sur cette planche, Eugène évoque là une réaction humaine qu'il a eu l'occasion d'observer dans son entourage à plusieurs reprises : si un notable du village, fier de sa réussite, doit affronter une humiliation (par exemple, une fille engrossée hors mariage ou un fils qui a fait une bêtise) tout le monde se met alors à médire de lui, "à lui casser du sucre sur la tête".</p>
+<p style="text-align:justify;">Sur cette planche, Eugène évoque là une réaction humaine qu'il a eu l'occasion d'observer dans son entourage à plusieurs reprises : si un notable du village, fier de sa réussite, doit affronter une humiliation (par exemple, une fille engrossée hors mariage ou un fils qui a fait une bêtise) tout le monde se met alors à médire de lui, "à lui casser du sucre sur la tête".</p>
 
 
 <video width="320" height="240" controls>

@@ -17,14 +17,14 @@ series_index: 70
 
 ## Texte en patois
 
-te pô déguestâ ton rûtiï tranquil ? Kan te te promène en campagne pe lou Viôlé. te vè plan de vache et de viô que passe lô tan A Brôtà l’herbe
+te pô déguestâ ton rûtiï tranquil ? Kan te te promène en campagne pe lou Viôlé. te vè plan de vache et de viô que passe lô tan A Brôtà l’herbe
 
 
 
 
 ## Traduction
 
-Tu peux manger ton rôti tranquille ! Quand tu te promènes à la campagne, tu peux voir plein de vaches et de veaux qui passent leur temps à manger de l'herbe !
+Tu peux manger ton rôti tranquille ! Quand tu te promènes à la campagne, tu peux voir plein de vaches et de veaux qui passent leur temps à manger de l'herbe !
 
 
 

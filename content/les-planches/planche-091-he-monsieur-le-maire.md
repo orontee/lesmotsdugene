@@ -1,4 +1,4 @@
-Title: Hé ! Monsieur le maire ! (planche 91)
+Title: Hé ! Monsieur le maire ! (planche 91)
 Date: 2017-06-27 18:36:24
 Modified: 2017-06-27 18:36:24
 Summary: 
@@ -20,7 +20,7 @@ te sa je so bïen contan te Vèn d’ètre élu tou mou compliman   le Condoléa
 le gène
 
 ## Traduction
-Tu sais, je suis bien content que tu viennes d'être élu. Tous mes compliments ! Les condoléances viendront après…
+Tu sais, je suis bien content que tu viennes d'être élu. Tous mes compliments ! Les condoléances viendront après…
 
 Le Gène
 

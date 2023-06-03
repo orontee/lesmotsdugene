@@ -21,20 +21,20 @@ le gène
 
 
 <figure class="image-block" style="float: right;">
-  <img alt="Tout là-haut dans le ciel ?" src="{static}/images/planche_48_dessins_haut.png">
-  <figcaption style="max-width: 348px">Tout là-haut dans le ciel ?</figcaption>
+  <img alt="Tout là-haut dans le ciel ?" src="{static}/images/planche_48_dessins_haut.png">
+  <figcaption style="max-width: 348px">Tout là-haut dans le ciel ?</figcaption>
 </figure>
 
 
 <figure class="image-block" style="float: left;">
-  <img alt="Sur la terre ?" src="{static}/images/planche_48dessin_globe.png">
-  <figcaption style="max-width: 246px">Sur la terre ?</figcaption>
+  <img alt="Sur la terre ?" src="{static}/images/planche_48dessin_globe.png">
+  <figcaption style="max-width: 246px">Sur la terre ?</figcaption>
 </figure>
 
 
 <figure class="image-block" style="float: right;">
-  <img alt="C&#x27;est à table qu&#x27;on est le mieux !" src="{static}/images/planche_48_dessin_homme.png">
-  <figcaption style="max-width: 307px">C&#x27;est à table qu&#x27;on est le mieux !</figcaption>
+  <img alt="C&#x27;est à table qu&#x27;on est le mieux !" src="{static}/images/planche_48_dessin_homme.png">
+  <figcaption style="max-width: 307px">C&#x27;est à table qu&#x27;on est le mieux !</figcaption>
 </figure>
 
 
@@ -43,7 +43,7 @@ le gène
 ## Traduction
 Le ciel est bien trop haut.
 La terre est bien trop basse.
-La table est juste à ma portée !
+La table est juste à ma portée !
 
 Le Gène
 

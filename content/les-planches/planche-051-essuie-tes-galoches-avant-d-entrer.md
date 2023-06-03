@@ -17,12 +17,12 @@ series_index: 58
 te ne rétre pâ chez leû si t’essûye pâ te gâloche  			 le gène
 
 ## Traduction
-Tu ne rentres pas chez lui si tu n'as pas essuyé tes galoches !
+Tu ne rentres pas chez lui si tu n'as pas essuyé tes galoches !
 
 Le Gène
 
 ## Commentaire
-Chez lui, on ne reçoit pas n'importe qui !
+Chez lui, on ne reçoit pas n'importe qui !
 Ces galoches proviennent de la collection d'Eugène dénichée dans les brocantes de la région.
 
 <video width="320" height="240" controls>

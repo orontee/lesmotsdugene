@@ -17,13 +17,13 @@ En bas, sous la signature, un trait horizontal sur toute la largeur figure le ba
 
 
 ## Texte en Patois
-hooo Lize brâve côme tess côme tô Ke se  fâ  Ke te tess  pâ  mariâ je  vòl  ièn hômme ni Ke Bûvâsse ni  Ke chikâsse ni Ke prizâsse ni Ke Fûmâsse ni ke  ? asse
+hooo Lize brâve côme tess côme tô Ke se  fâ  Ke te tess  pâ  mariâ je  vòl  ièn hômme ni Ke Bûvâsse ni  Ke chikâsse ni Ke prizâsse ni Ke Fûmâsse ni ke ? asse
 
 le gène
 
 ## Traduction
-Oooh !  Lise, jolie comme tu es, comment se fait-il que tu ne t'es jamais mariée ?
-─  Je veux un homme ni qui boive, ni qui chique, ni qui prise, ni qui fume  et ni qui ????… !
+Oooh !  Lise, jolie comme tu es, comment se fait-il que tu ne t'es jamais mariée ?
+─  Je veux un homme ni qui boive, ni qui chique, ni qui prise, ni qui fume  et ni qui ????… !
 Le Gène
 
 <figure class="image-block" style="float: right;">

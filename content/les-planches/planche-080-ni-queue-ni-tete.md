@@ -23,7 +23,7 @@ series_index: 89
 
 
 ## Traduction
-C'est une histoire à dormir debout qui a fini en queue de poisson !
+C'est une histoire à dormir debout qui a fini en queue de poisson !
 
 Le Gène
 

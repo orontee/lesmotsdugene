@@ -17,12 +17,12 @@ series_index: 87
 Si te trûffe son de quouaille le miénne on tellaman bien Fâ que la Mélanie mónte  à califòrchon dessû pe le Parrà                          	      le gène
 
 ## Traduction
-Si tes pommes de terre sont des "quouailles", les miennes ont tellement bien grossi que la Mélanie monte dessus à califourchon pour les éplucher !
+Si tes pommes de terre sont des "quouailles", les miennes ont tellement bien grossi que la Mélanie monte dessus à califourchon pour les éplucher !
 
 Le Gène
 <figure class="image-block" style="float: right;">
-  <img alt="La Mélanie à cheval sur une pomme de terre !" src="{static}/images/planche_78_dessin.png">
-  <figcaption style="max-width: 350px">La Mélanie à cheval sur une pomme de terre !</figcaption>
+  <img alt="La Mélanie à cheval sur une pomme de terre !" src="{static}/images/planche_78_dessin.png">
+  <figcaption style="max-width: 350px">La Mélanie à cheval sur une pomme de terre !</figcaption>
 </figure>
 
 

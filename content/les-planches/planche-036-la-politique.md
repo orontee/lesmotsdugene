@@ -14,13 +14,13 @@ series_index: 43
 <p style="text-align:justify;">Grande planche verticale rectangulaire. Elle est légèrement plus étroite en bas qu'en haut. Un point d'interrogation sépare les deux parties du texte.</p>
 
 ## Texte en patois
-La politikâ i côme pe le vèn L’étiquètâ i pa tojô le  contenïu  ? Si tess a drètâ ten mettâ a gauche   Si tess a  gauche ten mettâ a drètâ    Si te te craï ou . mettan te te Kèze è ne Fâ Ren
+La politikâ i côme pe le vèn L’étiquètâ i pa tojô le  contenïu ? Si tess a drètâ ten mettâ a gauche   Si tess a  gauche ten mettâ a drètâ    Si te te craï ou . mettan te te Kèze è ne Fâ Ren
 
 le gène
 
 
 ## Traduction
-La politique c'est comme le vin ! L'étiquette ne correspond pas toujours au contenu !
+La politique c'est comme le vin ! L'étiquette ne correspond pas toujours au contenu !
 
 Si tu es à droite, tu en mets à gauche, si tu es à gauche tu en mets à droite, si tu te crois au milieu… tu te tais et tu ne fais rien.
 

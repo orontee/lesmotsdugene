@@ -16,17 +16,17 @@ series_index: 24
 ## Texte en patois
  t’arrache le ronsse e lou z’eurtié sans gant
  le miron que côve la chemenéye sou le gantâ l’empâche pâ de mijé keu qui oblijâ  de trova sa viâ crève de Fan
-te pôu  scié le tan se pâre le tan se châre va Fare bô ?
+te pôu  scié le tan se pâre le tan se châre va Fare bô ?
 
  mi kan je sô parâ charâ je sô bien plû brâve
 
 ## Traduction
- Tu arraches les ronces et les orties sans gants ?
+ Tu arraches les ronces et les orties sans gants ?
 
 ─  Le chat qui "couve" la cheminée si il porte des gants ça ne l'empêche pas de manger, mais le chat qui est obligé de gagner sa vie, lui, il crève de faim.
 
 Tu peux faucher, le temps s'arrange et se pomponne. Il va faire beau…
-─  Moi (aussi), quand je suis bien arrangé et pomponné, je suis bien plus joli !!!
+─  Moi (aussi), quand je suis bien arrangé et pomponné, je suis bien plus joli !!!
 
 
 ## Commentaire

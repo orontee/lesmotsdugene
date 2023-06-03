@@ -17,18 +17,18 @@ Grande planche rectangulaire vernie, verticale, légèrement courbe et un peu pl
 ## Texte en patois
 ta bien fa ton châmi mé te na pa tòjô étâ le premié hooo te sâ sû la rôtâ de la viâ  Fô lessié pilotâ lou  bolide ou champion. mi avé ma dou chevô je né jamé écràzâ pressòne é jé même garda èn brizon  d’essence  pe figni mon châmi                  			     le gène
 
-hooo yore i vòlon mi jé  Bon é pâ ché. L’angré i pûzon le fumié sian môvé. en bon pôulé i trop diu lo vâche  son tote fòlle. le pan â trop de farine ? i sovan que l’arregnia marche ou plafon  lôu pié a la renverse      le gène
+hooo yore i vòlon mi jé  Bon é pâ ché. L’angré i pûzon le fumié sian môvé. en bon pôulé i trop diu lo vâche  son tote fòlle. le pan â trop de farine ? i sovan que l’arregnia marche ou plafon  lôu pié a la renverse      le gène
 
 ## Traduction
-Tu as bien fait ton chemin  mais tu n'as pas toujours été le premier !
+Tu as bien fait ton chemin  mais tu n'as pas toujours été le premier !
 
-─  Oh ! tu sais, sur la route de la vie, il faut laisser piloter les bolides aux champions. Moi, avec ma 2CV, je n'ai jamais écrasé personne et j'ai même gardé un peu d'essence pour terminer mon chemin.
+─  Oh ! tu sais, sur la route de la vie, il faut laisser piloter les bolides aux champions. Moi, avec ma 2CV, je n'ai jamais écrasé personne et j'ai même gardé un peu d'essence pour terminer mon chemin.
 
 Le Gène
 
-Oh ! A présent, ils veulent bien manger et pour pas cher. L'engrais, c'est du poison. Le fumier ça sent mauvais. Un bon poulet, c'est trop dur. Les vaches sont toutes folles. Le pain a trop de farine…
+Oh ! A présent, ils veulent bien manger et pour pas cher. L'engrais, c'est du poison. Le fumier ça sent mauvais. Un bon poulet, c'est trop dur. Les vaches sont toutes folles. Le pain a trop de farine…
 
-Très souvent, l'araignée marche au plafond, les pieds à la renverse !
+Très souvent, l'araignée marche au plafond, les pieds à la renverse !
 
 Le Gène
 

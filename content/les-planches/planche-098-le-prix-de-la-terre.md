@@ -15,7 +15,7 @@ series_index: 107
 Planche rectangulaire verticale en bois clair.
 
 ## Texte en patois
-pe  fâre inà  mèzon  ta  pa  vendïu  ta  terrâ  bien  chèra ?  jé  vendïu  mon  travâ .  le  travâ  de  y  ètre  paya  a  Keu  que  la  Fâ . é  la  terra  parreu
+pe  fâre inà  mèzon  ta  pa  vendïu  ta  terrâ  bien  chèra ?  jé  vendïu  mon  travâ .  le  travâ  de  y  ètre  paya  a  Keu  que  la  Fâ . é  la  terra  parreu
 
 le gène
 

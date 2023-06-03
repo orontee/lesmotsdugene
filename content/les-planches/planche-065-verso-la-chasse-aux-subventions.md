@@ -18,8 +18,8 @@ hooo Monsieu le maire pe fâre tou que lou tràvô ta biên seû allâ Kère lou
 
 
 ## Traduction
-Oh !  M. le Maire, pour faire tous ces travaux, tu as bien su aller quérir les sous là où ils se trouvent.
-─    Comme les chiens de chasse, on était deux : un qui donne de la voix et l'autre qui va derrière pour harceler !
+Oh !  M. le Maire, pour faire tous ces travaux, tu as bien su aller quérir les sous là où ils se trouvent.
+─    Comme les chiens de chasse, on était deux : un qui donne de la voix et l'autre qui va derrière pour harceler !
 
 ## Commentaire
 <p style="text-align:justify;">Eugène a été longtemps conseiller municipal à Viriville. Il nous donne là, à sa façon, la recette d'une tactique sans doute bien rodée pour obtenir des subventions pour la commune.</p>

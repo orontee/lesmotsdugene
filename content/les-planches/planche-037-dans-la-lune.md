@@ -19,7 +19,7 @@ Que Votié que j’alle fâre sû la lunâ i sû terre que sont le bône tôme l
 le gène
 
 ## Traduction
-Que veux-tu que j'aille faire sur la lune ? C'est sur la terre que sont les bonnes tommes, le bon vin et les jolies filles !
+Que veux-tu que j'aille faire sur la lune ? C'est sur la terre que sont les bonnes tommes, le bon vin et les jolies filles !
 
 Le Gène
 

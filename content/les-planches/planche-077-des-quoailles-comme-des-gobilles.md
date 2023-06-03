@@ -15,7 +15,7 @@ series_index: 86
 
 
 ## Texte en patois
-te trûffe i de quòâille i son gròsse côme de gobille ?
+te trûffe i de quòâille i son gròsse côme de gobille ?
 i bïen cómôde ni te le pârre ni te le châple te le mette direct dan la Kâsse
 
 le gène
@@ -28,7 +28,7 @@ Tes pommes de terre, elles sont toutes rabougries. Elles sont grosses comme des 
 Le Gène
 
 ## Commentaire
-L'art de voir le bon côté des choses !!!
+L'art de voir le bon côté des choses !!!
 "Quoailles" est un terme local péjoratif qui signifie "petites, ratatinées…".
 
 Les "gobilles" sont des petites billes.

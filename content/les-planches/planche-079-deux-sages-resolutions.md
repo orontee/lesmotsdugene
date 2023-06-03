@@ -14,23 +14,23 @@ Petite planche horizontale. Texte en deux parties séparées par un trait vertic
 </figure>
 
 ## Texte en patois
-- Meta jamé ton môre ou  lou  zotre  meta  lo  ?  Postérieu
+- Meta jamé ton môre ou  lou  zotre  meta  lo ?  Postérieu
 
 
 - Si te cassa l’otra pâta ou cana bouïtou  Ou  Bouïte plu          le  gène
 
 
 ## Traduction
-- Ne mets jamais ton nez, là où les autres mettent leur postérieur !
+- Ne mets jamais ton nez, là où les autres mettent leur postérieur !
 
-- Si tu casses l'autre patte du canard boiteux… il ne boite plus du tout !
+- Si tu casses l'autre patte du canard boiteux… il ne boite plus du tout !
 
 Le Gène
 
 ## Commentaire
-<p style="text-align:justify;">Le premier dicton signifie : "Ne te mêle pas des histoires des autres" ou plus précisément : "N'essaye pas de coucher avec celui ou celle qui vit déjà une liaison avec un(e) autre".
+<p style="text-align:justify;">Le premier dicton signifie : "Ne te mêle pas des histoires des autres" ou plus précisément : "N'essaye pas de coucher avec celui ou celle qui vit déjà une liaison avec un(e) autre".
 
-La deuxième réflexion, pleine de bon sens, pourrait correspondre à : "On ne tire pas sur une ambulance", c'est à dire : "Si tu t'acharnes sur quelqu'un qui est déjà très malheureux, tu vas l'achever."
+La deuxième réflexion, pleine de bon sens, pourrait correspondre à : "On ne tire pas sur une ambulance", c'est à dire : "Si tu t'acharnes sur quelqu'un qui est déjà très malheureux, tu vas l'achever."
 </p>
 
 

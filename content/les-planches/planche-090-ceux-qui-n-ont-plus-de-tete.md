@@ -15,8 +15,8 @@ series_index: 99
 
 
 <figure class="image-block" style="float: left;">
-  <img alt="Il a vraiment perdu la tête !" src="{static}/images/planche_90_dessin.png">
-  <figcaption style="max-width: 142px">Il a vraiment perdu la tête !</figcaption>
+  <img alt="Il a vraiment perdu la tête !" src="{static}/images/planche_90_dessin.png">
+  <figcaption style="max-width: 142px">Il a vraiment perdu la tête !</figcaption>
 </figure>
 
 

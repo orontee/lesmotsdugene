@@ -17,7 +17,7 @@ series_index: 103
 i pâ lou Bô lou plû  Brâve que le chêure corre apré                                le gène
 
 ## Traduction
-Ce n'est pas après le bouc le plus beau que courent les chèvres !
+Ce n'est pas après le bouc le plus beau que courent les chèvres !
 
 Le Gène
 

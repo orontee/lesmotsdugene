@@ -1,4 +1,4 @@
-Title: Des sous, encore, des sous ! (planche 99)
+Title: Des sous, encore, des sous ! (planche 99)
 Date: 2016-09-28 15:59:26
 Modified: 2016-09-28 15:59:26
 Summary: 
@@ -27,9 +27,9 @@ le gène
 
 
 ## Traduction
-Joseph a écrit. Aaaaah !!!
-Il est passé caporal. OOOooh !!!
-Il veut des sous. UUUUh !!!
+Joseph a écrit. Aaaaah !!!
+Il est passé caporal. OOOooh !!!
+Il veut des sous. UUUUh !!!
 
 Plus le bouc est vilain et plus les chèvres l'aiment.
 

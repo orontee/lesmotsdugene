@@ -15,13 +15,13 @@ Petite planche horizontale. Les bords latéraux ont une découpe sinueuse.
 
 
 ## Texte en patois
-Ooo lou joën yore i  pa côme de noton tan ? Ooo te sâ avé le tan le tôme se fon tòte
+Ooo lou joën yore i  pa côme de noton tan ? Ooo te sâ avé le tan le tôme se fon tòte
 
 le gène
 
 ## Traduction
-Oh ! les jeunes à présent, c'est pas comme de notre temps !
-─  Oh ! tu sais, avec le temps, les tommes finissent toutes par se faire !
+Oh ! les jeunes à présent, c'est pas comme de notre temps !
+─  Oh ! tu sais, avec le temps, les tommes finissent toutes par se faire !
 
 Le Gène
 

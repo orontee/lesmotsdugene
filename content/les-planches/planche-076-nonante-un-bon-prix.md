@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 85
 
-<p style="text-align:justify;">Très grande planche horizontale en trois parties : Les textes sont répartis à gauche et à droite, séparés par le dessin d'un chèque du Crédit Agricole adressé à M. Tartempion. A gauche, dessin de deux moutons.</p>
+<p style="text-align:justify;">Très grande planche horizontale en trois parties : Les textes sont répartis à gauche et à droite, séparés par le dessin d'un chèque du Crédit Agricole adressé à M. Tartempion. A gauche, dessin de deux moutons.</p>
 
 <figure class="image-block" style="float: center;">
   <img alt="" src="{static}/images/planche_76.png">
@@ -24,18 +24,18 @@ te mie pauye    avé én tchek . yore que to que ié que tian i pa de russe ou m
 le gène
 
 <figure class="image-block" style="float: left;">
-  <img alt="Très jolis ces moutons !" src="{static}/images/planche_76_dessin_gauche.png">
-  <figcaption style="max-width: 291px">Très jolis ces moutons !</figcaption>
+  <img alt="Très jolis ces moutons !" src="{static}/images/planche_76_dessin_gauche.png">
+  <figcaption style="max-width: 291px">Très jolis ces moutons !</figcaption>
 </figure>
 
 ## Traduction
-Tes moutons ne sont pas très jolis !  Je ne peux t'en donner que quatre-vingt-dix (francs) !
-─   Tu n'es jamais "au prix" ! Moi j'en veux NONANTE, pas un sou de moins !
+Tes moutons ne sont pas très jolis !  Je ne peux t'en donner que quatre-vingt-dix (francs) !
+─   Tu n'es jamais "au prix" ! Moi j'en veux NONANTE, pas un sou de moins !
 
 
-Tu me payes avec un chèque ? Qu'est-ce-que c'est que ça ? Ce n'est pas un "russe" au moins ?
+Tu me payes avec un chèque ? Qu'est-ce-que c'est que ça ? Ce n'est pas un "russe" au moins ?
 
-  ─   Je vais te faire un morceau de papier et quand il sera usé, je t'en ferai un autre !
+  ─   Je vais te faire un morceau de papier et quand il sera usé, je t'en ferai un autre !
 
 Le Gène
 <figure class="image-block" style="float: right;">

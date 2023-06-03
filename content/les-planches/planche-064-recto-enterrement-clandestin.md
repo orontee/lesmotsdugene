@@ -23,12 +23,12 @@ hoo  te  sâ  jozé  ne  jamé  parti  que  kan  sôrte  lou  chouche-bô  (ango
 le gène
 
 ## Traduction
-Dis Tintin ! Avant-hier, au début de la nuit, j'ai entendu comme un coup de canon, c'était pas le lièvre dans la luzerne à la "Piana" ?
- ─  Oh !  Joseph, Chut ! Chut ! Chut ! C'était un enterrement civil ! Faut pas faire sonner les cloches.
+Dis Tintin ! Avant-hier, au début de la nuit, j'ai entendu comme un coup de canon, c'était pas le lièvre dans la luzerne à la "Piana" ?
+ ─  Oh !  Joseph, Chut ! Chut ! Chut ! C'était un enterrement civil ! Faut pas faire sonner les cloches.
 
 Le Gène
 
-Oh ! tu sais Joseph ! Il ne sort jamais sans que sortent les engoulevents !
+Oh ! tu sais Joseph ! Il ne sort jamais sans que sortent les engoulevents !
 
 Le Gène
 

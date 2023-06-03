@@ -19,7 +19,7 @@ se que compte é fâ côure le monde dian la via
 
 1 i avé  la  santé
 
-2  é ? que loû pôvre sôu
+2  é ? que loû pôvre sôu
 
 3  fô avé Battï Koque ren
 
@@ -28,14 +28,14 @@ la quatriéme i la pitita béttia i sòvan le moteu pe tôte le  z‘Otre
 le gène
 
 ## Traduction
-Ce qui compte et fait courir les gens, dans la vie :
+Ce qui compte et fait courir les gens, dans la vie :
 
 1. c'est d'avoir la santé
 
 2.… et quelques pauvres sous.
 3. Il faut avoir bâti quelque chose
 
-et… le quatrièmement, c'est la "petite bête" : c'est elle qui est souvent le moteur de toutes les autres.
+et… le quatrièmement, c'est la "petite bête" : c'est elle qui est souvent le moteur de toutes les autres.
 
 Le Gène
 

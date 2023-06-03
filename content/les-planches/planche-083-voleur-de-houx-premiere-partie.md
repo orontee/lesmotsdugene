@@ -20,12 +20,12 @@ le gène.
 
 
 ## Traduction
-Houx, mon œil ! Un brave et honnête garçon doit toujours rendre la pince monseigneur à son voleur !
+Houx, mon œil ! Un brave et honnête garçon doit toujours rendre la pince monseigneur à son voleur !
 
 Le Gène
 
 ## Commentaire
-<p style="text-align:justify;">Jeu de mots entre l'onomatopée "Hou !" et le mot "Houx".
+<p style="text-align:justify;">Jeu de mots entre l'onomatopée "Hou !" et le mot "Houx".
 Cette planche a été gravée suite à un petit différent avec un voisin qui avait pour habitude de couper en très grande quantité du houx sur les terres appartenant à Eugène. Ce voisin indélicat ayant oublié sur place son échenilloir *(longue cisaille*)  se l'était fait dérobé par un promeneur. Il avait alors injustement accusé Eugène de se l'être approprié. C'est pour exprimer et "réparer" cette blessure qu'Eugène a gravé avec un soin tout particulier cette planche et la suivante ([planche 175->93]).  </p>
 
 

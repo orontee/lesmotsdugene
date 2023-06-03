@@ -12,7 +12,7 @@ series_index: 79
   <figcaption style="max-width: 180px"></figcaption>
 </figure>
 
-<p style="text-align:justify;">Longue planche verticale en bois clair. Le bords supérieur présente des sinuosités. Le côté latéral gauche a une forme légèrement concave. Celui de gauche est sinueux. Dessin en haut à gauche d'un buste d’homme moustachu endimanché : chapeau, chemise à col court, cravate…</p>
+<p style="text-align:justify;">Longue planche verticale en bois clair. Le bords supérieur présente des sinuosités. Le côté latéral gauche a une forme légèrement concave. Celui de gauche est sinueux. Dessin en haut à gauche d'un buste d’homme moustachu endimanché : chapeau, chemise à col court, cravate…</p>
 
 ## Texte en patois
 te tess fa bravon jozé . côme tien te vô dou sou de mé . i vrai que bien râza . pignâ  charâ parâ jé l’ér de  Koquieu éte ne pô pâ diére que je sô san revegniu ni rabatiu
@@ -26,7 +26,7 @@ le gène
 
 
 ## Traduction
-Tu t'es fait beau, Joseph ! Comme ça, tu vaux deux sous de plus !
+Tu t'es fait beau, Joseph ! Comme ça, tu vaux deux sous de plus !
 ─  C'est vrai que bien rasé, bien peigné, bien pomponné, bien apprêté, j'ai l'air d'être "quelqu'un" et tu ne peux pas dire que je ressemble à un "pas grand-chose" sans revenu.
 
 Le Gène
@@ -34,7 +34,7 @@ Le Gène
 ## Commentaire
 Le portrait représente un personnage souriant comme tous les portraits réalisés par Eugène.
 Ce petit texte est surtout un jeu ludique avec la musicalité des mots " râza", "pignâ",  "charâ"  et "parâ" puis " revegniu" et "rabatiu".
-Comme souvent, il s'agit également de graver dans le bois, tous ces termes difficilement traduisibles avec précision,  pour qu'ils ne soient pas complétement oubliés !
+Comme souvent, il s'agit également de graver dans le bois, tous ces termes difficilement traduisibles avec précision,  pour qu'ils ne soient pas complétement oubliés !
 
 
 

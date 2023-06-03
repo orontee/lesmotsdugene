@@ -1,4 +1,4 @@
-Title: Le coq est laché ! (planche 97)
+Title: Le coq est laché ! (planche 97)
 Date: 2017-03-01 16:35:25
 Modified: 2017-03-01 16:35:25
 Summary: 
@@ -19,7 +19,7 @@ i  pa  a  coze  que  jé  abadà  mou  coq  que  tess  obligea  de  fâre  parre
 le gène
 
 ## Traduction
-C'est pas parce que j'ai lâché mes coqs que tu es obligé de faire pareil avec tes poulettes !
+C'est pas parce que j'ai lâché mes coqs que tu es obligé de faire pareil avec tes poulettes !
 
 Le Gène
 

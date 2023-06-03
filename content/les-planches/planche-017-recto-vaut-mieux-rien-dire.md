@@ -17,11 +17,11 @@ Dessin d'une grande fourchette verticale à droite du mot « fourchetta ».
 En bas à gauche, représentation d'un homme assis devant une cheminée qui dégage de la fumée représentée par une tâche sombre du bois. </p>
 
 ## Texte en patois
-si te diï le chôze a ta Façon te te chârfe avé le diâble ? méfiâte dou retó de flamma
+si te diï le chôze a ta Façon te te chârfe avé le diâble ? méfiâte dou retó de flamma
 
-si t’invente  se Ke te raconte te mije avé leû ? pran ina granda Fôurchetta
+si t’invente  se Ke te raconte te mije avé leû ? pran ina granda Fôurchetta
 
-i pâ le brouillâ tôta ke la fûmiére ? y a bien Fiô
+i pâ le brouillâ tôta ke la fûmiére ? y a bien Fiô
 
 <figure class="image-block" style="float: right;">
   <img alt="Si tu te chauffes trop près des flammes…" src="{static}/images/planche_17_detail_cheminee.png">
@@ -31,19 +31,19 @@ i pâ le brouillâ tôta ke la fûmiére ? y a bien Fiô
 
 
 ## Traduction
-Si tu racontes les choses à ta façon, tu te chauffes avec le diable !  Méfie-toi du retour de flamme.
+Si tu racontes les choses à ta façon, tu te chauffes avec le diable !  Méfie-toi du retour de flamme.
 
 Si tu inventes ce que tu racontes, tu manges avec lui…  alors, prends une grande fourchette.
 
-C'est pas du brouillard toute cette fumée !  C'est bien du feu !
+C'est pas du brouillard toute cette fumée !  C'est bien du feu !
 
 
 ## Commentaire
 - "Si tu dis les choses à ta façon" signifie "Si tu mens".
 
-- "Tu manges avec lui" équivaut à : tu ne vaux pas mieux que lui.
+- "Tu manges avec lui" équivaut à : tu ne vaux pas mieux que lui.
 Il est conseillé alors de prendre une grande fourchette pour ne pas avoir à s'approcher trop près du feu, assimilé ici au diable, et ne pas risquer de ce bruler.
-- "C'est bien du feu ! " est le raccourci de : Il en reste toujours quelque chose ou "Il n'y a pas de fumée sans feu" .
+- "C'est bien du feu ! " est le raccourci de : Il en reste toujours quelque chose ou "Il n'y a pas de fumée sans feu" .
 
 
 

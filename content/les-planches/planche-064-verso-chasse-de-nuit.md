@@ -20,11 +20,11 @@ series_index: 72
 
 
 ## Traduction
-- Dis le Toine ! Quel beau lièvre !  Mais la chasse ne s'ouvre-t-elle pas qu'à sept heure?
+- Dis le Toine ! Quel beau lièvre !  Mais la chasse ne s'ouvre-t-elle pas qu'à sept heure?
 
-─  Je ne sais pas l'heure qu'il était, mais c'était la bonne heure pour le tuer !
+─  Je ne sais pas l'heure qu'il était, mais c'était la bonne heure pour le tuer !
 
--  Avec une canne grosse comme mon bras, tu ne crains rien : c'est une permission de minuit !
+-  Avec une canne grosse comme mon bras, tu ne crains rien : c'est une permission de minuit !
 
 
 Le Gène

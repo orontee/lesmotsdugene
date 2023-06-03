@@ -15,7 +15,7 @@ series_index: 75
 
 
 ## Texte en patois
-kan lou tan son dïü le povre bètïa Se sòve pe le bois a Châ ënâ CÔme y pòve ? lou rapace se rassemble pe  mieu Lou Migé             								   le  gène
+kan lou tan son dïü le povre bètïa Se sòve pe le bois a Châ ënâ CÔme y pòve ? lou rapace se rassemble pe  mieu Lou Migé             								   le  gène
 
 
 

@@ -11,12 +11,12 @@ Planche de moyenne hauteur, assez large et de forme trapézoïdale. Les bords su
 ## Texte en patois
 -  te ne pô ren fâre ne Fa pâ dou jô de bô je crèye que le père-éternè y côme mi trop Vieu ou ne sâ plû se qu’ou z’y cherche
 
-- tâ veû â crère qui lon Fâ exprés y z’on Fâ tôu le contrère de se Ke Faillé Fâre  ? le père-éterné y plû costô que je pansâve pe Fâre en si grand nombre de cornichon Pareu
+- tâ veû â crère qui lon Fâ exprés y z’on Fâ tôu le contrère de se Ke Faillé Fâre ? le père-éterné y plû costô que je pansâve pe Fâre en si grand nombre de cornichon Pareu
 
 ## Traduction
-- On ne peux rien faire, il ne fait pas deux jours de beau temps ! Je crois que le Père Éternel est comme moi, trop vieux. Il ne sait plus ce qu'il cherche !
+- On ne peux rien faire, il ne fait pas deux jours de beau temps ! Je crois que le Père Éternel est comme moi, trop vieux. Il ne sait plus ce qu'il cherche !
 
-- Tu as vu ? A croire qu'ils l'ont fait exprès ! Ils ont fait le contraire de ce qu'il fallait faire ! Le Père Éternel est plus fort que je ne le pensais pour arriver à créer un aussi grand nombre de cornichons pareils !
+- Tu as vu ? A croire qu'ils l'ont fait exprès ! Ils ont fait le contraire de ce qu'il fallait faire ! Le Père Éternel est plus fort que je ne le pensais pour arriver à créer un aussi grand nombre de cornichons pareils !
 
 ## Commentaire
 Sans commentaire.

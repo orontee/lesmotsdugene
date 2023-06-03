@@ -22,7 +22,7 @@ hOoo Fà ren bàme tïen tess entreprey de te man côme ina pòlà Ka trovà èn
 
 
 ## Traduction
-Oh ! Ca ne fait rien. Donne-moi ça ! Tu n'es pas dégourdi de tes mains : tu es comme une poule qui a trouvé un couteau.
+Oh ! Ca ne fait rien. Donne-moi ça ! Tu n'es pas dégourdi de tes mains : tu es comme une poule qui a trouvé un couteau.
 Il ne faut pas faire pour défaire.
 
 Le Gène

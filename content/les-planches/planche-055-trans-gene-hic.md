@@ -23,7 +23,7 @@ Mefiâte  Mayoussié  trans – gène  - Hic
 
 
 ## Traduction
-Méfies-toi : fraisiers  "Trans" - "Gène" - "Hic"
+Méfies-toi : fraisiers  "Trans" - "Gène" - "Hic"
 
 ## Commentaire
 <p style="text-align:justify;">Jeu de mots avec le prénom "Gène" et le mot "transgénique".

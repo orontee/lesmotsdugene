@@ -27,7 +27,7 @@ Le Gène
 
 
 ## Commentaire
-C'est une candidate à la présidence de la République, Ségolène Royale, qui a inspiré ce texte à Eugène !?!  Vue à la télévision, un soir de printemps, il l'avait alors trouvée séduisante.
+C'est une candidate à la présidence de la République, Ségolène Royale, qui a inspiré ce texte à Eugène !?!  Vue à la télévision, un soir de printemps, il l'avait alors trouvée séduisante.
 
 
 <figure class="image-block" style="float: right;">

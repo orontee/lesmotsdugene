@@ -15,7 +15,7 @@ series_index: 69
 
 
 ## Texte en patois
-arrive qu’èn petié en fa neïe èn gréo  ?  pesson
+arrive qu’èn petié en fa neïe èn gréo ?  pesson
 
 le gène
 

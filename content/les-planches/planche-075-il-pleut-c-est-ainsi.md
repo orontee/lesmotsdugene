@@ -1,4 +1,4 @@
-Title: Il pleut, c'est ainsi ! (planche 75)
+Title: Il pleut, c'est ainsi ! (planche 75)
 Date: 2017-05-30 16:28:25
 Modified: 2017-05-30 16:28:25
 Summary: 
@@ -20,16 +20,16 @@ plô  fera  gabo  lavera  la  châmise  dou  cûlot
 i  ben  quok  ren  come  tien  tié                                                     le  gène
 
 ## Traduction
-Il pleut ! Cela fera une mare, on pourra laver la chemise du petit dernier !
+Il pleut ! Cela fera une mare, on pourra laver la chemise du petit dernier !
 
 
-C'est bien les choses "comme ci, comme ça" !
+C'est bien les choses "comme ci, comme ça" !
 
 Le Gène
 
 <figure class="image-block" style="float: left;">
-  <img alt="Il pleut! Tant mieux pour les canards !" src="{static}/images/planche_75_dessin.png">
-  <figcaption style="max-width: 350px">Il pleut! Tant mieux pour les canards !</figcaption>
+  <img alt="Il pleut! Tant mieux pour les canards !" src="{static}/images/planche_75_dessin.png">
+  <figcaption style="max-width: 350px">Il pleut! Tant mieux pour les canards !</figcaption>
 </figure>
 
 
@@ -37,7 +37,7 @@ Le Gène
 <p style="text-align:justify;">Un "gabo" est une petite mare.
 Un "cûlot" est le petit dernier de la famille.
 
-"I ben quok ren come tien tié " est une petite phrase que la mère d'Eugène disait parfois. Cela n'a pas de signification très précise mais exprime une certaine forme de fatalisme qu'Eugène traduit par "C'est comme ça !" ou "Comme ci, comme ça".</p>
+"I ben quok ren come tien tié " est une petite phrase que la mère d'Eugène disait parfois. Cela n'a pas de signification très précise mais exprime une certaine forme de fatalisme qu'Eugène traduit par "C'est comme ça !" ou "Comme ci, comme ça".</p>
 
 
 

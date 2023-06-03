@@ -1,4 +1,4 @@
-Title: Quel bazar ici ! (planche 67)
+Title: Quel bazar ici ! (planche 67)
 Date: 2017-05-30 16:16:33
 Modified: 2017-05-30 16:16:33
 Summary: 
@@ -18,7 +18,7 @@ chez  leu  y  â  èn  bazâ  y  â  quèze  jo  qu’ou  nâ  pâ  quouiviâ  S
 
 
 ## Traduction
-Chez lui, il y a un de ces bazars ! Il y a quinze jours qu'il n'a pas balayé sa maison.
+Chez lui, il y a un de ces bazars ! Il y a quinze jours qu'il n'a pas balayé sa maison.
 
 
 ## Commentaire

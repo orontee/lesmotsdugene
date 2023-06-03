@@ -17,7 +17,7 @@ series_index: 50
 je tïére la margòt â la sùmâ dou pive i s’envÒle côme de ren mè sú la maison plonge pe la chemenèyâ châ  dan la òulâ  Fricâsse la Marie Ke guerave còuère la sòupâ  		  le gène
 
 ## Traduction
-Je tire sur la pie à la cime du peuplier, mais elle s'envole "comme de rien" vers la maison, plonge par la cheminée dans la marmite et ébouillante la Marie qui regardait cuire la soupe !
+Je tire sur la pie à la cime du peuplier, mais elle s'envole "comme de rien" vers la maison, plonge par la cheminée dans la marmite et ébouillante la Marie qui regardait cuire la soupe !
 
 Le Gène
 

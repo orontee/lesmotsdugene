@@ -20,18 +20,18 @@ series_index: 57
   <figcaption style="max-width: 249px">La tablée de la mondée</figcaption>
 </figure>
 
-ta pa ìnvitâ jozè â monda ou n’en mige mè Kou n’en Monde ? fôdrè li mettà ina trôche  dreniè
+ta pa ìnvitâ jozè â monda ou n’en mige mè Kou n’en Monde ? fôdrè li mettà ina trôche  dreniè
 
 le gène
 
 ## Traduction
-Tu n'as pas invité Joseph à la mondée ?
-─   Il en mange plus qu'il n'en monde ! Il faudrait lui mettre une cruche au derrière !
+Tu n'as pas invité Joseph à la mondée ?
+─   Il en mange plus qu'il n'en monde ! Il faudrait lui mettre une cruche au derrière !
 
 Le Gène
 
 ## Commentaire
-Ce petit dialogue a été rapporté à Eugène par sa mère qui l'avait entendu lorsqu'elle était petite. La cruche derrière Joseph est censée récupérer l'huile des noix !
+Ce petit dialogue a été rapporté à Eugène par sa mère qui l'avait entendu lorsqu'elle était petite. La cruche derrière Joseph est censée récupérer l'huile des noix !
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_50.mp4" type="video/mp4">

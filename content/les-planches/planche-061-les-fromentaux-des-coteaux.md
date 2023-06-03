@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 68
 
-<p style="text-align:justify;">Planche horizontale en forme de vague : le bord supérieur est à peu près droit, le bord inférieur est arrondi. A droite la planche a une forme recourbée vers le bas et présente la marque d'un large nœud de bois très foncé. Cette planche comprend deux textes : l'un à gauche, l'autre à droite et entre les deux, l'esquisse d'un paysage de montagnes sous un soleil rayonnant.</p>
+<p style="text-align:justify;">Planche horizontale en forme de vague : le bord supérieur est à peu près droit, le bord inférieur est arrondi. A droite la planche a une forme recourbée vers le bas et présente la marque d'un large nœud de bois très foncé. Cette planche comprend deux textes : l'un à gauche, l'autre à droite et entre les deux, l'esquisse d'un paysage de montagnes sous un soleil rayonnant.</p>
 
 <figure class="image-block" style="float: center;">
   <img alt="" src="{static}/images/planche_61_tout-2.png">
@@ -17,16 +17,16 @@ series_index: 68
 ## Texte en patois
 Ooo te sâ tou que lou côteïo ï de bon prô. Fâ de bon Fân    Oùâ. mè lou mòrellïè son obligea de portâ  ïna ombrlla avant le Fenèzon
 
-Mou Fromentô fon le mellïou Blâ de töu Virevillâ ?  mè ina sèzon de secheresse le cheure-môtte  crève de Fan en plenâ mèsson
+Mou Fromentô fon le mellïou Blâ de töu Virevillâ ?  mè ina sèzon de secheresse le cheure-môtte  crève de Fan en plenâ mèsson
 
 le gène
 
 ## Traduction
-Oh tu sais ! Tous ces côteaux, c'est du bon pré, ça fait du bon foin !
- ─  Oui, mais les grillons sont obligés de porter une ombrelle avant la fenaison pour se protéger du soleil !
+Oh tu sais ! Tous ces côteaux, c'est du bon pré, ça fait du bon foin !
+ ─  Oui, mais les grillons sont obligés de porter une ombrelle avant la fenaison pour se protéger du soleil !
 
 Mes fromentaux font le meilleur blé de tout Viriville.
- ─  Oui, mais une année de sécheresse et les sauterelles meurent de faim en pleine moisson !
+ ─  Oui, mais une année de sécheresse et les sauterelles meurent de faim en pleine moisson !
 
 Le Gène
 

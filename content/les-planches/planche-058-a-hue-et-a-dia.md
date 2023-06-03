@@ -26,9 +26,9 @@ le gène
 
 
 ## Traduction
-Gauche ?  Droite ?
+Gauche ?  Droite ?
 Moi, la politique faut pas m'en parler.
-C'est comme quand je regarde la queue de ma vache : ça me fatigue ! Ça me casse les pieds ! Elle suit les mouches : un coup à droite, un coup à gauche…
+C'est comme quand je regarde la queue de ma vache : ça me fatigue ! Ça me casse les pieds ! Elle suit les mouches : un coup à droite, un coup à gauche…
 
 Le Gène
 

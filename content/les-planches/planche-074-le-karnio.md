@@ -1,7 +1,7 @@
 Title: Le Karnio (planche 74)
 Date: 2015-11-18 18:19:40
 Modified: 2016-01-20 16:07:00
-Summary: Comment ce fait-il que tu ne t'es jamais marié ?
+Summary: Comment ce fait-il que tu ne t'es jamais marié ?
 Lang: fr
 Series: planches
 series_index: 83
@@ -20,7 +20,7 @@ côme  tò  que  se  fâ  que  te  tess  jamé  maria.  Pe  tou  lou  monde  â 
 
 ## Traduction
 
-Comment ce fait-il que tu ne t'es jamais marié ?
+Comment ce fait-il que tu ne t'es jamais marié ?
 ─  Pour tout le monde, à 20 ans, je n'étais qu'un "karnio", né dans les coteaux et la tête vide comme le portefeuille.
 
 Le Gène

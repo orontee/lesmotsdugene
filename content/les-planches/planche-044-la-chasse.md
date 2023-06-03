@@ -17,9 +17,9 @@ Petite planche horizontale très sombre. Deux traits verticaux sinueux séparent
 Ta Fa Bonna chasse   hOo  Oua   /    ina graille     ina margot     dou jack                           le gène
 
 ## Traduction
-As-tu fait une bonne chasse ?
+As-tu fait une bonne chasse ?
 
-─  Oh !  Oui : une corneille, une pie, deux geais.
+─  Oh !  Oui : une corneille, une pie, deux geais.
 
 Le Gène
 
