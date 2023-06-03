@@ -6,24 +6,25 @@ Lang: fr
 Series: planches
 series_index: 124
 
-Petite planche horizontale légèrement incurvée. A gauche et à droite,
-dessins de plants de jonquilles. Le « Ô » de « CÔrna » figure la
-caricature d'une tête portant deux cornes et coiffé par l'accent
-circonflexe.
+<p style="text-align: justify;">Petite planche horizontale légèrement
+incurvée. À gauche et à droite, dessins de plants de jonquilles. Le
+« Ô » de « CÔrna » figure la caricature d'une tête portant deux cornes
+et coiffé par l'accent circonflexe.</p>
 
 <figure class="image-block" style="float: center;">
   <img alt="" src="{static}/images/planche_116.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>
 
-
 ## Texte en patois
 
-Mème si je sô la fleû de tou lou CÔrnâ vò z'essa pâ oblija de tou m'emporta			le gène
+Mème si je sô la fleû de tou lou CÔrnâ vò z'essa pâ oblija de tou
+m'emporta le gène
 
 ## Traduction
 
-Même si je suis la fleur de tous les « cornards », vous n'êtes pas obligés de tout m'emporter.
+Même si je suis la fleur de tous les « cornards », vous n'êtes pas
+obligés de tout m'emporter.
 
 Le Gène
 

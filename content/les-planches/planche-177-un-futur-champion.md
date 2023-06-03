@@ -14,20 +14,26 @@ Planche verticale de bois sombre aux veines très apparentes.
 </figure>
 
 ## Texte en patois
-ton gosse Fa le corse de velo - yore fo léssiè Fâre sou l'arrive a Pretuziè
+
+ton gosse Fa le corse de velo - yore fo léssiè Fâre sou l'arrive a
+Pretuziè
 
 le gène
 
 ## Traduction
-Ton gosse fait des courses de vélo. Maintenant, il faut bien le laisser faire au cas où il arriverait à « percer ».
+
+Ton gosse fait des courses de vélo. Maintenant, il faut bien le
+laisser faire au cas où il arriverait à « percer ».
 
 Le Gène
 
 ## Commentaire
-« Pretuziè » signifie : réussir, percer, arriver. Cette planche a été gravée alors que les médias célébraient un fameux champion de courses cyclistes.
+
+« Pretuziè » signifie : réussir, percer, arriver. Cette planche a été
+gravée alors que les médias célébraient un fameux champion de courses
+cyclistes.
+
 Eugène joue sur le double sens du mot « percer ».
-
-
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_177.mp4" type="video/mp4">

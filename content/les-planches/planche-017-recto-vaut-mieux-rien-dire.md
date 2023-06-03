@@ -6,22 +6,24 @@ Series: planches
 series_index: 21
 
 
+<p style="text-align:justify;">Grande planche verticale assez large et
+lourde, aux bords très irréguliers. Un nœud dans le bois a provoqué
+une très grande déchirure sur le côté. La planche est fendue à partir
+du bord supérieur jusqu'au centre.  Dessin d'une grande fourchette
+verticale à droite du mot « fourchetta ». En bas à gauche,
+représentation d'un homme assis devant une cheminée qui dégage de la
+fumée représentée par une tâche sombre du bois.</p>
+
+<div style="display: table; clear: both;"></div>
+
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_17.png">
   <figcaption style="max-width: 268px"></figcaption>
 </figure>
 
-Grande planche verticale assez large et lourde, aux bords très
-irréguliers. Un nœud dans le bois a provoqué une très grande déchirure
-sur le côté.
-
-La planche est fendue à partir du bord supérieur jusqu'au centre.
-Dessin d'une grande fourchette verticale à droite du mot « fourchetta ».
-
-En bas à gauche, représentation d'un homme assis devant une cheminée
-qui dégage de la fumée représentée par une tâche sombre du bois.
 
 ## Texte en patois
+
 si te diï le chôze a ta Façon te te chârfe avé le diâble ? méfiâte dou retó de flamma
 
 si t’invente  se Ke te raconte te mije avé leû ? pran ina granda Fôurchetta
@@ -33,10 +35,15 @@ i pâ le brouillâ tôta ke la fûmiére ? y a bien Fiô
   <figcaption style="max-width: 253px">Si tu te chauffes trop près des flammes…</figcaption>
 </figure>
 
-## Traduction
-Si tu racontes les choses à ta façon, tu te chauffes avec le diable !  Méfie-toi du retour de flamme.
+<div style="display: table; clear: both;"></div>
 
-Si tu inventes ce que tu racontes, tu manges avec lui…  alors, prends une grande fourchette.
+## Traduction
+
+Si tu racontes les choses à ta façon, tu te chauffes avec le diable !
+Méfie-toi du retour de flamme.
+
+Si tu inventes ce que tu racontes, tu manges avec lui…  alors, prends
+une grande fourchette.
 
 C'est pas du brouillard toute cette fumée !  C'est bien du feu !
 

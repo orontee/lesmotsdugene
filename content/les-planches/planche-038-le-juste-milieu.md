@@ -7,14 +7,22 @@ Series: planches
 series_index: 45
 
 
+<p style="text-align:justify;">Planche verticale de moyenne grandeur.
+Tout en haut, est écrit en petits caractères et en biais : « bou-diou
+qui piquant ». Dessous cette courte phrase se trouve le dessin d'un
+homme souriant coiffé d'un béret ; il s'appuie sur une canne et est
+assis sur une pierre très pointue. Les lignes du texte principal sont
+gravées de plus en plus gros en allant vers le bas.</p>
+
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_38.png">
   <figcaption style="max-width: 208px"></figcaption>
 </figure>
-<p style="text-align:justify;">Planche verticale de moyenne grandeur.  Tout en haut, est écrit en petits caractères et en biais : « bou-diou qui piquant ». Dessous cette courte phrase se trouve le dessin d'un homme souriant coiffé d'un béret ; il s'appuie sur une canne et est assis sur une pierre très pointue. Les lignes du texte principal sont gravées de plus en plus gros en allant vers le bas.</p>
 
 ## Texte en patois
-bou-diou qui piquant   Le jêuste méttan é ina pointà qui bïen dïfficile de resseta assetà dessû
+
+bou-diou qui piquant Le jêuste méttan é ina pointà qui bïen dïfficile
+de resseta assetà dessû
 
 le gène
 
@@ -24,14 +32,15 @@ le gène
 </figure>
 
 ## Traduction
+
 Bon Dieu, que c'est piquant !
 
-Le juste milieu, c'est une pointe sur laquelle il est bien difficile de rester assis dessus.
+Le juste milieu, c'est une pointe sur laquelle il est bien difficile
+de rester assis dessus.
 
 Le Gène
 
 ## Sans commentaire
-
 
 
 <video width="320" height="240" controls>

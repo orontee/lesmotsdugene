@@ -7,12 +7,14 @@ Series: planches
 series_index: 3
 
 
+Planche  verticale haute, étroite et légèrement courbe. Sa forme fait penser à une botte.
+
+<div style="display: table; clear: both;"></div>
+
 <figure class="image-block" style="float: right;">
   <img alt="" src="{static}/images/planche_2_verso.png">
   <figcaption style="max-width: 201px"></figcaption>
 </figure>
-Planche  verticale haute, étroite et légèrement courbe. Sa forme fait penser à une botte.
-
 
 ## Texte en patois
 houâ mé gène ou jozé te tess mieu sovnïu de tote le bétïze que tâ entendïu que de ton  catechime

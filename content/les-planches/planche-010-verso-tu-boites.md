@@ -6,7 +6,11 @@ Lang: fr
 Series: planches
 series_index: 14
 
-Grande planche rectangulaire verticale. Les bords latéraux sont bruts. Les deux faces sont gravées.
+<p style="text-align:justify;">Grande planche rectangulaire
+verticale. Les bords latéraux sont bruts. Les deux faces sont
+gravées.</p>
+
+<div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_10_verso.png">
@@ -19,7 +23,7 @@ te bôuite te tess éKalancha ne men parla pa jé déripa sû le liétâ de la p
 
 ## Traduction
 
-Tu boîtes, tu es tout « déglingué » ?
+─ Tu boîtes, tu es tout « déglingué » ?
 
 ─ Ne m'en parle pas ! J'ai dérapé sur le seuil de la porte, la poule avait déposé une belle « jaunasse ».
 

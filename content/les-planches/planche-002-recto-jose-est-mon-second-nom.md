@@ -8,6 +8,8 @@ series_index: 2
 
 <p style="text-align:justify;">Planche verticale haute, étroite et légèrement courbe. Sa forme ressemble vaguement à une botte. </p>
 
+<div style="display: table; clear: both;"></div>
+
 <figure class="image-block" style="float: right;">
   <img alt="" src="{static}/images/planche_2_recto.png">
   <figcaption style="max-width: 119px"></figcaption>

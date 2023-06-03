@@ -6,7 +6,9 @@ Lang: fr
 Series: planches
 series_index: 187
 
-Petite planche horizontale aux bords arrondis et légèrement incurvée vers le haut. A droite, dessin d'un puits maçonné avec des galets roulés.
+Petite planche horizontale aux bords arrondis et légèrement incurvée
+vers le haut. À droite, dessin d'un puits maçonné avec des galets
+roulés.
 
 <figure class="image-block" style="float: center;">
   <img alt="" src="{static}/images/planche_180.png">
@@ -14,23 +16,26 @@ Petite planche horizontale aux bords arrondis et légèrement incurvée vers le 
 </figure>
 
 ## Texte en patois
+
 ou gâre soven le fond de la bosse jamé le Fond dou Puit
 
 le gène
+
 <figure class="image-block" style="float: left;">
   <img alt="Le puits du Gène maçonné avec des galets roulés" src="{static}/images/planche_180_detail_dessin.png">
   <figcaption style="max-width: 497px">Le puits du Gène maçonné avec des galets roulés</figcaption>
 </figure>
 
-
 ## Traduction
+
 Il regarde souvent le fond du tonneau, jamais le fond du puits !
 
 Le Gène
 
 ## Commentaire
-Expression autrefois courante pour évoquer avec humour les personnes qui manifestent un goût un peu trop immodéré pour le vin !
 
+Expression autrefois courante pour évoquer avec humour les personnes
+qui manifestent un goût un peu trop immodéré pour le vin !
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_180-2.mp4" type="video/mp4">

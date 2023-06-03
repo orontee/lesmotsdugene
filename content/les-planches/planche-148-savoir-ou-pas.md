@@ -6,23 +6,26 @@ Lang: fr
 Series: planches
 series_index: 156
 
+<p style="text-align:justify;">Petite planche verticale assez épaisse
+et bordée d'écorce qui s'évase légèrement en partant du bas.</p>
 
 <figure class="image-block" style="float: right;">
   <img alt="" src="{static}/images/planche_148-2.png">
   <figcaption style="max-width: 264px"></figcaption>
 </figure>
 
-Petite planche verticale assez épaisse et bordée d'écorce qui s'évase légèrement en partant du bas.
-
 ## Texte en patois
-san savé se que je sàve si je sayé tô se que je sàve Pa 				le gène
+
+san savé se que je sàve si je sayé tô se que je sàve Pa le gène
 
 ## Traduction
+
 Sans savoir ce que je sais, si je savais tout ce que je ne sais pas…
 
 Le Gène
 
 ## Commentaire
+
 Petite phrase complexe à méditer comme un jeu de mots et d'esprit.
 
 <video width="320" height="240" controls>

@@ -6,7 +6,9 @@ Lang: fr
 Series: planches
 series_index: 64
 
-Petite planche horizontale de forme concave. A gauche, dessin d'un homme assis au pied d'un arbre sous un soleil rayonnant.
+<p style="text-align:justify;">Petite planche horizontale de forme
+concave. À gauche, dessin d'un homme assis au pied d'un arbre sous un
+soleil rayonnant.</p>
 
 <figure class="image-block" style="float: center;">
   <img alt="" src="{static}/images/planche_57.png">
@@ -14,7 +16,8 @@ Petite planche horizontale de forme concave. A gauche, dessin d'un homme assis a
 </figure>
 
 ## Texte en patois
-Le travâ i la santè Fô sûtò pa z‘i tôchè                                                le gène
+
+Le travâ i la santè Fô sûtò pa z‘i tôchè le gène
 
 <figure class="image-block" style="float: right;">
   <img alt="Petite sieste au pied de mon arbre…" src="{static}/images/planche_57_dessin.png">
@@ -22,12 +25,15 @@ Le travâ i la santè Fô sûtò pa z‘i tôchè                               
 </figure>
 
 ## Traduction
+
 Le travail c'est la santé, il ne faut surtout pas y toucher !
 
 Le Gène
 
 ## Commentaire
-Dicton assez couramment répété, sans doute inspiré par une chanson d'Henri Salvador, alors en vogue : « Le travail c'est la santé ».
+
+Dicton assez couramment répété, sans doute inspiré par une chanson
+d'Henri Salvador, alors en vogue : « Le travail c'est la santé ».
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_57.mp4" type="video/mp4">

@@ -6,9 +6,12 @@ Lang: fr
 Series: planches
 series_index: 56
 
-<p style="text-align:justify;">Grande planche verticale présentant une jolie courbure vers le milieu de sa hauteur.
-En haut à droite, petit dessin d'un personnage féminin, échevelé et souriant, vêtu d'une robe dessinée avec des traits en dents de scie.
-En bas, sous la signature, un trait horizontal sur toute la largeur figure le bas d'une robe dont émergent en dessous, deux pieds de profil chaussés de sabots.</p>
+<p style="text-align:justify;">Grande planche verticale présentant une
+jolie courbure vers le milieu de sa hauteur.  En haut à droite, petit
+dessin d'un personnage féminin, échevelé et souriant, vêtu d'une robe
+dessinée avec des traits en dents de scie.  En bas, sous la signature,
+un trait horizontal sur toute la largeur figure le bas d'une robe dont
+émergent en dessous, deux pieds de profil chaussés de sabots.</p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_49.png">
@@ -17,13 +20,19 @@ En bas, sous la signature, un trait horizontal sur toute la largeur figure le ba
 
 
 ## Texte en Patois
-hooo Lize brâve côme tess côme tô Ke se  fâ  Ke te tess  pâ  mariâ je  vòl  ièn hômme ni Ke Bûvâsse ni  Ke chikâsse ni Ke prizâsse ni Ke Fûmâsse ni ke ? asse
+
+hooo Lize brâve côme tess côme tô Ke se fâ Ke te tess pâ mariâ je vòl
+ièn hômme ni Ke Bûvâsse ni Ke chikâsse ni Ke prizâsse ni Ke Fûmâsse ni
+ke ? asse
 
 le gène
 
 ## Traduction
-Oooh !  Lise, jolie comme tu es, comment se fait-il que tu ne t'es jamais mariée ?
-─  Je veux un homme ni qui boive, ni qui chique, ni qui prise, ni qui fume  et ni qui ????… !
+
+─ Oooh ! Lise, jolie comme tu es, comment se fait-il que tu ne t'es jamais mariée ?
+
+─ Je veux un homme ni qui boive, ni qui chique, ni qui prise, ni qui fume et ni qui ????… !
+
 Le Gène
 
 <figure class="image-block" style="float: right;">
@@ -31,15 +40,17 @@ Le Gène
   <figcaption style="max-width: 281px">Lise de Marnans</figcaption>
 </figure>
 
+<div style="display: table; clear: both;"></div>
 
 ## Commentaire
-<p style="text-align:justify;">Il s'agit ici d'une femme miséreuse qui vivait seule à Marnans. La mère d'Eugène se souvenait qu'elle était tellement pauvre qu'elle devait lacer ses galoches avec des lianes.
 
-Le dernier des mots qui reprend la finale homophone « asse » et dont la première partie est remplacée par un point d'interrogation évoque pudiquement l'habitude de « courir après les filles ».</p>
+Il s'agit ici d'une femme miséreuse qui vivait seule à Marnans. La
+mère d'Eugène se souvenait qu'elle était tellement pauvre qu'elle
+devait lacer ses galoches avec des lianes.
 
-
-
-
+Le dernier des mots qui reprend la finale homophone « asse » et dont
+la première partie est remplacée par un point d'interrogation évoque
+pudiquement l'habitude de « courir après les filles ».
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_49.mp4" type="video/mp4">

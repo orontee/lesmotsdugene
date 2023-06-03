@@ -6,7 +6,10 @@ Lang: fr
 Series: planches
 series_index: 125
 
-<p style="text-align:justify;">Très petite planche horizontale. Le coté gauche est lisse et relevé vers le haut. Le côté droit est découpé sinueusement. Les bords inférieur et supérieur sont bruts et bordés d'écorce. Les chiffres sont soulignés de deux traits.</p>
+<p style="text-align:justify;">Très petite planche horizontale. Le
+coté gauche est lisse et relevé vers le haut. Le côté droit est
+découpé sinueusement. Les bords inférieur et supérieur sont bruts et
+bordés d'écorce. Les chiffres sont soulignés de deux traits.</p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_117.png">
@@ -19,13 +22,22 @@ series_index: 125
 </figure>
 
 ## Texte en patois
-te sa La chasse yore na plu ren    Mè n'a ke ne sâve pâ sarreta  Mï a pâ lou Sanglïa je nè fâ Ke <u>20</u> fezan <u>15</u> pedrï  <u>10</u> Begasse <u>5 </u> Lïévre.
+
+te sa La chasse yore na plu ren Mè n'a ke ne sâve pâ sarreta Mï a pâ
+lou Sanglïa je nè fâ Ke <u>20</u> fezan <u>15</u> pedrï <u>10</u>
+Begasse <u>5 </u> Lïévre.
 
 ## Traduction
-Tu sais, à la chasse, à présent, il n'y a plus rien, mais il y en a qui ne savent plus s'arrêter. Moi, à part le sanglier, je n'ai fait que <u>20</u> faisans, <u>15</u>  perdrix, <u>10</u> bécasses et <u>5 </u> lièvres !!!
+
+Tu sais, à la chasse, à présent, il n'y a plus rien, mais il y en a
+qui ne savent plus s'arrêter. Moi, à part le sanglier, je n'ai fait
+que <u>20</u> faisans, <u>15</u> perdrix, <u>10</u> bécasses et <u>5
+</u> lièvres !!!
 
 ## Commentaire
-Ces planches forment un ensemble illustrant avec ironie un imaginaire dialogue entre un chasseur et un autre, sans doute Eugène.
+
+Ces planches forment un ensemble illustrant avec ironie un imaginaire
+dialogue entre un chasseur et un autre, sans doute Eugène.
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_117.mp4" type="video/mp4">

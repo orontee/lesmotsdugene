@@ -15,20 +15,24 @@ Planche horizontale assez fine, découpée en forme de sabot.
 
 
 ## Texte en patois
+
 Avé sou grand Pánà ou Póra avé de jûmô sou dou z’équio li sarvïron de crey
 
 le gène
 
 ## Traduction
-Avec ses grands panards il pourrait avoir des jumeaux : ses deux sabots leur serviraient de berceaux !
+
+Avec ses grands panards il pourrait avoir des jumeaux : ses deux
+sabots leur serviraient de berceaux !
 
 Le Gène
 
 ## Commentaire
-Un « crey » est un « berceau ». A rapprocher du mot « crèche ».
-Cette plaisanterie était fréquemment réitérée pour se moquer gentiment des personnes qui avaient de grands pieds.
 
+Un « crey » est un « berceau ». À rapprocher du mot « crèche ».
 
+Cette plaisanterie était fréquemment réitérée pour se moquer gentiment
+des personnes qui avaient de grands pieds.
 
 
 <video width="320" height="240" controls>

@@ -8,7 +8,7 @@ series_index: 4
 
 Planche  verticale haute, étroite et légèrement courbe. Sa forme fait penser à une botte.
 
-
+<div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_2_verso.png">

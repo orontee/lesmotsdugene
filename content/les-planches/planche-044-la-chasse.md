@@ -6,7 +6,9 @@ Lang: fr
 Series: planches
 series_index: 51
 
-Petite planche horizontale très sombre. Deux traits verticaux sinueux séparent la première partie de l'énumération du gibier. Les lettres sont repeintes en doré.
+<p style="text-align:justify;">Petite planche horizontale très
+sombre. Deux traits verticaux sinueux séparent la première partie de
+l'énumération du gibier. Les lettres sont repeintes en doré.</p>
 
 <figure class="image-block" style="float: center;">
   <img alt="" src="{static}/images/planche_44.png">
@@ -14,17 +16,21 @@ Petite planche horizontale très sombre. Deux traits verticaux sinueux séparent
 </figure>
 
 ## Texte en patois
-Ta Fa Bonna chasse   hOo  Oua   /    ina graille     ina margot     dou jack                           le gène
+
+Ta Fa Bonna chasse hOo Oua / ina graille ina margot dou jack le gène
 
 ## Traduction
-As-tu fait une bonne chasse ?
 
-─  Oh !  Oui : une corneille, une pie, deux geais.
+─ As-tu fait une bonne chasse ?
+
+─ Oh !  Oui : une corneille, une pie, deux geais.
 
 Le Gène
 
 ## Commentaire
-Il s'agit ici, essentiellement, de graver les noms patois des oiseaux (corneille, pie et geai) pour les sauvegarder.
+
+Il s'agit ici, essentiellement, de graver les noms patois des oiseaux
+(corneille, pie et geai) pour les sauvegarder.
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_44.mp4" type="video/mp4">

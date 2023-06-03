@@ -6,7 +6,10 @@ Lang: fr
 Series: planches
 series_index: 63
 
-<p style="text-align:justify;">Longue planche horizontale assez étroite, un peu concave, dont la forme évoque vaguement celle d'un joug. Entre les deux parties du texte, dessin de deux ânes près d'un chemin, d'un pommier et d'une charrue.</p>
+<p style="text-align:justify;">Longue planche horizontale assez
+étroite, un peu concave, dont la forme évoque vaguement celle d'un
+joug. Entre les deux parties du texte, dessin de deux ânes près d'un
+chemin, d'un pommier et d'une charrue.</p>
 
 <figure class="image-block" style="float: center;">
   <img alt="" src="{static}/images/planche_56.png">
@@ -14,24 +17,28 @@ series_index: 63
 </figure>
 
 ## Texte en patois
-Lou z’âne que n’on jamè ren Fâ       on Bramâ totâ lo via
+
+Lou z’âne que n’on jamè ren Fâ on Bramâ totâ lo via
 
 <figure class="image-block" style="float: right;">
   <img alt="Les ânes ne vont pas tous dans le même sens" src="{static}/images/planche_56_dessin.png">
   <figcaption style="max-width: 440px">Les ânes ne vont pas tous dans le même sens</figcaption>
 </figure>
 
-
 le gène
 
 ## Traduction
+
 Les ânes qui n'ont jamais rien fait ont bramé toute leur vie.
 
 Le Gène
 
 ## Commentaire
-<p style="text-align:justify;">
-Eugène a écrit ce texte à son retour d'une réunion difficile durant laquelle il avait été injustement remis en question par d'autres participants. Il traduit ainsi son sentiment que ceux qui en font le moins sont souvent les premiers à critiquer.</p>
+
+Eugène a écrit ce texte à son retour d'une réunion difficile durant
+laquelle il avait été injustement remis en question par d'autres
+participants. Il traduit ainsi son sentiment que ceux qui en font le
+moins sont souvent les premiers à critiquer.
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_56.mp4" type="video/mp4">
