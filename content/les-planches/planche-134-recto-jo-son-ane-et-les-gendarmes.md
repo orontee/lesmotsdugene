@@ -22,8 +22,9 @@ le gène
 ## Traduction
 Le Jo sur la route, la nuit, avec son bourricot et sa carriole sans lumière, voit de loin deux képis. Il passe alors dans les bras de l'attelage et dételle l'âne.
 
-Les gendarmes :  " Oh ! vous n'avez pas de lanterne. Ça va vous coûter bonbon ! "
-Jo :  " C'est le patron, là derrière *(montrant l'âne*), qui va payer… "
+Les gendarmes :  "Oh ! vous n'avez pas de lanterne. Ça va vous coûter bonbon !"
+
+Jo : "C'est le patron, là derrière *(montrant l'âne*), qui va payer…"
 
 Le Gène
 

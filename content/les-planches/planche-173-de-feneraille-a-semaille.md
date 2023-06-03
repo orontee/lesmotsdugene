@@ -24,7 +24,7 @@ Cul - tarrou de Fenèraille A Semaille Poin te ne Feraille                      
 
 ## Traduction
 
-Cul-terreux ! De la fenaison aux semailles, point tu ne " ferrailles " !
+Cul-terreux ! De la fenaison aux semailles, point tu ne "ferrailles" !
 
 
 Le Gène

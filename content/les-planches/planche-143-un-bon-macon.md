@@ -17,7 +17,7 @@ Petite planche rectangulaire verticale bordée d'écorce. Une petite fente part 
 pe Fáre èn bon maçon fò ina truèllà èn niveau èn fi a plomb é dou plan sà de  Misère de Foûtre      le  gène
 
 ## Traduction
-Pour faire un bon maçon, il faut une truelle, un niveau, un fil à plomb et deux pleins sacs de " Misère de Foutre " !
+Pour faire un bon maçon, il faut une truelle, un niveau, un fil à plomb et deux pleins sacs de "Misère de Foutre" !
 
 Le Gène
 

@@ -16,6 +16,7 @@ series_index: 161
 
 ## Textes en patois
 1.	Antra  le  mayouse  le  onaille  o le  chatégne  ou  lou  perè  bocho  te  po  migé  la  méta  de  la  sézon
+
 2.	Lou  bien  dou  vieu  meno  é  de  le  joëna  filla  Prolongea  i  Fa  pe  migé  tô  chaud
 
 3.	La  bougra  i  vo  me  poussa  ou  trava  é  me  fa  migé  la  sopa  pa  Keudï

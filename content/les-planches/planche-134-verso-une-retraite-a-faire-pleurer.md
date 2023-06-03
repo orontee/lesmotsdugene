@@ -47,7 +47,7 @@ series_index: 142
 ## Commentaire
 Petite anecdote rapportée (presque) telle quelle.
 
-Un "cadichon" est un petit âne. Ce mot vient du personnage d'âne savant dans l’œuvre de la comtesse de Ségur : " Mémoires d'un âne".
+Un "cadichon" est un petit âne. Ce mot vient du personnage d'âne savant dans l’œuvre de la comtesse de Ségur : "Mémoires d'un âne".
 Eugène signe "trois fois" pour chacune des trois historiettes, la première se trouvant sur la première face de la planche.
 
 

@@ -6,7 +6,7 @@ Lang: fr
 Series: planches
 series_index: 115
 
-<p style="text-align:justify;">Planche verticale de moyenne grandeur à la forme atypique. En haut à droite, elle forme une grande saillie sur laquelle est gravé le nombre "67", dont le premier chiffre est difficilement lisible suivi de la première partie du texte : " entendïu en 1939 aprés ien tarrible ouragan de grèle". Le bord gauche est bordé d'écorce. Tout en bas, sous la signature et en petits caractères, Eugène a rajouté la phrase « il avait 5 ans ».</p>
+<p style="text-align:justify;">Planche verticale de moyenne grandeur à la forme atypique. En haut à droite, elle forme une grande saillie sur laquelle est gravé le nombre "67", dont le premier chiffre est difficilement lisible suivi de la première partie du texte : "entendïu en 1939 aprés ien tarrible ouragan de grèle". Le bord gauche est bordé d'écorce. Tout en bas, sous la signature et en petits caractères, Eugène a rajouté la phrase « il avait 5 ans ».</p>
 
 <figure class="image-block" style="float: left;">
   <img alt="" src="{static}/images/planche_107.png">
@@ -29,9 +29,10 @@ le gène                       il  avait  5  ans
 ## Traduction
 Entendu en 1939, après un terrible orage de grêle :
 
-" Pas grand chose de changé ! Je n'ai rien pu récolter : la grêle ne m'a rien laissé, mais le gouvernement va m'aider !
+"Pas grand chose de changé ! Je n'ai rien pu récolter : la grêle ne m'a rien laissé, mais le gouvernement va m'aider !
 
-─  Oh ! tu sais, Joseph ! C'est comme pour l'eau bénite à l'église : celui qui est tout en haut ou au bord de la rangée, en a un petit peu. Mais celui qui se trouve au fond ou dans les coins n'a plus que les prières "
+─  Oh ! tu sais, Joseph ! C'est comme pour l'eau bénite à l'église : celui qui est tout en haut ou au bord de la rangée, en a un petit peu. Mais celui qui se trouve au fond ou dans les coins n'a plus que les prières".
+
 Le Gène      il avait 5 ans
 
 <figure class="image-block" style="float: left;">

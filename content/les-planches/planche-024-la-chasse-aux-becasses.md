@@ -35,7 +35,7 @@ Le Gène
 
 ## Commentaire
 Une "taillée" est une jeune forêt.
-Eugène reprend ici ce que lui avait raconté un ami qui avait pour habitude de " broder " beaucoup autour des anecdotes dont il aimait régaler son auditoire.
+Eugène reprend ici ce que lui avait raconté un ami qui avait pour habitude de "broder" beaucoup autour des anecdotes dont il aimait régaler son auditoire.
 La traduction littérale de la phrase  "Ne tappá pâ si fort te m'ébane" est "Ne tape pas si fort, tu "m'écornes" !
 
 

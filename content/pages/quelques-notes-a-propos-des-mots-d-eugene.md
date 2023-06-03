@@ -10,7 +10,7 @@ Author: Brigitte Baret
 ## L'origine…
 
 <figure class="image-block" style="float: right;">
-  <img alt="Je ne suis qu&#x27;une cloche. Si toutes se mettent à sonner, quelle belle envolée ! les bouts hauts, le 9 septembre 1993 " src="{static}/images/entree.png">
+  <img alt="Je ne suis qu&#x27;une cloche. Si toutes se mettent à sonner, quelle belle envolée ! les bouts hauts, le 9 septembre 1993" src="{static}/images/entree.png">
   <figcaption style="max-width: 213px">Je ne suis qu&#x27;une cloche. Si toutes se mettent à sonner, quelle belle envolée ! les bouts hauts, le 9 septembre 1993 </figcaption>
 </figure>
 

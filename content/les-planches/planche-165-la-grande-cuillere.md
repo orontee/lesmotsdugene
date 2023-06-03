@@ -49,9 +49,9 @@ Le Gène
 
 ## Commentaire
 Sur la première face, il s'agit d'une version locale de : "tu ne trouverais pas une aiguille dans une botte de foin".
-Dans le premier texte, un " paillé " est une meule de paille.
+Dans le premier texte, un "paillé" est une meule de paille.
 
-"Taper avec la masse" signifie ici "exagérer" ou " aller trop loin".
+"Taper avec la masse" signifie ici "exagérer" ou "aller trop loin".
 C'est la forme de la planche qui a inspiré Eugène pour ces petits textes ainsi que le désir de conserver comme sur la plupart des planches, certaines expressions et mots en patois.
 
 

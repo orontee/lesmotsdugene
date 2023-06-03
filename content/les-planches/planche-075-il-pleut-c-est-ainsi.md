@@ -37,7 +37,7 @@ Le Gène
 <p style="text-align:justify;">Un "gabo" est une petite mare.
 Un "cûlot" est le petit dernier de la famille.
 
-"I ben quok ren come tien tié " est une petite phrase que la mère d'Eugène disait parfois. Cela n'a pas de signification très précise mais exprime une certaine forme de fatalisme qu'Eugène traduit par "C'est comme ça !" ou "Comme ci, comme ça".</p>
+"I ben quok ren come tien tié" est une petite phrase que la mère d'Eugène disait parfois. Cela n'a pas de signification très précise mais exprime une certaine forme de fatalisme qu'Eugène traduit par "C'est comme ça !" ou "Comme ci, comme ça".</p>
 
 
 

@@ -21,7 +21,7 @@ Ne man parla pâ fâ Ke  Ploure. lou monde le tan le sOlé . i tô â la renvers
 Ne m'en parle pas ! Il ne fait que pleuvoir. Les gens, le temps, le soleil, c'est tout sens dessus dessous !
 
 ## Commentaire
-L'expression bien imagée "tô â la renverse" correspond à "sens dessus dessous" ou plus familièrement "c'est n'importe quoi ! ".
+L'expression bien imagée "tô â la renverse" correspond à "sens dessus dessous" ou plus familièrement "c'est n'importe quoi !".
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_103.mp4" type="video/mp4">

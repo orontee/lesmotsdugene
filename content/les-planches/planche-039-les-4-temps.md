@@ -17,7 +17,7 @@ series_index: 46
 lou quatre.tan se son fâ pe tré jô de bize. bize drèta. â pâques ou vingt ávrï lou rôve fôille avan lou Fress  charbonnié ?  oré dié nô sôme ou pié dièn éssû                          le gène
 
 ## Traduction
-Les "Quatre temps" se sont déroulé par trois jours de bise, bise droite. A Pâques, le 20 avril, les chênes ont feuillé avant les frênes ! Charbonnier, aurait dit : " Nous sommes au bord d'une sécheresse".
+Les "Quatre temps" se sont déroulé par trois jours de bise, bise droite. A Pâques, le 20 avril, les chênes ont feuillé avant les frênes ! Charbonnier, aurait dit : "Nous sommes au bord d'une sécheresse".
 
 Le Gène
 

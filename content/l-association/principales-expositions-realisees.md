@@ -7,7 +7,7 @@ L'association « Les mots du Gène » a organisé de nombreuses
 expositions pour faire connaître le travail d'Eugène Vicat.
 
 <figure class="image-block" style="float: right; width: 40%;">
-<img alt="Affiche de l'exposition à Artas " src="{static}/images/affiche.png">
+<img alt="Affiche de l'exposition à Artas" src="{static}/images/affiche.png">
 </figure>
 
 ### Mars 2022

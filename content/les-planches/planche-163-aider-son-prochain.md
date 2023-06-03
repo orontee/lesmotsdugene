@@ -17,8 +17,8 @@ Planche verticale de moyenne grandeur, légèrement recourbée vers la droite, u
 Kan jé ballia én côp de mân a en riche jé tojo dié vé tïe ou l’aïé bien bezïon de mi  Kan étié èn pôvre Bougre dan la misère « Je ne pôïè Kan même pâ le lessiè crevâ Sû Plâce »  		        le gène
 
 ## Traduction
-Quand je donnais un coup de main à un riche, je disais toujours : " Vois-tu ! il avait bien besoin de moi ! ".
-Quand c'était pour un pauvre diable dans la misère : " Je ne peux quand même pas le laisser crever de faim sur place "
+Quand je donnais un coup de main à un riche, je disais toujours : "Vois-tu ! il avait bien besoin de moi !".
+Quand c'était pour un pauvre diable dans la misère : "Je ne peux quand même pas le laisser crever de faim sur place".
 
 Le Gène
 

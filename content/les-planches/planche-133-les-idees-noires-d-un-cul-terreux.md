@@ -35,7 +35,7 @@ un cul-terreux qui a des idées noires, la rage.
 
 
 ## Commentaire
-<p style="text-align:justify;">C'est la maman d'Eugène qui répétait souvent : " Eglises vides, prisons pleines".
+<p style="text-align:justify;">C'est la maman d'Eugène qui répétait souvent : "Eglises vides, prisons pleines".
 La dernière phrase écrite en plus petits caractères complète la signature.
 Une personne qui a "La broge" reste repliée sur elle-même, de mauvaise humeur, pensive, mélancolique et brassant des idées noires.
 La "niar" signifie un peu la même chose mais avec la notion de colère et de révolte en plus. </p>

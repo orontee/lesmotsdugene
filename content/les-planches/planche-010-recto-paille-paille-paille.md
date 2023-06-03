@@ -34,7 +34,7 @@ Saint-Siméon-de-Bressieux quelques bottes de pailles. Eugène s'était
 alors arrêté pour aider à les ramasser quand un des hommes se mit à
 chanter en patois, une botte sous chaque bras, cette amusante petite
 comptine qui lui est restée dans la tête : *"Pâille Pâille Pâille,
-Paye pa biên mé empâille Biên "…*
+Paye pa biên mé empâille Biên"…*
 
 
 <video width="320" height="240" controls>

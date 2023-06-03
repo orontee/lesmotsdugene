@@ -31,7 +31,7 @@ Mes fromentaux font le meilleur blé de tout Viriville.
 Le Gène
 
 <figure class="image-block" style="float: left;">
-  <img alt="Dans nos côteaux " src="{static}/images/planche_61.png">
+  <img alt="Dans nos côteaux" src="{static}/images/planche_61.png">
   <figcaption style="max-width: 363px">Dans nos côteaux </figcaption>
 </figure>
 

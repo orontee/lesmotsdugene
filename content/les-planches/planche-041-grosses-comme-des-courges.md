@@ -36,7 +36,7 @@ Le Gène
 ## Commentaire
 Le premier texte est la reprise d'une galéjade lancée par un personnage sympathique autrefois bien connu à Marnans et Viriville. Pour amuser ses amis, il avait l'habitude d'imaginer des histoires truculentes comme celle-ci.
 
-Le deuxième texte signifie : " Si tu te retournes sans cesse sur tes problèmes pour évaluer comment tu te sens, tu vas finir par vraiment tomber malade".
+Le deuxième texte signifie : "Si tu te retournes sans cesse sur tes problèmes pour évaluer comment tu te sens, tu vas finir par vraiment tomber malade".
 
 
 

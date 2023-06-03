@@ -22,7 +22,7 @@ Aujourd'hui, tout va mal, tout marche de travers : Souvent, la terre est trop b
 
 ## Commentaire
 Cette planche fait partie des dernières réalisées. L'idée est venue à Eugène à la suite d'une réunion de la Chambre d'Agriculture qui s'était mal déroulée : De nombreux participants s'étaient montrés critiques, très négatifs et s'étaient beaucoup plaints.
-C'est la mère d'Eugène qui prononçait souvent cette phrase : " Il y en a toujours pour trouver que le pain a trop de farine ! ".
+C'est la mère d'Eugène qui prononçait souvent cette phrase : "Il y en a toujours pour trouver que le pain a trop de farine !".
 
 
 
