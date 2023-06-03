@@ -23,7 +23,7 @@ le gène
 
 
 ## Traduction
-Ôoooh !  Jeune homme, comme prétendant de ma fille, vous me convenez !  Vous avez une bonne tête !
+Ôoooh !  Jeune homme, comme prétendant de ma fille, vous me convenez !  Vous avez une bonne tête !
 
 Le Gène
 

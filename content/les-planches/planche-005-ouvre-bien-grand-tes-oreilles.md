@@ -11,10 +11,10 @@ series_index: 7
   <img alt="" src="{static}/images/planche_5.png">
   <figcaption style="max-width: 109px"></figcaption>
 </figure>
-<p style="text-align:justify;">Grande planche verticale étroite et courbe. Le haut est découpé en forme d'oreilles d'âne, soulignées à l'intérieur par des traits et des stries. Elle présente deux gros nœuds de bois sombres : l'un en haut à gauche, l'autre contre le bord inférieur.</p>
+<p style="text-align:justify;">Grande planche verticale étroite et courbe. Le haut est découpé en forme d'oreilles d'âne, soulignées à l'intérieur par des traits et des stries. Elle présente deux gros nœuds de bois sombres : l'un en haut à gauche, l'autre contre le bord inférieur.</p>
 
 ## Texte en patois
-le  grande  z’eureille  si  te  sèrve  â  bien  écotâ  ne  son  pâ ien  défo ?  lou  z’âne  tô  tan  balanssian  le  liô  on  sovan  trassia  lou  meillou  châmi
+le  grande  z’eureille  si  te  sèrve  â  bien  écotâ  ne  son  pâ ien  défo ?  lou  z’âne  tô  tan  balanssian  le  liô  on  sovan  trassia  lou  meillou  châmi
 
 
 <figure class="image-block" style="float: right;">

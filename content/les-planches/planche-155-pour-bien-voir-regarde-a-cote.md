@@ -15,7 +15,7 @@ series_index: 163
 
 
 ## Texte en patois
-**Recto :** lou mônde ou lou chevô k’on de z’euyére marche drrr san sâvé on te Ki von si te lô mêtta ién capûchon i vire en ron   						 le  gène
+**Recto :** lou mônde ou lou chevô k’on de z’euyére marche drrr san sâvé on te Ki von si te lô mêtta ién capûchon i vire en ron   						 le  gène
 
 <figure class="image-block" style="float: left;">
   <img alt="Petit cheval, as-tu des ornières?" src="{static}/images/planche_155_detail_dessin.png">
@@ -27,15 +27,15 @@ series_index: 163
   <figcaption style="max-width: 194px"></figcaption>
 </figure>
 
-**Verso :** jé pa vêu le jôén de ta filla côme tô Kou le  hooo te sâ ou pô alla a la messe avé lou z ‘ótre
+**Verso :** jé pa vêu le jôén de ta filla côme tô Kou le  hooo te sâ ou pô alla a la messe avé lou z ‘ótre
 
 ## Traduction
-**Recto :** Les gens et les chevaux qui ont des œillères marchent droit sans savoir où ils vont. Si tu leur mets un capuchon ... ils tournent en rond.
+**Recto :** Les gens et les chevaux qui ont des œillères marchent droit sans savoir où ils vont. Si tu leur mets un capuchon ... ils tournent en rond.
 
 Le Gène
 
-**Verso :** Je n'ai pas vu comment était le fiancé de ta fille.
-─ Oh ! tu sais, il peut aller à la messe avec les autres !
+**Verso :** Je n'ai pas vu comment était le fiancé de ta fille.
+─ Oh ! tu sais, il peut aller à la messe avec les autres !
 
 ## Commentaires
 Sur la première face, cette maxime métaphorique pleine de bon sens et d'humour nous invite à la réflexion sur les comportements humains.

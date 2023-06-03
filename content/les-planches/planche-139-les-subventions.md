@@ -14,12 +14,12 @@ series_index: 147
 </figure>
 
 ## Texte en patois
-te sâ Kan le governaman tapa sû ien tambô pe diere Kou ta ballia 100 Francs ?  san brü i sòvant Kou n’a reprey 110 de l’otre flan  ?  i jeuste ino pugna de poudre ou z’eou
+te sâ Kan le governaman tapa sû ien tambô pe diere Kou ta ballia 100 Francs ?  san brü i sòvant Kou n’a reprey 110 de l’otre flan ?  i jeuste ino pugna de poudre ou z’eou
 
 le gène
 
 ## Traduction
-Tu sais, quand le gouvernement tape sur un tambour pour dire qu'il a donné 100 francs, souvent, sans bruit, il t'en  reprend 110 d'un autre côté ! C'est juste une poignée de poudre aux yeux !
+Tu sais, quand le gouvernement tape sur un tambour pour dire qu'il a donné 100 francs, souvent, sans bruit, il t'en  reprend 110 d'un autre côté ! C'est juste une poignée de poudre aux yeux !
 
 ## Commentaire
 L'argent mentionné ici correspond aux subventions attribuées aux cultivateurs victimes de catastrophes naturelles.

@@ -28,7 +28,7 @@ Le Gène
 
 ## Commentaire
 <p style="text-align:justify;">A l'époque où Le Gène a gravé ce petit texte, le prix des terres à Roybon avait beaucoup augmenté; on y parquait souvent des chevaux. Eugène, de par ses fonctions de responsable agricole, servait parfois d'intermédiaire à de jeunes agriculteurs qui ne pouvaient plus les acheter au prix demandé.
-Le "blé" est ici, à prendre dans son sens argotique : c'est l'argent et c'est celui qui détient l'argent qui a, finalement, toujours le dernier mot.
+Le "blé" est ici, à prendre dans son sens argotique : c'est l'argent et c'est celui qui détient l'argent qui a, finalement, toujours le dernier mot.
 
 Le maïs se disait  autrefois en patois "trôqui", car l'idée s'était répandue qu'il provenait de Turquie (!?).</p>
 

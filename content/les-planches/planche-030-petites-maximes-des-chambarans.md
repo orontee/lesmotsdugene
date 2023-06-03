@@ -26,9 +26,9 @@ Planche rectangulaire verticale qui présente un nœud en bas à droite prolong�
 ## Traduction
 - Si ton ventre est vide, tes oreilles n'entendent plus rien. Si ta panse est trop pleine, tu n'entends plus ceux qui n'ont rien.
 
-- Quand deux chiens se battent, rares sont ceux qui se mettent du côté de celui qui a le dessous !
+- Quand deux chiens se battent, rares sont ceux qui se mettent du côté de celui qui a le dessous !
 
-- Un beau parleur attrape plus de nigauds que le miel n'attrape de mouches !
+- Un beau parleur attrape plus de nigauds que le miel n'attrape de mouches !
 
 ## Commentaire
 Trois petites maximes à la manière d'Eugène.

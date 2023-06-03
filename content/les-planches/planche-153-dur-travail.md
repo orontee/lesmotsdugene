@@ -34,7 +34,7 @@ le gène
 1.	Entre les fraises, les noisettes, les châtaignes et les poires sauvages, tu peux manger la moitié de l'année.
 2.	Les biens des vieux garçons et des jeunes filles "prolongées" sont faits pour être mangés tout chaud.
 3.	La bougresse veut me pousser au travail. Elle me fait manger la soupe sans beurre.
-4.	Le lundi, c'est souvent que ses galoches font la bascule !  C'est la faute du fabriquant de galoches !
+4.	Le lundi, c'est souvent que ses galoches font la bascule !  C'est la faute du fabriquant de galoches !
 5.	Je le connais comme le petit veau que j'ai élevé à la crèche.
 6.	Si tu ne martèles pas ta faux, elle ne fauchera jamais.
 7.	En mars, il faut avoir taillé la treille.
@@ -44,10 +44,10 @@ Le Gène
 ## Commentaires
 <p style="text-align:justify;">Cette planche est l'une des premières gravées par Eugène. Il avait alors le souci d'utiliser le plus possible la surface du bois pour inscrire les mots et les phrases dont il se souvenait et il n'osait pas encore ajouter des dessins.</p>
 1.	Les Chambarans étaient réputés pour la production de fruits de très bonne qualité. Les gens de la plaine appelaient moqueusement les habitants des collines, "les karnio", tellement pauvres qu'ils étaient d'après eux, censés se nourrir essentiellement de fruits secs.
-2.	Pourquoi les célibataires devraient-ils attendre pour profiter de leurs biens alors qu'ils n'auront pas d'enfants à qui transmettre leur patrimoine ?
+2.	Pourquoi les célibataires devraient-ils attendre pour profiter de leurs biens alors qu'ils n'auront pas d'enfants à qui transmettre leur patrimoine ?
 3.	C'est la mère d'Eugène qui avait entendu un journalier un peu paresseux marmonner cette plainte en travaillant dans les champs.
-4.	Les lundis qui suivent les dimanches bien arrosés sont difficiles et ceux qui ont trop bu vacillent un peu ! La mauvaise foi leur en fait reporter la faute sur quelqu'un d'autre : le fabricant de galoches !
-5.	Équivalent de l'expression courante "je le connais comme si je l'avais fait !".
+4.	Les lundis qui suivent les dimanches bien arrosés sont difficiles et ceux qui ont trop bu vacillent un peu ! La mauvaise foi leur en fait reporter la faute sur quelqu'un d'autre : le fabricant de galoches !
+5.	Équivalent de l'expression courante "je le connais comme si je l'avais fait !".
 6. 	"En-chapeler sa faux" signifie en patois la marteler pour l'amincir et l'aiguiser.
 7.	Cette phrase comme la précédente sert à noter pour les conserver des termes agricoles de patois. Ici, "Pia" signifie tailler.
 

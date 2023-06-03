@@ -19,7 +19,7 @@ avé l’éssû l’aiguâ i ién bien rare é préciou te pô économizié ién
 
 ## Traduction
 Avec la sécheresse, l'eau est un bien rare et précieux.
-─   Tu peux en économiser au moins un quart avec le nouvel irrigateur "moitié gaspi" pour le canton de "montrou" !
+─   Tu peux en économiser au moins un quart avec le nouvel irrigateur "moitié gaspi" pour le canton de "montrou" !
 
 ## Commentaire
 <p style="text-align:justify;">Sur cette planche comme sur plusieurs autres, Eugène joue avec les mots autour de l'objet ancien exposé.

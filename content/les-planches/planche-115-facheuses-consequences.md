@@ -1,4 +1,4 @@
-Title: Facheuses conséquences ? (planche 115)
+Title: Facheuses conséquences ? (planche 115)
 Date: 2016-11-28 10:19:35
 Modified: 2016-11-28 10:19:35
 Summary: 
@@ -11,7 +11,7 @@ series_index: 123
   <img alt="" src="{static}/images/planche_115-2.png">
   <figcaption style="max-width: 206px"></figcaption>
 </figure>
-<p style="text-align:justify;">Planche verticale très sombre en deux parties : Au sommet se trouve un dessin gravé représentant un soleil, un garçon à bicyclette et deux amoureux debout et enlacés sous un arbre. Plus bas, au dessus de la seconde partie, le dessin représente un canard qui s'envole et un homme en train de faucher devant un étang où nagent deux autres canards.</p>
+<p style="text-align:justify;">Planche verticale très sombre en deux parties : Au sommet se trouve un dessin gravé représentant un soleil, un garçon à bicyclette et deux amoureux debout et enlacés sous un arbre. Plus bas, au dessus de la seconde partie, le dessin représente un canard qui s'envole et un homme en train de faucher devant un étang où nagent deux autres canards.</p>
 
 ## Texte en patois
 
@@ -20,14 +20,14 @@ series_index: 123
   <figcaption style="max-width: 313px"></figcaption>
 </figure>
 
-- è è è  Lou z'amoërou si vöu forgè èn marmôt so mom Röuve  ? je ne payeraï pa le galôche
+- è è è  Lou z'amoërou si vöu forgè èn marmôt so mom Röuve ? je ne payeraï pa le galôche
 
 
 - en vinte-näo a tellaman fa Frîrr ke lou cana on jalla sû l'etang avè mon dâyon je nè seyâ dou andain double   -                                            le gène
 
 
 ## Traduction
-- Hé ! les amoureux, si vous fabriquez un marmot sous mon chêne, je ne paierai pas les galoches.
+- Hé ! les amoureux, si vous fabriquez un marmot sous mon chêne, je ne paierai pas les galoches.
 
 
 <figure class="image-block" style="float: left;">
@@ -36,10 +36,10 @@ series_index: 123
 </figure>
 
 
-- En vingt-neuf, il a tellement fait froid que les canards ont gelé sur l'étang. Avec ma faux je n'ai fauché que deux paires d'andains !   -                              Le Gène
+- En vingt-neuf, il a tellement fait froid que les canards ont gelé sur l'étang. Avec ma faux je n'ai fauché que deux paires d'andains !   -                              Le Gène
 
 ## Commentaire
-- Droit ou devoir du sol pour le propriétaire du lieu du "délit"  qui dans tous les cas s'en lave les mains !
+- Droit ou devoir du sol pour le propriétaire du lieu du "délit"  qui dans tous les cas s'en lave les mains !
 
 
 - "L'andain" est une bande continue de fourrage laissée sur le sol après la fauche.

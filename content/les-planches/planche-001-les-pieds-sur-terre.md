@@ -22,7 +22,7 @@ La dernière phrase du recto "ne te pran pa trôp ..." est gravée au bas de la 
 
 
 ## Texte en patois
-**Recto :** Le trôp la complètaman gattâ  mi je ne sô pa trop a plaindre je sô tô pa trôp je sô  pa trop lède pa trôp betia pas trôp mizérou je ne pô pa trôp demanda
+**Recto :** Le trôp la complètaman gattâ  mi je ne sô pa trop a plaindre je sô tô pa trôp je sô  pa trop lède pa trôp betia pas trôp mizérou je ne pô pa trôp demanda
 
 
 
@@ -31,17 +31,17 @@ le gène
 ne te pran pa trôp ou sériou
 
 
-**Verso :** Kan tô ke t’ecri tôte ke le Foutaize jé garda lou pié dian  la terra  la tétâ en sézon côme le pôle i ponde bien mé ou Printan
+**Verso :** Kan tô ke t’ecri tôte ke le Foutaize jé garda lou pié dian  la terra  la tétâ en sézon côme le pôle i ponde bien mé ou Printan
 
 ## Traduction
-**Recto :** Le "trop" l'a complètement pourrit.  Moi je ne suis pas trop à plaindre, je suis tout pas "trop" : Je ne suis pas trop laid, pas trop bête, pas trop miséreux. Je ne peux pas trop en demander...
+**Recto :** Le "trop" l'a complètement pourrit.  Moi je ne suis pas trop à plaindre, je suis tout pas "trop" : Je ne suis pas trop laid, pas trop bête, pas trop miséreux. Je ne peux pas trop en demander...
 
 Le Gène
 
 				Ne te prends pas trop au sérieux.
 
 
-**Verso :** Quand est-ce que tu écris toutes ces foutaises ?
+**Verso :** Quand est-ce que tu écris toutes ces foutaises ?
 
 ─ Je garde les pieds sur terre, la tête "bien en saison", comme les poules qui pondent bien mieux au printemps.
 

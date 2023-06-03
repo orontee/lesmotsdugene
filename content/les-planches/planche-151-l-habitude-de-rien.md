@@ -19,7 +19,7 @@ i vray Ke jè dija pa mâ . mè jé bïen bezoin de tô se Ke jè . è même dé
 le gène
 
 ## Traduction
-C'est vrai que j'ai déjà pas mal, mais j'ai bien besoin de tout ce que j'ai...et même, d'un peu plus.  Par contre, celui qui n'a rien est, depuis longtemps, bien habitué !
+C'est vrai que j'ai déjà pas mal, mais j'ai bien besoin de tout ce que j'ai...et même, d'un peu plus.  Par contre, celui qui n'a rien est, depuis longtemps, bien habitué !
 
 ## Commentaire
 Petite réflexion un peu narquoise dont l'humour malicieux efface le cynisme.

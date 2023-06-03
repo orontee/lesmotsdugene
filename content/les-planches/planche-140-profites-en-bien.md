@@ -19,13 +19,13 @@ series_index: 148
 
 le gène
 <figure class="image-block" style="float: right;">
-  <img alt="La bécasse a la queure basse !" src="{static}/images/planche_140_detail_gauche.png">
-  <figcaption style="max-width: 400px">La bécasse a la queure basse !</figcaption>
+  <img alt="La bécasse a la queure basse !" src="{static}/images/planche_140_detail_gauche.png">
+  <figcaption style="max-width: 400px">La bécasse a la queure basse !</figcaption>
 </figure>
 
 
 ## Traduction
-Profites-en pendant que cela se passe comme la pie *(la queue dressée vers le haut)*, tu verras quand ce sera comme la bécasse *(la queue vers le bas)* !
+Profites-en pendant que cela se passe comme la pie *(la queue dressée vers le haut)*, tu verras quand ce sera comme la bécasse *(la queue vers le bas)* !
 
 Le Gène
 

@@ -20,17 +20,17 @@ series_index: 40
 
 
 ## Texte en patois
-- **Recto :** tota que la liunâ na pa Fâ dôu jô san plève que votié le pére éternèl i côme mi trop vieux ou ne sa plu se Kou zi cherche
+- **Recto :** tota que la liunâ na pa Fâ dôu jô san plève que votié le pére éternèl i côme mi trop vieux ou ne sa plu se Kou zi cherche
 
-- **Verso : ** n’a qui la tétâ tié te Fé ien brizon se que te voû ta de  l’òr dian le mân   hO°° te sâ le savé Fâre s’appran ou se vôle ina brize avé le z’eureille mé sûto avé lou zeu  		  le gène
+- **Verso : ** n’a qui la tétâ tié te Fé ien brizon se que te voû ta de  l’òr dian le mân   hO°° te sâ le savé Fâre s’appran ou se vôle ina brize avé le z’eureille mé sûto avé lou zeu  		  le gène
 
 ## Traduction
-- **Recto :** Durant toute la lunaison, il n'a fait que deux jours sans pluie.
+- **Recto :** Durant toute la lunaison, il n'a fait que deux jours sans pluie.
 
-─  Que veux-tu ! le Père Éternel est comme moi, trop vieux, il ne sait plus ce qu'il cherche !!!
+─  Que veux-tu ! le Père Éternel est comme moi, trop vieux, il ne sait plus ce qu'il cherche !!!
 
-- **Verso : ** Il y en a qui sont des "Têtes". Toi, tu fais un peu tout ce que tu veux : tu as de l'or dans les mains.
-─  Oh ! Tu sais, le savoir-faire, ça s'apprend ou ça se vole un peu avec les oreilles mais surtout avec les yeux.
+- **Verso : ** Il y en a qui sont des "Têtes". Toi, tu fais un peu tout ce que tu veux : tu as de l'or dans les mains.
+─  Oh ! Tu sais, le savoir-faire, ça s'apprend ou ça se vole un peu avec les oreilles mais surtout avec les yeux.
 
 Le Gène
 

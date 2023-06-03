@@ -7,7 +7,7 @@ Series: planches
 series_index: 136
 
 <p style="text-align:justify;">Petite planche verticale double face. Le haut est découpé en forme de tête d'animal.
-Sur le recto, sont dessinées trois noix. Celle du haut illustre le mot "Franquetta", les deux autres sous leur dénomination : "mâtru" et "Parisienne".
+Sur le recto, sont dessinées trois noix. Celle du haut illustre le mot "Franquetta", les deux autres sous leur dénomination : "mâtru" et "Parisienne".
 Sur le verso, les découpes en forme d'oreilles animales sont soulignées par des traits. En bas de la planche, dessin d'un personnage renversé sur le dos qui tombe en s'accrochant à la branche d'un arbre d'un arbre.</p>
 
 <figure class="image-block" style="float: right;">
@@ -23,24 +23,24 @@ Sur le verso, les découpes en forme d'oreilles animales sont soulignées par de
 </figure>
 
 ## Texte en patois
-**Recto** : a la Bonna Franquetta
+**Recto** : a la Bonna Franquetta
 mâtru       Parisienne
 Pe amassa tray nûï dian le tarret la tétâ a emportâ le cul é jé fâ ina  bella cupeletta
 
 le gène
 
-**Verso ** : Jûle a trôp chargeâ la Mûla ou la ? cûpela debarieula Pe le coteyia
+**Verso ** : Jûle a trôp chargeâ la Mûla ou la ? cûpela debarieula Pe le coteyia
 
 
 ## Traduction
-**Recto ** : A la bonne "Franquette",
+**Recto ** : A la bonne "Franquette",
 
 "petite"             "Parisienne"
-pour amasser trois noix dans le fossé, la tête a emporté le cul et j'ai fait une belle "cupelette" !
+pour amasser trois noix dans le fossé, la tête a emporté le cul et j'ai fait une belle "cupelette" !
 
 Le Gène
 
-**Verso ** : Jules a trop chargé la mule, il a dégringolé en roulant cul par dessus tête dans le coteau.
+**Verso ** : Jules a trop chargé la mule, il a dégringolé en roulant cul par dessus tête dans le coteau.
 
 ## Commentaire
 Eugène s'est amusé avec les noms de noix ( la Franquette, la Parisienne...). La "mâtru" correspond à la petite noix d'un arbre qui n'a pas été greffé. Le terme "mâtru" était plutôt employé pour désigner un petit garçon.

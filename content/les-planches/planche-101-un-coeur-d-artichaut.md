@@ -16,19 +16,19 @@ series_index: 110
 ## Texte en patois
 - ou  la  en  coeu  coma  lou.  arti–chaud  na  pa  ina  Folia  Pe  TOTA
 
-- ou ma balia én coup de pied ou cul que ma bien Fa ma je lié rendiu ien que ma bien Fa ma ou z ‘arteu AV O ? ail
+- ou ma balia én coup de pied ou cul que ma bien Fa ma je lié rendiu ien que ma bien Fa ma ou z ‘arteu AV O ? ail
 
-- hura  la  porta  que  Fa  chaud ?  yore  te  va  sortre  te  sarare  apre  merci
+- hura  la  porta  que  Fa  chaud ?  yore  te  va  sortre  te  sarare  apre  merci
 
 - ou  la  coma  lou  KOUa maTRO  solé  ou  po  peupla  tota  la  plana
 
 - i  la  mija  de  l'erba  de  la  requinquilla  jé  ïu  dré  a  ina  Frikassia  de  Regrenia
 
 ## Traduction
-- Il a le cœur comme un artichaut : il n'y a pas de feuilles pour toutes.
-- Il m'a donné un coup de pied au cul qui m'a bien fait mal. Je lui en ai rendu un autre qui m'a bien fait mal aux orteils aussi ! Aie !
-- Ouvre la porte, il fait chaud ! Après tu pourras sortir et ... la refermer.  Merci !
-- Il est comme les passereaux : tout seul, il peut peupler toute la plaine !
+- Il a le cœur comme un artichaut : il n'y a pas de feuilles pour toutes.
+- Il m'a donné un coup de pied au cul qui m'a bien fait mal. Je lui en ai rendu un autre qui m'a bien fait mal aux orteils aussi ! Aie !
+- Ouvre la porte, il fait chaud ! Après tu pourras sortir et ... la refermer.  Merci !
+- Il est comme les passereaux : tout seul, il peut peupler toute la plaine !
 - Elle avait mangé l'herbe de la "requinquille"  et j'ai eu droit à une fricassée de "regregnia"
 
 

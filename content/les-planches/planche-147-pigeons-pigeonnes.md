@@ -17,7 +17,7 @@ series_index: 155
 chez leu i cômâ dan én nïa de Pégéon i la Pégeònna Ke fa lou ïeu é ke côve            le gène
 
 ## Traduction
-Chez lui, c'est comme dans un nid de pigeons, c'est la pigeonne qui fait les œufs et qui couve !   Le Gène
+Chez lui, c'est comme dans un nid de pigeons, c'est la pigeonne qui fait les œufs et qui couve !   Le Gène
 
 ## Commentaire
 Réflexion entendue et retenue lors d'un travail en groupe. Les pigeons représentent ici l'équivalent animalier d'un couple où la femme fait tout le travail et dirige la maison.

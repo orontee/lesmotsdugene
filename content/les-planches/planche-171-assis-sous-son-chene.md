@@ -18,8 +18,8 @@ Planche rectangulaire verticale légèrement fendue. En haut, dessin (très lég
 Kan je passe vé ché tié tess tojô assetâ sòu ton rôve côme tô que vâ   côme la quouâ d'ina vâche d’ina fess a l’ôtre  				  le  gène
 
 ## Traduction
-Quand je passe vers chez toi, tu es toujours assis sous ton chêne rouvre. Comment ça va ?
-─  Comme la queue d'une vache : d'une fesse à l'autre.
+Quand je passe vers chez toi, tu es toujours assis sous ton chêne rouvre. Comment ça va ?
+─  Comme la queue d'une vache : d'une fesse à l'autre.
 
 Le Gène
 

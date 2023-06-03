@@ -7,7 +7,7 @@ Summary: Brochure de 74 pages où sont présentées plus d'une
 
 Cette brochure, tirée en nombre limité, comporte 74 pages où sont
 présentées plus d'une soixantaine de planches regroupées dans 5
-chapitres correspondant aux 5 thèmes suivants :
+chapitres correspondant aux 5 thèmes suivants :
 
 * Cul-terreux
 * La Politique

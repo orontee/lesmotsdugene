@@ -14,7 +14,7 @@ series_index: 27
 </figure>
 
 ## Texte en patois
-en venan ou monde en vrai Dauphinois pòpon â deû restâ accrochâ dou jô ou plafon ? ou le tojô ién grippâ-sou
+en venan ou monde en vrai Dauphinois pòpon â deû restâ accrochâ dou jô ou plafon ? ou le tojô ién grippâ-sou
 
 le gène
 <figure class="image-block" style="float: center;">
@@ -24,7 +24,7 @@ le gène
 
 
 ## Traduction
-En venant au monde, en vrai dauphinois, le poupon a dû rester accroché deux jours au plafond !  Et c'est, encore aujourd'hui, toujours un grippe-sous !
+En venant au monde, en vrai dauphinois, le poupon a dû rester accroché deux jours au plafond !  Et c'est, encore aujourd'hui, toujours un grippe-sous !
 
 Le Gène
 

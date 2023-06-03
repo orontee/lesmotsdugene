@@ -20,7 +20,7 @@ Avé sou grand Pánà ou Póra avé de jûmô sou dou z’équio li sarvïron de
 le gène
 
 ## Traduction
-Avec ses grands panards il pourrait avoir des jumeaux : ses deux sabots leur serviraient de berceaux !
+Avec ses grands panards il pourrait avoir des jumeaux : ses deux sabots leur serviraient de berceaux !
 
 Le Gène
 

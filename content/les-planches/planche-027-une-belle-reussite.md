@@ -19,8 +19,8 @@ te vè i mi kè  Fâ tien. tien è même tien  Oua ta bien travaillâ mè si t�
 le gène
 
 ## Traduction
-Tu vois, c'est moi qui ai fait ça, ça, et même ça !
-─  Ouais ! tu as bien travaillé, mais si tu étais né tout nu sur un tas de pierres, tu aurais fait quoi ?
+Tu vois, c'est moi qui ai fait ça, ça, et même ça !
+─  Ouais ! tu as bien travaillé, mais si tu étais né tout nu sur un tas de pierres, tu aurais fait quoi ?
 Le Gène
 
 ## Commentaire

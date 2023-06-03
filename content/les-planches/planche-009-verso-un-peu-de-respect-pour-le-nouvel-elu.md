@@ -15,14 +15,14 @@ series_index: 12
 
 ## Texte en patois
 
-avan de partï jozé pandan que jemmitouille le pitiot baille à bère ou càyon mi depêu : ina semâne conseillé munisipa Kâzi ién mère baillé à bère ou cayon
+avan de partï jozé pandan que jemmitouille le pitiot baille à bère ou càyon mi depêu : ina semâne conseillé munisipa Kâzi ién mère baillé à bère ou cayon
 
 le gène
 
 ## Traduction
 
 Avant de partir, Joseph, pendant que j'emmitoufle le petit, donne à boire aux cochons.
-─  Moi ?! depuis une semaine que je suis conseiller municipal, quasiment maire, donner à boire aux cochons ?!!!
+─  Moi ?! depuis une semaine que je suis conseiller municipal, quasiment maire, donner à boire aux cochons ?!!!
 Le Gène
 
 ## Commentaire

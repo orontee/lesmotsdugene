@@ -25,7 +25,7 @@ le gène
 
 
 ## Traduction
-Ta planche, c'est la cuisse de Jupiter !
+Ta planche, c'est la cuisse de Jupiter !
 ─  C'est bien d'être sorti de la cuisse de Jupiter, mais il faut "avoir la jambe fine", les pieds légers et les bras longs.
 Le Gène
 

@@ -1,4 +1,4 @@
-Title: Mais cesse de rouspèter ! (planche 23)
+Title: Mais cesse de rouspèter ! (planche 23)
 Date: 2017-05-01 10:51:24
 Modified: 2017-05-01 10:51:24
 Summary: 
@@ -15,12 +15,12 @@ series_index: 29
 
 
 ## Texte en patois
-B'heueû    Pôvre homme ròspètâ i sovan pâ la solution ?  jé rempli le ratelié é la.crépia de moû z’écurie tôta mâ viâ  jé tòjô seû Ki pâ le vâche ke beûrle é moûne le mé k’on le mé de Lâ.         le gène
+B'heueû    Pôvre homme ròspètâ i sovan pâ la solution ?  jé rempli le ratelié é la.crépia de moû z’écurie tôta mâ viâ  jé tòjô seû Ki pâ le vâche ke beûrle é moûne le mé k’on le mé de Lâ.         le gène
 
 ## Traduction
-Beuhhh !!!
+Beuhhh !!!
 
-Pauvre homme, rouspéter n'est souvent pas la solution !
+Pauvre homme, rouspéter n'est souvent pas la solution !
 ─  J'ai rempli le râtelier et la crèche de mes écuries toute ma vie. J'ai toujours su que ce n'est pas la vache qui crie et meugle le plus qui produit le plus de lait.
 
 Le Gène.

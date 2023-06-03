@@ -21,24 +21,24 @@ series_index: 39
 
 
 ## Texte en patois
-**Recto :** dian la mée lou éperlan son mijâ pe le sardïne que son mijâ pe lou maquerô le morû ne son pa en  reste lou thon son ou ton é lou  requin lou mette toû d’ accó ? i parreû sû la terra
+**Recto :** dian la mée lou éperlan son mijâ pe le sardïne que son mijâ pe lou maquerô le morû ne son pa en  reste lou thon son ou ton é lou  requin lou mette toû d’ accó ? i parreû sû la terra
 
 le gène
 
-**Verso :** Le père Sanfon a tójô amâ fare troblâ le Fon pe fâre montâ lou pitïi pésson mé si sôr ien grô  sârpan ou ne crain ren ou la tojô ién grand Bâton
+**Verso :** Le père Sanfon a tójô amâ fare troblâ le Fon pe fâre montâ lou pitïi pésson mé si sôr ien grô  sârpan ou ne crain ren ou la tojô ién grand Bâton
 
 le gène
 
 ## Traduction
-**Recto :** Dans la mer, les éperlans sont mangés par les sardines qui, elles, sont mangées par les maquereaux ; les morues ne sont pas en reste, les thons aussi, et ... les requins les mettent tous d'accord !  C'est pareil sur la terre !
+**Recto :** Dans la mer, les éperlans sont mangés par les sardines qui, elles, sont mangées par les maquereaux ; les morues ne sont pas en reste, les thons aussi, et ... les requins les mettent tous d'accord !  C'est pareil sur la terre !
 
 Le Gène
 
-**Verso :** Père Sanfon a toujours aimé troubler le fond pour faire remonter les petits poissons. Mais s'il sort un gros serpent, il ne craint rien, il a toujours un grand bâton ...
+**Verso :** Père Sanfon a toujours aimé troubler le fond pour faire remonter les petits poissons. Mais s'il sort un gros serpent, il ne craint rien, il a toujours un grand bâton ...
 Le Gène
 <figure class="image-block" style="float: right;">
-  <img alt="Tête de gros ou petit poisson ?" src="{static}/images/planche_32_dessin.png">
-  <figcaption style="max-width: 250px">Tête de gros ou petit poisson ?</figcaption>
+  <img alt="Tête de gros ou petit poisson ?" src="{static}/images/planche_32_dessin.png">
+  <figcaption style="max-width: 250px">Tête de gros ou petit poisson ?</figcaption>
 </figure>
 
 

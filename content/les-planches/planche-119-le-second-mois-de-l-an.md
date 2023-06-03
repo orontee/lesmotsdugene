@@ -1,7 +1,7 @@
 Title: Le second mois de l'an (planche 119)
 Date: 2015-11-18 17:47:37
 Modified: 2016-01-20 16:05:49
-Summary: Pour le second mois de l’an, le soleil est chaud ! 
+Summary: Pour le second mois de l’an, le soleil est chaud !
 Lang: fr
 Series: planches
 series_index: 126
@@ -19,8 +19,8 @@ Pe le segon mé de lan le solé y chO   Fâ de brave journé mé le nô son frè
 
 ## Traduction
 
-Pour le second mois de l'an, le soleil est chaud ! Ça donne de belles journées mais les nuits sont froides.
-─  Tu as vu la nouvelle lune ? Elle tourne le dos au Rhône, les jambes en l'air, sans chemise de nuit...
+Pour le second mois de l'an, le soleil est chaud ! Ça donne de belles journées mais les nuits sont froides.
+─  Tu as vu la nouvelle lune ? Elle tourne le dos au Rhône, les jambes en l'air, sans chemise de nuit...
 Le Gène
 
 ## Commentaire

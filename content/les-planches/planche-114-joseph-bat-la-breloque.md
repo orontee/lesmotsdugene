@@ -31,12 +31,12 @@ le gène
 </figure>
 
 ## Traduction
-Treize "Dong", l'horloge est comme moi, trop vieille : elle bat la breloque !
+Treize "Dong", l'horloge est comme moi, trop vieille : elle bat la breloque !
 
 Joseph
-(*treize ?! ben alors ! hé bien !*)
+(*treize ?! ben alors ! hé bien !*)
 
-Il faut toujours qu'il fasse plus fort que les autres : c'est lui qui a inventé l'horloge à treize coups !
+Il faut toujours qu'il fasse plus fort que les autres : c'est lui qui a inventé l'horloge à treize coups !
 
 ## Commentaire
 <p style="text-align:justify;">Jeu avec le mot "breloque" contenu dans l'expression "battre la breloque" et  l'horloge.

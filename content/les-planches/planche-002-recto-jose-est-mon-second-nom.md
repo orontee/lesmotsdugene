@@ -1,7 +1,7 @@
 Title: José est mon second nom (planche 2 recto)
 Date: 2015-11-18 17:27:12
 Modified: 2016-01-20 16:04:24
-Summary: jozé i mon segon nom  ?
+Summary: jozé i mon segon nom ?
 Lang: fr
 Series: planches
 series_index: 2
@@ -15,13 +15,13 @@ series_index: 2
 
 ## Texte en patois
 
-jozé i mon segon nom  ? i bien plû Facile de se moqua de  si-même mè n’a que son otan méritan i porion être jâlou . je  ló en  lèsse  inâ  brize
+jozé i mon segon nom ? i bien plû Facile de se moqua de  si-même mè n’a que son otan méritan i porion être jâlou . je  ló en  lèsse  inâ  brize
 
 ## Traduction
 
 Joseph est mon second nom.
 
-C'est bien plus facile de se moquer de soi-même, mais, certains ne sont pas moins méritants. Ils pourraient en être jaloux, alors ... je leur en laisse un peu !
+C'est bien plus facile de se moquer de soi-même, mais, certains ne sont pas moins méritants. Ils pourraient en être jaloux, alors ... je leur en laisse un peu !
 
 ## Commentaire
 

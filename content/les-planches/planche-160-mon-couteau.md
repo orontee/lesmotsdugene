@@ -20,8 +20,8 @@ i pa èn coté que ta i èn chàtre–moryé
 ou cópe portan bien la tómá Frècha			le gène
 
 ## Traduction
-Ce n'est pas un couteau, que tu as ! Il est juste bon à châtrer les grillons !
-─  Il coupe pourtant bien la tomme fraîche !
+Ce n'est pas un couteau, que tu as ! Il est juste bon à châtrer les grillons !
+─  Il coupe pourtant bien la tomme fraîche !
 Le Gène
 
 ## Commentaire

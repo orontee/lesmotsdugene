@@ -1,4 +1,4 @@
-Title: Hé ! Gène (planche 2 verso)
+Title: Hé ! Gène (planche 2 verso)
 Date: 2016-11-28 10:13:52
 Modified: 2019-07-25 19:41:26
 Summary: 
@@ -19,7 +19,7 @@ houâ mé gène ou jozé te tess mieu sovnïu de tote le bétïze que tâ entend
 
 
 ## Traduction
-Hé ! mon Gène ou Joseph, tu t'es bien mieux souvenu de toutes les bêtises que tu as entendues que de ton catéchisme.
+Hé ! mon Gène ou Joseph, tu t'es bien mieux souvenu de toutes les bêtises que tu as entendues que de ton catéchisme.
 
 ## Commentaire
 

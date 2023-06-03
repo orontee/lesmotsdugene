@@ -1,4 +1,4 @@
-Title: Ça te fait une belle jambe ! (planche 168)
+Title: Ça te fait une belle jambe ! (planche 168)
 Date: 2017-06-27 18:08:50
 Modified: 2017-06-27 18:08:50
 Summary: 
@@ -16,7 +16,7 @@ series_index: 175
 ## Texte en patois
 oré poé te fare ina bella jamba
 
-ina Brava Pomma a bïen mé de saveu a croka kan ta ïu de la pena pe la Décroché dou Pommier ?
+ina Brava Pomma a bïen mé de saveu a croka kan ta ïu de la pena pe la Décroché dou Pommier ?
 
 <figure class="image-block" style="float: right;">
   <img alt="Belle pomme à croquer ..." src="{static}/images/planche_168_dessin_haut-2.png">
@@ -26,24 +26,24 @@ ina Brava Pomma a bïen mé de saveu a croka kan ta ïu de la pena pe la Décroc
 Fo pa Etre Perè   			 le  gène
 
 ## Traduction
-Ça aurait pu te faire une belle jambe !
+Ça aurait pu te faire une belle jambe !
 
 Une jolie pomme a bien plus de saveur à croquer quand tu as eu du mal à la décrocher du pommier.
 
-Faut pas être une poire !
+Faut pas être une poire !
 
 
 Le Gène
 
 <figure class="image-block" style="float: left;">
-  <img alt="Faut pas être une poire !" src="{static}/images/planche_168_dessin_bas.png">
-  <figcaption style="max-width: 176px">Faut pas être une poire !</figcaption>
+  <img alt="Faut pas être une poire !" src="{static}/images/planche_168_dessin_bas.png">
+  <figcaption style="max-width: 176px">Faut pas être une poire !</figcaption>
 </figure>
 
 
 ## Commentaire
 <p style="text-align:justify;">Expressions courantes et sage observation que l'on peut bien sûr généraliser mais également interpréter plus restrictivement dans un contexte de séduction amoureuse.
-"Faut pas être une poire !" équivaut à  "Il faut être un peu malin et pas trop naïf !".</p>
+"Faut pas être une poire !" équivaut à  "Il faut être un peu malin et pas trop naïf !".</p>
 
 
 <video width="320" height="240" controls>

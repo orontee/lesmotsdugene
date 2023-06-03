@@ -21,8 +21,8 @@ le gène
 
 
 ## Traduction
-Au marché : Tu as apporté mes tommes, Louis ?
---  Oh ! ma pauvre femme ! Je ne peux pas vous apporter des tommes de "chèvres à grande queue", ma vache n'a plus de lait !!!
+Au marché : Tu as apporté mes tommes, Louis ?
+--  Oh ! ma pauvre femme ! Je ne peux pas vous apporter des tommes de "chèvres à grande queue", ma vache n'a plus de lait !!!
 
 ## Commentaire
 Plaisanterie sur les "chèvres à grande queue".

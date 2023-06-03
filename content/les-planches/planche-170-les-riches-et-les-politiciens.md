@@ -14,7 +14,7 @@ series_index: 177
 </figure>
 
 ## Texte en patois
-lou bïen riche baillon ina brize. apré avé amassà à plan brâ lou pòvre diable ? ramasse le brize apré avé  baillà de tou lô brà
+lou bïen riche baillon ina brize. apré avé amassà à plan brâ lou pòvre diable ? ramasse le brize apré avé  baillà de tou lô brà
 
 le gène
 
@@ -24,11 +24,11 @@ le gène
 le gène
 
 ## Traduction
-Les très riches donnent un petit peu après avoir amassé à pleins bras. Les pauvres diables ramassent les miettes après avoir donner à tour de bras !
+Les très riches donnent un petit peu après avoir amassé à pleins bras. Les pauvres diables ramassent les miettes après avoir donner à tour de bras !
 
 Le Gène
 
-Les politiciens sortent et reviennent et rentrent par la même porte laissée grande ouverte, parce que nous tous, on ne se souvient plus de rien !
+Les politiciens sortent et reviennent et rentrent par la même porte laissée grande ouverte, parce que nous tous, on ne se souvient plus de rien !
 
 Le Gène
 

@@ -19,8 +19,8 @@ en . quio te fenére pe Keu tan fâ . jean que ri   jean que ploûre . mon fan i
 le gène
 
 ## Traduction
-Aujourd'hui, tu fanes, par le temps qu'il fait ?
-─  Jean qui rit, Jean qui pleure !  Mon foin est mouillé des deux côtés et quand "le patron des mal habillés"* (le soleil)*  va sortir, il faudra être six pour écarter les mouches d'une seule personne.
+Aujourd'hui, tu fanes, par le temps qu'il fait ?
+─  Jean qui rit, Jean qui pleure !  Mon foin est mouillé des deux côtés et quand "le patron des mal habillés"* (le soleil)*  va sortir, il faudra être six pour écarter les mouches d'une seule personne.
 
 Le Gène
 
@@ -30,7 +30,7 @@ Le Gène
 </figure>
 
 ## Commentaire
-<p style="text-align:justify;">"Jean qui rit, Jean qui pleure" et le soleil viendra après la pluie !
+<p style="text-align:justify;">"Jean qui rit, Jean qui pleure" et le soleil viendra après la pluie !
 Ce texte reproduit un petit dialogue plusieurs fois répété, avec l'un des voisins et retenu en mémoire avec délectation, puis retranscrit sur la planche en se souvenant des moments et des personnes disparus.
 "Fo sié pe n’émouchillé  ién" (il faudra être 6 pour écarter les mouches) était une phrase souvent utilisée pour commenter le temps.  </p>
 

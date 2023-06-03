@@ -20,7 +20,7 @@ houâ mé gène ou jozé te tess mieu sovnïu de tote le bétïze que tâ entend
 
 
 ## Traduction
-Hé ! mon Gène ou Joseph, tu t'es bien mieux souvenu de toutes les bêtises que tu as entendues que de ton catéchisme.
+Hé ! mon Gène ou Joseph, tu t'es bien mieux souvenu de toutes les bêtises que tu as entendues que de ton catéchisme.
 
 ## Commentaire
 <p style=text-align:justify;">Eugène se moque ici joyeusement de lui-même. Il nous révèle également que le personnage de Joseph ou José, qui apparait fréquemment sur ses planches, n'est autre que lui-même.</p>

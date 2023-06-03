@@ -14,13 +14,13 @@ series_index: 167
 </figure>
 
 ## Textes en patois
-**Recto :** la  bétïze  dou  z’hôme  pô  débena  le  monde  mé  jamé  la  bétïze  dou  monde
+**Recto :** la  bétïze  dou  z’hôme  pô  débena  le  monde  mé  jamé  la  bétïze  dou  monde
 
-*Autour du nœud :* le  solé  lo  liuna  la  terra
+*Autour du nœud :* le  solé  lo  liuna  la  terra
 
 le gène
 
-**Verso :** hif  hooo Kou  le brave mé come lou méno. joye pa tojô comôde é dïu côme de bois d'abre
+**Verso :** hif  hooo Kou  le brave mé come lou méno. joye pa tojô comôde é dïu côme de bois d'abre
 
 
 <figure class="image-block" style="float: center;">
@@ -29,13 +29,13 @@ le gène
 </figure>
 
 ## Traduction
-**Recto :** La bêtise des hommes peut détruire le monde mais jamais la bêtise des gens.
+**Recto :** La bêtise des hommes peut détruire le monde mais jamais la bêtise des gens.
 
-*Autour du nœud :* Le soleil, la lune, la terre.
+*Autour du nœud :* Le soleil, la lune, la terre.
 
 Le Gène
 
-**Verso :** L'If, Ho ho ho ! Qu'il est joli ! Mais il est comme les garçons : joyeux, pas toujours commodes et durs comme du "bois d'arbre" !
+**Verso :** L'If, Ho ho ho ! Qu'il est joli ! Mais il est comme les garçons : joyeux, pas toujours commodes et durs comme du "bois d'arbre" !
 
 <figure class="image-block" style="float: right;">
   <img alt="Le soleil, la lune et la terre" src="{static}/images/planche_159_recto_detail.png">

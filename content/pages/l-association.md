@@ -6,7 +6,7 @@ Template: association
 
 Soucieuse de préserver les planches gravées et sculptures qu'Eugène
 Vicat a créées pendant plusieurs décennies, notre association a pour
-but :
+but :
 
 - conserver cet ensemble d'environ 200 planches et une quinzaine de
   sculptures,

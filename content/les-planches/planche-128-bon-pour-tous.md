@@ -11,7 +11,7 @@ series_index: 135
   <img alt="A chacun selon sa taille" src="{static}/images/planche_128.png">
   <figcaption style="max-width: 239px">A chacun selon sa taille</figcaption>
 </figure>
-<p style="text-align:justify;">Planche moyenne en bois clair, verticale, légèrement incurvée vers la gauche. Les bords sont nets. Le bord supérieur est en forme d'accent circonflexe. Le texte est gravé autour de trois clystères anciens en zinc : un gros, un plus petit et un moyen. La pointe de celui qui se trouve en bas forme un angle droit et le bout se termine de façon suggestive, dans le trou formé par un nœud du bois.</p>
+<p style="text-align:justify;">Planche moyenne en bois clair, verticale, légèrement incurvée vers la gauche. Les bords sont nets. Le bord supérieur est en forme d'accent circonflexe. Le texte est gravé autour de trois clystères anciens en zinc : un gros, un plus petit et un moyen. La pointe de celui qui se trouve en bas forme un angle droit et le bout se termine de façon suggestive, dans le trou formé par un nœud du bois.</p>
 
 ## Texte en patois
 ni â Pe lou grand Pe lou mâtrû é même pe lou coin

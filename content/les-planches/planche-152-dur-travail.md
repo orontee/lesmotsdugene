@@ -1,4 +1,4 @@
-Title: Dur travail ! (planche 152)
+Title: Dur travail ! (planche 152)
 Date: 2016-12-30 14:41:33
 Modified: 2016-12-30 14:41:33
 Summary: 
@@ -31,20 +31,20 @@ Longue planche horizontale en bois sombre qui comporte huit textes les uns à c�
 8.	Kan  le  Merle  Suble  la  Merlesse  Couve.
 
 ## Traduction
-1.	Il est comme l'âne qui n'a pas entendu ses parents : il ne sait pas dire "Hi ! Han !"
-2.	La meilleure façon de dire non c'est de dire OUI mais de ne rien faire !
-3.	Tu vas bien, Léon ?
+1.	Il est comme l'âne qui n'a pas entendu ses parents : il ne sait pas dire "Hi ! Han !"
+2.	La meilleure façon de dire non c'est de dire OUI mais de ne rien faire !
+3.	Tu vas bien, Léon ?
 ─  Je vais bien, je te remercie.
-─  Dommage !  Je t'aurais prêté deux sous pour le vétérinaire !
+─  Dommage !  Je t'aurais prêté deux sous pour le vétérinaire !
 4.	La démangeaison, les gratouillis,  les picotements sont les trois vertus de la gale ...
 5.	Les coffres-forts ne courent pas après les corbillards.
-6.	Le bonheur est tellement pointu qu'on ne peut pas tenir dessus !
+6.	Le bonheur est tellement pointu qu'on ne peut pas tenir dessus !
 7.	Quand Sainte Baudille met son bonnet, berger, met ton manteau.
 ─  Oui, mais il arrive que le brouillard empêche les corbeaux d'atterrir dans la plaine ...
 8.	Quand le merle siffle, la merlette couve.
 
 ## Commentaires
-1.	C'est comme si ses parents ne lui avaient rien appris : il ne sait rien faire.
+1.	C'est comme si ses parents ne lui avaient rien appris : il ne sait rien faire.
 2.	Sans commentaire.
 3.	Petit dialogue entendu devant la porte d'un vétérinaire.
 4.	Jeu avec la rime des mots  inventés "demigezom,  cratézon, ciusson ". Souvenir de catéchisme lorsque Eugène soufflait la réponse à un ami interrogé sur les vertus théologales (foi, espérance et charité).

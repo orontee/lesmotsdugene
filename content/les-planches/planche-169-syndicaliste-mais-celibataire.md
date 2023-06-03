@@ -19,8 +19,8 @@ TON SYNDICAT si tetia maria te porra pa córe còme ition te verra ta Fena      
 
 ## Traduction
 
-Avec TON SYNDICAT, si tu étais marié, tu ne pourrais pas courir comme ça !   Tu verrais ta femme ... !
-─  Oh ! tu sais ! je suis souvent en vacances au bord de L'OCEAN, j'entends le bruit de la "mère" !
+Avec TON SYNDICAT, si tu étais marié, tu ne pourrais pas courir comme ça !   Tu verrais ta femme ... !
+─  Oh ! tu sais ! je suis souvent en vacances au bord de L'OCEAN, j'entends le bruit de la "mère" !
 
 ## Commentaire
 <p style="text-align:justify;">Les responsabilités d'Eugène au sein du syndicat agricole et du conseil municipal de Viriville le retenaient très souvent hors de chez lui où il vivait avec sa mère. La réflexion d'un de ses amis à ce propos, lui a inspiré cette planche et ce jeu de mots entre les homophones "mère" et "mer".</p>

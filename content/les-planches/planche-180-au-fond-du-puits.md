@@ -24,12 +24,12 @@ le gène
 
 
 ## Traduction
-Il regarde souvent le fond du tonneau, jamais le fond du puits !
+Il regarde souvent le fond du tonneau, jamais le fond du puits !
 
 Le Gène
 
 ## Commentaire
-Expression autrefois courante pour évoquer avec humour les personnes qui manifestent un goût un peu trop immodéré pour le vin !
+Expression autrefois courante pour évoquer avec humour les personnes qui manifestent un goût un peu trop immodéré pour le vin !
 
 
 <video width="320" height="240" controls>

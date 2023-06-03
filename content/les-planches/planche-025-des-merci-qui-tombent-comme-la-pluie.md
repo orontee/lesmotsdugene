@@ -22,9 +22,9 @@ series_index: 31
 
 ## Traduction
 Merci, merci
-- Oh, tu sais, des "merci", c'est pas la peine : il m'en reste deux sacs de l'année dernière !  C'est des saucissons que je n'ai PLUS...
+- Oh, tu sais, des "merci", c'est pas la peine : il m'en reste deux sacs de l'année dernière !  C'est des saucissons que je n'ai PLUS...
 
-- Dépêchons-nous les gars !  Il ne fait pas jour que c'est déjà la nuit et la moitié du temps, il PLEUT !
+- Dépêchons-nous les gars !  Il ne fait pas jour que c'est déjà la nuit et la moitié du temps, il PLEUT !
 
 ## Commentaire
 <p style="text-align:justify;">Le premier texte est un dialogue  avec le laitier qui passait autrefois dans les fermes pour "ramasser" le lait et rendait en même temps toute sorte de services.

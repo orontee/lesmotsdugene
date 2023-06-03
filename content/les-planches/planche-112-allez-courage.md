@@ -1,4 +1,4 @@
-Title: Allez ! Courage ! (planche 112)
+Title: Allez ! Courage ! (planche 112)
 Date: 2017-06-27 18:06:48
 Modified: 2017-06-27 18:06:48
 Summary: 
@@ -19,12 +19,12 @@ Pe tegni brâve lou côteio lou z'outï i son énko la linguâ bien mé que n'en
 le gène
 
 ## Traduction
-Pour bien entretenir les côteaux, on a bien les outils et ... des paroles bien plus qu'il n'en faut. Ce qui manque, c'est ce qui va derrière les manches !
+Pour bien entretenir les côteaux, on a bien les outils et ... des paroles bien plus qu'il n'en faut. Ce qui manque, c'est ce qui va derrière les manches !
 
 Le Gène
 
 ## Commentaire
-Sans commentaires !
+Sans commentaires !
 
 
 

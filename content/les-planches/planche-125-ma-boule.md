@@ -1,4 +1,4 @@
-Title: Ma-boule ? (planche 125)
+Title: Ma-boule ? (planche 125)
 Date: 2016-03-16 16:01:03
 Modified: 2016-03-16 16:01:03
 Summary: 
@@ -21,7 +21,7 @@ series_index: 132
 ?  Dian la viâ Fau-cille pâ trôp se pozâ de question tan perdrâ la bOla           le  gène
 
 ## Traduction
-Dans la vie, "Faut-cille" pas trop se poser des questions, tu en perdrais la boule !                   Le Gène
+Dans la vie, "Faut-cille" pas trop se poser des questions, tu en perdrais la boule !                   Le Gène
 
 ## Commentaire
 Jeux de mots avec le mot "faucille" à la place de "faut-il?" et de la boule fixées sur la planche.

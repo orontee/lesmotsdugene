@@ -25,7 +25,7 @@ A la Saint Médard, couché je vais rester, à moins que Saint Barnabé ne m'emp
 Le Gène
 
 ## Commentaire
-Petite variation à partir du dicton : "S'il pleut à la St Médard, il pleut quarante jours plus tard, à moins que Saint Barnabé ne vienne tout arranger".
+Petite variation à partir du dicton : "S'il pleut à la St Médard, il pleut quarante jours plus tard, à moins que Saint Barnabé ne vienne tout arranger".
 
 
 

@@ -1,4 +1,4 @@
-Title: Tu travailles encore sous la pluie ?  (planche 100)
+Title: Tu travailles encore sous la pluie ?  (planche 100)
 Date: 2018-02-09 17:45:27
 Modified: 2018-02-09 17:46:49
 Summary: 
@@ -17,7 +17,7 @@ Petite planche verticale claire et veinée, légèrement évasée de bas en haut
 te travail pe la plèvè tie. mi je m’en vò Keu que Fâ lou jô, ne loû Vend pa. de bô jô n’en sortrà ékò de drenié la montâgne           	     le  gène
 
 ## Traduction
-Tu travailles quand il pleut, toi !? Moi, je m'en vais ! Celui qui fait les jours ne les vend pas !  Des beaux jours, il en sortira encore de derrière les montagnes...
+Tu travailles quand il pleut, toi !? Moi, je m'en vais ! Celui qui fait les jours ne les vend pas !  Des beaux jours, il en sortira encore de derrière les montagnes...
 
 Le Gène
 

@@ -15,7 +15,7 @@ series_index: 190
 
 
 ## Texte en patois
-en bon gueulton i Kan jé bien mija bïen beu et pa Paya ?         merci    		le gène
+en bon gueulton i Kan jé bien mija bïen beu et pa Paya ?         merci    		le gène
 
 ## Traduction
 Un bon gueuleton, c'est quand j'ai bien mangé, bien bu et pas payé.   Merci.
@@ -23,7 +23,7 @@ Un bon gueuleton, c'est quand j'ai bien mangé, bien bu et pas payé.   Merci.
 Le Gène
 
 ## Commentaire
-Sans commentaire !
+Sans commentaire !
 
 
 

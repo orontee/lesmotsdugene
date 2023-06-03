@@ -18,12 +18,12 @@ series_index: 32
 pe garda me vâche  debout i fatiguan  assis i provisoir  couchâ i  l’idèal     	            le gène
 
 <figure class="image-block" style="float: left;">
-  <img alt="Debout, assis, couché !" src="{static}/images/planche_26_detail_dessins_gauche.png">
-  <figcaption style="max-width: 153px">Debout, assis, couché !</figcaption>
+  <img alt="Debout, assis, couché !" src="{static}/images/planche_26_detail_dessins_gauche.png">
+  <figcaption style="max-width: 153px">Debout, assis, couché !</figcaption>
 </figure>
 
 ## Traduction
-Pour garder mes vaches, debout c'est fatigant, assis, ça ne dure pas ... couché, c'est l'idéal !
+Pour garder mes vaches, debout c'est fatigant, assis, ça ne dure pas ... couché, c'est l'idéal !
 
 Le Gène
 

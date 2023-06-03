@@ -14,7 +14,7 @@ series_index: 152
 <p style="text-align:justify;">Petite planche verticale, très veinée, plus ou moins en forme de triangle. La planche repose sur une pointe très fine. En haut à droite est gravé le nombre "72" juste en dessus d'un gros nœud ovale. Les lettres sont repeintes en doré. Tout en bas du texte, dessin d'un soleil.</p>
 
 ## Texte en patois
-Fâ  pâ chaud en–quio ?  Non pâ veu de to le jô le Patron dou mâ Abillâ
+Fâ  pâ chaud en–quio ?  Non pâ veu de to le jô le Patron dou mâ Abillâ
 
 le gène
 

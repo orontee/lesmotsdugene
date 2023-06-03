@@ -22,7 +22,7 @@ series_index: 125
 te sa La chasse yore na plu ren    Mè n'a ke ne sâve pâ sarreta  Mï a pâ lou Sanglïa je nè fâ Ke <u>20</u> fezan <u>15</u> pedrï  <u>10</u> Begasse <u>5 </u> Lïévre.
 
 ## Traduction
-Tu sais, à la chasse, à présent, il n'y a plus rien, mais il y en a qui ne savent plus s'arrêter. Moi, à part le sanglier, je n'ai fait que <u>20</u> faisans, <u>15</u>  perdrix, <u>10</u> bécasses et <u>5 </u> lièvres !!!
+Tu sais, à la chasse, à présent, il n'y a plus rien, mais il y en a qui ne savent plus s'arrêter. Moi, à part le sanglier, je n'ai fait que <u>20</u> faisans, <u>15</u>  perdrix, <u>10</u> bécasses et <u>5 </u> lièvres !!!
 
 ## Commentaire
 Ces planches forment un ensemble illustrant avec ironie un imaginaire dialogue entre un chasseur et un autre, sans doute Eugène.

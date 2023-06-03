@@ -7,7 +7,7 @@ Series: planches
 series_index: 191
 
 
-<quote>** TELETHON 2016 : les 2 et 3 décembre**</quote>
+<quote>** TELETHON 2016 : les 2 et 3 décembre**</quote>
 Très petite planche verticale. Le bord inférieur est légèrement convexe. Le côté droit est incurvé. Tâches rouges dans le bas.
 <figure class="image-block" style="float: center;">
   <img alt="" src="{static}/images/planche_185.png">

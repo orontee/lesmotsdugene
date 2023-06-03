@@ -17,17 +17,17 @@ series_index: 28
 </p>
 
 ## Texte en patois
-Bon jô Bravà dâmà. Marnan i loin. nò  mônsïeu. Vó gardà le chêure vò z’alla pa vé l’évêque à l’égliéze. Avé  tota sa ribanbelle de cûrô je ne li vérè pa la pointa dou môre. é je sò trô vielle. é ben vò l’orri veû ? l’évêque i mi ? i pà possible j’en chàille dou cûl
+Bon jô Bravà dâmà. Marnan i loin. nò  mônsïeu. Vó gardà le chêure vò z’alla pa vé l’évêque à l’égliéze. Avé  tota sa ribanbelle de cûrô je ne li vérè pa la pointa dou môre. é je sò trô vielle. é ben vò l’orri veû ? l’évêque i mi ? i pà possible j’en chàille dou cûl
 
 le gène
 
 ## Traduction
-Bonjour, brave dame ! Marnans, c'est encore loin ?
+Bonjour, brave dame ! Marnans, c'est encore loin ?
 ─  Non, Monsieur.
-─  Vous gardez les chèvres ? Vous n'allez pas voir l'évêque à l'église ?
-─  Avec toute sa ribambelle de curés je ne lui verrai même pas la pointe du nez et puis, je suis bien trop vieille !
-─  Eh bien, vous l'aurez vu !  L'évêque, c'est moi !
-─  C'est pas possible ...  J'en tombe sur le cul !
+─  Vous gardez les chèvres ? Vous n'allez pas voir l'évêque à l'église ?
+─  Avec toute sa ribambelle de curés je ne lui verrai même pas la pointe du nez et puis, je suis bien trop vieille !
+─  Eh bien, vous l'aurez vu !  L'évêque, c'est moi !
+─  C'est pas possible ...  J'en tombe sur le cul !
 
 Le Gène
 

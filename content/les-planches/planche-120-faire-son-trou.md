@@ -20,7 +20,7 @@ i en laissan Fâre lou joén  qui pan arriva â Pretuizié dian la Viâ
 le  gène
 
 ## Traduction
-C'est en laissant faire les jeunes qu'ils peuvent arriver à faire leur trou dans la vie !
+C'est en laissant faire les jeunes qu'ils peuvent arriver à faire leur trou dans la vie !
 
 Le Gène
 

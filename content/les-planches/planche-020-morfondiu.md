@@ -14,12 +14,12 @@ Petite planche dont les deux bords latéraux sont concaves et les bords hauts et
 </figure>
 
 ## Texte en patois
-je so morfondïu je n’arrive plû a bessâ mon jardïen ? je pô te fare ina joëntâ      le gène
+je so morfondïu je n’arrive plû a bessâ mon jardïen ? je pô te fare ina joëntâ      le gène
 
 ## Traduction
-Je suis las ! Je n'arrive plus à bêcher mon jardin !
+Je suis las ! Je n'arrive plus à bêcher mon jardin !
 
-─   Je peux te faire une "jointe" !?
+─   Je peux te faire une "jointe" !?
 
 Le Gène
 

@@ -17,12 +17,12 @@ series_index: 113
 mi  le  zhistoire  de  grand  Loup .  avan  Kou  la  mije  je  vodré  sâvé  qui  cache  le  Loup         le  gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="Qui cache t-il ce loup ?" src="{static}/images/planche_104_femme.png">
-  <figcaption style="max-width: 350px">Qui cache t-il ce loup ?</figcaption>
+  <img alt="Qui cache t-il ce loup ?" src="{static}/images/planche_104_femme.png">
+  <figcaption style="max-width: 350px">Qui cache t-il ce loup ?</figcaption>
 </figure>
 
 ## Traduction
-Moi, les histoires de grand loup ... Avant qu'il ne la mange, je voudrais bien savoir qui il cache, ce loup  !
+Moi, les histoires de grand loup ... Avant qu'il ne la mange, je voudrais bien savoir qui il cache, ce loup !
 Le Gène
 
 <figure class="image-block" style="float: left;">

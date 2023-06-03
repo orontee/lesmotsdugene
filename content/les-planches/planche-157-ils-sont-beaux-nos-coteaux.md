@@ -14,7 +14,7 @@ series_index: 165
 </figure>
 
 ## Texte en patois
-  i pe–têtre brâve mè i pa facile de gagnïè sâ via  Nâ que de côteïo ou de rapille  ?   hOOO te sâ le cheûre brotte a  la  place que la merà le za FÂ			le gène
+  i pe–têtre brâve mè i pa facile de gagnïè sâ via  Nâ que de côteïo ou de rapille ?   hOOO te sâ le cheûre brotte a  la  place que la merà le za FÂ			le gène
 
 <figure class="image-block" style="float: right;">
   <img alt="Les chèvres des coteaux" src="{static}/images/planche_157_dessin.png">
@@ -22,8 +22,8 @@ series_index: 165
 </figure>
 
 ## Traduction
-C'est peut être beau mais ce n'est pas facile d'y gagner sa vie ! Il n'y a que des coteaux et des pentes abruptes.
-─  Ho ! Les chèvres broutent là où la mère les a mis au monde.
+C'est peut être beau mais ce n'est pas facile d'y gagner sa vie ! Il n'y a que des coteaux et des pentes abruptes.
+─  Ho ! Les chèvres broutent là où la mère les a mis au monde.
 
 Le Gène
 

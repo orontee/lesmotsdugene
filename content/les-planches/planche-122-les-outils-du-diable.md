@@ -20,12 +20,12 @@ le gène
 
 
 ## Traduction
-C'est avec les outils de travail que le diable te pousse au feu et au charbon !
+C'est avec les outils de travail que le diable te pousse au feu et au charbon !
 
 Le Gène
 
 ## Commentaire
-<p style="text-align:justify;">Le dessin du grand diable a été dessiné avec l'aide d'une amie artiste, Emmanuelle Barret. Cette planche, comme plusieurs autres, permet à Eugène d'exposer quelques uns de ses vieux outils. Le texte s'en inspire et s'en amuse. Sacré diable qui vous pousse sans cesse à travailler !!!</p>
+<p style="text-align:justify;">Le dessin du grand diable a été dessiné avec l'aide d'une amie artiste, Emmanuelle Barret. Cette planche, comme plusieurs autres, permet à Eugène d'exposer quelques uns de ses vieux outils. Le texte s'en inspire et s'en amuse. Sacré diable qui vous pousse sans cesse à travailler !!!</p>
 
 
 

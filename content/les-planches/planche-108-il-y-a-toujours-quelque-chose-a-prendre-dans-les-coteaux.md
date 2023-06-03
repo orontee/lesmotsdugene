@@ -22,7 +22,7 @@ a la monta je ne po ren adûre a la descente je po tô emporta
 À la montée,  je ne peux rien apporter. À la descente, je peux tout emporter.
 
 ## Commentaire
-Eugène avait gravé une première planche, plus caustique, pour exprimer sa légère amertume devant l'avidité de certains profiteurs, chasseurs ou promeneurs qui viennent se ravitailler à la campagne à bon compte ; mais il ne l'a pas gardée et l'a remplacée par celle-ci pour ne pas risquer de blesser ceux qui auraient pu se sentir concernés.
+Eugène avait gravé une première planche, plus caustique, pour exprimer sa légère amertume devant l'avidité de certains profiteurs, chasseurs ou promeneurs qui viennent se ravitailler à la campagne à bon compte ; mais il ne l'a pas gardée et l'a remplacée par celle-ci pour ne pas risquer de blesser ceux qui auraient pu se sentir concernés.
 
 
 <video width="320" height="240" controls>

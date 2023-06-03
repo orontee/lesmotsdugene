@@ -14,7 +14,7 @@ series_index: 111
 </figure>
 
 ## Texte en patois
-- Lou bon  z'âmi ne se cache pâ lou fon de calçon ?
+- Lou bon  z'âmi ne se cache pâ lou fon de calçon ?
 
 - Plûteû  que  de  marché  â  laveuglète  alluma  don  ta  lanterna
 
@@ -27,9 +27,9 @@ series_index: 111
 le gène
 
 ## Traduction
-- Les bons amis ne se cachent pas les fonds de caleçons !
+- Les bons amis ne se cachent pas les fonds de caleçons !
 
-- Plutôt que de marcher à l'aveuglette, allume donc ta lanterne !
+- Plutôt que de marcher à l'aveuglette, allume donc ta lanterne !
 
 <figure class="image-block" style="float: right;">
   <img alt="" src="{static}/images/planche_102_dessin-2.png">
@@ -37,14 +37,14 @@ le gène
 </figure>
 
 
-- Un morceau de pain avec un petit peu de rien, deux matefaims, un verre de vin blanc, un coup de rantanplan (tambour) : c'était la fête de la Saint Jean !
+- Un morceau de pain avec un petit peu de rien, deux matefaims, un verre de vin blanc, un coup de rantanplan (tambour) : c'était la fête de la Saint Jean !
 
-- Tu as bien besoin d'argent ! ... Je ne peux pas t'en prêter, mais je peux te dire comment faire pour t'en passer...
+- Tu as bien besoin d'argent ! ... Je ne peux pas t'en prêter, mais je peux te dire comment faire pour t'en passer...
 
 Le Gène
 
 ## Commentaire
-La première et la deuxième phrase sont, comme presque toujours, des métaphores que l'on pourrait traduire par les équivalents : " On ne se cache rien entre amis " et  " Informe toi avant de décider quoique se soit."
+La première et la deuxième phrase sont, comme presque toujours, des métaphores que l'on pourrait traduire par les équivalents : " On ne se cache rien entre amis " et  " Informe toi avant de décider quoique se soit."
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_102.mp4" type="video/mp4">

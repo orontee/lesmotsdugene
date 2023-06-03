@@ -20,7 +20,7 @@ HOOO  je ne so pa bien riche mé je mige à ma fan jé ièn  eûvey pe me metta 
 le gène
 
 ## Traduction
-Hooo ! Je ne suis pas bien riche, mais je mange à ma faim. J'ai le couvert pour me mettre à l'abri de la pluie. Je voudrais bien que tout le monde en ait autant et je plains ceux qui ne savent pas comment faire pour dépenser et manger leurs  SOUS.
+Hooo ! Je ne suis pas bien riche, mais je mange à ma faim. J'ai le couvert pour me mettre à l'abri de la pluie. Je voudrais bien que tout le monde en ait autant et je plains ceux qui ne savent pas comment faire pour dépenser et manger leurs  SOUS.
 
 Le Gène
 

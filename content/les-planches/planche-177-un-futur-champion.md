@@ -1,4 +1,4 @@
-Title: Un futur champion ? (planche 177)
+Title: Un futur champion ? (planche 177)
 Date: 2017-06-27 18:05:49
 Modified: 2017-06-27 18:05:49
 Summary: 
@@ -24,7 +24,7 @@ Ton gosse fait des courses de vélo. Maintenant, il faut bien le laisser faire a
 Le Gène
 
 ## Commentaire
-"Pretuziè" signifie : réussir, percer, arriver. Cette planche a été gravée alors que les médias célébraient un fameux champion de courses cyclistes.
+"Pretuziè" signifie : réussir, percer, arriver. Cette planche a été gravée alors que les médias célébraient un fameux champion de courses cyclistes.
 Eugène joue sur le double sens du mot "percer".
 
 

@@ -33,7 +33,7 @@ le gène
 
 ## Traduction
 
-- N'écoute pas ton médecin : bois toujours un peu de vin !
+- N'écoute pas ton médecin : bois toujours un peu de vin !
 
 
 

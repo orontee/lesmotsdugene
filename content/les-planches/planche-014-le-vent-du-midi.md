@@ -14,13 +14,13 @@ series_index: 17
 
 
 ## Texte en patois
-kan le van chô dou mié-jô a dûra trè jô . a la bize trempe la châmize . sié jô moille le caraco sou dure noeu jô ? Kan plô  va tò dian ien   PO
+kan le van chô dou mié-jô a dûra trè jô . a la bize trempe la châmize . sié jô moille le caraco sou dure noeu jô ? Kan plô  va tò dian ien   PO
 
 ## Traduction
-Quand le vent chaud du midi a soufflé durant trois jours, à la bise cela trempe toute la chemise !  Si il souffle durant six jours, cela  mouille juste le caraco *(juste le dos)*. Si  il souffle durant neuf jours, cela tient tout dans un POT !
+Quand le vent chaud du midi a soufflé durant trois jours, à la bise cela trempe toute la chemise !  Si il souffle durant six jours, cela  mouille juste le caraco *(juste le dos)*. Si  il souffle durant neuf jours, cela tient tout dans un POT !
 <figure class="image-block" style="float: right;">
-  <img alt="Ceci est il un pot ?" src="{static}/images/planche_14_dessin.png">
-  <figcaption style="max-width: 258px">Ceci est il un pot ?</figcaption>
+  <img alt="Ceci est il un pot ?" src="{static}/images/planche_14_dessin.png">
+  <figcaption style="max-width: 258px">Ceci est il un pot ?</figcaption>
 </figure>
 
 

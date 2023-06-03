@@ -24,7 +24,7 @@ series_index: 131
 ## Traduction
 - C'est bien de connaître la musique mais si tu n'as pas le piston ...
 
-- Tu joues mal mais ton cor à "piston" fait un meilleur son que ton cor au pied !
+- Tu joues mal mais ton cor à "piston" fait un meilleur son que ton cor au pied !
 
 ## Commentaire
 Comme quelques autres, cette planche expose un viel instrument de musique déniché dans une brocante. Cet instrument permet de jouer avec les mots "cor" et  "piston".

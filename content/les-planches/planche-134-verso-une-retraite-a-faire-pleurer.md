@@ -18,7 +18,7 @@ series_index: 142
 
 
 
-- gène te. te mette â rézonâ côme ien ? cadichon  â dieu  jambe
+- gène te. te mette â rézonâ côme ien ? cadichon  â dieu  jambe
 
 
 
@@ -31,7 +31,7 @@ series_index: 142
   <figcaption style="max-width: 420px"></figcaption>
 </figure>
 
-- Hi  !  Han ! A moi, un cul-terreux, un gros plein de sous m'a demandé ce que je touchais pour ma retraite. Je lui ai  renvoyé la réponse. Il m'a ri au nez et mon âne qui avait entendu s'est mis à pleurer !
+- Hi !  Han ! A moi, un cul-terreux, un gros plein de sous m'a demandé ce que je touchais pour ma retraite. Je lui ai  renvoyé la réponse. Il m'a ri au nez et mon âne qui avait entendu s'est mis à pleurer !
 
 - Gène, tu te mets à raisonner comme un petit âne à deux jambes
 
@@ -47,7 +47,7 @@ series_index: 142
 ## Commentaire
 Petite anecdote rapportée (presque) telle quelle.
 
-Un "cadichon" est un petit âne. Ce mot vient du personnage d'âne savant dans l’œuvre de la comtesse de Ségur : " Mémoires d'un âne".
+Un "cadichon" est un petit âne. Ce mot vient du personnage d'âne savant dans l’œuvre de la comtesse de Ségur : " Mémoires d'un âne".
 Eugène signe "trois fois" pour chacune des trois historiettes, la première se trouvant sur la première face de la planche.
 
 

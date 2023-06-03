@@ -22,9 +22,9 @@ gâr donc se que mon fâ lou conscrit en me cabôssan sû le table dou café . p
 le gène
 
 ## Traduction
-Regarde donc ce qu'ils m'ont fait, les conscrits, en me cabossant sur la table du café !
+Regarde donc ce qu'ils m'ont fait, les conscrits, en me cabossant sur la table du café !
 
-A part cela, ils en disent bien plus qu'ils n'en font !
+A part cela, ils en disent bien plus qu'ils n'en font !
 Le Gène
 
 ## Commentaire

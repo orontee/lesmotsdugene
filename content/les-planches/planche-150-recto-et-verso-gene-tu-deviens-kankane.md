@@ -16,14 +16,14 @@ Petite planche verticale trapézoïdale, bordée d'écorce. Les deux faces sont 
 
 
 ## Texte en patois
-**Recto :** i t’ina KanKerne  « ravagea pe le guergne jeuste avan qui devènne KanKare  	  le  gène
-**Verso :**  Gène te devin KanKane
+**Recto :** i t’ina KanKerne  « ravagea pe le guergne jeuste avan qui devènne KanKare  	  le  gène
+**Verso :**  Gène te devin KanKane
 
 ## Traduction
-**Recto :**  C'est un bon à rien, ravagé par la larve du hanneton, presque en train de devenir "marteau".
+**Recto :**  C'est un bon à rien, ravagé par la larve du hanneton, presque en train de devenir "marteau".
 
 Le Gène
-**Verso :**  Gène, tu deviens mauvaise langue !
+**Verso :**  Gène, tu deviens mauvaise langue !
 
 
 ## Commentaire

@@ -20,7 +20,7 @@ Lou z'avare é lou cayon Fan mé plaizi mort que vii
 le gène
 
 ## Traduction
-Les avares et les cochons font plus plaisir, morts que vifs !
+Les avares et les cochons font plus plaisir, morts que vifs !
 
 Le Gène
 

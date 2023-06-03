@@ -1,4 +1,4 @@
-Title: Sacrée Mélanie ! (planche 136)
+Title: Sacrée Mélanie ! (planche 136)
 Date: 2016-11-28 10:26:08
 Modified: 2016-11-28 10:26:08
 Summary: 
@@ -26,7 +26,7 @@ le gène			C  O
 </figure>
 La Mélanie, avec ses 60 printemps a trouvé un jeune.
 
-A présent, c'est plus comme autrefois : même les grand-mères, si elles sont seules, recherchent "la bonne fortune"
+A présent, c'est plus comme autrefois : même les grand-mères, si elles sont seules, recherchent "la bonne fortune"
 
 Le Gène   C O
 

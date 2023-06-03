@@ -21,7 +21,7 @@ series_index: 164
 
 
 ## Texte en patois
-te fô pà crère que le monde vire ou tô de to nombry ? gàre tou Piéd
+te fô pà crère que le monde vire ou tô de to nombry ? gàre tou Piéd
 
 le gène.
 
@@ -38,12 +38,12 @@ le gène.
 
 
 ## Traduction
-Il ne faut pas croire que le monde tourne autour de ton nombril.  Regarde plutôt tes pieds !
+Il ne faut pas croire que le monde tourne autour de ton nombril.  Regarde plutôt tes pieds !
 
 Le Gène
 
 ## Commentaire
-Est-ce la découpe originale ou la position du nœud dans le bois qui a inspiré Eugène ???
+Est-ce la découpe originale ou la position du nœud dans le bois qui a inspiré Eugène ???
 
 
 

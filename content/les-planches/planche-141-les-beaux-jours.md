@@ -9,7 +9,7 @@ series_index: 149
 <p style="text-align:justify;">Petite planche horizontale bordée d'écorces épaisses. Elle est un peu plus large à gauche où l'on peut voir un gros nœud sombre. Ses bords latéraux sont découpés en forme de vagues.</p>
 
 ## Texte en patois
-Vent le jô bize la nô rare Kan plô ? Lou z'amoërou Kon Keu Règime son asseura dou bô tan pe Lon.tan                                                                                                  								le  gène
+Vent le jô bize la nô rare Kan plô ? Lou z'amoërou Kon Keu Règime son asseura dou bô tan pe Lon.tan                                                                                                  								le  gène
 <figure class="image-block" style="float: center;">
   <img alt="Conseil métèorologique pour tous" src="{static}/images/planche_141.png">
   <figcaption style="max-width: 658px">Conseil métèorologique pour tous</figcaption>
@@ -17,8 +17,8 @@ Vent le jô bize la nô rare Kan plô ? Lou z'amoërou Kon Keu Règime son asseu
 
 
 ## Traduction
-Vent le jour, bise la nuit, il est rare qu'il pleuve !
-Les amoureux qui suivent ce régime sont assurés d'avoir du bon temps pour longtemps !
+Vent le jour, bise la nuit, il est rare qu'il pleuve !
+Les amoureux qui suivent ce régime sont assurés d'avoir du bon temps pour longtemps !
 Le Gène
 
 ## Commentaire

@@ -33,7 +33,7 @@ je les aime bien faites.
 un  QUIGNON
 un CANON
 
- Que veux-tu de plus ?
+ Que veux-tu de plus ?
 
 ## Commentaire
  Cette planche très particulière est l'une des premières réalisées par Eugène.
