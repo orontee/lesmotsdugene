@@ -21,7 +21,7 @@ series_index: 52
 </figure>
 
 
-je revenié de raffistola ina péra de vieu grollon. Je dessendié le pirôte la lievre montâve tou dré sû mi ?  <mème pa ina piérra > ?  je li Kâne ina pûgna de pèje. i se colle bien sû le morre La liévre se revire se cogne la tèta avé le bòuquin que la sûguié  je le zé assoma avé me gâloche é radù tòute dieu pe la casserole de la Marie
+je revenié de raffistola ina péra de vieu grollon. Je dessendié le pirôte la lievre montâve tou dré sû mi ? mème pa ina piérra ? je li Kâne ina pûgna de pèje. i se colle bien sû le morre La liévre se revire se cogne la tèta avé le bòuquin que la sûguié  je le zé assoma avé me gâloche é radù tòute dieu pe la casserole de la Marie
 
 le gène
 
