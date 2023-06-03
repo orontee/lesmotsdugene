@@ -26,7 +26,7 @@ Après avoir configuré [l'interface de ligne de
 commande](https://aws.amazon.com/fr/cli/) :
 
 ```
-$ make ssh_upload
+$ make rsync_upload
 ```
 
 Le site est consultable à l'adresse https://lesmotsdugene.alwaysdata.net/.
