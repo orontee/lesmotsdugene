@@ -41,6 +41,7 @@ MENUITEMS = (
     ('Sculptures', '/pages/les-sculptures.html'),
     ('Notes', '/pages/quelques-notes-a-propos-des-mots-d-eugene.html'),
     ("Association", '/pages/l-association.html'),
+    ("🔎", '/pages/recherche.html'),
 )
 
 # Blogroll

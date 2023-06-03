@@ -11,6 +11,7 @@ mdurl==0.1.2
 pelican==4.8.0
 pelican-series==2.1.0
 pelican-sitemap==1.0.2
+pelican-search==1.1.0
 Pygments==2.14.0
 python-dateutil==2.8.2
 pytz==2022.7.1

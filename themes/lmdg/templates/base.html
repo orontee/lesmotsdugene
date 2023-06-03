@@ -15,6 +15,7 @@
         {% endif %}
         {% block extra_head %}{% endblock extra_head %}
         {% endblock head %}
+        <link rel="stylesheet" href="https://files.stork-search.net/releases/v1.6.0/basic.css" />
 </head>
 
 <body id="index" class="home">
@@ -36,8 +37,10 @@
                 {% endif %}
                 </ul></nav>
         </header><!-- /#banner -->
+        <main>
         {% block content %}
         {% endblock %}
+        </main>
         <section id="extras" class="body">
         </section><!-- /#extras -->
 
@@ -54,5 +57,6 @@
 
 {% include 'analytics.html' %}
 {% include 'disqus_script.html' %}
+{% include 'stork.html' %}
 </body>
 </html>
