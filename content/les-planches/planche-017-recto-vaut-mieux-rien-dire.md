@@ -24,8 +24,8 @@ si t’invente  se Ke te raconte te mije avé leû ? pran ina granda Fôurchetta
 i pâ le brouillâ tôta ke la fûmiére ? y a bien Fiô
 
 <figure class="image-block" style="float: right;">
-  <img alt="Si tu te chauffes trop près des flammes ..." src="{static}/images/planche_17_detail_cheminee.png">
-  <figcaption style="max-width: 253px">Si tu te chauffes trop près des flammes ...</figcaption>
+  <img alt="Si tu te chauffes trop près des flammes…" src="{static}/images/planche_17_detail_cheminee.png">
+  <figcaption style="max-width: 253px">Si tu te chauffes trop près des flammes…</figcaption>
 </figure>
 
 
@@ -33,7 +33,7 @@ i pâ le brouillâ tôta ke la fûmiére ? y a bien Fiô
 ## Traduction
 Si tu racontes les choses à ta façon, tu te chauffes avec le diable !  Méfie-toi du retour de flamme.
 
-Si tu inventes ce que tu racontes, tu manges avec lui ...  alors, prends une grande fourchette.
+Si tu inventes ce que tu racontes, tu manges avec lui…  alors, prends une grande fourchette.
 
 C'est pas du brouillard toute cette fumée !  C'est bien du feu !
 

@@ -25,7 +25,7 @@ a la sainte Barbe le banquet dou  pompié la bardelle étié ou vio. mé marie d
 le gène
 
 ## Traduction
-A la Sainte Barbe, le jour du banquet des pompiers, la "Bardelle" était prête à vêler...
+A la Sainte Barbe, le jour du banquet des pompiers, la "Bardelle" était prête à vêler…
 ─   Mais, Marie, dis-moi pourquoi, à minuit, c'est un pompier qui se trouvait sur la paille !???
 
 Le Gène

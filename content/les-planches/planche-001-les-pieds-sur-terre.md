@@ -7,7 +7,7 @@ Series: planches
 series_index: 1
 
 <p style="text-align:justify;">Planche verticale gravée recto et verso sur un bois assez foncé. Le bord supérieur est convexe, le bord inférieur est rectiligne, les bords latéraux sont bruts.
-La dernière phrase du recto "ne te pran pa trôp ..." est gravée au bas de la planche en arc de cercle concave. </p>
+La dernière phrase du recto "ne te pran pa trôp…" est gravée au bas de la planche en arc de cercle concave. </p>
 
 <figure class="image-block" style="float: left;">
   <img alt="Le recto" src="{static}/images/planche_1.png">
@@ -34,7 +34,7 @@ ne te pran pa trôp ou sériou
 **Verso :** Kan tô ke t’ecri tôte ke le Foutaize jé garda lou pié dian  la terra  la tétâ en sézon côme le pôle i ponde bien mé ou Printan
 
 ## Traduction
-**Recto :** Le "trop" l'a complètement pourrit.  Moi je ne suis pas trop à plaindre, je suis tout pas "trop" : Je ne suis pas trop laid, pas trop bête, pas trop miséreux. Je ne peux pas trop en demander...
+**Recto :** Le "trop" l'a complètement pourrit.  Moi je ne suis pas trop à plaindre, je suis tout pas "trop" : Je ne suis pas trop laid, pas trop bête, pas trop miséreux. Je ne peux pas trop en demander…
 
 Le Gène
 

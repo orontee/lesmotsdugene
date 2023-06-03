@@ -37,7 +37,7 @@ le gène
 
 
 
-- Il se promène toujours par les sentiers bordés de haies avec sa mie ...
+- Il se promène toujours par les sentiers bordés de haies avec sa mie…
 
 
 Le Gène

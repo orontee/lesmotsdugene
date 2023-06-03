@@ -35,7 +35,7 @@ series_index: 40
 Le Gène
 
 ## Commentaire
-<p style="text-align:justify;">Les réflexions sur le temps et la phrase "que votié le père éternèl i come mi trop vieux ou ne sa plu se kou zi cherche"  (Que veux-tu, le Père Eternel est comme moi, trop vieux, il ne sait plus ce qu'il cherche) se disait assez fréquemment... et se retrouve sur plusieurs planches.</p>
+<p style="text-align:justify;">Les réflexions sur le temps et la phrase "que votié le père éternèl i come mi trop vieux ou ne sa plu se kou zi cherche"  (Que veux-tu, le Père Eternel est comme moi, trop vieux, il ne sait plus ce qu'il cherche) se disait assez fréquemment… et se retrouve sur plusieurs planches.</p>
 
 
 

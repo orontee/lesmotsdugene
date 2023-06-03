@@ -27,7 +27,7 @@ series_index: 110
 ## Traduction
 - Il a le cœur comme un artichaut : il n'y a pas de feuilles pour toutes.
 - Il m'a donné un coup de pied au cul qui m'a bien fait mal. Je lui en ai rendu un autre qui m'a bien fait mal aux orteils aussi ! Aie !
-- Ouvre la porte, il fait chaud ! Après tu pourras sortir et ... la refermer.  Merci !
+- Ouvre la porte, il fait chaud ! Après tu pourras sortir et… la refermer.  Merci !
 - Il est comme les passereaux : tout seul, il peut peupler toute la plaine !
 - Elle avait mangé l'herbe de la "requinquille"  et j'ai eu droit à une fricassée de "regregnia"
 

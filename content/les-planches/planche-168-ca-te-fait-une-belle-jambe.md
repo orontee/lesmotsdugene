@@ -19,8 +19,8 @@ oré poé te fare ina bella jamba
 ina Brava Pomma a bïen mé de saveu a croka kan ta ïu de la pena pe la Décroché dou Pommier ?
 
 <figure class="image-block" style="float: right;">
-  <img alt="Belle pomme à croquer ..." src="{static}/images/planche_168_dessin_haut-2.png">
-  <figcaption style="max-width: 285px">Belle pomme à croquer ...</figcaption>
+  <img alt="Belle pomme à croquer…" src="{static}/images/planche_168_dessin_haut-2.png">
+  <figcaption style="max-width: 285px">Belle pomme à croquer…</figcaption>
 </figure>
 
 Fo pa Etre Perè   			 le  gène

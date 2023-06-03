@@ -30,11 +30,11 @@ le gène
 le gène
 
 ## Traduction
-**Recto :** Dans la mer, les éperlans sont mangés par les sardines qui, elles, sont mangées par les maquereaux ; les morues ne sont pas en reste, les thons aussi, et ... les requins les mettent tous d'accord !  C'est pareil sur la terre !
+**Recto :** Dans la mer, les éperlans sont mangés par les sardines qui, elles, sont mangées par les maquereaux ; les morues ne sont pas en reste, les thons aussi, et… les requins les mettent tous d'accord !  C'est pareil sur la terre !
 
 Le Gène
 
-**Verso :** Père Sanfon a toujours aimé troubler le fond pour faire remonter les petits poissons. Mais s'il sort un gros serpent, il ne craint rien, il a toujours un grand bâton ...
+**Verso :** Père Sanfon a toujours aimé troubler le fond pour faire remonter les petits poissons. Mais s'il sort un gros serpent, il ne craint rien, il a toujours un grand bâton…
 Le Gène
 <figure class="image-block" style="float: right;">
   <img alt="Tête de gros ou petit poisson ?" src="{static}/images/planche_32_dessin.png">

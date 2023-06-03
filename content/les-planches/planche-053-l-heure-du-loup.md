@@ -22,7 +22,7 @@ a  bôr de  nô a  l’hêur  dou  loûp na  Kon  pa  poû  dou  loûp  garrou  
 
 
 ## Traduction
-A la tombée de la nuit, à l'heure du loup, il y en a qui n'ont pas peur ... du loup-garou !
+A la tombée de la nuit, à l'heure du loup, il y en a qui n'ont pas peur… du loup-garou !
 
 Le Gène
 

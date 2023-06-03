@@ -17,8 +17,8 @@ Petite planche horizontale de forme concave. A gauche, dessin d'un homme assis a
 Le travâ i la santè Fô sûtò pa z‘i tôchè                                                le gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="Petite sieste au pied de mon arbre ..." src="{static}/images/planche_57_dessin.png">
-  <figcaption style="max-width: 300px">Petite sieste au pied de mon arbre ...</figcaption>
+  <img alt="Petite sieste au pied de mon arbre…" src="{static}/images/planche_57_dessin.png">
+  <figcaption style="max-width: 300px">Petite sieste au pied de mon arbre…</figcaption>
 </figure>
 
 ## Traduction

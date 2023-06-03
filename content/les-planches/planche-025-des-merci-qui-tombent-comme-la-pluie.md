@@ -22,7 +22,7 @@ series_index: 31
 
 ## Traduction
 Merci, merci
-- Oh, tu sais, des "merci", c'est pas la peine : il m'en reste deux sacs de l'année dernière !  C'est des saucissons que je n'ai PLUS...
+- Oh, tu sais, des "merci", c'est pas la peine : il m'en reste deux sacs de l'année dernière !  C'est des saucissons que je n'ai PLUS…
 
 - Dépêchons-nous les gars !  Il ne fait pas jour que c'est déjà la nuit et la moitié du temps, il PLEUT !
 

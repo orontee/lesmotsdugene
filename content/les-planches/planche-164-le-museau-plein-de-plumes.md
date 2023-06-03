@@ -25,7 +25,7 @@ jamè  Renâ  pourrou  a  ïeu  Le  môrre  Plûmou
 le gène
 
 ## Traduction
-Jamais renard peureux n'eut le nez plein de plumes...
+Jamais renard peureux n'eut le nez plein de plumes…
 
 Le Gène
 

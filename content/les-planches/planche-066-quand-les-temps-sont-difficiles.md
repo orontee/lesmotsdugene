@@ -1,7 +1,7 @@
 Title: Quand les temps sont difficiles (planche 66)
 Date: 2015-07-16 01:50:13
 Modified: 2016-01-20 17:15:50
-Summary: Quand les temps sont durs, les pauvres bêtes...
+Summary: Quand les temps sont durs, les pauvres bêtes…
 Lang: fr
 Series: planches
 series_index: 75
@@ -20,7 +20,7 @@ kan lou tan son dïü le povre bètïa Se sòve pe le bois a Châ ënâ CÔme y 
 
 
 ## Traduction
-Quand les temps sont durs, les pauvres bêtes se sauvent par les bois et filent une par une, comme elles peuvent.  Les rapaces, eux, se rassemblent pour mieux les manger ...          Le  Gène
+Quand les temps sont durs, les pauvres bêtes se sauvent par les bois et filent une par une, comme elles peuvent.  Les rapaces, eux, se rassemblent pour mieux les manger…          Le  Gène
 
 ## Commentaire
 Il s'agit bien sûr d'une métaphore qui évoque essentiellement dans l'esprit d'Eugène, la période de l'occupation lors de la seconde guerre mondiale et les profiteurs de guerre.

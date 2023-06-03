@@ -32,13 +32,13 @@ series_index: 67
 -  **Recto : **Si ça ne manquait pas de bon sens, je créerais le parti du bon sens.
 
 
-Le Gène   ...    à retourner
+Le Gène…    à retourner
 
 - **Verso :** Pour penser cela, Eugène, c'est qu'il te manque un peu de bon sens.
 
 
 
-Le Gène  ...  à nouveau.
+Le Gène…  à nouveau.
 
 ## Commentaires
 Le bon sens étant parfois, d'après Eugène, une qualité trop peu répandue,  impossible de créer un tel parti !

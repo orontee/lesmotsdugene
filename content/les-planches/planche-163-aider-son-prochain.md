@@ -23,7 +23,7 @@ Quand c'était pour un pauvre diable dans la misère : " Je ne peux quand même
 Le Gène
 
 ## Commentaire
-<p style="text-align:justify;">Eugène se moque ici avec modestie un peu de lui-même ... peut-être pour ne pas se moquer des autres.
+<p style="text-align:justify;">Eugène se moque ici avec modestie un peu de lui-même… peut-être pour ne pas se moquer des autres.
 Il est certes toujours plus valorisant d'aider un riche. Aider un "pauvre bougre" est (était ?) plus "ordinaire". </p>
 
 

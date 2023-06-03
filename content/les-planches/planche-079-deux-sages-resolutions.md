@@ -23,7 +23,7 @@ Petite planche horizontale. Texte en deux parties séparées par un trait vertic
 ## Traduction
 - Ne mets jamais ton nez, là où les autres mettent leur postérieur !
 
-- Si tu casses l'autre patte du canard boiteux ... il ne boite plus du tout !
+- Si tu casses l'autre patte du canard boiteux… il ne boite plus du tout !
 
 Le Gène
 

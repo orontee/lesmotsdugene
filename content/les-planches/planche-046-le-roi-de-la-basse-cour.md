@@ -31,7 +31,7 @@ le gène
 
 
 Cocorico !
-Mon beau poulet, c'est le roi de la basse-cour. Mais s'il se fait écraser les orteils, toutes les volailles se mettent à caqueter en lui tapant sur la crête ...
+Mon beau poulet, c'est le roi de la basse-cour. Mais s'il se fait écraser les orteils, toutes les volailles se mettent à caqueter en lui tapant sur la crête…
 
 Le Gène
 

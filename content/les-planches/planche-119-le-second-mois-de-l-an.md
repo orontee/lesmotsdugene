@@ -20,7 +20,7 @@ Pe le segon mé de lan le solé y chO   Fâ de brave journé mé le nô son frè
 ## Traduction
 
 Pour le second mois de l'an, le soleil est chaud ! Ça donne de belles journées mais les nuits sont froides.
-─  Tu as vu la nouvelle lune ? Elle tourne le dos au Rhône, les jambes en l'air, sans chemise de nuit...
+─  Tu as vu la nouvelle lune ? Elle tourne le dos au Rhône, les jambes en l'air, sans chemise de nuit…
 Le Gène
 
 ## Commentaire

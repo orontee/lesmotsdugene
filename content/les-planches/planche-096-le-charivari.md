@@ -19,7 +19,7 @@ Merci  merci  ta  mà  fâ  charivari  è  bailla  l’ègua  Benèta  a  ton  a
 le gène
 
 ## Traduction
-Merci, merci... Tu m'as fait "charivari" et tu as jeté de l'eau bénite sur ton essaim. Du coup, il est venu se poser dans ma ruche en paille.
+Merci, merci… Tu m'as fait "charivari" et tu as jeté de l'eau bénite sur ton essaim. Du coup, il est venu se poser dans ma ruche en paille.
 
 Le Gène
 

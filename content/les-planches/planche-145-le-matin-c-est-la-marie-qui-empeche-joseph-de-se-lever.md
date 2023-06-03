@@ -24,7 +24,7 @@ Jozé le matién i.tojo le.drenié . ou pòrte ina chamize avé ién grand panti
 
 
 ## Traduction
-Joseph, le matin, il est toujours le dernier !  Il porte une chemise avec un grand pan et la Marie reste couchée dessus...
+Joseph, le matin, il est toujours le dernier !  Il porte une chemise avec un grand pan et la Marie reste couchée dessus…
 
 *« Marie laisse moi sortir le pan de ma chemise »*
 

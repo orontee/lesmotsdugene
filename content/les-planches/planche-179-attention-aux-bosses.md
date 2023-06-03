@@ -23,7 +23,7 @@ Tu peux boire tant que tu veux mais ne va pas te cogner contre le sorbier !
 
 ## Commentaire
 <p style="text-align:justify;">La planche étant en bois de sorbier, la "Sorbière" dans ce texte peut être compris au premier et au second degré : c'est à la fois un arbre et la planche gravée par Eugène. Dans ce cas, est-ce un avertissement que le Gène se donne à lui même pour le choix de ses textes, dont il peut craindre qu'ils risquent d'être mal compris et/ou blessant ?
-Souvent les noms des arbres fruitiers sont féminins en patois des Chambarans :  La "sorbière", la "cerisière", la "chataignière", l'"alizière" etc...
+Souvent les noms des arbres fruitiers sont féminins en patois des Chambarans :  La "sorbière", la "cerisière", la "chataignière", l'"alizière" etc…
 Le mot "Pôkâ" correspond aux coups donnés par les vaches avec leurs cornes.</p>
 
 

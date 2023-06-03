@@ -22,7 +22,7 @@ le gène
 ## Traduction
 La politique c'est comme le vin ! L'étiquette ne correspond pas toujours au contenu !
 
-Si tu es à droite, tu en mets à gauche, si tu es à gauche tu en mets à droite, si tu te crois au milieu ... tu te tais et tu ne fais rien.
+Si tu es à droite, tu en mets à gauche, si tu es à gauche tu en mets à droite, si tu te crois au milieu… tu te tais et tu ne fais rien.
 
 Le Gène
 

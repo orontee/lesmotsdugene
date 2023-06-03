@@ -1,4 +1,4 @@
-Title: Pour bien voir...regarde à côté (planche 155)
+Title: Pour bien voir… regarde à côté (planche 155)
 Date: 2016-03-16 16:01:11
 Modified: 2016-03-16 16:01:11
 Summary: 
@@ -30,7 +30,7 @@ series_index: 163
 **Verso :** jé pa vêu le jôén de ta filla côme tô Kou le  hooo te sâ ou pô alla a la messe avé lou z ‘ótre
 
 ## Traduction
-**Recto :** Les gens et les chevaux qui ont des œillères marchent droit sans savoir où ils vont. Si tu leur mets un capuchon ... ils tournent en rond.
+**Recto :** Les gens et les chevaux qui ont des œillères marchent droit sans savoir où ils vont. Si tu leur mets un capuchon… ils tournent en rond.
 
 Le Gène
 

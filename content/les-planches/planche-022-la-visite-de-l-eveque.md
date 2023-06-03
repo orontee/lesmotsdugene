@@ -27,7 +27,7 @@ Bonjour, brave dame ! Marnans, c'est encore loin ?
 ─  Vous gardez les chèvres ? Vous n'allez pas voir l'évêque à l'église ?
 ─  Avec toute sa ribambelle de curés je ne lui verrai même pas la pointe du nez et puis, je suis bien trop vieille !
 ─  Eh bien, vous l'aurez vu !  L'évêque, c'est moi !
-─  C'est pas possible ...  J'en tombe sur le cul !
+─  C'est pas possible…  J'en tombe sur le cul !
 
 Le Gène
 

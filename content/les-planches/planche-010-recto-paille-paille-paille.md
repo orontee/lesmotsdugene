@@ -27,7 +27,7 @@ Gène, en devenant vieux tu n'es jamais content !
 Le Gène
 
 ## Commentaire
-Un agriculteur avait accidentellement renversé sur la route de St Siméon de Bressieux quelques bottes de pailles. Eugène s'était alors arrêté pour aider à les ramasser quand un des hommes se mit à chanter en patois, une botte sous chaque bras, cette amusante petite comptine qui lui est restée dans la tête : *"Pâille  Pâille  Pâille,  Paye pa biên mé empâille Biên " ...
+Un agriculteur avait accidentellement renversé sur la route de St Siméon de Bressieux quelques bottes de pailles. Eugène s'était alors arrêté pour aider à les ramasser quand un des hommes se mit à chanter en patois, une botte sous chaque bras, cette amusante petite comptine qui lui est restée dans la tête : *"Pâille  Pâille  Pâille,  Paye pa biên mé empâille Biên "…
 *
 
 

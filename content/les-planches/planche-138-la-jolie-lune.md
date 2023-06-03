@@ -23,8 +23,8 @@ Pour la météo et pour les amoureux, une jolie lune et une petite bise précéd
 
 
 <figure class="image-block" style="float: center;">
-  <img alt="Le soleil a rendez-vous avec la lune..." src="{static}/images/planche_138_detail_dessin.png">
-  <figcaption style="max-width: 302px">Le soleil a rendez-vous avec la lune...</figcaption>
+  <img alt="Le soleil a rendez-vous avec la lune…" src="{static}/images/planche_138_detail_dessin.png">
+  <figcaption style="max-width: 302px">Le soleil a rendez-vous avec la lune…</figcaption>
 </figure>
 
 

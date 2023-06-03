@@ -25,7 +25,7 @@ te pôu  scié le tan se pâre le tan se châre va Fare bô ?
 
 ─  Le chat qui "couve" la cheminée si il porte des gants ça ne l'empêche pas de manger, mais le chat qui est obligé de gagner sa vie, lui, il crève de faim.
 
-Tu peux faucher, le temps s'arrange et se pomponne. Il va faire beau...
+Tu peux faucher, le temps s'arrange et se pomponne. Il va faire beau…
 ─  Moi (aussi), quand je suis bien arrangé et pomponné, je suis bien plus joli !!!
 
 

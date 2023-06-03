@@ -20,7 +20,7 @@ côme le solé rayonne en te levan ? ----  lou monde Ke non ren se môque dou ta
 
 ## Traduction
 Comme le soleil, rayonne en te levant !
-Les gens qui n'ont rien se moquent du temps, sont joyeux et contents, font la fête souvent, n'ont pas peur de perdre leurs biens ...  Ceux qui ont beaucoup, regardent comment tourne le vent, sont tristes en dedans. Les trous, ils ont peur de tomber dedans, ne rient de rien de crainte de perdre ce qu'ils possèdent.
+Les gens qui n'ont rien se moquent du temps, sont joyeux et contents, font la fête souvent, n'ont pas peur de perdre leurs biens…  Ceux qui ont beaucoup, regardent comment tourne le vent, sont tristes en dedans. Les trous, ils ont peur de tomber dedans, ne rient de rien de crainte de perdre ce qu'ils possèdent.
 
 (autour du nœud dans la planche) :  Faut prendre la vie du bon côté.
 

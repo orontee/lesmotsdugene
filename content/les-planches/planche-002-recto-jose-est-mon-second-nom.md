@@ -21,7 +21,7 @@ jozé i mon segon nom ? i bien plû Facile de se moqua de  si-même mè n’a q
 
 Joseph est mon second nom.
 
-C'est bien plus facile de se moquer de soi-même, mais, certains ne sont pas moins méritants. Ils pourraient en être jaloux, alors ... je leur en laisse un peu !
+C'est bien plus facile de se moquer de soi-même, mais, certains ne sont pas moins méritants. Ils pourraient en être jaloux, alors… je leur en laisse un peu !
 
 ## Commentaire
 

@@ -22,7 +22,7 @@ mi  le  zhistoire  de  grand  Loup .  avan  Kou  la  mije  je  vodré  sâvé  q
 </figure>
 
 ## Traduction
-Moi, les histoires de grand loup ... Avant qu'il ne la mange, je voudrais bien savoir qui il cache, ce loup !
+Moi, les histoires de grand loup… Avant qu'il ne la mange, je voudrais bien savoir qui il cache, ce loup !
 Le Gène
 
 <figure class="image-block" style="float: left;">

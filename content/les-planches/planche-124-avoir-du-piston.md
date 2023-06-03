@@ -22,7 +22,7 @@ series_index: 131
 
 
 ## Traduction
-- C'est bien de connaître la musique mais si tu n'as pas le piston ...
+- C'est bien de connaître la musique mais si tu n'as pas le piston…
 
 - Tu joues mal mais ton cor à "piston" fait un meilleur son que ton cor au pied !
 

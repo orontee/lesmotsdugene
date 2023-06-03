@@ -19,7 +19,7 @@ TON SYNDICAT si tetia maria te porra pa córe còme ition te verra ta Fena      
 
 ## Traduction
 
-Avec TON SYNDICAT, si tu étais marié, tu ne pourrais pas courir comme ça !   Tu verrais ta femme ... !
+Avec TON SYNDICAT, si tu étais marié, tu ne pourrais pas courir comme ça !   Tu verrais ta femme… !
 ─  Oh ! tu sais ! je suis souvent en vacances au bord de L'OCEAN, j'entends le bruit de la "mère" !
 
 ## Commentaire

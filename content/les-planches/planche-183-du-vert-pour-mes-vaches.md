@@ -24,7 +24,7 @@ Avec un journal vert, mes vaches ont de l'herbe autant qu'elles veulent.
 Le Gène
 
 ## Commentaire
-<p style="text-align:justify;">Cette planche reprend une plaisanterie souvent entendue lorsque la sécheresse menaçait les vaches "d'ennui" (!), faute de trouver assez d'herbe à brouter. Il se trouvait alors toujours quelqu'un pour proposer de leur donner un journal à lire pour les occuper...  Eugène a amélioré la proposition en rajoutant la couleur verte pour pouvoir mieux les abuser.</p>
+<p style="text-align:justify;">Cette planche reprend une plaisanterie souvent entendue lorsque la sécheresse menaçait les vaches "d'ennui" (!), faute de trouver assez d'herbe à brouter. Il se trouvait alors toujours quelqu'un pour proposer de leur donner un journal à lire pour les occuper…  Eugène a amélioré la proposition en rajoutant la couleur verte pour pouvoir mieux les abuser.</p>
 
 
 

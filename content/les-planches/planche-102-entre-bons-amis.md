@@ -39,7 +39,7 @@ le gène
 
 - Un morceau de pain avec un petit peu de rien, deux matefaims, un verre de vin blanc, un coup de rantanplan (tambour) : c'était la fête de la Saint Jean !
 
-- Tu as bien besoin d'argent ! ... Je ne peux pas t'en prêter, mais je peux te dire comment faire pour t'en passer...
+- Tu as bien besoin d'argent !… Je ne peux pas t'en prêter, mais je peux te dire comment faire pour t'en passer…
 
 Le Gène
 

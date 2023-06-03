@@ -23,7 +23,7 @@ pe garda me vâche  debout i fatiguan  assis i provisoir  couchâ i  l’idèal 
 </figure>
 
 ## Traduction
-Pour garder mes vaches, debout c'est fatigant, assis, ça ne dure pas ... couché, c'est l'idéal !
+Pour garder mes vaches, debout c'est fatigant, assis, ça ne dure pas… couché, c'est l'idéal !
 
 Le Gène
 

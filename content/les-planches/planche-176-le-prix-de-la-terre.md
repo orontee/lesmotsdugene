@@ -17,7 +17,7 @@ series_index: 183
 avé lô terre A ribon i monte sù lô grand chevô a la plana i pe lou trôqui mé i keu ka le blâ Ka tojo rézon   le gène
 
 ## Traduction
-Quand il est question de la terre, à Roybon, ils montent sur leurs grands chevaux ... Dans la plaine, c'est tout pour le maïs ... Mais c'est celui qui a le "blé" qui a toujours raison ...
+Quand il est question de la terre, à Roybon, ils montent sur leurs grands chevaux… Dans la plaine, c'est tout pour le maïs… Mais c'est celui qui a le "blé" qui a toujours raison…
 
 Le Gène
 <figure class="image-block" style="float: right;">

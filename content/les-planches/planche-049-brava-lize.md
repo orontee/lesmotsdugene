@@ -23,7 +23,7 @@ le gène
 
 ## Traduction
 Oooh !  Lise, jolie comme tu es, comment se fait-il que tu ne t'es jamais mariée ?
-─  Je veux un homme ni qui boive, ni qui chique, ni qui prise, ni qui fume  et ni qui ???? ... !
+─  Je veux un homme ni qui boive, ni qui chique, ni qui prise, ni qui fume  et ni qui ????… !
 Le Gène
 
 <figure class="image-block" style="float: right;">

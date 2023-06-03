@@ -19,7 +19,7 @@ ou printan Kan chante le premié coucou dian me poche je né jamé ién soû mé
 
 
 ## Traduction
-Au printemps, quand chante le premier coucou, dans mes poches je n'ai jamais le moindre sou ... mais j'ai un couteau pour couper mon pain et je ne mourrai pas de faim.
+Au printemps, quand chante le premier coucou, dans mes poches je n'ai jamais le moindre sou… mais j'ai un couteau pour couper mon pain et je ne mourrai pas de faim.
 
 Le Gène
 <figure class="image-block" style="float: right;">

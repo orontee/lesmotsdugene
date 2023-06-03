@@ -1,4 +1,4 @@
-Title: Janvier au tison... (planche 84)
+Title: Janvier au tison… (planche 84)
 Date: 2017-01-30 15:44:33
 Modified: 2017-01-30 15:44:33
 Summary: 
@@ -25,7 +25,7 @@ le  Patron dou  ma habiila se Fâ vèr to janvier    Janvier â rétrâ le grôb
 le gène
 
 ## Traduction
-Si le "Patron des mal habillés" se fait voir tout janvier, si en janvier on a rentré les souches, qu'en février on les brûle et que le grand-père et le vieux matou montrent leur derrière au feu ... alors ... le printemps n'est pas pour demain.
+Si le "Patron des mal habillés" se fait voir tout janvier, si en janvier on a rentré les souches, qu'en février on les brûle et que le grand-père et le vieux matou montrent leur derrière au feu… alors… le printemps n'est pas pour demain.
 
 Le Gène
 <figure class="image-block" style="float: right;">

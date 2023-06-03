@@ -21,8 +21,8 @@ Mon père gardait son troupeau dans les Chambarans et la "Bardelle" s'était fai
 
 Le Gène
 <figure class="image-block" style="float: right;">
-  <img alt="La bardelle passe la tête à travers le buisson et ..." src="{static}/images/planche_31_verso_dessin.png">
-  <figcaption style="max-width: 380px">La bardelle passe la tête à travers le buisson et ...</figcaption>
+  <img alt="La bardelle passe la tête à travers le buisson et…" src="{static}/images/planche_31_verso_dessin.png">
+  <figcaption style="max-width: 380px">La bardelle passe la tête à travers le buisson et…</figcaption>
 </figure>
 
 

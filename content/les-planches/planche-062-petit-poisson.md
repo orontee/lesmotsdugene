@@ -20,7 +20,7 @@ arrive qu’èn petié en fa neïe èn gréo  ?  pesson
 le gène
 
 ## Traduction
-Il peut arriver qu'un petit réussisse à en noyer un gros  ...  poisson
+Il peut arriver qu'un petit réussisse à en noyer un gros…  poisson
 
 Le Gène
 

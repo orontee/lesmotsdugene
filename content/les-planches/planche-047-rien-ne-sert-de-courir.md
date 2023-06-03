@@ -1,4 +1,4 @@
-Title: Rien ne sert de courir ... (planche 47)
+Title: Rien ne sert de courir… (planche 47)
 Date: 2017-03-01 16:28:32
 Modified: 2017-03-01 16:28:32
 Summary: 
@@ -26,7 +26,7 @@ Tu as bien fait ton chemin  mais tu n'as pas toujours été le premier !
 
 Le Gène
 
-Oh ! A présent, ils veulent bien manger et pour pas cher. L'engrais, c'est du poison. Le fumier ça sent mauvais. Un bon poulet, c'est trop dur. Les vaches sont toutes folles. Le pain a trop de farine ...
+Oh ! A présent, ils veulent bien manger et pour pas cher. L'engrais, c'est du poison. Le fumier ça sent mauvais. Un bon poulet, c'est trop dur. Les vaches sont toutes folles. Le pain a trop de farine…
 
 Très souvent, l'araignée marche au plafond, les pieds à la renverse !
 

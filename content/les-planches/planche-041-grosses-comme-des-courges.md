@@ -17,8 +17,8 @@ series_index: 48
 Ke tan me trûffe son grosse côme de courde ? vèn de la sèzon ma falliu fâre ina échella â ma mèra pe qui puïsse amassâ le föille de carôte pe lou câyon
 
 <figure class="image-block" style="float: right;">
-  <img alt="Il lui a fallu une echelle pour grimper sur les carottes ..." src="{static}/images/planche_41_dessin.png">
-  <figcaption style="max-width: 265px">Il lui a fallu une echelle pour grimper sur les carottes ...</figcaption>
+  <img alt="Il lui a fallu une echelle pour grimper sur les carottes…" src="{static}/images/planche_41_dessin.png">
+  <figcaption style="max-width: 265px">Il lui a fallu une echelle pour grimper sur les carottes…</figcaption>
 </figure>
 
 

@@ -18,8 +18,8 @@ series_index: 78
 ─   ne men parla pa mon gène, kan ne son ariva au grand canto de  marnan jé Fa ?  jésu.  Maria  je né pa ïu le tan de diére joséf n’étion dan le T A R R é
 
 <figure class="image-block" style="float: right;">
-  <img alt="Dis ! Jo ! sur ta mobylette ..." src="{static}/images/planche_69_dessin.png">
-  <figcaption style="max-width: 358px">Dis ! Jo ! sur ta mobylette ...</figcaption>
+  <img alt="Dis ! Jo ! sur ta mobylette…" src="{static}/images/planche_69_dessin.png">
+  <figcaption style="max-width: 358px">Dis ! Jo ! sur ta mobylette…</figcaption>
 </figure>
 
 
@@ -30,7 +30,7 @@ le gène
 
 ## Traduction
 1/   Dis !  Jo ! tu es bien rentré de la vogue, hier soir ?
-─   Ne m'en parle pas, mon pauvre Gène ! Quand on est arrivé au grand virage de Marnans, j'ai fait  : "Jésus, Marie... ". Je n'ai pas eu le temps de dire "Joseph", que nous étions dans le FOSSÉ.
+─   Ne m'en parle pas, mon pauvre Gène ! Quand on est arrivé au grand virage de Marnans, j'ai fait  : "Jésus, Marie… ". Je n'ai pas eu le temps de dire "Joseph", que nous étions dans le FOSSÉ.
 
 2/   Madame, vos tommes sont pur chèvre, au moins ?
 ─    Non, monsieur, chez nous, c'est mélangé : chèvres et biques !!!

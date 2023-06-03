@@ -18,7 +18,7 @@ Petite planche verticale assez épaisse et bordée d'écorce qui s'évase légè
 san savé se que je sàve si je sayé tô se que je sàve Pa 				le gène
 
 ## Traduction
-Sans savoir ce que je sais, si je savais tout ce que je ne sais pas ...
+Sans savoir ce que je sais, si je savais tout ce que je ne sais pas…
 
 Le Gène
 

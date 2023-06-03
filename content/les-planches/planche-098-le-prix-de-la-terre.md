@@ -22,7 +22,7 @@ le gène
 ## Traduction
 Pour y construire une maison, tu n'as pas vendu ta terre bien chère.
 
-─   J'ai vendu mon travail. Le travail doit être payé à celui qui l'a accompli... et la terre pareillement.
+─   J'ai vendu mon travail. Le travail doit être payé à celui qui l'a accompli… et la terre pareillement.
 
 Le Gène
 

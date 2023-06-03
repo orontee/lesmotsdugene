@@ -32,7 +32,7 @@ series_index: 139
 ## Traduction
 **Recto :** Il prend la grosse tête, ça lui a coupé les jambes.
 
-**Verso :** Le Toine, en allant voir sa mie, lui a dit: "Je suis vieux, grincheux, boiteux, sans le sou ... mais amoureux. Pour me débarrasser de cette vermine qui me chagrine, veux-tu bien m'épouser à la fin de l'été ?
+**Verso :** Le Toine, en allant voir sa mie, lui a dit: "Je suis vieux, grincheux, boiteux, sans le sou… mais amoureux. Pour me débarrasser de cette vermine qui me chagrine, veux-tu bien m'épouser à la fin de l'été ?
 Le Gène
 
 ## Commentaire

@@ -24,16 +24,16 @@ C'est pas parce que j'ai lâché mes coqs que tu es obligé de faire pareil avec
 Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="... les poules et les poussins" src="{static}/images/planche_97_dessins.png">
-  <figcaption style="max-width: 420px">... les poules et les poussins</figcaption>
+  <img alt="… les poules et les poussins" src="{static}/images/planche_97_dessins.png">
+  <figcaption style="max-width: 420px">… les poules et les poussins</figcaption>
 </figure>
 
 ## Commentaire
 Eugène a noté cette objurgation adressée à un autre paysan dans un alpage au col de la Bataille.
 
 <figure class="image-block" style="float: left;">
-  <img alt="Le coq ..." src="{static}/images/planche_97_dessin_gauche.png">
-  <figcaption style="max-width: 300px">Le coq ...</figcaption>
+  <img alt="Le coq…" src="{static}/images/planche_97_dessin_gauche.png">
+  <figcaption style="max-width: 300px">Le coq…</figcaption>
 </figure>
 
 

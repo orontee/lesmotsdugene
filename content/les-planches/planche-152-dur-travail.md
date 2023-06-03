@@ -36,11 +36,11 @@ Longue planche horizontale en bois sombre qui comporte huit textes les uns à c�
 3.	Tu vas bien, Léon ?
 ─  Je vais bien, je te remercie.
 ─  Dommage !  Je t'aurais prêté deux sous pour le vétérinaire !
-4.	La démangeaison, les gratouillis,  les picotements sont les trois vertus de la gale ...
+4.	La démangeaison, les gratouillis,  les picotements sont les trois vertus de la gale…
 5.	Les coffres-forts ne courent pas après les corbillards.
 6.	Le bonheur est tellement pointu qu'on ne peut pas tenir dessus !
 7.	Quand Sainte Baudille met son bonnet, berger, met ton manteau.
-─  Oui, mais il arrive que le brouillard empêche les corbeaux d'atterrir dans la plaine ...
+─  Oui, mais il arrive que le brouillard empêche les corbeaux d'atterrir dans la plaine…
 8.	Quand le merle siffle, la merlette couve.
 
 ## Commentaires

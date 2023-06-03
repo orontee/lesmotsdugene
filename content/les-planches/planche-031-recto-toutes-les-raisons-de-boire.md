@@ -20,7 +20,7 @@ Planche verticale, rectangulaire, bordée d'écorce et gravée sur les deux face
 le gène
 
 ## Traduction
-Il y a cinq bonnes raisons de boire : la première, c'est quand passe un voisin, la seconde, c'est quand j'ai la gorge en feu, la troisième, c'est pour éteindre le feu, la quatrième, c'est parce que le vin est bon ... et la dernière, c'est pour toutes les autres.
+Il y a cinq bonnes raisons de boire : la première, c'est quand passe un voisin, la seconde, c'est quand j'ai la gorge en feu, la troisième, c'est pour éteindre le feu, la quatrième, c'est parce que le vin est bon… et la dernière, c'est pour toutes les autres.
 
 Le Gène
 

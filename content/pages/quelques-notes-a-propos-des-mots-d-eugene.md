@@ -1,4 +1,4 @@
-Title: Quelques notes à propos des mots d'Eugène...
+Title: Quelques notes à propos des mots d'Eugène…
 Date: 2015-10-29 20:19:13
 Modified: 2015-11-24 11:57:23
 Slug: quelques-notes-a-propos-des-mots-d-eugene
@@ -7,7 +7,7 @@ Lang: fr
 Status: published
 Author: Brigitte Baret
 
-## L'origine...
+## L'origine…
 
 <figure class="image-block" style="float: right;">
   <img alt="Je ne suis qu&#x27;une cloche. Si toutes se mettent à sonner, quelle belle envolée ! les bouts hauts, le 9 septembre 1993 " src="{static}/images/entree.png">
@@ -39,7 +39,7 @@ Eugène a inventé sa propre phonétique. Les majuscules, les accents aigus, gra
 
 - La ponctuation est quasi inexistante.
 
-- Les points d'interrogation reviennent très souvent pour remplacer les points d'exclamations, séparer deux paragraphes, marquer un temps de pause dans la lecture du texte ou...  exprimer un doute quant à la façon dont la phrase ou le mot risque d'être compris !
+- Les points d'interrogation reviennent très souvent pour remplacer les points d'exclamations, séparer deux paragraphes, marquer un temps de pause dans la lecture du texte ou…  exprimer un doute quant à la façon dont la phrase ou le mot risque d'être compris !
 
 - Les accents sont des indications de prononciations. L'accent circonflexe qu'Eugène appelle "l'accent chapeau de paille" indique un son grave et/ou une tonique : le tréma, souligne normalement la prononciation bien distincte de deux voyelles contigües.
 

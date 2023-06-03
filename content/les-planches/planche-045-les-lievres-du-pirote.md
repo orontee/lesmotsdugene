@@ -27,7 +27,7 @@ le gène
 
 
 ## Traduction
-Je venais de rafistoler une paire de vieilles galoches. Je descendais le "Pirôte". Les lièvres montaient tout droit vers moi. Même pas une seule pierre ! Je leur lance une poignée de poix ... qui se colle juste sur leurs nez. La lièvre se retourne, se cogne contre le mâle qui la suivait. Je les assomme avec mes galoches et les ramène directement pour la casserole de la Marie...
+Je venais de rafistoler une paire de vieilles galoches. Je descendais le "Pirôte". Les lièvres montaient tout droit vers moi. Même pas une seule pierre ! Je leur lance une poignée de poix… qui se colle juste sur leurs nez. La lièvre se retourne, se cogne contre le mâle qui la suivait. Je les assomme avec mes galoches et les ramène directement pour la casserole de la Marie…
 
 Le Gène
 <figure class="image-block" style="float: right;">

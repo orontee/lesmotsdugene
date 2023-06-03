@@ -43,7 +43,7 @@ Le Gène
 **Verso ** : Jules a trop chargé la mule, il a dégringolé en roulant cul par dessus tête dans le coteau.
 
 ## Commentaire
-Eugène s'est amusé avec les noms de noix ( la Franquette, la Parisienne...). La "mâtru" correspond à la petite noix d'un arbre qui n'a pas été greffé. Le terme "mâtru" était plutôt employé pour désigner un petit garçon.
+Eugène s'est amusé avec les noms de noix ( la Franquette, la Parisienne…). La "mâtru" correspond à la petite noix d'un arbre qui n'a pas été greffé. Le terme "mâtru" était plutôt employé pour désigner un petit garçon.
 Les termes "cupeletta" "cûpela" et "debarieula" sont des régionalismes qui perdent leur précision dans la traduction.
 L'expression courante "avoir trop chargé la mule" est une métaphore pour désigner un excès de consommation d'alcool.
 

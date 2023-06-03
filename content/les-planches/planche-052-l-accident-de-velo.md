@@ -27,7 +27,7 @@ le gène
 ## Traduction
 Mais qu'est-ce qui t'est arrivé, Henri, l'autre jour ?
 ─  Ne m'en parle pas ! Je descendais à bicyclette dans la pente du lieu-dit la "Poya".
- La Marie gardait ses chèvres. Elle était assise sur le sentier. Les freins ont lâché. J'ai alors laissé traîner mes galoches... Cela n'a rien fait ! Et je lui suis rentré en plein dedans !!!
+ La Marie gardait ses chèvres. Elle était assise sur le sentier. Les freins ont lâché. J'ai alors laissé traîner mes galoches… Cela n'a rien fait ! Et je lui suis rentré en plein dedans !!!
 
 Le Gène
 

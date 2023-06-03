@@ -20,7 +20,7 @@ a veyo virié ton méno ou tô de me fille (fifle?) ou le ina brize, cºoratié 
 le gène.
 
 ## Traduction
-Je vois tourner ton garçon autour de mes filles, il est un peu coureur ... Si tu ne te fiches pas de tout, mets lui une ENTRAVE !
+Je vois tourner ton garçon autour de mes filles, il est un peu coureur… Si tu ne te fiches pas de tout, mets lui une ENTRAVE !
 
 Le Gène
 
