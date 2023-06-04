@@ -40,9 +40,10 @@ z’eureille mé sûto avé lou zeu le gène
 
 ### Recto
 
-Durant toute la lunaison, il n'a fait que deux jours sans pluie.
+─ Durant toute la lunaison, il n'a fait que deux jours sans pluie.
 
-─ Que veux-tu ! Le Père Éternel est comme moi, trop vieux, il ne sait plus ce qu'il cherche !!!
+─ Que veux-tu ! Le Père Éternel est comme moi, trop vieux, il ne sait
+  plus ce qu'il cherche !!!
 
 ### Verso
 
@@ -56,11 +57,11 @@ Le Gène
 
 ## Commentaire
 
-<p style="text-align:justify;">Les réflexions sur le temps et la
-phrase « que votié le père éternèl i come mi trop vieux ou ne sa plu
-se kou zi cherche » (Que veux-tu, le Père Eternel est comme moi, trop
-vieux, il ne sait plus ce qu'il cherche) se disait assez fréquemment…
-et se retrouve sur plusieurs planches.</p>
+Les réflexions sur le temps et la phrase « que votié le père éternèl i
+come mi trop vieux ou ne sa plu se kou zi cherche » (Que veux-tu, le
+Père Eternel est comme moi, trop vieux, il ne sait plus ce qu'il
+cherche) se disait assez fréquemment…  et se retrouve sur plusieurs
+planches.
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_33.mp4" type="video/mp4">

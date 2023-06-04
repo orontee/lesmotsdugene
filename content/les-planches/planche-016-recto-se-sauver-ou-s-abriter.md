@@ -21,7 +21,8 @@ marche.</p>
 
 ## Texte en patois
 
-pe te sôtre dou mové tan te fô la creyanse le tôpé ou de grandâ jambà ou te mettà â l’ourri dou vent è à l’assoute de la plève
+pe te sôtre dou mové tan te fô la creyanse le tôpé ou de grandâ jambà
+ou te mettà â l’ourri dou vent è à l’assoute de la plève
 
 <figure class="image-block" style="float: right;">
   <img alt="Le vent les pousse" src="{static}/images/planche_16_recto_detail_dessin.png">
@@ -38,9 +39,11 @@ l'abri de la pluie.
 
 ## Commentaire
 
-Cette maxime pleine de bon sens permet à Eugène de graver les deux termes « l'ourri » et « l'assoute » qui signifient tout deux « l'abri » mais chacun dans des circonstances différentes. C'est en même temps une réflexion personnelle qui interroge sur un choix philosophique fondamental.
-
-
+Cette maxime pleine de bon sens permet à Eugène de graver les deux
+termes « l'ourri » et « l'assoute » qui signifient tout deux
+« l'abri » mais chacun dans des circonstances différentes. C'est en
+même temps une réflexion personnelle qui interroge sur un choix
+philosophique fondamental.
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_16.mp4" type="video/mp4">

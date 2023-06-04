@@ -34,12 +34,11 @@ qu'il est une brave bête.
 
 ## Commentaire
 
-<p style="text-align:justify;">Cette planche a été réalisée pour être
-exposée lors d'une manifestation organisée par le Crédit Agricole.
-C'est une « brave femme » de sa connaissance qui a inspiré à Eugène
-cette maxime. Elle avait été arrêtée par les gendarmes sur la route à
-cause d'un phare cassé et se vantait d'avoir réussi à les
-amadouer.</p>
+Cette planche a été réalisée pour être exposée lors d'une
+manifestation organisée par le Crédit Agricole.  C'est une « brave
+femme » de sa connaissance qui a inspiré à Eugène cette maxime. Elle
+avait été arrêtée par les gendarmes sur la route à cause d'un phare
+cassé et se vantait d'avoir réussi à les amadouer.</p>
 
 <video width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_4.mp4" type="video/mp4">

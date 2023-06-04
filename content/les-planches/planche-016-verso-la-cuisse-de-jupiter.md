@@ -24,7 +24,8 @@ dessin représentant un personnage masculin.</p>
 
 ## Texte en patois
 
-ta planchà i la côésse de jupitèr. i bien d’ètre sortï de la côésse de jupitèr mè fô avè la jamba finâ lou pièd legé è lou brâs long
+ta planchà i la côésse de jupitèr. i bien d’ètre sortï de la côésse de
+jupitèr mè fô avè la jamba finâ lou pièd legé è lou brâs long
 
 le gène
 
