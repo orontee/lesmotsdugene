@@ -29,7 +29,7 @@ commande](https://aws.amazon.com/fr/cli/) :
 $ make rsync_upload
 ```
 
-Le site est consultable à l'adresse https://lesmotsdugene.alwaysdata.net/.
+Le site est consultable à l'adresse https://lesmotsdugene.fr.
 
 ## Notes
 
