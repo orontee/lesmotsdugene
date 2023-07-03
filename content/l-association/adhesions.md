@@ -14,3 +14,8 @@ invitons à nous rejoindre.
 
 - Les cotisations de soutien sont laissées à votre appréciation mais
   doivent être supérieures au double de la cotisation normale.
+
+Contactez-nous à [l'adresse de
+l'association]({filename}/pages/contact.md) pour adhérer, renouveler
+votre adhésion ou simplement obtenir plus d'information sur notre
+association.
