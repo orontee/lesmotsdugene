@@ -45,6 +45,7 @@ houx.
 Les deux trous indiquent certainement que cette planche fut suspendue
 vers le lieu du « conflit » pour être lu par le voisin concerné.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_175.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_175.mp4" type="video/mp4">
 </video>

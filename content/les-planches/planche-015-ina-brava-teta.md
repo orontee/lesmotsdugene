@@ -45,6 +45,7 @@ trébuché manquant de tomber du « gerbier ».
 
 Cette scène reste très présente dans la mémoire d'Eugène.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_15.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_15.mp4" type="video/mp4">
 </video>

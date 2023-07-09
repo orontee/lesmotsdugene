@@ -36,6 +36,7 @@ Eugène évoque là un ancien voisin du quartier des Bouilleaux que l'on
 trouvait un peu simplet mais qui savait se révéler pourtant très malin
 et très efficace dans la négociation des prix.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_62.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_62.mp4" type="video/mp4">
 </video>

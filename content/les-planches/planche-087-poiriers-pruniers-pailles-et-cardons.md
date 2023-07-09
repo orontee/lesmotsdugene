@@ -58,6 +58,7 @@ des fruits puis celui d'une chèvre. À gauche, est gravé le nombre
 - Les « pailles et des cardons » donnent l'image des jambes toutes
   blanches que l'on redécouvre au début du printemps.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_87.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_87.mp4" type="video/mp4">
 </video>

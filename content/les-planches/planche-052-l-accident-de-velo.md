@@ -57,6 +57,7 @@ Cette histoire est véridique et a été racontée par une voisine.
 « L'ensso » est une pente assez raide, la « Poya » est un lieu-dit de
 la commune de Viriville.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_52.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_52.mp4" type="video/mp4">
 </video>

@@ -39,6 +39,7 @@ Le « javanais » symbolisait un langage étranger incompréhensible et le
 « Javanère » est, en conséquence, le pays des inventions un peu folles
 et d'une imagination débridée.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_135-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_135-2.mp4" type="video/mp4">
 </video>

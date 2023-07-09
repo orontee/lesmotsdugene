@@ -36,6 +36,7 @@ Le « Patron des mal habillés » désigne le soleil qui sait réchauffer
 les pauvres gens trop peu vêtus. Expression reprise sur de nombreuses
 planches.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_144.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_144.mp4" type="video/mp4">
 </video>

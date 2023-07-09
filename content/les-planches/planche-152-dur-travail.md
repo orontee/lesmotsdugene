@@ -93,12 +93,14 @@ un trait.</p>
 
 <div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_152t1_et_t2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_152t1_et_t2.mp4" type="video/mp4">
 </video>
 </div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_152t3_et_t4.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_152t3_et_t4.mp4" type="video/mp4">
 </video>
 </div>
@@ -108,12 +110,14 @@ un trait.</p>
 
 <div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_152t5_et_t6.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_152t5_et_t6.mp4" type="video/mp4">
 </video>
 </div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_152t7.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_152t7.mp4" type="video/mp4">
 </video>
 </div>
@@ -121,6 +125,7 @@ un trait.</p>
 
 <div style="display: table; clear: both;"></div>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_152t8_.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_152t8_.mp4" type="video/mp4">
 </video>

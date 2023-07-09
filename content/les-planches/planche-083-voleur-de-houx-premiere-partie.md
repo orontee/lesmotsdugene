@@ -49,6 +49,7 @@ qu'Eugène a gravé avec un soin tout particulier cette planche et la
 [planche
 175]({filename}/les-planches/planche-175-voleur-de-houx-seconde-partie.md).
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_83.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_83.mp4" type="video/mp4">
 </video>

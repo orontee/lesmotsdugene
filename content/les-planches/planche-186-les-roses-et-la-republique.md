@@ -48,6 +48,7 @@ oubliée derrière d'autres matériaux dans le garage d'Eugène.
 avoir eu une vie ou une période de vie, facile, sans désagrément ni
 travail trop pénible.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_186.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_186.mp4" type="video/mp4">
 </video>

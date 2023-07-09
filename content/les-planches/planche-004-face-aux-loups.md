@@ -40,6 +40,7 @@ femme » de sa connaissance qui a inspiré à Eugène cette maxime. Elle
 avait été arrêtée par les gendarmes sur la route à cause d'un phare
 cassé et se vantait d'avoir réussi à les amadouer.</p>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_4.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_4.mp4" type="video/mp4">
 </video>

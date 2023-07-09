@@ -58,6 +58,7 @@ printemps.
 Les « buïsonnna » correspondent à un ensemble de buissons et le
 « Kézon » à une haie très épaisse.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_105-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_105-2.mp4" type="video/mp4">
 </video>

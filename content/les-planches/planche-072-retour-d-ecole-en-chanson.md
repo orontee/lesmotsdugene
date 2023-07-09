@@ -46,6 +46,7 @@ de Roybon à pied.
 Le « cuzon » est un endroit où on entreposait les fagots derrière la
 cheminée.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_72chantee.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_72chantee.mp4" type="video/mp4">
 </video>

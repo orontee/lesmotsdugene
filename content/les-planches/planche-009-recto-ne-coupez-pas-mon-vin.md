@@ -36,6 +36,7 @@ Eugène reprend des phrases lancées avec humour entre convives au cours
 des repas de « batteuses » qui réunissaient une douzaine de personnes
 après les travaux partagés.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_9.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_9.mp4" type="video/mp4">
 </video>

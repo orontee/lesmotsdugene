@@ -47,6 +47,7 @@ Le verbe « galocher » vient bien sûr du mot « galoches », chaussures à
 semelles de bois. Il signifie : « lever le pied et montrer le bout de
 ses galoches pour tenir un animal en respect ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_137.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_137.mp4" type="video/mp4">
 </video>

@@ -45,6 +45,7 @@ termes « l'ourri » et « l'assoute » qui signifient tout deux
 même temps une réflexion personnelle qui interroge sur un choix
 philosophique fondamental.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_16.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_16.mp4" type="video/mp4">
 </video>

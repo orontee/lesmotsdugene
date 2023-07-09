@@ -52,6 +52,7 @@ Le dernier des mots qui reprend la finale homophone « asse » et dont
 la première partie est remplacée par un point d'interrogation évoque
 pudiquement l'habitude de « courir après les filles ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_49.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_49.mp4" type="video/mp4">
 </video>

@@ -47,13 +47,15 @@ chacun des deux textes.
 
 <div>
   <div style="float: left; width: 50%;">
-    <video width="320" height="240" controls>
+    <video width="320" height="240" controls
+      poster="{static}/images/thumbnails/video_25.jpg">
       <source src="https://d1njpgd0ygatdn.cloudfront.net/video_25.mp4" type="video/mp4">
     </video>
   </div>
 
   <div style="float: left; width: 50%;">
-    <video width="320" height="240" controls>
+    <video width="320" height="240" controls
+      poster="{static}/images/thumbnails/video_25_2eme_partie.jpg">
       <source src="https://d1njpgd0ygatdn.cloudfront.net/video_25_2eme_partie.mp4" type="video/mp4">
     </video>
   </div>

@@ -60,12 +60,14 @@ qu'ils ne soient pas oubliés.
 
 <div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_150.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_150.mp4" type="video/mp4">
 </video>
 </div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_150bis.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_150bis.mp4" type="video/mp4">
 </video>
 </div>

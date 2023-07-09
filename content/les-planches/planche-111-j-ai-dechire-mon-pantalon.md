@@ -32,6 +32,7 @@ avec leur musicalité : « braille » (pantalons), « dépenaille »
 (déchirer, partir en lambeaux), « Chatraille » (petit rapiéçage,
 raccommodage rapide).
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_111.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_111.mp4" type="video/mp4">
 </video>

@@ -39,7 +39,8 @@ Petite phrase entendue plusieurs fois au cours des repas de
 « batteuse » en 1969, au moment où des hommes ont marché pour la
 première fois sur la lune.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_48-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_48-2.mp4" type="video/mp4">
 </video>
 

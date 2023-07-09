@@ -49,6 +49,7 @@ printemps, il l'avait alors trouvée séduisante.
   <figcaption style="max-width: 300px">Papillons volages</figcaption>
 </figure>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_85.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_85.mp4" type="video/mp4">
 </video>

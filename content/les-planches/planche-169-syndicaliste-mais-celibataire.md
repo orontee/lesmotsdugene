@@ -39,6 +39,7 @@ lui où il vivait avec sa mère. La réflexion d'un de ses amis à ce
 propos, lui a inspiré cette planche et ce jeu de mots entre les
 homophones « mère » et « mer ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_169.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_169.mp4" type="video/mp4">
 </video>

@@ -53,6 +53,7 @@ petite maxime qui invite à l'optimisme.
   <figcaption style="max-width: 324px"></figcaption>
 </figure>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_68.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_68.mp4" type="video/mp4">
 </video>

@@ -59,10 +59,12 @@ Une « Piana » est une terre argilo-calcaire très fertile mais très
 dure à labourer. On ne peut donc que la travailler « piano »
 (lentement).
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_64debut-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_64debut-2.mp4" type="video/mp4">
 </video>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_64fin-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_64fin-2.mp4" type="video/mp4">
 </video>

@@ -33,6 +33,7 @@ du syndicat agricole très connu à l'époque (Fréjus Michon) qui l'a
 énoncée à Eugène. Les agriculteurs subissaient alors une longue
 période de pluie.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_146.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_146.mp4" type="video/mp4">
 </video>

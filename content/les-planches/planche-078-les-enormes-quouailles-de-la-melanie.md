@@ -42,6 +42,7 @@ d'Eugène et bien connu pour son imagination, son sens de la répartie
 et de l'hyperbole.
 
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_78.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_78.mp4" type="video/mp4">
 </video>

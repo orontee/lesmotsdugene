@@ -48,6 +48,7 @@ constituait leur principale nourriture.
 « Brâmafan » ou « brame-la-faim » est un terme suffisamment explicite
 et imagé.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_89.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_89.mp4" type="video/mp4">
 </video>

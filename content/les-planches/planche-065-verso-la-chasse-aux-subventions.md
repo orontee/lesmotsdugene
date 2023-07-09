@@ -35,6 +35,7 @@ Eugène a été longtemps conseiller municipal à Viriville. Il nous donne
 là, à sa façon, la recette d'une tactique sans doute bien rodée pour
 obtenir des subventions pour la commune.
 
-<video width="320" height="240" controls> 
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_65bis.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_65bis.mp4" type="video/mp4"> 
 </video>

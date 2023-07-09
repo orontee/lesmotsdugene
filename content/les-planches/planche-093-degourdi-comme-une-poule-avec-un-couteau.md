@@ -45,6 +45,7 @@ Le Gène
 Expressions couramment employées par les « anciens » agacés par les
 maladresses des jeunes apprentis.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_93.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_93.mp4" type="video/mp4">
 </video>

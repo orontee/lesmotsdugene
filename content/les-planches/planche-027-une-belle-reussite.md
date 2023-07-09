@@ -37,6 +37,7 @@ Ce dialogue est une réponse à un agriculteur fier de sa réussite mais
 qui avait eu la chance au départ, d'hériter d'une belle ferme déjà
 bien installée.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_27.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_27.mp4" type="video/mp4">
 </video>

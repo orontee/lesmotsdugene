@@ -96,12 +96,14 @@ pas encore ajouter des dessins.
 
 <div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_153_h1_h2_h3-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_153_h1_h2_h3-2.mp4" type="video/mp4">
 </video>
 </div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_153_h4-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_153_h4-2.mp4" type="video/mp4">
 </video>
 </div>
@@ -111,12 +113,14 @@ pas encore ajouter des dessins.
 
 <div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_153_h5_h6-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_153_h5_h6-2.mp4" type="video/mp4">
 </video>
 </div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_153_h7-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_153_h7-2.mp4" type="video/mp4">
 </video>
 </div>

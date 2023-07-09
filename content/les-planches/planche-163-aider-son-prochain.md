@@ -39,6 +39,7 @@ ne pas se moquer des autres.
 Il est certes toujours plus valorisant d'aider un riche. Aider un
 « pauvre bougre » est (était ?) plus « ordinaire ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_163.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_163.mp4" type="video/mp4">
 </video>

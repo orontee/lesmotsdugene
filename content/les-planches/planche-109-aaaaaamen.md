@@ -31,6 +31,7 @@ Le Gène
 
 Jeu de mots un peu sarcastique entre « Amen » et « amène ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_109-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_109-2.mp4" type="video/mp4">
 </video>

@@ -40,6 +40,7 @@ En ce qui concerne le « cor à pompe », ici, la pompe désigne le piston
 de l'instrument. Jeu de mots avec le cor aux pieds et les « pompes »
 désignant des chaussures en langage familier.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_124.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_124.mp4" type="video/mp4">
 </video>

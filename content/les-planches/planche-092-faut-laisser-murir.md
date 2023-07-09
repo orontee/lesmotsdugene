@@ -37,6 +37,7 @@ le texte était la retranscription exacte des phrases en patois
 entendues autrefois, sans apport personnel. Eugène n'osait pas encore
 y inclure des dessins.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_92.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_92.mp4" type="video/mp4">
 </video>

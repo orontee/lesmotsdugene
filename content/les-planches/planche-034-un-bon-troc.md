@@ -38,6 +38,7 @@ Plaisanterie sur les « chèvres à grande queue ».
 Louis était un voisin d'Eugène, bien connu à Viriville sous le
 sobriquet de « Grand Louis ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_34.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_34.mp4" type="video/mp4">
 </video>

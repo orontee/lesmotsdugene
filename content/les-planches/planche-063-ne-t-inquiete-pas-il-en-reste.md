@@ -39,6 +39,7 @@ aux visiteurs citadins.
   <figcaption style="max-width: 320px">les vaches et les veaux en alpages</figcaption>
 </figure>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_63.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_63.mp4" type="video/mp4">
 </video>

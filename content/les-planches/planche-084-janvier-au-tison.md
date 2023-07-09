@@ -54,6 +54,7 @@ Cette planche reprend un des dictons des Chambarans permettant de
 prévoir empiriquement le temps.  Plus sobrement : « Si il fait soleil
 en janvier mais froid en février, alors le printemps sera tardif ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_84.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_84.mp4" type="video/mp4">
 </video>

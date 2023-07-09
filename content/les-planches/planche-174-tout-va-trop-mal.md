@@ -44,14 +44,17 @@ s'étaient montrés critiques, très négatifs et s'étaient beaucoup
 plaints. C'est la mère d'Eugène qui prononçait souvent cette phrase :
 « Il y en a toujours pour trouver que le pain a trop de farine ! ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_174.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_174.mp4" type="video/mp4">
 </video>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_174debut.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_174debut.mp4" type="video/mp4">
 </video>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_174fin.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_174fin.mp4" type="video/mp4">
 </video>

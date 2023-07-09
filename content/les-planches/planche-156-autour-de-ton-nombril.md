@@ -59,6 +59,7 @@ Le Gène
 Est-ce la découpe originale ou la position du nœud dans le bois qui a
 inspiré Eugène ???
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_156.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_156.mp4" type="video/mp4">
 </video>

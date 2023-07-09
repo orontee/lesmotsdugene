@@ -60,6 +60,7 @@ Eugène signe « trois fois » pour chacune des trois historiettes, la
 première se trouvant sur la première face de la planche.
 
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_134bis.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_134bis.mp4" type="video/mp4">
 </video>

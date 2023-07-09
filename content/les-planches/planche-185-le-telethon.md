@@ -32,6 +32,7 @@ travaux d'Eugène à l'occasion du Téléthon. L'entrée était gratuite,
 mais les visiteurs étaient ainsi incités à la manière d'Eugène à
 verser une participation.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_185.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_185.mp4" type="video/mp4">
 </video>

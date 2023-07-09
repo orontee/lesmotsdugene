@@ -46,6 +46,7 @@ travaillent dur, mais parfois se rebellent…
 Dans le second texte, Eugène s'amuse de la mauvaise foi d'un chasseur
 maladroit.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_65.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_65.mp4" type="video/mp4">
 </video>

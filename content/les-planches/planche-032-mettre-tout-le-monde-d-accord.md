@@ -79,13 +79,15 @@ discrètement pour se mettre en sécurité.
 
 <div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_32.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_32.mp4" type="video/mp4">
 </video>
 </div>
 
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_32bis.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_32bis.mp4" type="video/mp4">
 </video>
 </div>

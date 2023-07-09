@@ -39,6 +39,7 @@ Le Gène
 Eugène décrit de manière imagée le temps et la forme de la lune juste
 avant une période de pleine lune.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_119.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_119.mp4" type="video/mp4">
 </video>

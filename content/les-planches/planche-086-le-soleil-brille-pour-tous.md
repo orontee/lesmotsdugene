@@ -41,6 +41,7 @@ C'est la forme de la planche offerte par un ami, qui a inspiré ce
 texte optimiste et généreux.
 
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_86.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_86.mp4" type="video/mp4">
 </video>

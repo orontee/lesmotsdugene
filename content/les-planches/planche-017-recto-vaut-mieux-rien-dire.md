@@ -59,6 +59,7 @@ C'est pas du brouillard toute cette fumée !  C'est bien du feu !
 - « C'est bien du feu ! » est le raccourci de « Il en reste toujours
   quelque chose » ou « Il n'y a pas de fumée sans feu ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_17.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_17.mp4" type="video/mp4">
 </video>

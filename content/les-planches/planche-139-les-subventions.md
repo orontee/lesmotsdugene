@@ -37,6 +37,7 @@ Le Gène
 L'argent mentionné ici correspond aux subventions attribuées aux
 cultivateurs victimes de catastrophes naturelles.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_139.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_139.mp4" type="video/mp4">
 </video>

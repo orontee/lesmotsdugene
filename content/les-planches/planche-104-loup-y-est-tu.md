@@ -46,6 +46,7 @@ C'est après avoir vu à la télévision, Ségolène Royale, alors candidate
 jouant sur les deux sens du mot « loup ». Ségolène Royale participait
 alors à une fête costumée et portait ce fameux masque sur les yeux.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_104.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_104.mp4" type="video/mp4">
 </video>

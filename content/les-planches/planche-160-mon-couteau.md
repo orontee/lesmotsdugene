@@ -41,6 +41,7 @@ couteau mal aiguisé. Ce petit dialogue est un bon exemple des petites
 plaisanteries échangées au cours des regroupements entre voisins et
 membres de la même famille pour les travaux agricoles.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_160.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_160.mp4" type="video/mp4">
 </video>

@@ -48,6 +48,7 @@ Les trois parties du texte écrites en lettres de plus en plus petites
 indiquent qu'il faille les lires en baissant progressivement le son,
 comme pour tester le malentendant.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_181.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_181.mp4" type="video/mp4">
 </video>

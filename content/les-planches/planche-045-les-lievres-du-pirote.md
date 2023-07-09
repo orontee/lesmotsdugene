@@ -58,10 +58,12 @@ ami, « raconteur d'histoires » de Marnans, bien connu pour son
 aptitude à l'extrapolation.
 
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_45.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_45.mp4" type="video/mp4">
 </video>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_45fin_avec_commentaire-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_45fin_avec_commentaire-2.mp4" type="video/mp4">
 </video>

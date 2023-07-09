@@ -50,6 +50,7 @@ Le Gène
 
 Le quatrièmement fait bien sûr référence à la sexualité.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_71.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_71.mp4" type="video/mp4">
 </video>

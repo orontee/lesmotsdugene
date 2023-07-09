@@ -34,6 +34,7 @@ Les « truffes » sont des pommes de terre. Ce que l'on appelait
 « l'ordienère » était la bonne cuisine simple et variée de tous les
 jours. Ce terme n'était pas péjoratif, au contraire.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_121.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_121.mp4" type="video/mp4">
 </video>

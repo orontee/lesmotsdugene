@@ -32,6 +32,7 @@ Le Gène
 Pour Eugène, cette observation s'applique bien sûr aux hommes et aux
 femmes tout autant qu'aux caprins.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_94.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_94.mp4" type="video/mp4">
 </video>

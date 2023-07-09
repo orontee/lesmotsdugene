@@ -38,7 +38,8 @@ mère. C'est un agriculteur des coteaux de St Marcellin qui s'était
 exprimé ainsi, alors que le côté sud des Chambarans, où se situe le
 quartier des Bouilleaux est encore plus difficile à cultiver.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_157.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_157.mp4" type="video/mp4">
 </video>
 

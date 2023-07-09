@@ -40,6 +40,7 @@ un stagiaire camerounais à propos de la valeur de la terre. Pour
 celui-ci, comme pour Eugène, elle ne vaut que par le travail qu'on y
 met, et la nature ne devrait pas être privatisée. </p>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_8.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_8.mp4" type="video/mp4">
 </video>

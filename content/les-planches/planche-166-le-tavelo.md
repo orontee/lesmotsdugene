@@ -38,6 +38,7 @@ Jeu de mots en patois entre « tàvelle » équivalent de
 en bois comme celle qu'Eugène a suspendue sous cette planche en forme
 de tête.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_166.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_166.mp4" type="video/mp4">
 </video>

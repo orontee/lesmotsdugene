@@ -33,6 +33,7 @@ Une « jaunasse » est une fiente. Le plus souvent, on donnait à picorer
 aux poules sur le seuil des maisons ce qui occasionnait parfois
 quelques « dégâts » pouvant s'avérer dangereux pour la santé !
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_10bis-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_10bis-2.mp4" type="video/mp4">
 </video>

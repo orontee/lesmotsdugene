@@ -68,13 +68,16 @@ Le « trop » qui pourrit est l'argent, bien entendu.
 
 <div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video
+ poster="{static}/images/thumbnails/video_1bis.jpg"
+ width="320" height="240" controls>
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_1bis.mp4" type="video/mp4">
 </video>
 </div>
 
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_1_recto.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_1_recto.mp4" type="video/mp4">
 </video>
 </div>

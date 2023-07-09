@@ -40,6 +40,7 @@ laquelle il avait été injustement remis en question par d'autres
 participants. Il traduit ainsi son sentiment que ceux qui en font le
 moins sont souvent les premiers à critiquer.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_56.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_56.mp4" type="video/mp4">
 </video>

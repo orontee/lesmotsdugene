@@ -38,6 +38,7 @@ surtout rappeler l'importance de pourvoir les jeunes d'une bonne
 Ce texte lui permet également de montrer quelques objets de sa
 collection d'outils agricoles.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_13.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_13.mp4" type="video/mp4">
 </video>

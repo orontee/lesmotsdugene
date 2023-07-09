@@ -39,6 +39,7 @@ de saison.  Charbonnier était le surnom donné à un M. Charpenay, au
 physique très reconnaissable (il était petit et trapu), qui avait
 exercé cette profession.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_39-3.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_39-3.mp4" type="video/mp4">
 </video>

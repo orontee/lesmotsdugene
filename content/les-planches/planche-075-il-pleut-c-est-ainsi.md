@@ -46,6 +46,7 @@ d'Eugène disait parfois. Cela n'a pas de signification très précise
 mais exprime une certaine forme de fatalisme qu'Eugène traduit par
 « C'est comme ça ! » ou « Comme ci, comme ça ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_75.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_75.mp4" type="video/mp4">
 </video>

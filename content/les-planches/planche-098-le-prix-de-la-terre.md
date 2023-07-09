@@ -41,6 +41,7 @@ spéculation.
 D'autre part, il vaut mieux cultiver de bonnes relations de voisinage
 que d'essayer de réaliser une trop bonne affaire.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_98.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_98.mp4" type="video/mp4">
 </video>

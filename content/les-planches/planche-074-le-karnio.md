@@ -41,6 +41,7 @@ toute l'année.
 
 C'est lui-même à 20 ans qu'Eugène décrit ainsi.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_74.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_74.mp4" type="video/mp4">
 </video>

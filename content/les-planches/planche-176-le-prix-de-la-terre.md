@@ -50,6 +50,7 @@ dernier mot.
 Le maïs se disait autrefois en patois « trôqui », car l'idée s'était
 répandue qu'il provenait de Turquie (!?).
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_176-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_176-2.mp4" type="video/mp4">
 </video>

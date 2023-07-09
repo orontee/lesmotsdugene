@@ -59,6 +59,7 @@ chaînes de montre ; il peut ainsi être assimilé à une montre à gousset.
 « perdre la tête », déraisonner, avoir le cerveau détraqué comme une
 vieille pendule.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_114.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_114.mp4" type="video/mp4">
 </video>

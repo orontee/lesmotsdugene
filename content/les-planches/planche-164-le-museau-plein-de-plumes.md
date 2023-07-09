@@ -48,6 +48,7 @@ Comme sur chaque planche, les lettres initiales des mots Renâ, Le et
 Plûmou sont gravées en majuscules pour le seul plaisir de tracer des
 belles courbes.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_164-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_164-2.mp4" type="video/mp4">
 </video>

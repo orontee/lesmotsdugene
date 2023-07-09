@@ -33,6 +33,7 @@ Chez lui, on ne reçoit pas n'importe qui !
 Ces galoches proviennent de la collection d'Eugène dénichée dans les
 brocantes de la région.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_51.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_51.mp4" type="video/mp4">
 </video>

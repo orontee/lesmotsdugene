@@ -49,6 +49,7 @@ atomique. Il n'y aurait plus personne sur terre ! »
 A noter, l'expression « vous qui voyez le ciel et la terre » pour nous
 laisser imaginer la position des amoureux.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_31bis.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_31bis.mp4" type="video/mp4">
 </video>

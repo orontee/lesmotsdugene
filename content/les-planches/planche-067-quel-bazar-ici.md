@@ -30,6 +30,7 @@ avait été un peu choquée par l'état de la cuisine d'Eugène, alors que
 celui-ci était trop accaparé par la réparation d'une machine pour
 faire correctement le ménage dans sa maison.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_67.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_67.mp4" type="video/mp4">
 </video>

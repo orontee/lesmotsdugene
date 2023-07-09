@@ -44,6 +44,7 @@ et s'en prit à Eugène qui n'y était pour rien. Les termes de cette
 invective injuste, Eugène en sourit encore, comme s'ils avaient été
 prononcés hier.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_167.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_167.mp4" type="video/mp4">
 </video>

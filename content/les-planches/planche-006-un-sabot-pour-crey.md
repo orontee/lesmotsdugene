@@ -35,6 +35,7 @@ Cette plaisanterie était fréquemment réitérée pour se moquer gentiment
 des personnes qui avaient de grands pieds.
 
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_6.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_6.mp4" type="video/mp4">
 </video>

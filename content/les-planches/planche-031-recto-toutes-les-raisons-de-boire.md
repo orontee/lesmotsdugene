@@ -37,6 +37,7 @@ Cette petite énumération édifiante a été rapportée à Eugène par un
 voisin originaire de Bourgogne. Les dernières raisons sont pleines de
 malicieux sous-entendus.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_31.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_31.mp4" type="video/mp4">
 </video>

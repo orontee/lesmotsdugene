@@ -35,6 +35,7 @@ Petite variation à partir du dicton : « S'il pleut à la Saint Médard,
 il pleut quarante jours plus tard, à moins que Saint Barnabé ne vienne
 tout arranger ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_149.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_149.mp4" type="video/mp4">
 </video>

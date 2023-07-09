@@ -59,6 +59,7 @@ métaphores que l'on pourrait traduire par les équivalents : « on ne se
 cache rien entre amis » et « informe toi avant de décider quoique se
 soit ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_102.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_102.mp4" type="video/mp4">
 </video>

@@ -38,6 +38,7 @@ proposer de leur donner un journal à lire pour les occuper…
 Eugène a amélioré la proposition en rajoutant la couleur verte pour
 pouvoir mieux les abuser.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_183.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_183.mp4" type="video/mp4">
 </video>

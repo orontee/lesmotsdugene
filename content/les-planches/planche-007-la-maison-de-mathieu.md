@@ -30,6 +30,7 @@ moi, je n'y ai trouvé qu'un bon diable.
 Se disait couramment. Jeu avec les expressions courantes : « Maison du
 bon Dieu » et « Un bon diable ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_7.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_7.mp4" type="video/mp4">
 </video>

@@ -46,6 +46,7 @@ eu du mal à s'habituer à cet engin : il leur arrivait de crier
 faisaient avec le cheval et il n'était pas rare de les voir défoncer
 les clôtures.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_42.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_42.mp4" type="video/mp4">
 </video>

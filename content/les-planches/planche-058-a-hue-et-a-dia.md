@@ -50,6 +50,7 @@ Le Gène
 
 Réflexion entendue et reproduite telle quelle par Eugène.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_58-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_58-2.mp4" type="video/mp4">
 </video>

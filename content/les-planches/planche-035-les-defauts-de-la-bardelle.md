@@ -47,6 +47,7 @@ Une bardelle est une vache de deux couleurs.
 Eugène s'est souvenu de ce dialogue entre lui-même et un maquignon,
 réputé pour son redoutable talent de négociateur.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_35-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_35-2.mp4" type="video/mp4">
 </video>

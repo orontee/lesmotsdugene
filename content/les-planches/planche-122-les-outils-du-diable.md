@@ -39,6 +39,7 @@ permet à Eugène d'exposer quelques uns de ses vieux outils. Le texte
 s'en inspire et s'en amuse. Sacré diable qui vous pousse sans cesse à
 travailler !!!
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_122.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_122.mp4" type="video/mp4">
 </video>

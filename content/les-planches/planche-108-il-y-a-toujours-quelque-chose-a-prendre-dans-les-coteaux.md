@@ -41,6 +41,7 @@ mais il ne l'a pas gardée et l'a remplacée par celle-ci pour ne pas
 risquer de blesser ceux qui auraient pu se sentir concernés.
 
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_108.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_108.mp4" type="video/mp4">
 </video>

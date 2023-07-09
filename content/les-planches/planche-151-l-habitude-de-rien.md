@@ -33,6 +33,7 @@ depuis longtemps, bien habitué !
 Petite réflexion un peu narquoise dont l'humour malicieux efface le
 cynisme.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_151-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_151-2.mp4" type="video/mp4">
 </video>

@@ -37,6 +37,7 @@ surprise par les propos provocants de ce voisin.
   <figcaption style="max-width: 354px">Essais d&#x27;écriture</figcaption>
 </figure>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_88.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_88.mp4" type="video/mp4">
 </video>

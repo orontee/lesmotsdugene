@@ -46,6 +46,7 @@ Ce texte est un dialogue entre deux paysans, relevé lors d'une année
 de grande sécheresse avec pour conséquence la petite taille des
 légumes du potager.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_77.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_77.mp4" type="video/mp4">
 </video>

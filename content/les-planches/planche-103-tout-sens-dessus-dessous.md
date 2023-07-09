@@ -29,6 +29,7 @@ soleil, c'est tout sens dessus dessous !
 L'expression bien imagée « tô â la renverse » correspond à « sens
 dessus dessous » ou plus familièrement « c'est n'importe quoi ! ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_103.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_103.mp4" type="video/mp4">
 </video>

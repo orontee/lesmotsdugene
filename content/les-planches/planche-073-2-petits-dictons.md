@@ -38,6 +38,7 @@ plaignent beaucoup ne sont pas forcément autant en danger qu'ils le
 croient et/ou le disent. On pouvait dire dans les mêmes
 circonstances : « Ça lui passera ! » ou « Ce n'est pas si grave ! ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_73.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_73.mp4" type="video/mp4">
 </video>

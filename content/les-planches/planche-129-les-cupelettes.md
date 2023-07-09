@@ -68,10 +68,12 @@ des régionalismes qui perdent leur précision dans la traduction.
 L'expression courante « avoir trop chargé la mule » est une métaphore
 pour désigner un excès de consommation d'alcool.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_129recto.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_129recto.mp4" type="video/mp4">
 </video>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_129verso.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_129verso.mp4" type="video/mp4">
 </video>

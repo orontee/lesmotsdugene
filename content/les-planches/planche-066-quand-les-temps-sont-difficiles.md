@@ -36,6 +36,7 @@ Il s'agit bien sûr d'une métaphore qui évoque essentiellement dans
 l'esprit d'Eugène, la période de l'occupation lors de la seconde
 guerre mondiale et les profiteurs de guerre.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_66.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_66.mp4" type="video/mp4">
 </video>

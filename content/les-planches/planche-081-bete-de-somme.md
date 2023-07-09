@@ -51,6 +51,7 @@ chaîne qui tire le « coutrier », c'est à dire la charrue.
 
 Tout cela pour atteler le pauvre Joseph devant sa charrue !
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_81.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_81.mp4" type="video/mp4">
 </video>

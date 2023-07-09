@@ -53,6 +53,7 @@ d'mon arbre… »*. Eugène l'a gravée après avoir abandonné ses
 responsabilités syndicales et communales. Il disposait ainsi enfin de
 plus de temps pour jouir de son bel environnement des Chambarans…
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_17bis.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_17bis.mp4" type="video/mp4">
 </video>

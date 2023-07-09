@@ -47,6 +47,7 @@ Histoire racontée par un voisin et un peu transformée.
 La « Caraborne » est un trou profond dans le tronc d'un châtaignier
 que les lapins aiment utiliser comme terrier.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_131.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_131.mp4" type="video/mp4">
 </video>

@@ -60,12 +60,14 @@ vieux qu'elle.
 
 <div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_99.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_99.mp4" type="video/mp4">
 </video>
 </div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_99_bis.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_99_bis.mp4" type="video/mp4">
 </video>
 </div>

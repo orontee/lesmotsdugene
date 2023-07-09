@@ -55,6 +55,7 @@ mauvaise humeur, pensive, mélancolique et brassant des idées
 noires. La « niar » signifie un peu la même chose mais avec la notion
 de colère et de révolte en plus.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_133.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_133.mp4" type="video/mp4">
 </video>

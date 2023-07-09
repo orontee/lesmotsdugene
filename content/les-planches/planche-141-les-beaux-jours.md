@@ -35,6 +35,7 @@ Dicton reprenant une connaissance empirique des fluctuations du temps
 dans les Chambarans. Eugène extrapole pour le mettre en parallèle avec
 la météo des relations amoureuses.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_141.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_141.mp4" type="video/mp4">
 </video>

@@ -35,6 +35,7 @@ Le Gène
 Dicton assez couramment répété, sans doute inspiré par une chanson
 d'Henri Salvador, alors en vogue : « Le travail c'est la santé ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_57.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_57.mp4" type="video/mp4">
 </video>

@@ -34,6 +34,7 @@ encore rien vu, toi qui crois déjà tout connaître ! ».
   <figcaption style="max-width: 340px">Le loup qui pète sur la pierre de bois</figcaption>
 </figure>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_40_2_-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_40_2_-2.mp4" type="video/mp4">
 </video>

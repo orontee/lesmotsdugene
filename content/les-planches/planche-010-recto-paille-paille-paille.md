@@ -43,6 +43,7 @@ chanter en patois, une botte sous chaque bras, cette amusante petite
 comptine qui lui est restée dans la tête : *« Pâille Pâille Pâille,
 Paye pa biên mé empâille Biên »…*
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_10.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_10.mp4" type="video/mp4">
 </video>

@@ -45,6 +45,7 @@ alpage au col de la Bataille.
   <figcaption style="max-width: 300px">Le coq…</figcaption>
 </figure>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_97.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_97.mp4" type="video/mp4">
 </video>

@@ -40,6 +40,7 @@ phrase fut prononcée par un des voisins d'Eugène venu l'aider pour la
 construction de sa stabulation.
 
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_37.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_37.mp4" type="video/mp4">
 </video>

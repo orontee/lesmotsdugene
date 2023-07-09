@@ -40,6 +40,7 @@ La deuxième réflexion, pleine de bon sens, pourrait correspondre à :
 t'acharnes sur quelqu'un qui est déjà très malheureux, tu vas
 l'achever ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_79.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_79.mp4" type="video/mp4">
 </video>

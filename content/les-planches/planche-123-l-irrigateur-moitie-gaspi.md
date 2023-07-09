@@ -44,6 +44,7 @@ Quant au « canton de Montrou », tracé à côté du trou dans le bois, il
 s'agit d'une plaisanterie évoquant la partie du corps concernée par
 l'instrument…
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_123.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_123.mp4" type="video/mp4">
 </video>

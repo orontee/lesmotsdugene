@@ -44,6 +44,7 @@ Le point d'interrogation doit plutôt être compris comme un point
 d'exclamation. Mais il est surtout plus agréable à Eugène de graver
 une jolie courbe (?) qu'un petit trait bien droit (!).
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_36.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_36.mp4" type="video/mp4">
 </video>

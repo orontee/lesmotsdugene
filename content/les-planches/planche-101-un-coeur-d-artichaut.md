@@ -65,13 +65,15 @@ visage de la femme.
 
 <div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_101_h1.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_101_h1.mp4" type="video/mp4">
 </video>
 </div>
 <div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_101de_2_a_fin.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_101de_2_a_fin.mp4" type="video/mp4">
 </video>
 </div>

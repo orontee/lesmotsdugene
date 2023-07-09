@@ -45,6 +45,7 @@ braconnage.
 Eugène évoque là, un vieil habitant très respecté à Viriville que l'on
 surnommait « le Valet ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_64bis_2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_64bis_2.mp4" type="video/mp4">
 </video>

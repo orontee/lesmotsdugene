@@ -37,6 +37,7 @@ Le Gène
 Expression autrefois courante pour évoquer avec humour les personnes
 qui manifestent un goût un peu trop immodéré pour le vin !
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_180-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_180-2.mp4" type="video/mp4">
 </video>

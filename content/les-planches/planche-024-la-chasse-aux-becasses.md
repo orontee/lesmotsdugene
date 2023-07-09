@@ -55,14 +55,7 @@ habitude de « broder » beaucoup autour des anecdotes dont il aimait
 régaler son auditoire. La traduction littérale de la phrase « Ne tappá
 pâ si fort te m'ébane » est « Ne tape pas si fort, tu m'écornes » !
 
-
-
-
-
-
-
-
-
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_24.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_24.mp4" type="video/mp4">
 </video>

@@ -39,10 +39,12 @@ que <u>20</u> faisans, <u>15</u> perdrix, <u>10</u> bécasses et <u>5
 Ces planches forment un ensemble illustrant avec ironie un imaginaire
 dialogue entre un chasseur et un autre, sans doute Eugène.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_117.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_117.mp4" type="video/mp4">
 </video>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_118_.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_118_.mp4" type="video/mp4">
 </video>

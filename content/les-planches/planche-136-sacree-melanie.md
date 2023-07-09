@@ -48,6 +48,7 @@ cette dame de Marnans.
 est bien sûr à prendre dans son sens de chance, rencontre heureuse et
 succès amoureux.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_136.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_136.mp4" type="video/mp4">
 </video>

@@ -77,10 +77,12 @@ loin ».  C'est la forme de la planche qui a inspiré Eugène pour ces
 petits textes ainsi que le désir de conserver comme sur la plupart des
 planches, certaines expressions et mots en patois.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_165.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_165.mp4" type="video/mp4">
 </video>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_165bis.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_165bis.mp4" type="video/mp4">
 </video>

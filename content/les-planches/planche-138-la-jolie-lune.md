@@ -38,6 +38,7 @@ Eugène s'amuse avec le double sens des mots « lune » et « bise ». Il
 nous livre ainsi avec malice, un dicton local qui traduit la
 connaissance empirique des données météorologiques des Chambarans.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_138.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_138.mp4" type="video/mp4">
 </video>

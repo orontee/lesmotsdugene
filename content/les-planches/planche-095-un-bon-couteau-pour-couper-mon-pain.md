@@ -44,6 +44,7 @@ mourir. Allusion à la « pétafine » qui est un fromage du Dauphiné,
 souvent très fort, élaboré essentiellement à partir de vieux restes de
 fromages et d'eau de vie.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_95_2_.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_95_2_.mp4" type="video/mp4">
 </video>

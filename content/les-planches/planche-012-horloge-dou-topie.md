@@ -84,6 +84,7 @@ du taupier allait régulièrement rechercher les taupes tuées par son
 maître et jetées dans les buissons. Le taupier pouvait ainsi
 grandement améliorer ses revenus.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_12.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_12.mp4" type="video/mp4">
 </video>

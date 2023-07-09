@@ -47,6 +47,7 @@ Anecdote entendue au cours d'une « batteuse » ou d'une « mondée ». Il
 y est question d'une personne qui se plaignait sans cesse mais ne
 travaillait pas beaucoup.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_23-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_23-2.mp4" type="video/mp4">
 </video>

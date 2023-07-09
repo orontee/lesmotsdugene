@@ -52,6 +52,7 @@ humiliation (par exemple, une fille engrossée hors mariage ou un fils
 qui a fait une bêtise) tout le monde se met alors à médire de lui, « à
 lui casser du sucre sur la tête ».
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_46.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_46.mp4" type="video/mp4">
 </video>

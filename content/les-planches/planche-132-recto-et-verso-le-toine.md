@@ -73,12 +73,14 @@ distance habituels, il en a toutefois gravé une planche !
 
 <div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_132-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_132-2.mp4" type="video/mp4">
 </video>
 </div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_132bis-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_132bis-2.mp4" type="video/mp4">
 </video>
 </div>

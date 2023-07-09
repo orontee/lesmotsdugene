@@ -58,10 +58,12 @@ sagesse ».
 
 Eugène s'amuse en signant cette face double !
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_60.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_60.mp4" type="video/mp4">
 </video>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_60bis.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_60bis.mp4" type="video/mp4">
 </video>

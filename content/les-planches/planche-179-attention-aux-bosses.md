@@ -40,6 +40,7 @@ Le mot « Pôkâ » correspond aux coups donnés par les vaches avec leurs
 cornes.
 
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_179.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_179.mp4" type="video/mp4">
 </video>

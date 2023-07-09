@@ -61,10 +61,12 @@ Le second narre la rencontre sur le chemin des Bouilleaux, entre
 Eugène et un promeneur à cheval à l'allure un peu trop hautaine pour
 espérer échapper à la moquerie !
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_69debut.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_69debut.mp4" type="video/mp4">
 </video>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_69fin.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_69fin.mp4" type="video/mp4">
 </video>

@@ -34,6 +34,7 @@ Le Gène
 Jeux de mots avec le mot « faucille » à la place de « faut-il? » et de
 la boule fixées sur la planche.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_125.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_125.mp4" type="video/mp4">
 </video>

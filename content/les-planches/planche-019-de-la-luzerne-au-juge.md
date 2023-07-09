@@ -41,6 +41,7 @@ d'une grossesse hors mariage. Le couvercle, la marmite et le rôti
 représentent ici les images métaphoriques d'un accouplement et d'une
 maternité.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_19.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_19.mp4" type="video/mp4">
 </video>

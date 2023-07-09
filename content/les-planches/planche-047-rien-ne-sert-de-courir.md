@@ -62,6 +62,7 @@ là, une litanie que répétait souvent sa mère (cf. [planche
 174]({filename}/les-planches/planche-174-tout-va-trop-mal.md)).
 
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_47.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_47.mp4" type="video/mp4">
 </video>

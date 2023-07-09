@@ -38,6 +38,7 @@ les meilleurs chemins.
 Cette planche a été donnée telle quelle à Eugène. C'est sa forme si
 particulière qui lui a inspiré le texte.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_5.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_5.mp4" type="video/mp4">
 </video>

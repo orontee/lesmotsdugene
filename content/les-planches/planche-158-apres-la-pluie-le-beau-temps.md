@@ -52,6 +52,7 @@ sur la planche en se souvenant des moments et des personnes disparus.
 « Fo sié pe n’émouchillé ién » (il faudra être 6 pour écarter les
 mouches) était une phrase souvent utilisée pour commenter le temps.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_158.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_158.mp4" type="video/mp4">
 </video>

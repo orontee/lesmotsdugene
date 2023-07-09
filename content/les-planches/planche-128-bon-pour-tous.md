@@ -37,6 +37,7 @@ Ces clystères étaient utilisés pour les animaux, d'où leurs tailles
 différentes. Ils font partie de la collection d'objets ruraux anciens
 d'Eugène. Ceux-ci lui ont inspiré cette planche amusante.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_128.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_128.mp4" type="video/mp4">
 </video>

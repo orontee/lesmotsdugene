@@ -55,6 +55,7 @@ Il savait aussi se montrer très patient et même très rusé en affaire
 pour vendre ou acheter toujours à son avantage.
 
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_59.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_59.mp4" type="video/mp4">
 </video>

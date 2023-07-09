@@ -29,6 +29,7 @@ Le Gène
 
 Entendue à la foire de La Côte-Saint-André.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_28.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_28.mp4" type="video/mp4">
 </video>

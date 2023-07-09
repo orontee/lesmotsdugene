@@ -67,12 +67,14 @@ manière imagée un avis plutôt badin.
 
 <div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_155recto.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_155recto.mp4" type="video/mp4">
 </video>
 </div>
 <div style="float: left; width: 50%;">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_155verso.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_155verso.mp4" type="video/mp4">
 </video>
 </div>

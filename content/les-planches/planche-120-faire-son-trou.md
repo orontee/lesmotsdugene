@@ -38,6 +38,7 @@ Ce vilebrequin fait partie de la collection d'outils agricoles
 d'Eugène. C'est lui qui l'a inspiré pour mettre en forme cette petite
 sentence éducative.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_120.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_120.mp4" type="video/mp4">
 </video>

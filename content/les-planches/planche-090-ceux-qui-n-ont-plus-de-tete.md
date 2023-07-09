@@ -40,6 +40,7 @@ Le Gène
 
 « Couper la tête » de quelqu'un signifie ici « dire du mal » de lui.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_90.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_90.mp4" type="video/mp4">
 </video>

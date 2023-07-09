@@ -33,6 +33,7 @@ construire les murs en pisé et en galets. Son expression favorite
 était « Milliards de Dieu » que Eugène a remplacé par un autre juron
 « Misère de foutre » pour ne pas risquer le blasphème !
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_143.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_143.mp4" type="video/mp4">
 </video>

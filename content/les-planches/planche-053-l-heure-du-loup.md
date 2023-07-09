@@ -50,6 +50,7 @@ proviennent de l'expression « entre chien et loup » qui correspond au
 crépuscule, quand la lumière déclinant, on ne peut plus distinguer un
 chien d'un loup.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_53.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_53.mp4" type="video/mp4">
 </video>

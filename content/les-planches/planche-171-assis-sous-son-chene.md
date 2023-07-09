@@ -42,6 +42,7 @@ assis, toujours sur la même souche d'arbre, son seul effort consistant
 
 <div style="display: table; clear: both;"></div>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_171-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_171-2.mp4" type="video/mp4">
 </video>

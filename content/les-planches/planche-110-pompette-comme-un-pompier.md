@@ -54,6 +54,7 @@ Eugène choisit souvent des prénoms très courants comme Marie ici (ou
 Joseph ailleurs par exemple) pour ne pas dévoiler l'identité de la
 personne concernée.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_110.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_110.mp4" type="video/mp4">
 </video>

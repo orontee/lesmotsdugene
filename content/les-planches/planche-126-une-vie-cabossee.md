@@ -38,6 +38,7 @@ Comme pour d'autres planches, le texte est inspiré par l'instrument
 déniché dans cet état dans une brocante.
 
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_126.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_126.mp4" type="video/mp4">
 </video>

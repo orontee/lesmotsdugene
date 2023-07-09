@@ -63,10 +63,12 @@ Père Eternel est comme moi, trop vieux, il ne sait plus ce qu'il
 cherche) se disait assez fréquemment…  et se retrouve sur plusieurs
 planches.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_33.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_33.mp4" type="video/mp4">
 </video>
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_33bis.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_33bis.mp4" type="video/mp4">
 </video>

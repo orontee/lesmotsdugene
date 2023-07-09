@@ -37,6 +37,7 @@ Eugène avait accroché cette petite planche au dessus des fraises qu'il avait r
 
 Ces fraises provenaient au départ d'une petite variété sauvage qui poussait dans les vignes (les fraises blanches de St Pierre) et qui s'était croisée naturellement avec celle du jardin.
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls
+  poster="{static}/images/thumbnails/video_55-2.jpg">
   <source src="https://d1njpgd0ygatdn.cloudfront.net/video_55-2.mp4" type="video/mp4">
 </video>
