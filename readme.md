@@ -4,13 +4,12 @@ Version statique du site de l'association «Les mots du Gène».
 
 ## Pré-requis
 
-- Python 3.9
+- Python >3.9
 
 ## Génération
 
 Dans un terminal, exécuter les commandes suivantes (en adaptant le
 port selon l'environnement) :
-
 ```
 $ python3 -m venv env
 $ source env/bin/activate
@@ -22,9 +21,7 @@ Ensuite consulter l'adresse [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 ## Publication
 
-Après avoir configuré [l'interface de ligne de
-commande](https://aws.amazon.com/fr/cli/) :
-
+Après avoir configuré l'accès SSH au serveur hôte :
 ```
 $ make rsync_upload
 ```
