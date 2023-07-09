@@ -74,5 +74,5 @@ SITEMAP = {
         "indexes": "never",
         "pages": "yearly"
     },
-    "exclude": ["tag/", "category/"]
+    "exclude": ["pages/eugene-vicat-dit-le-gene\.html"]
 }
