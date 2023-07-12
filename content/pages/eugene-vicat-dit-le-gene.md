@@ -6,6 +6,7 @@ Summary: Petite biographie du Gène
 Lang: fr
 Status: published
 save_as: index.html
+Url: 
 Author: Brigitte Baret
 
 Eugène Vicat est né en 1933 dans le quartier isolé des Bouilleaux (*le
