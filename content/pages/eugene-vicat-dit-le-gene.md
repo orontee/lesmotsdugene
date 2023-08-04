@@ -20,7 +20,7 @@ planches à l’aspect brut, dessins et petits textes en patois.
   <img alt="Au café « Chez Simone », place des Buttes" 
        src="{static}/images/eugene_20140501.jpg">
   <figcaption style="max-width: 576px">
-    Au café « Chez Simone », place des Buttes
+    Au café « Chez Simone », place des Buttes (Crédit: Catherine Vincent)
   </figcaption>
 </figure>
 
