@@ -1,4 +1,4 @@
-Title: Eugène Vicat dit «Le Gène»
+Title: Eugène Vicat dit « Le Gène »
 Date: 2015-11-20 02:25:00
 Modified: 2016-03-15 15:21:44
 Slug: eugene-vicat-dit-le-gene
@@ -17,8 +17,11 @@ d’une vie bien remplie qu’Eugène nous a livré en gravant sur des
 planches à l’aspect brut, dessins et petits textes en patois.
 
 <figure class="image-block" style="float: center;">
-  <img alt="Au café &quot;chez Simone&quot;, place des Buttes" src="{static}/images/eugene_20140501.jpg">
-  <figcaption style="max-width: 576px">Au café &quot;chez Simone&quot;, place des Buttes</figcaption>
+  <img alt="Au café « Chez Simone », place des Buttes" 
+       src="{static}/images/eugene_20140501.jpg">
+  <figcaption style="max-width: 576px">
+    Au café « Chez Simone », place des Buttes
+  </figcaption>
 </figure>
 
 ## Les souvenirs
