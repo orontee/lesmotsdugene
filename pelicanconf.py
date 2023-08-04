@@ -76,3 +76,6 @@ SITEMAP = {
     },
     "exclude": ["pages/eugene-vicat-dit-le-gene\.html"]
 }
+
+# Git
+GIT_HASH = None
