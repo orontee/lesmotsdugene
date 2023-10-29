@@ -21,9 +21,18 @@ Ensuite consulter l'adresse [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 ## Publication
 
-Après avoir configuré l'accès SSH au serveur hôte :
+Il est possible de publier via SSH, après avoir configuré l'accès SSH au 
+serveur hôte (cf. [Makefile](./Makefile) pour la configuration) :
 ```
 $ make rsync_upload
+```
+
+Il est également possible de publier via la branche `gh_pages` sur Github Pages :
+```
+$ python -m pip install ghp-import
+$ make publish
+$ ghp-import output -b gh-pages
+$ git push origin gh-pages
 ```
 
 Le site est consultable à l'adresse https://lesmotsdugene.fr.
