@@ -15,10 +15,19 @@ Status: hidden
 
 # Hébergement
 
+<p>Pour tout le contenu hors vidéos :</p>
 <p>
-  ALWAYSDATA<br>
-  91, rue du Faubourg Saint-Honoré, 75008 Paris<br>
-  tél. +33 1 84 16 23 40
+  GitHub<br>
+  88 Colin P Kelly Jr St<br>
+  San Francisco, CA 94107<br>
+  United States
+</p>
+<p>Pour les vidéos :</p>
+<p>
+  Amazon Web Services<br>
+  410 Terry Ave North<br>
+  Seattle<br>
+  United States
 </p>
 
 # Réutilisation des contenus
@@ -33,3 +42,11 @@ style="display:inline-block;"> CC BY-NC-SA 4.0</a>.
 Ils peuvent donc être partagés et adaptés pour des usages non
 commerciaux, à condition de donner un lien vers la source, nommer
 l'association et de partager dans les mêmes conditions.
+
+# Collecte de données
+
+Le site est hébergé par GitHub Pages qui journalise les adresses IP
+des visiteurs ; ce stockage est effectué à des fins de sécurité. Pour
+plus d’informations sur les pratiques de sécurité de GitHub, consultez
+la [Déclaration de confidentialité de
+GitHub](https://docs.github.com/fr/site-policy/privacy-policies/github-privacy-statement).
