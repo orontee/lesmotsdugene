@@ -31,8 +31,7 @@ Il est également possible de publier via la branche `gh_pages` sur Github Pages
 ```
 $ python -m pip install ghp-import
 $ make publish
-$ ghp-import output -b gh-pages
-$ git push origin gh-pages
+$ ghp-import output --cname=lesmotsdugene.fr --message="Publication de la version $(git rev-parse --short HEAD)" --branch=gh-pages --push
 ```
 
 Le site est consultable à l'adresse https://lesmotsdugene.fr.
