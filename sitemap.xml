@@ -12,21 +12,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lesmotsdugene.fr/pages/l-association.html</loc>
-<lastmod>2024-02-02T22:04:30-00:00</lastmod>
+<lastmod>2024-11-06T00:01:30-00:00</lastmod>
 <changefreq>yearly</changefreq>
 <priority>1.0</priority>
 </url>
 
 <url>
 <loc>https://lesmotsdugene.fr/pages/les-planches.html</loc>
-<lastmod>2024-02-02T22:04:30-00:00</lastmod>
+<lastmod>2024-11-06T00:01:30-00:00</lastmod>
 <changefreq>yearly</changefreq>
 <priority>1.0</priority>
 </url>
 
 <url>
 <loc>https://lesmotsdugene.fr/pages/les-sculptures.html</loc>
-<lastmod>2024-02-02T22:04:30-00:00</lastmod>
+<lastmod>2024-11-06T00:01:30-00:00</lastmod>
 <changefreq>yearly</changefreq>
 <priority>1.0</priority>
 </url>
@@ -36,6 +36,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <lastmod>2015-11-24T11:57:23+01:00</lastmod>
 <changefreq>yearly</changefreq>
 <priority>1.0</priority>
+</url>
+
+<url>
+<loc>https://lesmotsdugene.fr/principales-expositions-realisees.html</loc>
+<lastmod>2024-11-05T23:33:57+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://lesmotsdugene.fr/le-bureau-2024-2025.html</loc>
+<lastmod>2024-10-14T19:01:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
 </url>
 
 <url>
@@ -117,13 +131,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lesmotsdugene.fr/petit-chevalet-souvenir.html</loc>
-<lastmod>2023-04-16T10:59:00+02:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://lesmotsdugene.fr/principales-expositions-realisees.html</loc>
 <lastmod>2023-04-16T10:59:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -1496,13 +1503,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://lesmotsdugene.fr/adhesions.html</loc>
-<lastmod>2015-12-14T17:37:00+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://lesmotsdugene.fr/le-bureau-2022-2023.html</loc>
 <lastmod>2015-12-14T17:37:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
