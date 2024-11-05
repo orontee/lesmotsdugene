@@ -1,5 +1,5 @@
 Title: Principales expositions réalisées
-Date: 2023-04-16 10:59:00
+Date: 2024-11-05 23:33:57+01:00
 Summary: L'association « Les mots du Gène » a organisé de nombreuses
     expositions pour faire connaître le travail d'Eugène Vicat
 
@@ -7,7 +7,31 @@ L'association « Les mots du Gène » a organisé de nombreuses
 expositions pour faire connaître le travail d'Eugène Vicat.
 
 <figure class="image-block" style="float: right; width: 40%;">
-<img alt="Affiche de l'exposition à Artas" src="{static}/images/affiche.png">
+<img alt="Affiche de l'exposition à Artas" 
+     src="{static}/images/affiche-2024-mottier.png">
+</figure>
+
+### Septembre 2024
+
+Fête de la patate au Mottier (Isère).
+
+### Août 2024
+
+Village d’Antan avec l'association des « Georges Antonins » à
+Saint-Pierre-de-Bressieux.
+
+### Septembre 2023
+
+Musée des vieux métiers pour les Journées du patrimoine.
+
+### Aout 2023
+
+Village d’Antan avec l'association des « Georges Antonins » à
+Saint-Pierre-de-Bressieux.
+
+<figure class="image-block" style="float: right; width: 40%;">
+<img alt="Affiche de l'exposition à Artas" 
+     src="{static}/images/affiche-2022-pont-neuf.png">
 </figure>
 
 ### Mars 2022
@@ -18,7 +42,7 @@ Antonins ».
 
 ### Septembre 2019
 
-Exposition dans la Maison du Patois à la Chapelle de Surieu (38).
+Exposition dans la Maison du Patois à la Chapelle de Surieu (Isère).
 
 ### Septembre 2019
 
@@ -36,6 +60,11 @@ Exposition à l’initiative de la mairie de Roybon, dans la salle
 d’exposition de l’Office du tourisme de Roybon
 
 ### Octobre 2017
+
+<figure class="image-block" style="float: right; width: 40%;">
+<img alt="Affiche de l'exposition à Artas" 
+     src="{static}/images/affiche-2017-la-grange-chevrotière.png">
+</figure>
 
 Grande exposition à Artas, La Grange Chevrotière.
 
