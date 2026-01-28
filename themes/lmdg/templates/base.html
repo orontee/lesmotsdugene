@@ -7,6 +7,7 @@
         <meta name="generator" content="Pelican" />
         <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
         <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
+	<script src="{{ SITEURL }}/pagefind/pagefind-ui.js"></script>
         {% if FEED_ALL_ATOM %}
         <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
         {% endif %}
@@ -34,7 +35,8 @@
                     <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
                 {% endfor %}
                 {% endif %}
-                </ul></nav>
+                </ul>
+		</nav>
         </header><!-- /#banner -->
         {% block content %}
         {% endblock %}

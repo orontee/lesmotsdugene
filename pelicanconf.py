@@ -36,11 +36,11 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-    ('Eugène Vicat', '/'),
     ('Planches', '/pages/les-planches.html'),
     ('Sculptures', '/pages/les-sculptures.html'),
     ('Notes', '/pages/quelques-notes-a-propos-des-mots-d-eugene.html'),
     ("Association", '/pages/l-association.html'),
+    ("Recherche", '/pages/recherche.html'),
 )
 
 # Blogroll

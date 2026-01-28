@@ -37,7 +37,6 @@ help:
 	@echo 'Usage:                                                                    '
 	@echo '   make html                           (re)generate the web site          '
 	@echo '   make clean                          remove the generated files         '
-	@echo '   make regenerate                     regenerate files upon modification '
 	@echo '   make publish                        generate using production settings '
 	@echo '   make serve [PORT=8000]              serve site at http://localhost:8000'
 	@echo '   make serve-global [SERVER=0.0.0.0]  serve (as root) to $(SERVER):80    '
@@ -52,36 +51,66 @@ help:
 	@echo '                                                                          '
 
 html:
-	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS)
+	"$(PELICAN)" "$(INPUTDIR)" \
+					 --output "$(OUTPUTDIR)" \
+					 --settings "$(CONFFILE)" \
+					 $(PELICANOPTS)
+	python3 -m pagefind --site "$(OUTPUTDIR)"
 
 clean:
 	[ ! -d "$(OUTPUTDIR)" ] || rm -rf "$(OUTPUTDIR)"
 
-regenerate:
-	"$(PELICAN)" -r "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS)
+serve: html
+	"$(PELICAN)" "$(INPUTDIR)" \
+					 --listen \
+					 --output "$(OUTPUTDIR)" \
+					 --settings "$(CONFFILE)" \
+					 $(PELICANOPTS)
 
-serve:
-	"$(PELICAN)" -l "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS)
+serve-global: html
+	"$(PELICAN)" "$(INPUTDIR)" \
+					 --listen \
+					 --output "$(OUTPUTDIR)" \
+					 --settings "$(CONFFILE)" \
+					 --bind $(SERVER) \
+					 $(PELICANOPTS)
 
-serve-global:
-	"$(PELICAN)" -l "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS) -b $(SERVER)
+devserver: html
+	"$(PELICAN)" "$(INPUTDIR)" \
+					 --listen \
+					 --autoreload \
+					 --output "$(OUTPUTDIR)" \
+					 --settings "$(CONFFILE)" \
+					 $(PELICANOPTS)
 
-devserver:
-	"$(PELICAN)" -lr "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS)
+devserver-global: html
+	$(PELICAN) "$(INPUTDIR)" \
+				  --listen \
+				  --autoreload \
+				  --output $(OUTPUTDIR) \
+				  --settings $(CONFFILE) \
+				  --bind  0.0.0.0 \
+				  $(PELICANOPTS)
 
-devserver-global:
-	$(PELICAN) -lr $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) -b 0.0.0.0
-
-publish:
-	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(PUBLISHCONF)" $(PELICANOPTS)
+publish: clean
+	"$(PELICAN)" "$(INPUTDIR)" \
+					 --output "$(OUTPUTDIR)" \
+					 --settings "$(PUBLISHCONF)" \
+					 $(PELICANOPTS)
+	python3 -m pagefind --site "$(OUTPUTDIR)"
 
 ssh_upload: publish
-	scp -P $(SSH_PORT) -r "$(OUTPUTDIR)"/* "$(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)"
+	scp -P $(SSH_PORT) -r "$(OUTPUTDIR)"/* \
+		 "$(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)"
 
 sftp_upload: publish
-	printf 'put -r $(OUTPUTDIR)/*' | sftp $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
+	printf 'put -r $(OUTPUTDIR)/*' | \
+		sftp $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 rsync_upload: publish
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --include tags --cvs-exclude --delete "$(OUTPUTDIR)"/ "$(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)"
+	rsync -e "ssh -p $(SSH_PORT)" \
+			-P -rvzc --include tags --cvs-exclude --delete \
+			"$(OUTPUTDIR)"/ "$(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)"
 
-.PHONY: html help clean regenerate serve serve-global devserver publish ssh_upload sftp_upload rsync_upload
+.PHONY: html help clean serve serve-global devserver publish
+.PHONY: ssh_upload sftp_upload rsync_upload
