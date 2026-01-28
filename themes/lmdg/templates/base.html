@@ -48,8 +48,8 @@
                   <a href="{{ link }}">{{ name }}</a> |
                   {% endfor %}
 		{% endif %}
-                {% if GIT_HASH %}
-                  Version: {{ GIT_HASH }} |
+                {% if GIT_VERSION_STRING %}
+                  Version: <a href="https://github.com/orontee/lesmotsdugene">{{ GIT_VERSION_STRING }}</a> |
 		{% endif %}
                   2015-2026 © Les mots du Gène
                 </address><!-- /#about -->

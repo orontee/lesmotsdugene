@@ -78,4 +78,4 @@ SITEMAP = {
 }
 
 # Git
-GIT_HASH = None
+GIT_VERSION_STRING = None

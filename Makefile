@@ -1,6 +1,6 @@
 PY?=
 PELICAN?=pelican
-PELICANOPTS=-e GIT_HASH='"$(shell git rev-parse --short HEAD)"'
+PELICANOPTS=-e GIT_VERSION_STRING='"$(shell git describe --tags --match "v[0-9]*")"'
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content

@@ -37,7 +37,7 @@ et vidéos) sont la propriété de l'association « Les mots du Gène » et
 sont mis à disposition selon les termes de licence <a
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
 target="_blank" rel="license noopener noreferrer"
-style="display:inline-block;"> CC BY-NC-SA 4.0</a>.
+style="display:inline-block;"> CC BY-NC-SA 4.0.</a>
 
 Ils peuvent donc être partagés et adaptés pour des usages non
 commerciaux, à condition de donner un lien vers la source, nommer
