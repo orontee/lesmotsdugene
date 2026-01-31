@@ -28,7 +28,7 @@ const RESULT_WITH_IMAGE_HTML_TEMPLATE = `
 <a href="{url}">
   <div style="float: left; width: 80%; box-sizing: border-box;">
     <h3>{title}</h3>
-    <p style="color: inherit;">{excerpt}</p>
+    <p>{excerpt}</p>
   </div>
   <div style="float: left; width: 20%; padding: 5px; box-sizing: border-box;">
     <img src="{image_url}" alt="{image_alt}">
@@ -38,7 +38,7 @@ const RESULT_WITH_IMAGE_HTML_TEMPLATE = `
 
 const RESULT_WITHOUT_IMAGE_HTML_TEMPLATE = `
 <a href="{url}">
-  <div style="flex: 1;">
+  <div style="float: left; width: 80%; box-sizing: border-box;">
     <h3>{title}</h3>
     <p>{excerpt}</p>
   </div>
