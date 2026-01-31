@@ -1,6 +1,8 @@
 SITENAME = 'Les mots du Gène'
 SITESUBTITLE = 'Planches gravées et sculptures par Eugène Vicat'
 SITEURL = ''
+DEFAULT_AUTHOR = 'Association « Les mots du Gène »'
+DEFAULT_DATE = '2026-01-31'
 
 PATH = 'content'
 
