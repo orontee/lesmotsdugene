@@ -27,15 +27,33 @@ serveur hôte (cf. [Makefile](./Makefile) pour la configuration) :
 (env)$ make rsync_upload
 ```
 
-Il est également possible de publier via la branche `gh_pages` sur Github Pages :
+Mais actuellement le site est publié avec [Github
+Pages](https://docs.github.com/fr/pages) via la branche `gh_pages`
+(poser un tag Git avant d'exécuter ces commandes pour que le site
+affiche une version correspondante) :
+
 ```
 (env)$ python -m pip install ghp-import
 (env)$ make publish
 (env)$ 
-(env)$ ghp-import output --cname=lesmotsdugene.fr --message="Publication de la version $(git describe --tags --match "v[0-9]*")" --branch=gh-pages --push
+(env)$ ghp-import output \
+                  --cname=lesmotsdugene.fr \
+				  --message="Publication de la version $(git describe --tags  --match "v[0-9]*")" \
+				  --branch=gh-pages \
+				  --push
 ```
 
 Le site est consultable à l'adresse https://lesmotsdugene.fr.
+
+### Conformité aux standards
+
+Pour évaluer la conformité aux standards du Web, utiliser les outils
+du [W3C](https://www.w3.org/) :
+
+* [Nu Html Checker](https://validator.w3.org/nu/?doc=https%3A%2F%2Flesmotsdugene.fr%2F)
+
+* [Validateur CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flesmotsdugene.fr&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr)
+
 
 ## Notes
 
