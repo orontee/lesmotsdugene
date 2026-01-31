@@ -10,7 +10,7 @@ series_index: 101
 latéraux ont une découpe sinueuse.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_92.png">
+  <img alt="Planche 92" src="{static}/images/planche_92.png">
   <figcaption style="max-width: 700px"></figcaption>
 </figure>
 

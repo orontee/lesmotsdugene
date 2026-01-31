@@ -11,7 +11,7 @@ series_index: 157
 sur une petite moitié de sa hauteur.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_149.png">
+  <img alt="Planche 149" src="{static}/images/planche_149.png">
   <figcaption style="max-width: 321px"></figcaption>
 </figure>
 

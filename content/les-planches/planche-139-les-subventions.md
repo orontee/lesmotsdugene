@@ -12,7 +12,7 @@ bosselée. Le bord bas est également un peu sinueux. Les côtés latéraux
 s'évasent très légèrement de bas en haut.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_139.png">
+  <img alt="Planche 139" src="{static}/images/planche_139.png">
   <figcaption style="max-width: 320px"></figcaption>
 </figure>
 

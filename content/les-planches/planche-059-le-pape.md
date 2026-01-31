@@ -13,12 +13,13 @@ milieu du texte, après « no que la », est inséré le dessin d'une tête
 d'homme très souriant coiffé d'un chapeau.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="Le pépé assis sur sa souche" src="{static}/images/planche_59_dessin_haut.png">
+  <img alt="Haut de la planche 59"
+       src="{static}/images/planche_59_dessin_haut.png">
   <figcaption style="max-width: 315px">Le pépé assis sur sa souche</figcaption>
 </figure>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_59-2.png">
+  <img alt="Planche 59" src="{static}/images/planche_59-2.png">
   <figcaption style="max-width: 183px"></figcaption>
 </figure>
 
@@ -39,7 +40,8 @@ le gène
 Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="La tête du pépé" src="{static}/images/planche_59_dessin_bas.png">
+  <img alt="Bas de la planche 59"
+       src="{static}/images/planche_59_dessin_bas.png">
   <figcaption style="max-width: 350px">La tête du pépé</figcaption>
 </figure>
 

@@ -12,7 +12,7 @@ le texte, deux traits sinueux le soulignent. En haut, le nombre « 69 »
 est gravé en noir.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_169.png">
+  <img alt="Planche 169" src="{static}/images/planche_169.png">
   <figcaption style="max-width: 195px"></figcaption>
 </figure>
 

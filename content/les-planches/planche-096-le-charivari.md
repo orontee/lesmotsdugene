@@ -11,7 +11,7 @@ latéral gauche est ondulé, brut et bordé d'écorce. Le côté droit est
 rectiligne. Le sommet est découpé comme une moitié d'hexagone.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_96.png">
+  <img alt="Planche 96" src="{static}/images/planche_96.png">
   <figcaption style="max-width: 185px"></figcaption>
 </figure>
 

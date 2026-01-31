@@ -11,7 +11,7 @@ Planche rectangulaire verticale légèrement fendue. En haut, dessin
 silhouettes d'oiseaux en vol.
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_171_v2.png">
+  <img alt="Planche 171" src="{static}/images/planche_171_v2.png">
   <figcaption style="max-width: 230px"></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ assis, toujours sur la même souche d'arbre, son seul effort consistant
 à alterner son point d'appui… « d'une fesse à l'autre ».
 
 <figure class="image-block" style="float: right;">
-  <img alt="Assis sous son rouvre" src="{static}/images/planche_171_dessin.png">
+  <img alt="Dessin de la planche 171" src="{static}/images/planche_171_dessin.png">
   <figcaption style="max-width: 280px">Assis sous son rouvre</figcaption>
 </figure>
 

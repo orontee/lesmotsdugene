@@ -12,7 +12,7 @@ arcs de cercle. Au sommet, est gravé le dessin d'une tête de renard
 aux yeux un peu exorbités.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_164.png">
+  <img alt="Planche 164" src="{static}/images/planche_164.png">
   <figcaption style="max-width: 230px"></figcaption>
 </figure>
 
@@ -29,7 +29,8 @@ Jamais renard peureux n'eut le nez plein de plumes…
 Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="Renard peureux" src="{static}/images/planche_164_detail_dessin.png">
+  <img alt="Dessin de renard de la planche 164"
+       src="{static}/images/planche_164_detail_dessin.png">
   <figcaption style="max-width: 264px">Renard peureux</figcaption>
 </figure>
 

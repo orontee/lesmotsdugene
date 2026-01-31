@@ -12,7 +12,7 @@ verticale. En haut figure le dessin d'un loup. En dessous, à droite,
 une grosse boule de buis noire est insérée dans la planche.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_40.png">
+  <img alt="Planche 40" src="{static}/images/planche_40.png">
   <figcaption style="max-width: 277px"></figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Ce dicton signifie : « Tu pourrais encore être étonné », « Tu n'as
 encore rien vu, toi qui crois déjà tout connaître ! ».
 
 <figure class="image-block" style="float: left;">
-  <img alt="Le loup qui pète sur la pierre de bois" src="{static}/images/planche_40_dessin_loup.png">
+  <img alt="Dessin du loup de la planche 40" src="{static}/images/planche_40_dessin_loup.png">
   <figcaption style="max-width: 340px">Le loup qui pète sur la pierre de bois</figcaption>
 </figure>
 

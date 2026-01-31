@@ -17,7 +17,7 @@ fumée représentée par une tâche sombre du bois.</p>
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_17.png">
+  <img alt="Recto de la planche 17" src="{static}/images/planche_17.png">
   <figcaption style="max-width: 268px"></figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ si t’invente  se Ke te raconte te mije avé leû ? pran ina granda Fôurchett
 i pâ le brouillâ tôta ke la fûmiére ? y a bien Fiô
 
 <figure class="image-block" style="float: right;">
-  <img alt="Si tu te chauffes trop près des flammes…" src="{static}/images/planche_17_detail_cheminee.png">
+  <img alt="Détail du recto de la planche 17" src="{static}/images/planche_17_detail_cheminee.png">
   <figcaption style="max-width: 253px">Si tu te chauffes trop près des flammes…</figcaption>
 </figure>
 

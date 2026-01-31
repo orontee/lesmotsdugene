@@ -14,12 +14,13 @@ charrette avec la mention fléchée écrite au dessus « timon ». Les
 lettres gravées sont en partie des majuscules.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_154.png">
+  <img alt="Planche 154" src="{static}/images/planche_154.png">
   <figcaption style="max-width: 168px"></figcaption>
 </figure>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_154_dessin_marmite.png">
+  <img alt="Dessin de marmite de la planche 154"
+       src="{static}/images/planche_154_dessin_marmite.png">
   <figcaption style="max-width: 200px"></figcaption>
 </figure>
 
@@ -33,12 +34,14 @@ ChaRFOn BIEN
 en . âmo Belio en politiKa n’aFIRmâ jamé Ren .
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_154_dessin_carotte_1.png">
+  <img alt="Dessin de carotte de la planche 154 (1)"
+       src="{static}/images/planche_154_dessin_carotte_1.png">
   <figcaption style="max-width: 136px"></figcaption>
 </figure>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_154_dessin_carotte_2.png">
+  <img alt="Dessin de carotte de la planche 154 (2)"
+       src="{static}/images/planche_154_dessin_carotte_2.png">
   <figcaption style="max-width: 124px"></figcaption>
 </figure>
 
@@ -61,7 +64,8 @@ inscrire dans le bois, le plus de mots et expressions en patois afin
 qu'ils ne soient pas définitivement oubliés.
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_154-dessin_timon-2.png">
+  <img alt="Dessin de timon de la planche 154"
+       src="{static}/images/planche_154-dessin_timon-2.png">
   <figcaption style="max-width: 380px"></figcaption>
 </figure>
 

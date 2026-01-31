@@ -17,7 +17,7 @@ d'une chèvre et d'une tête de chèvre.
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_22.png">
+  <img alt="Planche 22" src="{static}/images/planche_22.png">
   <figcaption style="max-width: 257px"></figcaption>
 </figure>
 
@@ -50,12 +50,14 @@ Cette anecdote correspond à une visite effective de l'évêque à
 Viriville. Ces cartes postales anciennes témoignent de cet évènement.
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_22_eveque1.png">
+  <img alt="Carte postale de la visite de l'Évêque (1)"
+       src="{static}/images/planche_22_eveque1.png">
   <figcaption style="max-width: 426px"></figcaption>
 </figure>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_22_eveque2.png">
+  <img alt="Carte postale de la visite de l'Évêque (2)"
+       src="{static}/images/planche_22_eveque2.png">
   <figcaption style="max-width: 405px"></figcaption>
 </figure>
 

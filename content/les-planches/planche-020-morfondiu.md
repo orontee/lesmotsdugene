@@ -10,7 +10,7 @@ series_index: 26
 latéraux sont concaves et les bords hauts et bas ondulés.</p>
 
 <figure class="image-block" style="float: right; width: 40%;">
-  <img alt="" src="{static}/images/planche_20.png">
+  <img alt="Planche 20" src="{static}/images/planche_20.png">
   <figcaption style="max-width: 363px"></figcaption>
 </figure>
 

@@ -13,7 +13,7 @@ figurant la lame. Au centre, deux traits verticaux encadrant des
 petits cercles, figurent la virole.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_160.png">
+  <img alt="Planche 160" src="{static}/images/planche_160.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>
 

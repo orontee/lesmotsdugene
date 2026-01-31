@@ -11,7 +11,7 @@ plus large en haut qu'en bas. Le bord inférieur est ondulé. Les
 lettres sont repeintes en doré.</p>
 
 <figure class="image-block" style="float: right; max-width: 50%;">
-  <img alt="" src="{static}/images/planche_179.png">
+  <img alt="Planche 179" src="{static}/images/planche_179.png">
   <figcaption style="max-width: 503px"></figcaption>
 </figure>
 

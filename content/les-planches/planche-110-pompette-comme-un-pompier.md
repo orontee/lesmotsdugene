@@ -20,7 +20,7 @@ casque de pompier et d'une bouteille presque vide.</p>
 </figure>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_110.png">
+  <img alt="Planche 110" src="{static}/images/planche_110.png">
   <figcaption style="max-width: 161px"></figcaption>
 </figure>
 

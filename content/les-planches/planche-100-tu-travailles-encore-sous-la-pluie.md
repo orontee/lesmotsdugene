@@ -9,7 +9,7 @@ series_index: 109
 Petite planche verticale claire et veinée, légèrement évasée de bas en haut.
 
 <figure class="image-block" style="float: right; max-width: 45%;">
-  <img alt="" src="{static}/images/planche_100.png">
+  <img alt="Planche 100" src="{static}/images/planche_100.png">
   <figcaption style="max-width: 384px"></figcaption>
 </figure>
 

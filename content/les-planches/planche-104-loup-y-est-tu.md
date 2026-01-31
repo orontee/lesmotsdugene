@@ -13,7 +13,7 @@ masque sur les yeux et levant le bras droit. Dessous est dessiné un
 masque, (un « loup ») pourvu d'un petit manche.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_104.png">
+  <img alt="Planche 104" src="{static}/images/planche_104.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ mi le zhistoire de grand Loup. avan Kou la mije je vodré sâvé qui
 cache le Loup le gène
 
 <figure class="image-block" style="float: right; max-width: 40%;">
-  <img alt="Qui cache t-il ce loup ?" src="{static}/images/planche_104_femme.png">
+  <img alt="Dessin de femme de la planche 104" src="{static}/images/planche_104_femme.png">
   <figcaption style="max-width: 350px">Qui cache t-il ce loup ?</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ bien savoir qui il cache, ce loup !
 Le Gène
 
 <figure class="image-block" style="float: left; max-width: 40%;">
-  <img alt="Grand loup" src="{static}/images/planche_104_loup.png">
+  <img alt="Dessin de loup de la planche 104" src="{static}/images/planche_104_loup.png">
   <figcaption style="max-width: 350px">Grand loup</figcaption>
 </figure>
 

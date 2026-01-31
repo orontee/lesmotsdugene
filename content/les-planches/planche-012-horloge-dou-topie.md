@@ -11,7 +11,7 @@ series_index: 15
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_12.png">
+  <img alt="Planche 12" src="{static}/images/planche_12.png">
   <figcaption style="max-width: 176px">L'horloge du taupier</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ le gène
 <div style="clear:both"></div>
 
 <figure class="image-block" style="float: right;">
-  <img alt="Le haut de l&#x27;horloge (détail)" src="{static}/images/planche_12_haut_detoure.png">
+  <img alt="Haut de la planche 12" src="{static}/images/planche_12_haut_detoure.png">
   <figcaption style="max-width: 407px">Le haut de l&#x27;horloge (détail)</figcaption>
 </figure>
 

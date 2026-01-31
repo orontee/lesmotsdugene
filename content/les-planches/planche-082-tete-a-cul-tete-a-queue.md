@@ -14,7 +14,7 @@ de droite est fixée sur la croupe au bout de la queue. Le nombre
 « 57 » est gravé en haut à droite.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_82.png">
+  <img alt="Planche 82" src="{static}/images/planche_82.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>
 

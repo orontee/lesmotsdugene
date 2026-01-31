@@ -12,7 +12,7 @@ bords latéraux sont bordés d'écorce. Un nœud dans le bois perce le
 haut de la planche.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_64_recto.png">
+  <img alt="Recto de la planche 64" src="{static}/images/planche_64_recto.png">
   <figcaption style="max-width: 273px"></figcaption>
 </figure>
 

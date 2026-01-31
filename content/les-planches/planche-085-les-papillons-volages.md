@@ -17,7 +17,7 @@ mot « Papillon » forme le dessin d'un papillon. Un trou bouché se
 trouve tout en bas.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_85.png">
+  <img alt="Planche 85" src="{static}/images/planche_85.png">
   <figcaption style="max-width: 183px"></figcaption>
 </figure>
 

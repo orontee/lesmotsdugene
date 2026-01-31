@@ -12,7 +12,7 @@ le recto, la deuxième partie du texte est gravé autour d'un gros nœud
 de bois sombre traversant.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_159_recto.png">
+  <img alt="Recto de la planche 159" src="{static}/images/planche_159_recto.png">
   <figcaption style="max-width: 605px"></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ hif hooo Kou le brave mé come lou méno. joye pa tojô comôde é dïu côme
 de bois d'abre
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_159_verso.png">
+  <img alt="Verso de la planche 159" src="{static}/images/planche_159_verso.png">
   <figcaption style="max-width: 2575px"></figcaption>
 </figure>
 
@@ -55,7 +55,8 @@ L'if, ho ho ho ! Qu'il est joli ! Mais il est comme les garçons :
 joyeux, pas toujours commodes et durs comme du « bois d'arbre » !
 
 <figure class="image-block" style="float: right;">
-  <img alt="Le soleil, la lune et la terre" src="{static}/images/planche_159_recto_detail.png">
+  <img alt="Dessin du recto de la planche 159"
+       src="{static}/images/planche_159_recto_detail.png">
   <figcaption style="max-width: 331px">Le soleil, la lune et la terre</figcaption>
 </figure>
 

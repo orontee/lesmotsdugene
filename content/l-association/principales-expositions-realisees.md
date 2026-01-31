@@ -7,7 +7,7 @@ L'association « Les mots du Gène » a organisé de nombreuses
 expositions pour faire connaître le travail d'Eugène Vicat.
 
 <figure class="image-block" style="float: right; width: 40%;">
-<img alt="Affiche de l'exposition à Artas" 
+<img alt="Affiche de l'exposition à Artas (2024)"
      src="{static}/images/affiche-2024-mottier.png">
 </figure>
 
@@ -30,7 +30,7 @@ Village d’Antan avec l'association des « Georges Antonins » à
 Saint-Pierre-de-Bressieux.
 
 <figure class="image-block" style="float: right; width: 40%;">
-<img alt="Affiche de l'exposition à Artas" 
+<img alt="Affiche de l'exposition à Artas (2022)"
      src="{static}/images/affiche-2022-pont-neuf.png">
 </figure>
 
@@ -62,7 +62,7 @@ d’exposition de l’Office du tourisme de Roybon
 ### Octobre 2017
 
 <figure class="image-block" style="float: right; width: 40%;">
-<img alt="Affiche de l'exposition à Artas" 
+<img alt="Affiche de l'exposition à Artas (2017)"
      src="{static}/images/affiche-2017-la-grange-chevrotière.png">
 </figure>
 

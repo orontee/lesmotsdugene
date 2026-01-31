@@ -12,7 +12,7 @@ bouquet de roses orne le coin gauche en haut de la planche. Un petit
 trait au milieu de la planche sépare les deux phrases.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_186.png">
+  <img alt="Planche 186" src="{static}/images/planche_186.png">
   <figcaption style="max-width: 237px"></figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Il a vécu (sous) une bonne République
 Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="Bouquet de roses" src="{static}/images/planche_186_dessin.png">
+  <img alt="Dessin de la planche 186" src="{static}/images/planche_186_dessin.png">
   <figcaption style="max-width: 220px">Bouquet de roses</figcaption>
 </figure>
 

@@ -14,7 +14,7 @@ un canard qui s'envole et un homme en train de faucher devant un étang
 où nagent deux autres canards.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_115-2.png">
+  <img alt="Planche 115" src="{static}/images/planche_115-2.png">
   <figcaption style="max-width: 206px"></figcaption>
 </figure>
 
@@ -41,7 +41,8 @@ Le Gène
 
 <div style="float: left; width: 50%;">
 <figure class="image-block">
-  <img alt="" src="{static}/images/planche_115_dessin_milieu.png">
+  <img alt="Dessin du milieu de la planche 115"
+       src="{static}/images/planche_115_dessin_milieu.png">
   <figcaption style="max-width: 345px"></figcaption>
 </figure>
 </div>
@@ -51,7 +52,8 @@ Le Gène
 <div>
 <div style="float: left; width: 50%;">
 <figure class="image-block">
-  <img alt="" src="{static}/images/planche_115_dessin__haut.png">
+  <img alt="Dessin du haut de la planche 115"
+       src="{static}/images/planche_115_dessin__haut.png">
   <figcaption style="max-width: 313px"></figcaption>
 </figure>
 </div>

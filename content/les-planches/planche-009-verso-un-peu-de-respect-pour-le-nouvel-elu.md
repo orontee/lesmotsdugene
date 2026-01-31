@@ -14,7 +14,7 @@ bord inférieur s'évase un peu sur la droite.</p>
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_9_verso.png">
+  <img alt="Verso de la planche 9" src="{static}/images/planche_9_verso.png">
   <figcaption style="max-width: 184px"></figcaption>
 </figure>
 

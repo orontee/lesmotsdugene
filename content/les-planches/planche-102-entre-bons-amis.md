@@ -13,7 +13,7 @@ de lanterne peu visible se trouve sur la gauche en dessous du mot
 « lanterna ».</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_102-3.png">
+  <img alt="Planche 102" src="{static}/images/planche_102-3.png">
   <figcaption style="max-width: 163px"></figcaption>
 </figure>
 
@@ -38,7 +38,8 @@ le gène
 - Plutôt que de marcher à l'aveuglette, allume donc ta lanterne !
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_102_dessin-2.png">
+  <img alt="Dessin de la planche 102"
+       src="{static}/images/planche_102_dessin-2.png">
   <figcaption style="max-width: 190px"></figcaption>
 </figure>
 

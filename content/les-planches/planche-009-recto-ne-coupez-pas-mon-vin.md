@@ -12,7 +12,7 @@ présente un gros trou dans le premier tiers de la hauteur. Le bord
 inférieur s'évase vers la gauche.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_9_recto2.png">
+  <img alt="Recto de la planche 9" src="{static}/images/planche_9_recto2.png">
   <figcaption style="max-width: 278px"></figcaption>
 </figure>
 

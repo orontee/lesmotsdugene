@@ -12,7 +12,7 @@ côtés.  Le verso est bordé sur les côtés et en bas d'une large bande
 d'écorce en forme de « V ».</p>
 
 <figure class="image-block" style="float: left; width: 40%;">
-  <img alt="" src="{static}/images/planche_60_recto.png">
+  <img alt="Recto de la planche 60" src="{static}/images/planche_60_recto.png">
   <figcaption style="max-width: 278px"></figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Pe pensa tien gène te manqua ina brize d’ême
 éko le gène
 
 <figure class="image-block" style="float: left; width: 40%;">
-  <img alt="" src="{static}/images/planche_60_verso.png">
+  <img alt="Verso de la planche 60" src="{static}/images/planche_60_verso.png">
   <figcaption style="max-width: 316px"></figcaption>
 </figure>
 

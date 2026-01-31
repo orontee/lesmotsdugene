@@ -16,7 +16,7 @@ d'un personnage renversé sur le dos qui tombe en s'accrochant à la
 branche d'un arbre d'un arbre.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="La cupelette de Jules (verso)" src="{static}/images/planche_129_verso_.png">
+  <img alt="Verso de la planche 129" src="{static}/images/planche_129_verso_.png">
   <figcaption style="max-width: 273px">La cupelette de Jules (verso)</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ tête dans le coteau.
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;">
-  <img alt="Une cupelette pour des noix (recto)" src="{static}/images/planche_129_recto2_.png">
+  <img alt="Recto de la planche 129" src="{static}/images/planche_129_recto2_.png">
   <figcaption style="max-width: 290px">Une cupelette pour des noix (recto)</figcaption>
 </figure>
 

@@ -12,7 +12,7 @@ incurvée. À gauche et à droite, dessins de plants de jonquilles. Le
 et coiffé par l'accent circonflexe.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_116.png">
+  <img alt="Planche 116" src="{static}/images/planche_116.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>
 

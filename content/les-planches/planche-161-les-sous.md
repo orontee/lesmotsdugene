@@ -10,7 +10,7 @@ Petite planche verticale. Le bord supérieur est ondulé et les côtés
 latéraux bordés d'écorce.
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_161.png">
+  <img alt="Planche 161" src="{static}/images/planche_161.png">
   <figcaption style="max-width: 216px"></figcaption>
 </figure>
 

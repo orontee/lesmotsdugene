@@ -9,7 +9,7 @@ series_index: 34
 <p style="text-align:justify;">Planche moyenne verticale de forme oblongue aux angles arrondis.</p>
 
 <figure class="image-block" style="float: right; max-width: 40%;">
-  <img alt="" src="{static}/images/planche_28-2.png">
+  <img alt="Planche 28" src="{static}/images/planche_28-2.png">
   <figcaption style="max-width: 348px"></figcaption>
 </figure>
 

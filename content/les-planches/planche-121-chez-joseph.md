@@ -11,7 +11,7 @@ grandeur. Le bord latéral droit est bordé d'écorce. Le bas est un peu
 plus étroit. Le bord supérieur est légèrement concave et ondulé.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_121.png">
+  <img alt="Planche 121" src="{static}/images/planche_121.png">
   <figcaption style="max-width: 222px"></figcaption>
 </figure>
 

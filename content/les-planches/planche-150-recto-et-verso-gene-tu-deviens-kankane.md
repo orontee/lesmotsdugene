@@ -10,7 +10,7 @@ series_index: 158
 bordée d'écorce. Les deux faces sont gravées.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_150_recto.png">
+  <img alt="Recto de la planche 150" src="{static}/images/planche_150_recto.png">
   <figcaption style="max-width: 367px"></figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Eugène s'est amusé avec la consonance des mots en les inscrivant pour
 qu'ils ne soient pas oubliés.
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_150_verso.png">
+  <img alt="Verso de la planche 150" src="{static}/images/planche_150_verso.png">
   <figcaption style="max-width: 334px"></figcaption>
 </figure>
 

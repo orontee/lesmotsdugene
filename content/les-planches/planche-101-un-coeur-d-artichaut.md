@@ -12,7 +12,7 @@ soulignées en doré. Elle comprend cinq historiettes. En haut, le texte
 est contenu dans un dessin de cœur.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_101.png">
+  <img alt="Planche 101" src="{static}/images/planche_101.png">
   <figcaption style="max-width: 151px"></figcaption>
 </figure>
 

@@ -13,7 +13,7 @@ figure un dessin de loup.
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_4.png">
+  <img alt="Planche 4" src="{static}/images/planche_4.png">
   <figcaption style="max-width: 234px"></figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ Quand tu ne peux plus prendre la fuite, il faut toujours dire au loup
 qu'il est une brave bête.
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_4_dessin.png">
+  <img alt="Détail de la planche 4" src="{static}/images/planche_4_dessin.png">
   <figcaption style="max-width: 201px"></figcaption>
 </figure>
 

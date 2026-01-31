@@ -13,7 +13,7 @@ lorsque qu'ils sont isolés. Les chiffres « 1 », « 2 » et « 3 » sont
 gravés en petit, un peu au dessus à gauche des phrases énumérées.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_71.png">
+  <img alt="Planche 71" src="{static}/images/planche_71.png">
   <figcaption style="max-width: 279px"></figcaption>
 </figure>
 

@@ -13,7 +13,7 @@ planche. Le manche de la faucille est prolongé par une grosse boule en
 buis. Dans le « O » de « bOla » est esquissé un visage.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_125.png">
+  <img alt="Planche 125" src="{static}/images/planche_125.png">
   <figcaption style="max-width: 174px"></figcaption>
 </figure>
 

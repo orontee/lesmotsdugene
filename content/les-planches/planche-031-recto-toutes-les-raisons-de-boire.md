@@ -10,7 +10,7 @@ series_index: 37
 bordée d'écorce et gravée sur les deux faces.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_31_recto.png">
+  <img alt="Recto de la planche 31" src="{static}/images/planche_31_recto.png">
   <figcaption style="max-width: 199px"></figcaption>
 </figure>
 

@@ -12,7 +12,7 @@ en forme de « V » sont dessinés un poussin et un coq à gauche, deux
 poules et deux poussins à droite.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_97.png">
+  <img alt="Planche 97" src="{static}/images/planche_97.png">
   <figcaption style="max-width: 282px"></figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ pareil avec tes poulettes !
 Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="… les poules et les poussins" src="{static}/images/planche_97_dessins.png">
+  <img alt="Dessins de la planche 97" src="{static}/images/planche_97_dessins.png">
   <figcaption style="max-width: 420px">… les poules et les poussins</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Eugène a noté cette objurgation adressée à un autre paysan dans un
 alpage au col de la Bataille.
 
 <figure class="image-block" style="float: left;">
-  <img alt="Le coq…" src="{static}/images/planche_97_dessin_gauche.png">
+  <img alt="Dessin de coq de la planche 97" src="{static}/images/planche_97_dessin_gauche.png">
   <figcaption style="max-width: 300px">Le coq…</figcaption>
 </figure>
 

@@ -15,7 +15,7 @@ plusieurs oiseaux, du mot « coucou » répété trois fois et de plusieurs
 fleurs, marguerites (?) et plants de muguets.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_95.png">
+  <img alt="Planche 95" src="{static}/images/planche_95.png">
   <figcaption style="max-width: 227px"></figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ ne mourrai pas de faim.
 Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="Paysage printannier" src="{static}/images/planche_95_dessin.png">
+  <img alt="Dessin de la planche 95" src="{static}/images/planche_95_dessin.png">
   <figcaption style="max-width: 367px">Paysage printannier</figcaption>
 </figure>
 

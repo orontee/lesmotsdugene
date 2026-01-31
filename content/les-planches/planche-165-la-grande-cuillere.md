@@ -13,18 +13,19 @@ masse.</p>
 
 
 <figure class="image-block" style="float: left;">
-  <img alt="Le côté face de la cuillère." src="{static}/images/planche_165_recto-2.png">
+  <img alt="Recto de la planche 165" src="{static}/images/planche_165_recto-2.png">
   <figcaption style="max-width: 185px">Le côté face de la cuillère</figcaption>
 </figure>
 
 
 <figure class="image-block" style="float: right;">
-  <img alt="Le côté pile de la cuillère." src="{static}/images/planche_165_verso.png">
+  <img alt="Verso de la planche 165" src="{static}/images/planche_165_verso.png">
   <figcaption style="max-width: 162px">Le côté pile de la cuillère</figcaption>
 </figure>
 
 <figure class="image-block" style="float: right;">
-  <img alt="Il tape fort avec sa masse !" src="{static}/images/planche_165_verso_detail_dessin.png">
+  <img alt="Détail du verso de la planche 165"
+       src="{static}/images/planche_165_verso_detail_dessin.png">
   <figcaption style="max-width: 190px">Il tape fort avec sa masse !</figcaption>
 </figure>
 

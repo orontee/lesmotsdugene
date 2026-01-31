@@ -12,7 +12,7 @@ joug. Entre les deux parties du texte, dessin de deux ânes près d'un
 chemin, d'un pommier et d'une charrue.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_56.png">
+  <img alt="Planche 56" src="{static}/images/planche_56.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ chemin, d'un pommier et d'une charrue.</p>
 Lou z’âne que n’on jamè ren Fâ on Bramâ totâ lo via
 
 <figure class="image-block" style="float: right;">
-  <img alt="Les ânes ne vont pas tous dans le même sens" src="{static}/images/planche_56_dessin.png">
+  <img alt="Dessin de la planche 56" src="{static}/images/planche_56_dessin.png">
   <figcaption style="max-width: 440px">Les ânes ne vont pas tous dans le même sens</figcaption>
 </figure>
 

@@ -13,7 +13,7 @@ trouve sous l'avant-dernière ligne du premier texte, un autre tout en
 bas.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche170.png">
+  <img alt="Planche 170" src="{static}/images/planche170.png">
   <figcaption style="max-width: 195px"></figcaption>
 </figure>
 

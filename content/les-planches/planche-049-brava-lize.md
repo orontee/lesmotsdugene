@@ -14,7 +14,7 @@ un trait horizontal sur toute la largeur figure le bas d'une robe dont
 émergent en dessous, deux pieds de profil chaussés de sabots.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_49.png">
+  <img alt="Planche 49" src="{static}/images/planche_49.png">
   <figcaption style="max-width: 175px"></figcaption>
 </figure>
 
@@ -36,7 +36,8 @@ le gène
 Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="Lise de Marnans" src="{static}/images/planche_49_detail_dessin.png">
+  <img alt="Dessin de Lise de Marnans de la planche 49" 
+       src="{static}/images/planche_49_detail_dessin.png">
   <figcaption style="max-width: 281px">Lise de Marnans</figcaption>
 </figure>
 

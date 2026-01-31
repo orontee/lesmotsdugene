@@ -12,7 +12,7 @@ rectangulaire. Elle est légèrement plus étroite en bas qu'en haut. Un
 point d'interrogation sépare les deux parties du texte.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_36.png">
+  <img alt="Planche 36" src="{static}/images/planche_36.png">
   <figcaption style="max-width: 197px"></figcaption>
 </figure>
 

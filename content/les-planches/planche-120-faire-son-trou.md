@@ -12,7 +12,7 @@ est découpé en deux arrondis convexes. Le bord haut est également
 convexe.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_120_-2.png">
+  <img alt="Planche 120" src="{static}/images/planche_120_-2.png">
   <figcaption style="max-width: 165px"></figcaption>
 </figure>
 

@@ -15,7 +15,7 @@ marche.</p>
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;"> 
-<img alt="" src="{static}/images/planche_16_recto.png"> 
+<img alt="Recto de la planche 16" src="{static}/images/planche_16_recto.png"> 
 <figcaption style="max-width: 204px"></figcaption> 
 </figure>
 
@@ -25,7 +25,7 @@ pe te sôtre dou mové tan te fô la creyanse le tôpé ou de grandâ jambà
 ou te mettà â l’ourri dou vent è à l’assoute de la plève
 
 <figure class="image-block" style="float: right;">
-  <img alt="Le vent les pousse" src="{static}/images/planche_16_recto_detail_dessin.png">
+  <img alt="Détail du recto de la planche 16" src="{static}/images/planche_16_recto_detail_dessin.png">
   <figcaption style="max-width: 300px">Le vent les pousse</figcaption>
 </figure>
 

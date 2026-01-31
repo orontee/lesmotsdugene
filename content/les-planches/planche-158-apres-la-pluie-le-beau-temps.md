@@ -12,7 +12,7 @@ soleil, des arbres et des traits en zigzags figurant des éclairs
 surmontés de la mention « BROUM ».</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_158.png">
+  <img alt="Planche 158" src="{static}/images/planche_158.png">
   <figcaption style="max-width: 197px"></figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ le gène
 Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="L&#x27;orage menace sur les coteaux" src="{static}/images/planche_158_dessin.png">
+  <img alt="Dessin de la planche 158" src="{static}/images/planche_158_dessin.png">
   <figcaption style="max-width: 300px">L&#x27;orage menace sur les coteaux</figcaption>
 </figure>
 

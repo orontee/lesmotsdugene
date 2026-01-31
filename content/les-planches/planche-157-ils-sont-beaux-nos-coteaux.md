@@ -12,7 +12,7 @@ sinueux. Au dessus du texte, un dessin de paysage de collines avec
 deux chèvres, un lièvre, une ferme et des arbres.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_157-2.png">
+  <img alt="Planche 157" src="{static}/images/planche_157-2.png">
   <figcaption style="max-width: 267px"></figcaption>
 </figure>
 
@@ -44,6 +44,6 @@ quartier des Bouilleaux est encore plus difficile à cultiver.
 </video>
 
 <figure class="image-block" style="float: left;">
-  <img alt="Les chèvres des coteaux" src="{static}/images/planche_157_dessin.png">
+  <img alt="Dessin de la planche 157" src="{static}/images/planche_157_dessin.png">
   <figcaption style="max-width: 480px">Les chèvres des coteaux</figcaption>
 </figure>

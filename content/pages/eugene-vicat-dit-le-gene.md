@@ -17,7 +17,7 @@ d’une vie bien remplie qu’Eugène nous a livré en gravant sur des
 planches à l’aspect brut, dessins et petits textes en patois.
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="Au café « Chez Simone », place des Buttes" 
+  <img alt="Photo d'Eugène Vicat au café « Chez Simone », place des Buttes" 
        src="{static}/images/eugene_20140501.jpg">
   <figcaption style="max-width: 576px">
     Au café « Chez Simone », place des Buttes (Crédit: Catherine Vincent)

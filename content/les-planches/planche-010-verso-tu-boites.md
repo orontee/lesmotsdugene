@@ -13,7 +13,7 @@ gravées.</p>
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_10_verso.png">
+  <img alt="Verso de la planche 10" src="{static}/images/planche_10_verso.png">
   <figcaption style="max-width: 225px"></figcaption>
 </figure>
 

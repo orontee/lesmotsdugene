@@ -15,7 +15,7 @@ visage. Dans la partie inférieure, un autre gros nœud percé est
 traversé par une fente verticale.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_68.png">
+  <img alt="Planche 68" src="{static}/images/planche_68.png">
   <figcaption style="max-width: 259px"></figcaption>
 </figure>
 
@@ -49,7 +49,8 @@ petite maxime qui invite à l'optimisme.
 
 
 <figure class="image-block" style="float: left; max-width: 30%;">
-  <img alt="" src="{static}/images/planche_68_dessin_milieu.png">
+  <img alt="Dessin du milieu de la planche 68"
+       src="{static}/images/planche_68_dessin_milieu.png">
   <figcaption style="max-width: 324px"></figcaption>
 </figure>
 

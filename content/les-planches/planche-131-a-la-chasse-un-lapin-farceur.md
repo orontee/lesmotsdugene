@@ -13,7 +13,7 @@ pointant un fusil devant lui. Il est entouré de petits lapins. Sur la
 droite, dessin d'une tête de lapin semblant observer le chasseur. </p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_131.png">
+  <img alt="Planche 131" src="{static}/images/planche_131.png">
   <figcaption style="max-width: 227px"></figcaption>
 </figure>
 
@@ -35,7 +35,8 @@ gibecière croyant que c'était là son terrier.
 Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="A califourchon sur un tronc d&#x27;arbre, j&#x27;essayais de tirer sur les lapins" src="{static}/images/planche_131_dessin.png">
+  <img alt="Dessin de la planche 131"
+       src="{static}/images/planche_131_dessin.png">
   <figcaption style="max-width: 400px">A califourchon sur un tronc d&#x27;arbre, j&#x27;essayais de tirer sur les lapins</figcaption>
 </figure>
 

@@ -13,7 +13,7 @@ bouc. Le bas de la planche présente des traces d'humidité. Des lignes
 tracées au crayon sont encore visibles. </p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_94-2.png">
+  <img alt="Planche 94" src="{static}/images/planche_94-2.png">
   <figcaption style="max-width: 190px"></figcaption>
 </figure>
 

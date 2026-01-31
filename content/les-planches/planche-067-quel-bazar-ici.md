@@ -11,7 +11,7 @@ rectangulaire et verticale. Au sommet, dessin d'un cercle entourant un
 point. </p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_67.png">
+  <img alt="Planche 67" src="{static}/images/planche_67.png">
   <figcaption style="max-width: 215px"></figcaption>
 </figure>
 

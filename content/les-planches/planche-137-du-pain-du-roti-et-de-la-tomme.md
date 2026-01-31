@@ -11,7 +11,7 @@ bord supérieur est sinueux. Une petite fente part du bord
 inférieur. Un petit trait sépare les deux textes.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_137.png">
+  <img alt="Planche 137" src="{static}/images/planche_137.png">
   <figcaption style="max-width: 218px"></figcaption>
 </figure>
 

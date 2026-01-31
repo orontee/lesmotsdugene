@@ -15,7 +15,7 @@ deux, l'esquisse d'un paysage de montagnes sous un soleil
 rayonnant.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_61_tout-2.png">
+  <img alt="Planche 61" src="{static}/images/planche_61_tout-2.png">
   <figcaption style="max-width: 750px"></figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ le gène
 Le Gène
 
 <figure class="image-block" style="float: left;">
-  <img alt="Dans nos côteaux" src="{static}/images/planche_61.png">
+  <img alt="Dessin de la planche 61" src="{static}/images/planche_61.png">
   <figcaption style="max-width: 363px">Dans nos côteaux </figcaption>
 </figure>
 

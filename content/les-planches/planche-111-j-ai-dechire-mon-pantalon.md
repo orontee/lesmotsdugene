@@ -9,7 +9,7 @@ series_index: 119
 Petite planche verticale, trapézoïdale.
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_111.png">
+  <img alt="Planche 111" src="{static}/images/planche_111.png">
   <figcaption style="max-width: 313px"></figcaption>
 </figure>
 

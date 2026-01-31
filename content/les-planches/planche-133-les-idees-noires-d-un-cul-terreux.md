@@ -11,7 +11,7 @@ vers la gauche. Tous les côtés sont découpés mécaniquement et trois
 des angles biseautés.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_133.png">
+  <img alt="Planche 133" src="{static}/images/planche_133.png">
 </figure>
 
 ## Texte en patois
@@ -38,7 +38,8 @@ Le Gène,
 un cul-terreux qui a des idées noires, la rage.
 
 <figure class="image-block" style="float: right;">
-  <img alt="Un cul-terreux qui a des idèes noires et la rage" src="{static}/images/planche_133_detail_bas_gauche.png">
+  <img alt="Détail en bas à gauche de la planche 133"
+       src="{static}/images/planche_133_detail_bas_gauche.png">
   <figcaption style="max-width: 200px">Un cul-terreux qui a des idèes noires et la rage</figcaption>
 </figure>
 

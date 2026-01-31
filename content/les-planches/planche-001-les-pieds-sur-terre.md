@@ -12,13 +12,13 @@ La dernière phrase du recto « ne te pran pa trôp… » est gravée au bas d
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;">
-  <img alt="Le recto" src="{static}/images/planche_1.png">
+  <img alt="Le recto de la planche 1" src="{static}/images/planche_1.png">
   <figcaption style="max-width: 249px">Le recto</figcaption>
 </figure>
 
 
 <figure class="image-block" style="float: right;">
-  <img alt="Le verso" src="{static}/images/planche_1_verso.png">
+  <img alt="Le verso de la planche 1" src="{static}/images/planche_1_verso.png">
   <figcaption style="max-width: 214px">Le verso</figcaption>
 </figure>
 

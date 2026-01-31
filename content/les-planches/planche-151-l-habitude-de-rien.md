@@ -11,7 +11,7 @@ horizontale. Les bords inférieur et supérieur sont droits, les bords
 latéraux découpés en forme de vagues.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_151.png">
+  <img alt="Planche 151" src="{static}/images/planche_151.png">
   <figcaption style="max-width: 630px"></figcaption>
 </figure>
 

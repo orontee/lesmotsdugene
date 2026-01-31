@@ -13,7 +13,7 @@ dessin d'un homme coiffé d'une casquette qui porte un coffre marqué
 « C.F. » et marche derrière un cochon.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_178-2.png">
+  <img alt="Planche 178" src="{static}/images/planche_178-2.png">
   <figcaption style="max-width: 689px"></figcaption>
 </figure>
 
@@ -30,7 +30,8 @@ Les avares et les cochons font plus plaisir, morts que vifs !
 Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche178_dessin.png">
+  <img alt="Dessin de la planche 178"
+       src="{static}/images/planche178_dessin.png">
   <figcaption style="max-width: 400px"></figcaption>
 </figure>
 

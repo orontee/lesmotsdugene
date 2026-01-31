@@ -19,7 +19,7 @@ silhouettes d’oiseaux.
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left; width: 40%;">
-  <img alt="" src="{static}/images/planche_17_verso.png">
+  <img alt="Verso de la planche 17" src="{static}/images/planche_17_verso.png">
   <figcaption style="max-width: 293px"></figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Au pied de mon chêne, j'étais bien heureux, ne quitte pas ton chêne…
 Le Gène
 
 <figure class="image-block" style="float: left; width: 40%;">
-  <img alt="Le Gène au pied de son chêne, dans les Chambarans…" src="{static}/images/planche_17_verso-dessin.png">
+  <img alt="Détail du verso de la planche 17" src="{static}/images/planche_17_verso-dessin.png">
   <figcaption style="max-width: 320px">Le Gène au pied de son chêne, dans les Chambarans…</figcaption>
 </figure>
 

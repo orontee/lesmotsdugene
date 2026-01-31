@@ -15,12 +15,13 @@ gauche est bordé d'écorce. Tout en bas, sous la signature et en petits
 caractères, Eugène a rajouté la phrase « il avait 5 ans ».</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_107.png">
+  <img alt="Planche 107" src="{static}/images/planche_107.png">
   <figcaption style="max-width: 310px"></figcaption>
 </figure>
 
 <figure class="image-block" style="float: right;">
-  <img alt="Entendu en 1939 (détail haut/droite)" src="{static}/images/planche_107detail_haut-2.png">
+  <img alt="Haut de la planche 107"
+       src="{static}/images/planche_107detail_haut-2.png">
   <figcaption style="max-width: 306px">Entendu en 1939 (détail haut/droite)</figcaption>
 </figure>
 
@@ -51,7 +52,8 @@ Entendu en 1939, après un terrible orage de grêle :
 Le Gène, il avait 5 ans.
 
 <figure class="image-block" style="float: left;">
-  <img alt="Signature (détail bas)" src="{static}/images/planche_107_detail_signature-2.png">
+  <img alt="Signature de la planche 107" 
+       src="{static}/images/planche_107_detail_signature-2.png">
   <figcaption style="max-width: 315px">Signature (détail bas)</figcaption>
 </figure>
 

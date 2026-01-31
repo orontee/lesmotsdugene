@@ -10,7 +10,7 @@ series_index: 180
 légèrement bordée d'écorce.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_173.png">
+  <img alt="Planche 173" src="{static}/images/planche_173.png">
   <figcaption style="max-width: 276px"></figcaption>
 </figure>
 

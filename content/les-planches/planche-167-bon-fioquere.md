@@ -11,12 +11,12 @@ soufflet. Dans la partie supérieure, dessin d'un homme souriant,
 coiffé d'un béret, les avant-bras croisés devant son ventre.  </p>
 
 <figure class="image-block" style="float: left; max-width: 50%;">
-  <img alt="" src="{static}/images/planche_167.png">
+  <img alt="Planche 167" src="{static}/images/planche_167.png">
   <figcaption style="max-width: 236px"></figcaption>
 </figure>
 
 <figure class="image-block" style="float: right; max-width: 50%;">
-  <img alt="Personnage au béret (détail)" src="{static}/images/planche_167_detail.png">
+  <img alt="Détail de la planche 167" src="{static}/images/planche_167_detail.png">
   <figcaption style="max-width: 250px">Personnage au béret (détail)</figcaption>
 </figure>
 

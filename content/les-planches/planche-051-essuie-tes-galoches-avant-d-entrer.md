@@ -12,7 +12,7 @@ de galoches pour femmes et en bas, à gauche et à droite, des galoches
 avec empeignes de cuir.</p>
 
 <figure class="image-block" style="float: right; width: 40%;">
-  <img alt="" src="{static}/images/planche_51-2.png">
+  <img alt="Planche 51" src="{static}/images/planche_51-2.png">
   <figcaption style="max-width: 333px"></figcaption>
 </figure>
 

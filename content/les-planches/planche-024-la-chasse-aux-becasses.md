@@ -17,12 +17,12 @@ haut. </p>
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;">
-  <img alt="Retour de la chasse aux bécasses" src="{static}/images/planche_24_detail_dessin.png">
+  <img alt="Haut de la planche 24" src="{static}/images/planche_24_detail_dessin.png">
   <figcaption style="max-width: 300px">Retour de la chasse aux bécasses</figcaption>
 </figure>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_24.png">
+  <img alt="Planche 24" src="{static}/images/planche_24.png">
   <figcaption style="max-width: 218px"></figcaption>
 </figure>
 

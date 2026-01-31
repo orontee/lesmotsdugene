@@ -10,7 +10,7 @@ series_index: 88
 deux parties séparées par un trait vertical sinueux.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_79.png">
+  <img alt="Planche 79" src="{static}/images/planche_79.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>
 

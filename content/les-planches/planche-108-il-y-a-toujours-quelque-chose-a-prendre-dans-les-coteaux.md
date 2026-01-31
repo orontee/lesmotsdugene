@@ -19,7 +19,7 @@ dessus d'un trait en biais de bas en haut de gauche à droite, et ce
 qui semble figurer la silhouette d'un village au loin.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_108.png">
+  <img alt="Planche 108" src="{static}/images/planche_108.png">
   <figcaption style="max-width: 300px"></figcaption>
 </figure>
 

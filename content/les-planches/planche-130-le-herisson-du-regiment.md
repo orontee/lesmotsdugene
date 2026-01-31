@@ -9,7 +9,7 @@ series_index: 137
 Planche rectangulaire verticale légèrement recourbée vers la gauche.
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_130.png">
+  <img alt="Planche 130" src="{static}/images/planche_130.png">
   <figcaption style="max-width: 140px"></figcaption>
 </figure>
 

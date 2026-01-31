@@ -12,7 +12,7 @@ textes assez denses sont gravés l'un au dessus de l'autre, séparés par
 la signature.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_47.png">
+  <img alt="Planche 47" src="{static}/images/planche_47.png">
   <figcaption style="max-width: 160px"></figcaption>
 </figure>
 

@@ -13,7 +13,7 @@ est gravé le nombre « 86 ». Sous le texte, dessin de deux oiseaux
 entourant un nid contenant deux œufs. </p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_147-2.png">
+  <img alt="Planche 147" src="{static}/images/planche_147-2.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ représentent ici l'équivalent animalier d'un couple où la femme fait
 tout le travail et dirige la maison.
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_147_dessins.png">
+  <img alt="Bas de la planche 147" src="{static}/images/planche_147_dessins.png">
   <figcaption style="max-width: 380px"></figcaption>
 </figure>
 

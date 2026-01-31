@@ -11,7 +11,7 @@ series_index: 33
 veinée. Le nombre « 27 » est gravé en haut à droite.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_27.png">
+  <img alt="Planche 27" src="{static}/images/planche_27.png">
   <figcaption style="max-width: 219px"></figcaption>
 </figure>
 

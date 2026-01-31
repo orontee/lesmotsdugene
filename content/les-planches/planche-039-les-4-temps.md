@@ -13,7 +13,7 @@ En bas, au dessus d'un gros nœud, la dernière ligne de mots est encore
 plus incurvée.  </p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_39.png">
+  <img alt="Planche 39" src="{static}/images/planche_39.png">
   <figcaption style="max-width: 208px"></figcaption>
 </figure>
 

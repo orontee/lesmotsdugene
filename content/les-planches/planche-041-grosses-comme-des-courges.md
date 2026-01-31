@@ -13,7 +13,7 @@ une femme coiffée d'un grand chapeau. Un panier est à ses pieds. Deux
 textes sont gravés sur cette planche, l'un au dessus de l'autre.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_41.png">
+  <img alt="Planche 41" src="{static}/images/planche_41.png">
   <figcaption style="max-width: 155px"></figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ Le Gène
 ## Commentaire
 
 <figure class="image-block" style="float: right;">
-  <img alt="Il lui a fallu une echelle pour grimper sur les carottes…" src="{static}/images/planche_41_dessin.png">
+  <img alt="Dessin de la planche 41" src="{static}/images/planche_41_dessin.png">
   <figcaption style="max-width: 265px">Il lui a fallu une echelle pour grimper sur les carottes…</figcaption>
 </figure>
 

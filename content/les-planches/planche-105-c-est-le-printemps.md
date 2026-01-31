@@ -14,12 +14,13 @@ les branches, un petit oiseau en train de voler et au centre de la
 planche, deux lièvres qui s'étreignent.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_105.png">
+  <img alt="Planche 105" src="{static}/images/planche_105.png">
   <figcaption style="max-width: 171px"></figcaption>
 </figure>
 
 <figure class="image-block" style="float: right;">
-  <img alt="Moi le pin parasol" src="{static}/images/planche_105_detail_dessin_arbre.png">
+  <img alt="Dessin d'arbre de la planche 105" 
+       src="{static}/images/planche_105_detail_dessin_arbre.png">
   <figcaption style="max-width: 193px">Moi le pin parasol</figcaption>
 </figure>
 
@@ -32,7 +33,8 @@ Farfassié dian la buïssonna é le Kézon. le liévre boquinna sû le châmi
 le gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="Lièvres se&quot; boquinna sû le châmi&quot;" src="{static}/images/planche_105_detail_dessin_lievres.png">
+  <img alt="Dessin de lièvres de la planche 105"
+       src="{static}/images/planche_105_detail_dessin_lievres.png">
   <figcaption style="max-width: 600px">Lièvres se&quot; boquinna sû le châmi&quot;</figcaption>
 </figure>
 

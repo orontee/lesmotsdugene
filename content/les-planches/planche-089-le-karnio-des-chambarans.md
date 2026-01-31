@@ -11,7 +11,7 @@ en bas. Deux textes sont gravés, l'un au dessus de l'autre, séparés
 par un petit trait ondulé.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_89.png">
+  <img alt="Planche 89" src="{static}/images/planche_89.png">
   <figcaption style="max-width: 228px"></figcaption>
 </figure>
 

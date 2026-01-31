@@ -12,7 +12,7 @@ planche regroupe trois textes courts, séparés par des petits
 traits.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_30.png">
+  <img alt="Planche 30" src="{static}/images/planche_30.png">
   <figcaption style="max-width: 280px"></figcaption>
 </figure>
 

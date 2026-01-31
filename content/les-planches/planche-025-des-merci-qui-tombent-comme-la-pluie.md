@@ -12,7 +12,7 @@ sépare les deux textes. Le nombre « 25 » est gravé en haut à
 droite.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_25.png">
+  <img alt="Planche 25" src="{static}/images/planche_25.png">
   <figcaption style="max-width: 211px"></figcaption>
 </figure>
 

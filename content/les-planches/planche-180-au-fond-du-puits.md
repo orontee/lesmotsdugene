@@ -11,7 +11,7 @@ vers le haut. À droite, dessin d'un puits maçonné avec des galets
 roulés.
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_180.png">
+  <img alt="Planche 180" src="{static}/images/planche_180.png">
   <figcaption style="max-width: 685px"></figcaption>
 </figure>
 
@@ -22,7 +22,8 @@ ou gâre soven le fond de la bosse jamé le Fond dou Puit
 le gène
 
 <figure class="image-block" style="float: left;">
-  <img alt="Le puits du Gène maçonné avec des galets roulés" src="{static}/images/planche_180_detail_dessin.png">
+  <img alt="Dessin du puits du Gène de la planche 180"
+       src="{static}/images/planche_180_detail_dessin.png">
   <figcaption style="max-width: 497px">Le puits du Gène maçonné avec des galets roulés</figcaption>
 </figure>
 

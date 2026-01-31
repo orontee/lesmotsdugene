@@ -11,7 +11,7 @@ légèrement fendue en bas et gravée sur les deux faces. Les bords bas
 et haut sont évasés. Les bords latéraux sont bordés d'écorce. </p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_65_verso.png">
+  <img alt="Verso de la planche 65" src="{static}/images/planche_65_verso.png">
   <figcaption style="max-width: 244px"></figcaption>
 </figure>
 

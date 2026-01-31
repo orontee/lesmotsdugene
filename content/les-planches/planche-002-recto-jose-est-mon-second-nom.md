@@ -11,7 +11,7 @@ series_index: 2
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_2_recto.png">
+  <img alt="Recto de la planche 2" src="{static}/images/planche_2_recto.png">
   <figcaption style="max-width: 119px"></figcaption>
 </figure>
 

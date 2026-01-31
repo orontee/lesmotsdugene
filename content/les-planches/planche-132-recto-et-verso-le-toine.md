@@ -15,17 +15,18 @@ droite. Au centre, au dessus du texte, dessin de deux personnages
 (homme et femme) se tenant par la main.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_132_verso.png">
+  <img alt="Verso de la planche 132" src="{static}/images/planche_132_verso.png">
   <figcaption style="max-width: 200px"></figcaption>
 </figure>
 
 <figure class="image-block" style="float: right;">
-  <img alt="Un homme et une femme amoureux" src="{static}/images/planche_132_verso_dessin.png">
+  <img alt="Dessin du verso de la planche 132"
+       src="{static}/images/planche_132_verso_dessin.png">
   <figcaption style="max-width: 200px">Un homme et une femme amoureux</figcaption>
 </figure>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_132_recto.png">
+  <img alt="Recto de la planche 132" src="{static}/images/planche_132_recto.png">
   <figcaption style="max-width: 247px"></figcaption>
 </figure>
 

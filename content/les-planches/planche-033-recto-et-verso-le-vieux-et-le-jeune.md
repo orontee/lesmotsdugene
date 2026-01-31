@@ -12,12 +12,12 @@ gardent une partie naturellement très découpée. Sur le recto, en bas
 de la planche à droite, est gravé un œil.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_33_recto.png">
+  <img alt="Recto de la planche 33" src="{static}/images/planche_33_recto.png">
   <figcaption style="max-width: 203px"></figcaption>
 </figure>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_33_verso2.png">
+  <img alt="Verso de la planche 33" src="{static}/images/planche_33_verso2.png">
   <figcaption style="max-width: 178px"></figcaption>
 </figure>
 

@@ -13,7 +13,7 @@ nœuds de bois sombres : l'un en haut à gauche, l'autre contre le bord
 inférieur.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_5.png">
+  <img alt="Planche 5" src="{static}/images/planche_5.png">
   <figcaption style="max-width: 109px"></figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ le grande z’eureille si te sèrve â bien écotâ ne son pâ ien défo ?
 lou z’âne tô tan balanssian le liô on sovan trassia lou meillou châmi
 
 <figure class="image-block" style="float: right;">
-  <img alt="Les grandes oreilles (détail haut)" src="{static}/images/planche_5_detail.png">
+  <img alt="Haut de la planche 5" src="{static}/images/planche_5_detail.png">
   <figcaption style="max-width: 264px">Les grandes oreilles (détail haut)</figcaption>
 </figure>
 

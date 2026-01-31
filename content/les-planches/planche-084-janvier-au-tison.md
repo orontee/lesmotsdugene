@@ -15,7 +15,7 @@ servi à Eugène de modèle) contenant trois grosses bûches dans
 l’âtre. Un homme et un chat sont assis, tournant le dos au feu.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_84.png">
+  <img alt="Planche 84" src="{static}/images/planche_84.png">
   <figcaption style="max-width: 154px"></figcaption>
 </figure>
 

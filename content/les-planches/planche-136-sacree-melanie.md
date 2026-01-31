@@ -13,7 +13,7 @@ chapeau. Leurs visages sont très expressifs. Tout en bas, sous la
 signature, semblent gravées les lettres « C » et « O » (?).</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_136.png">
+  <img alt="Planche 136" src="{static}/images/planche_136.png">
   <figcaption style="max-width: 194px"></figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ le gène C O
 ## Traduction
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_136_dessin.png">
+  <img alt="Dessin de la planche 136" src="{static}/images/planche_136_dessin.png">
   <figcaption style="max-width: 159px"></figcaption>
 </figure>
 

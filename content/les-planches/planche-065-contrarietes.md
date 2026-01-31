@@ -13,7 +13,7 @@ recto : deux textes séparés par un petit trait. Le nombre « 64 » est
 gravé en haut à droite. </p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_65_recto.png">
+  <img alt="Recto de la planche 65" src="{static}/images/planche_65_recto.png">
   <figcaption style="max-width: 330px"></figcaption>
 </figure>
 

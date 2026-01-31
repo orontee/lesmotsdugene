@@ -16,7 +16,7 @@ béantes. Dans le« O » de « nô » et celui de « loup », sont esquiss
 des traits figurant des têtes (yeux et bouche ou museau ?). </p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_53.png">
+  <img alt="Planche 53" src="{static}/images/planche_53.png">
   <figcaption style="max-width: 280px"></figcaption>
 </figure>
 
@@ -25,7 +25,8 @@ des traits figurant des têtes (yeux et bouche ou museau ?). </p>
 a bôr de nô a l’hêur dou loûp na Kon pa poû dou loûp garrou le gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_53_dessin_amoureux.png">
+  <img alt="Dessin des amoureux de la planche 53"
+       src="{static}/images/planche_53_dessin_amoureux.png">
   <figcaption style="max-width: 231px"></figcaption>
 </figure>
 
@@ -37,7 +38,8 @@ peur… du loup-garou !
 Le Gène
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_53-dessin_loup.png">
+  <img alt="Dessin de loup de la planche 53"
+       src="{static}/images/planche_53-dessin_loup.png">
   <figcaption style="max-width: 220px"></figcaption>
 </figure>
 

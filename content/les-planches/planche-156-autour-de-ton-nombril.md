@@ -18,21 +18,24 @@ sont dessinés des jambes et des pieds.</p>
 <div>
 <div style="float: left; width: 50%;">
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_156.png">
+  <img alt="Planche 156" src="{static}/images/planche_156.png">
   <figcaption style="max-width: 161px"></figcaption>
 </figure>
 </div>
 <div style="float: left; width: 50%;">
 <figure class="image-block" style="float: right;">
-  <img alt="La tête" src="{static}/images/planche_156_detail_tete.png">
+  <img alt="Dessin de tête de la planche 156"
+       src="{static}/images/planche_156_detail_tete.png">
   <figcaption style="max-width: 323px">La tête</figcaption>
 </figure>
 <figure class="image-block" style="float: right;">
-  <img alt="Le ventre" src="{static}/images/planche_156_detail_dessin_nombril.png">
+  <img alt="Dessin de ventre de la planche 156"
+       src="{static}/images/planche_156_detail_dessin_nombril.png">
   <figcaption style="max-width: 319px">Le ventre</figcaption>
 </figure>
 <figure class="image-block" style="float: right;">
-  <img alt="Les pieds" src="{static}/images/planche_156_detail_pieds.png">
+  <img alt="Dessin de pieds de la planche 156"
+       src="{static}/images/planche_156_detail_pieds.png">
   <figcaption style="max-width: 300px">Les pieds</figcaption>
 </figure>
 </div>

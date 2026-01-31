@@ -12,7 +12,7 @@ des montagne dessinées en dessous ainsi que deux vaches et deux
 arbres.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_63-2.png">
+  <img alt="Planche 63" src="{static}/images/planche_63-2.png">
   <figcaption style="max-width: 247px"></figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ l'occasion d'un concours agricole à Grenoble. Ce texte s'adresse donc
 aux visiteurs citadins.
 
 <figure class="image-block" style="float: left;">
-  <img alt="les vaches et les veaux en alpages" src="{static}/images/planche_63_dessin_haut.png">
+  <img alt="Dessin de la planche 63" src="{static}/images/planche_63_dessin_haut.png">
   <figcaption style="max-width: 320px">les vaches et les veaux en alpages</figcaption>
 </figure>
 

@@ -13,7 +13,7 @@ homme sur une motocyclette. La planche est un peu fendue en haut et en
 bas et présente trois longues rayures verticales en son centre.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_69.png">
+  <img alt="Planche 69" src="{static}/images/planche_69.png">
   <figcaption style="max-width: 176px"></figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ jé Fa ?  jésu.  Maria je né pa ïu le tan de diére joséf n’étion dan le
 T A R R é
 
 <figure class="image-block" style="float: right;">
-  <img alt="Dis ! Jo ! sur ta mobylette…" src="{static}/images/planche_69_dessin.png">
+  <img alt="Dessin de la planche 69" src="{static}/images/planche_69_dessin.png">
   <figcaption style="max-width: 358px">Dis ! Jo ! sur ta mobylette…</figcaption>
 </figure>
 

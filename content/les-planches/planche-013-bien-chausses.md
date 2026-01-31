@@ -13,7 +13,7 @@ en forme de planche à laver. Un fer à cheval est fixé en haut, un fer
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_13.png">
+  <img alt="Planche 13" src="{static}/images/planche_13.png">
   <figcaption style="max-width: 273px"></figcaption>
 </figure>
 

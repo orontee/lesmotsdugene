@@ -14,7 +14,7 @@ d'une tête d'âne en haut à gauche et une bulle contenant l'onomatopée
 dessin d'un âne qui pleure devant le mot « cadichon ».</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_134_verso.png">
+  <img alt="Verso de la planche 134" src="{static}/images/planche_134_verso.png">
   <figcaption style="max-width: 263px"></figcaption>
 </figure>
 
@@ -31,7 +31,8 @@ tré  fé  le gène
 ## Traduction
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_134_dessin_haut.png">
+  <img alt="Haut de la planche 134" 
+       src="{static}/images/planche_134_dessin_haut.png">
   <figcaption style="max-width: 420px"></figcaption>
 </figure>
 
@@ -45,7 +46,8 @@ tré  fé  le gène
 Trois fois Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_134_verso_dessin_bas.png">
+  <img alt="Dessin de l'âne de la planche 134"
+       src="{static}/images/planche_134_verso_dessin_bas.png">
   <figcaption style="max-width: 300px"></figcaption>
 </figure>
 

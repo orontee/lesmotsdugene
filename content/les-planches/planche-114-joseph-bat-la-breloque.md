@@ -14,7 +14,7 @@ mot « dong ». En dessous, sur le côté droit, une tête d’homme avec les
 mots « trèz bô.yor hé ben » en très petits caractères.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_114.png">
+  <img alt="Planche 114" src="{static}/images/planche_114.png">
   <figcaption style="max-width: 175px"></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ treize cop
 le gène
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_114_dessin.png">
+  <img alt="Dessin de la planche 114" src="{static}/images/planche_114_dessin.png">
   <figcaption style="max-width: 319px"></figcaption>
 </figure>
 

@@ -11,7 +11,7 @@ series_index: 161
 des autres et séparés par un trait.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_153.png">
+  <img alt="Planche 153" src="{static}/images/planche_153.png">
   <figcaption style="max-width: 1068px"></figcaption>
 </figure>
 

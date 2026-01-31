@@ -14,7 +14,7 @@ faucille). En bas à gauche, dessin d'un bras musclé. Une petite fente
 part du bas.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_112-3.png">
+  <img alt="Planche 112" src="{static}/images/planche_112-3.png">
   <figcaption style="max-width: 210px"></figcaption>
 </figure>
 

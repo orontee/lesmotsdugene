@@ -10,7 +10,7 @@ series_index: 151
 bordée d'écorce. Une petite fente part du sommet.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_143.png">
+  <img alt="Planche 143" src="{static}/images/planche_143.png">
   <figcaption style="max-width: 277px"></figcaption>
 </figure>
 

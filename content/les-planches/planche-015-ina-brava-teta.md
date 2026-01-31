@@ -15,7 +15,7 @@ sourcils, des yeux, du nez et de la bouche.</p>
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_15.png">
+  <img alt="Planche 15" src="{static}/images/planche_15.png">
   <figcaption style="max-width: 323px"></figcaption>
 </figure>
 

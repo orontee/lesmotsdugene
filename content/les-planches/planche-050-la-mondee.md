@@ -11,14 +11,15 @@ gauche et bordée d'écorce. Le haut est orné d'un dessin représentant
 une tablée où quatre personnes sont en train de monder des noix.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_50-2.png">
+  <img alt="Planche 50" src="{static}/images/planche_50-2.png">
   <figcaption style="max-width: 200px"></figcaption>
 </figure>
 
 ## Texte en patois
 
 <figure class="image-block" style="float: right;">
-  <img alt="La tablée de la mondée" src="{static}/images/planche_50_dessin-2.png">
+  <img alt="Dessin de la tablée de la mondée de la planche 50"
+       src="{static}/images/planche_50_dessin-2.png">
   <figcaption style="max-width: 249px">La tablée de la mondée</figcaption>
 </figure>
 

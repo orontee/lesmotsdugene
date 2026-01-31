@@ -12,7 +12,7 @@ supérieur est brut. Le côté gauche est étroit et la planche va en
 s'évasant vers la droite à partir du nœud. </p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_184.png">
+  <img alt="Planche 184" src="{static}/images/planche_184.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>
 

@@ -15,12 +15,12 @@ haut et de gauche à droite. Dessous, un dessin de coq. Tout en bas,
 deux petits traits pour conclure.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="Un coq bien fier" src="{static}/images/planche_46_dessin_haut.png">
+  <img alt="Haut de la planche 46" src="{static}/images/planche_46_dessin_haut.png">
   <figcaption style="max-width: 408px">Un coq bien fier</figcaption>
 </figure>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_46.png">
+  <img alt="Planche 46" src="{static}/images/planche_46.png">
   <figcaption style="max-width: 152px"></figcaption>
 </figure>
 

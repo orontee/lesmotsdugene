@@ -12,7 +12,7 @@ gravées et brulées par la mèche usée de la perceuse utilisée par
 Eugène. Le bas et le haut sont fendus.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_174-2.png">
+  <img alt="Planche 174" src="{static}/images/planche_174-2.png">
   <figcaption style="max-width: 90px"></figcaption>
 </figure>
 

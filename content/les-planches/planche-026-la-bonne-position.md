@@ -14,7 +14,7 @@ dessinés un arbre, une vache et un veau. Sur la droite de la planche,
 canne, puis dessous, un homme assis et enfin un homme couché.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_26.png">
+  <img alt="Planche 26" src="{static}/images/planche_26.png">
   <figcaption style="max-width: 191px"></figcaption>
 </figure>
 
@@ -46,14 +46,14 @@ Eugène par celui qui l'aidait aux travaux de la ferme.
 <div>
 <div style="float: left; width: 50%;">
 <figure class="image-block" style="float: left;">
-  <img alt="Debout, assis, couché !" src="{static}/images/planche_26_detail_dessins_gauche.png">
+  <img alt="Partie gauche de la planche 26" src="{static}/images/planche_26_detail_dessins_gauche.png">
   <figcaption style="max-width: 153px">Debout, assis, couché !</figcaption>
 </figure>
 </div>
 
 <div style="float: left; width: 50%;">
 <figure class="image-block" style="float: right;">
-  <img alt="Vaches, veaux dans les paturages" src="{static}/images/planche_26_dessin_haut.png">
+  <img alt="Haut de la planche 26" src="{static}/images/planche_26_dessin_haut.png">
   <figcaption style="max-width: 320px">Vaches, veaux dans les paturages</figcaption>
 </figure>
 </div>

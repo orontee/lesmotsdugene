@@ -12,7 +12,7 @@ faciliter ainsi son accrochage. Sur la droite, dessin peu appuyé d'une
 grosse fraise avec son calice et son pédoncule.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_55.png">
+  <img alt="Planche 55" src="{static}/images/planche_55.png">
   <figcaption style="max-width: 700px"></figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ grosse fraise avec son calice et son pédoncule.</p>
 Mefiâte  Mayoussié  trans – gène  - Hic
 
 <figure class="image-block" style="float: right;">
-  <img alt="Une fraise trans-Gène-hic" src="{static}/images/planche_55_dessin.png">
+  <img alt="Dessin de la planche 55" src="{static}/images/planche_55_dessin.png">
   <figcaption style="max-width: 288px">Une fraise trans-Gène-hic</figcaption>
 </figure>
 

@@ -16,7 +16,7 @@ des fruits puis celui d'une chèvre. À gauche, est gravé le nombre
 « 63 ».</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_87.png">
+  <img alt="Planche 87" src="{static}/images/planche_87.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>
 
@@ -45,7 +45,8 @@ des fruits puis celui d'une chèvre. À gauche, est gravé le nombre
 ## Commentaire
 
 <figure class="image-block" style="float: right; max-width: 25%;">
-  <img alt="" src="{static}/images/planche_87_dessin_chevre_detouree-2.png">
+  <img alt="Dessin de chèvre de la planche 87"
+       src="{static}/images/planche_87_dessin_chevre_detouree-2.png">
   <figcaption style="max-width: 286px"></figcaption>
 </figure>
 

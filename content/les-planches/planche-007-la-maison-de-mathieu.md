@@ -11,7 +11,7 @@ parallélogramme. Une tête en pierre sculptée figurant une tête de
 diable est fixée en bas et à gauche.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_7.png">
+  <img alt="Planche 7" src="{static}/images/planche_7.png">
   <figcaption style="max-width: 620px"></figcaption>
 </figure>
 

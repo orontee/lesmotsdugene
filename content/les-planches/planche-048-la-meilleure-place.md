@@ -15,7 +15,7 @@ texte, dessin d'un homme à la mine joyeuse, coiffé d'un béret et
 attablé devant des verres et des bouteilles.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_48.png">
+  <img alt="Planche 48" src="{static}/images/planche_48.png">
   <figcaption style="max-width: 268px"></figcaption>
 </figure>
 
@@ -50,19 +50,19 @@ première fois sur la lune.
 <div>
 <div style="float: left; width: 50%;">
 <figure class="image-block">
-  <img alt="Tout là-haut dans le ciel ?" src="{static}/images/planche_48_dessins_haut.png">
+  <img alt="Haut de la planche 48" src="{static}/images/planche_48_dessins_haut.png">
   <figcaption style="max-width: 348px">Tout là-haut dans le ciel ?</figcaption>
 </figure>
 </div>
 <div style="float: left; width: 50%;">
 <figure class="image-block">
-  <img alt="Sur la terre ?" src="{static}/images/planche_48dessin_globe.png">
+  <img alt="Dessin de globe de la planche 48" src="{static}/images/planche_48dessin_globe.png">
   <figcaption style="max-width: 246px">Sur la terre ?</figcaption>
 </figure>
 </div>
 <div>
 
 <figure class="image-block">
-  <img alt="C&#x27;est à table qu&#x27;on est le mieux !" src="{static}/images/planche_48_dessin_homme.png">
+  <img alt="Dessin d'homme de la planche 48" src="{static}/images/planche_48_dessin_homme.png">
   <figcaption style="max-width: 307px">C&#x27;est à table qu&#x27;on est le mieux !</figcaption>
 </figure>

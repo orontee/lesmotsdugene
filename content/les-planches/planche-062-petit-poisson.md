@@ -13,7 +13,7 @@ placé un peu en biais dans la partie correspondant à la queue du
 poisson pour s'associer aux deux adjectifs « petié » et « gréo ».</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_62.png">
+  <img alt="Planche 62" src="{static}/images/planche_62.png">
   <figcaption style="max-width: 700px"></figcaption>
 </figure>
 

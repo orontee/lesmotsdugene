@@ -11,7 +11,7 @@ parties séparées par un trait vertical. Le nombre « 78 » est gravé en
 haut à droite.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_73.png">
+  <img alt="Planche 73" src="{static}/images/planche_73.png">
   <figcaption style="max-width: 611px"></figcaption>
 </figure>
 

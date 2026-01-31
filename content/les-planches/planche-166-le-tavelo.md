@@ -13,7 +13,7 @@ les yeux et le museau sont soulignés par des traits gravés. Un
 chaîne.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_166.png">
+  <img alt="Planche 166" src="{static}/images/planche_166.png">
   <figcaption style="max-width: 389px"></figcaption>
 </figure>
 

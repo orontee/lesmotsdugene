@@ -15,7 +15,7 @@ et le bout se termine de façon suggestive, dans le trou formé par un
 nœud du bois.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="A chacun selon sa taille" src="{static}/images/planche_128.png">
+  <img alt="Planche 128" src="{static}/images/planche_128.png">
   <figcaption style="max-width: 239px">A chacun selon sa taille</figcaption>
 </figure>
 

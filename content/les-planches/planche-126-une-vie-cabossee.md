@@ -10,7 +10,7 @@ series_index: 133
 découpés, sur laquelle est fixé un vieux clairon cabossé.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_126.png">
+  <img alt="Planche 126" src="{static}/images/planche_126.png">
   <figcaption style="max-width: 609px"></figcaption>
 </figure>
 

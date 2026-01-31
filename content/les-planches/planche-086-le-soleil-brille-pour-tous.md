@@ -12,12 +12,12 @@ planche. Plusieurs marques sont gravées en forme de pointes tournées
 vers l’extérieur.
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_86.png">
+  <img alt="Planche 86" src="{static}/images/planche_86.png">
   <figcaption style="max-width: 530px"></figcaption>
 </figure>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_86_bas.png">
+  <img alt="Bas de la planche 86" src="{static}/images/planche_86_bas.png">
   <figcaption style="max-width: 530px"></figcaption>
 </figure>
 

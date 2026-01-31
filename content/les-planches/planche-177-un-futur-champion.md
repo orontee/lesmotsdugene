@@ -9,7 +9,7 @@ series_index: 184
 Planche verticale de bois sombre aux veines très apparentes.
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_177.png">
+  <img alt="Planche 177" src="{static}/images/planche_177.png">
   <figcaption style="max-width: 270px"></figcaption>
 </figure>
 

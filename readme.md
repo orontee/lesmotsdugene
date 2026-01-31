@@ -38,7 +38,7 @@ affiche une version correspondante) :
 (env)$ 
 (env)$ ghp-import output \
                   --cname=lesmotsdugene.fr \
-				  --message="Publication de la version $(git describe --tags  --match "v[0-9]*")" \
+				  --message="Publication de la version $(git describe --tags --match "v[0-9]*")" \
 				  --branch=gh-pages \
 				  --push
 ```

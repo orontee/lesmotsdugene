@@ -15,7 +15,7 @@ bras encadrant sa tête grimaçante. Tout en bas, après le mot « Fio »
 dessin de bûches en flammes.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_122.png">
+  <img alt="Planche 122" src="{static}/images/planche_122.png">
   <figcaption style="max-width: 333px"></figcaption>
 </figure>
 

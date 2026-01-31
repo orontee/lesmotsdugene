@@ -13,7 +13,7 @@ est gravé le nombre « 35 ». Les lettres du texte sont peintes en
 doré.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_35.png">
+  <img alt="Planche 35" src="{static}/images/planche_35.png">
   <figcaption style="max-width: 142px"></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ le gène
 Le Gène
 
 <figure class="image-block" style="float: left;">
-  <img alt="La bardelle du Gène" src="{static}/images/planche_35_dessin.png">
+  <img alt="Haut de la planche 35" src="{static}/images/planche_35_dessin.png">
   <figcaption style="max-width: 480px">La bardelle du Gène</figcaption>
 </figure>
 

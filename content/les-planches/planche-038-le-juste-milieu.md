@@ -15,7 +15,7 @@ assis sur une pierre très pointue. Les lignes du texte principal sont
 gravées de plus en plus gros en allant vers le bas.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_38.png">
+  <img alt="Planche 38" src="{static}/images/planche_38.png">
   <figcaption style="max-width: 208px"></figcaption>
 </figure>
 

@@ -13,7 +13,7 @@ forme de tête humaine est fixée au moyen d'un fil de fer. Les trois
 parties du texte sont écrites en lettres de plus en plus petites.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_181.png">
+  <img alt="Planche 181" src="{static}/images/planche_181.png">
   <figcaption style="max-width: 215px"></figcaption>
 </figure>
 

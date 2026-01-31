@@ -15,7 +15,7 @@ assise devant une grande cheminée où est accrochée une marmite dans
 laquelle tombe un oiseau.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_43.png">
+  <img alt="Planche 43" src="{static}/images/planche_43.png">
   <figcaption style="max-width: 215px"></figcaption>
 </figure>
 
@@ -49,14 +49,14 @@ bien utiliser l'hyperbole pour amuser ses compères.
 <div>
 <div style="float: left; width: 50%;">
 <figure class="image-block">
-  <img alt="Je tire sur la pie" src="{static}/images/planche_43_dessin_haut.png">
+  <img alt="Haut de la planche 43" src="{static}/images/planche_43_dessin_haut.png">
   <figcaption style="max-width: 380px">Je tire sur la pie</figcaption>
 </figure>
 </div>
 
 <div style="float: right; width: 50%;">
 <figure class="image-block">
-  <img alt="et la pie tombe dans la soupe de la Marie" src="{static}/images/planche_43_dessin_bas-2.png">
+  <img alt="Bas de la planche 43" src="{static}/images/planche_43_dessin_bas-2.png">
   <figcaption style="max-width: 323px">et la pie tombe dans la soupe de la Marie</figcaption>
 </figure>
 </div>

@@ -14,7 +14,7 @@ personnages masculins : l'un tient un verre et l'autre une
 bouteille.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_142.png">
+  <img alt="Planche 142" src="{static}/images/planche_142.png">
   <figcaption style="max-width: 282px"></figcaption>
 </figure>
 
@@ -24,7 +24,8 @@ i de bon è brâve garçon pa trop mâ Finï ?  mè pe l’arrosage ou pastis
 de fen de semâne v'o mïeu lou branchè sû le gôtte a gotte le gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="Deux bons et braves gars" src="{static}/images/planche_142_detail_dessin.png">
+  <img alt="Dessin de la planche 142"
+       src="{static}/images/planche_142_detail_dessin.png">
   <figcaption style="max-width: 259px">Deux bons et braves gars</figcaption>
 </figure>
 

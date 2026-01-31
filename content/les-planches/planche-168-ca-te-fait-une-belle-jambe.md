@@ -14,7 +14,7 @@ d'un dessin figurant une poire. La signature est écrite en blanc, en
 biais dans la forme de pied.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_168.png">
+  <img alt="Planche 168" src="{static}/images/planche_168.png">
   <figcaption style="max-width: 131px"></figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ ina Brava Pomma a bïen mé de saveu a croka kan ta ïu de la pena pe la
 Décroché dou Pommier ?
 
 <figure class="image-block" style="float: right;">
-  <img alt="Belle pomme à croquer…" src="{static}/images/planche_168_dessin_haut-2.png">
+  <img alt="Haut de la planche 168" src="{static}/images/planche_168_dessin_haut-2.png">
   <figcaption style="max-width: 285px">Belle pomme à croquer…</figcaption>
 </figure>
 
@@ -44,7 +44,8 @@ Faut pas être une poire !
 Le Gène
 
 <figure class="image-block" style="float: left;">
-  <img alt="Faut pas être une poire !" src="{static}/images/planche_168_dessin_bas.png">
+  <img alt="Dessin en bas de la planche 168"
+       src="{static}/images/planche_168_dessin_bas.png">
   <figcaption style="max-width: 176px">Faut pas être une poire !</figcaption>
 </figure>
 

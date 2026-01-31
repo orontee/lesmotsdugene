@@ -11,7 +11,7 @@ aux bords très droits. Sur le haut est fixé un cor à trois pistons un
 peu cabossé. Un petit trait sinueux sépare les deux textes.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_124.png">
+  <img alt="Planche 124" src="{static}/images/planche_124.png">
   <figcaption style="max-width: 455px"></figcaption>
 </figure>
 

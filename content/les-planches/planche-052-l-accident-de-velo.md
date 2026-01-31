@@ -15,12 +15,13 @@ droite, un homme sur une bicyclette, des buissons, une chèvre et des
 oiseaux.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="La Marie (détail gauche)" src="{static}/images/planche_52_dessin_marie.png">
+  <img alt="Dessin de gauche de la planche 52"
+       src="{static}/images/planche_52_dessin_marie.png">
   <figcaption style="max-width: 316px">La Marie (détail gauche)</figcaption>
 </figure>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_52.png">
+  <img alt="Planche 52" src="{static}/images/planche_52.png">
   <figcaption style="max-width: 149px"></figcaption>
 </figure>
 
@@ -46,7 +47,8 @@ le gène
 Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="Henri sur son vélo (détail droite)" src="{static}/images/planche_52_dessin_henri.png">
+  <img alt="Dessin d'Henri sur son vélo (planche 52)"
+       src="{static}/images/planche_52_dessin_henri.png">
   <figcaption style="max-width: 335px">Henri sur son vélo (détail droite)</figcaption>
 </figure>
 

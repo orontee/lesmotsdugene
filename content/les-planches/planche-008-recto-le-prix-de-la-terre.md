@@ -13,7 +13,7 @@ forme irrégulière sur les côtés et un peu évasée vers le haut.</p>
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_8.png">
+  <img alt="Planche 8" src="{static}/images/planche_8.png">
   <figcaption style="max-width: 200px"></figcaption>
 </figure>
 

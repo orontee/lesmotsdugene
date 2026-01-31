@@ -13,7 +13,7 @@ en métal pourvu d'un robinet qui servait autrefois aux soins des
 bêtes.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_123.png">
+  <img alt="Planche 123" src="{static}/images/planche_123.png">
   <figcaption style="max-width: 219px"></figcaption>
 </figure>
 

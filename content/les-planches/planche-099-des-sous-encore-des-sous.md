@@ -12,7 +12,7 @@ dessin d'un bouc à grandes cornes. Les lettres du texte sont repeintes
 en doré. Nombreuses petites traces de galeries d'insectes.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_99.png">
+  <img alt="Planche 99" src="{static}/images/planche_99.png">
   <figcaption style="max-width: 650px"></figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Mé le BÔ i léde mïeu le cheure l’ âme
 le gène
 
 <figure class="image-block" style="float: right; max-width: 40%;">
-  <img alt="Un bouc à grandes cornes" src="{static}/images/planche_99_dessin.png">
+  <img alt="Dessin de la planche 99" src="{static}/images/planche_99_dessin.png">
   <figcaption style="max-width: 430px">Un bouc à grandes cornes</figcaption>
 </figure>
 

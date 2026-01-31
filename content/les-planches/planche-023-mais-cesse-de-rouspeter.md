@@ -14,12 +14,12 @@ est gravé le nombre raturé « 23 » ou « 24 » (?).</p>
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;">
-  <img alt="Cette vache ne cesse de beugler" src="{static}/images/planche_23_dessin_haut.png">
+  <img alt="Haut de la planche 23" src="{static}/images/planche_23_dessin_haut.png">
   <figcaption style="max-width: 450px">Cette vache ne cesse de beugler</figcaption>
 </figure>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_23.png">
+  <img alt="Planche 23" src="{static}/images/planche_23.png">
   <figcaption style="max-width: 221px"></figcaption>
 </figure>
 

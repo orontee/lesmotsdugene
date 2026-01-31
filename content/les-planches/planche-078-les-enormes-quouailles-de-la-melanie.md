@@ -12,7 +12,7 @@ haut à droite, un dessin peu visible représente un personnage à cheval
 sur une énorme pomme de terre. </p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_78.png">
+  <img alt="Planche 78" src="{static}/images/planche_78.png">
   <figcaption style="max-width: 314px"></figcaption>
 </figure>
 

@@ -11,7 +11,7 @@ horizontale, bordée d'écorce. Le nombre « 77 » est gravé en haut à
 droite.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_146.png">
+  <img alt="Planche 146" src="{static}/images/planche_146.png">
   <figcaption style="max-width: 666px"></figcaption>
 </figure>
 

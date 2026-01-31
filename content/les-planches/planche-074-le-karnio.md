@@ -11,7 +11,7 @@ inférieur est concave. Une fente très évasée part du haut jusqu'au
 centre de la planche. Les bords sont nets.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_74.png">
+  <img alt="Planche 74" src="{static}/images/planche_74.png">
   <figcaption style="max-width: 259px"></figcaption>
 </figure>
 

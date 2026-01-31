@@ -11,7 +11,7 @@ series_index: 117
 haut en bas.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_109.png">
+  <img alt="Planche 109" src="{static}/images/planche_109.png">
   <figcaption style="max-width: 291px"></figcaption>
 </figure>
 

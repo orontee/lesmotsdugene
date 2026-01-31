@@ -13,7 +13,7 @@ un arbre. À gauche, à mi-hauteur, dessin d'un plant de maïs et la
 silhouette d'un oiseau dans le ciel.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_176-2.png">
+  <img alt="Planche 176" src="{static}/images/planche_176-2.png">
   <figcaption style="max-width: 251px"></figcaption>
 </figure>
 
@@ -31,7 +31,8 @@ celui qui a le « blé » qui a toujours raison…
 Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="Un cheval parqué à Roybon" src="{static}/images/planche_176_dessin-2.png">
+  <img alt="Dessin de cheval de la planche 176"
+       src="{static}/images/planche_176_dessin-2.png">
   <figcaption style="max-width: 410px">Un cheval parqué à Roybon</figcaption>
 </figure>
 

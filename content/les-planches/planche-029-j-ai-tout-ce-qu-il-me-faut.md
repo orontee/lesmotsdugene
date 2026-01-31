@@ -11,7 +11,7 @@ series_index: 35
 bords latéraux ont une découpe naturelle et sont restés bruts.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_29.png">
+  <img alt="Planche 29" src="{static}/images/planche_29.png">
   <figcaption style="max-width: 279px"></figcaption>
 </figure>
 

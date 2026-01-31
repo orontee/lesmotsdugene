@@ -13,7 +13,7 @@ dessin d'un arbre et d'une tête de vache sortant d'un bosquet. Petit
 défaut du bois en haut à gauche.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_31_verso.png">
+  <img alt="Verso de la planche 31" src="{static}/images/planche_31_verso.png">
   <figcaption style="max-width: 228px"></figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ et la terre ! vous n'auriez pas vu ma vache ? »
 Le Gène
 
 <figure class="image-block" style="float: left; max-width: 40%;">
-  <img alt="La bardelle passe la tête à travers le buisson et…" src="{static}/images/planche_31_verso_dessin.png">
+  <img alt="Haut de la planche 31" src="{static}/images/planche_31_verso_dessin.png">
   <figcaption style="max-width: 380px">La bardelle passe la tête à travers le buisson et…</figcaption>
 </figure>
 

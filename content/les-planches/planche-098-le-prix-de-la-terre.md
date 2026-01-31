@@ -10,7 +10,7 @@ series_index: 107
 clair.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_98.png">
+  <img alt="Planche 98" src="{static}/images/planche_98.png">
   <figcaption style="max-width: 197px"></figcaption>
 </figure>
 

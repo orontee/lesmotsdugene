@@ -11,12 +11,12 @@ d'écorce, plus large en haut qu'en bas. Au sommet de la première face
 sont gravés un cheval et le nombre « 73 ».</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_155.png">
+  <img alt="Planche 155" src="{static}/images/planche_155.png">
   <figcaption style="max-width: 186px"></figcaption>
 </figure>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_155_verso.png">
+  <img alt="Verso de la planche 155" src="{static}/images/planche_155_verso.png">
   <figcaption style="max-width: 194px"></figcaption>
 </figure>
 
@@ -37,7 +37,8 @@ la messe avé lou z ‘ótre
 ## Traduction
 
 <figure class="image-block" style="float: right;">
-  <img alt="Petit cheval, as-tu des ornières?" src="{static}/images/planche_155_detail_dessin.png">
+  <img alt="Détail de la planche 155"
+       src="{static}/images/planche_155_detail_dessin.png">
   <figcaption style="max-width: 307px">Petit cheval, as-tu des ornières?</figcaption>
 </figure>
 

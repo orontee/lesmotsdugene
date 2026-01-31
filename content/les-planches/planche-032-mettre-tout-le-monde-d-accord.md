@@ -12,12 +12,12 @@ traits courbes autour des mots « lou éperlan », figurent les
 ouïes.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_32.png">
+  <img alt="Recto de la planche 32" src="{static}/images/planche_32.png">
   <figcaption style="max-width: 152px"></figcaption>
 </figure>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_32_verso.png">
+  <img alt="Verso de la planche 32" src="{static}/images/planche_32_verso.png">
   <figcaption style="max-width: 154px"></figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ a toujours un grand bâton…
 Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="Tête de gros ou petit poisson ?" src="{static}/images/planche_32_dessin.png">
+  <img alt="Haut de la planche 32" src="{static}/images/planche_32_dessin.png">
   <figcaption style="max-width: 250px">Tête de gros ou petit poisson ?</figcaption>
 </figure>
 

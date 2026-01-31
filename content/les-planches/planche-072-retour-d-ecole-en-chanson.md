@@ -15,7 +15,7 @@ milieu de la hauteur, un autre trou est prolongé par un trait gravé
 pour figurer le manche d'une poêle.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_72.png">
+  <img alt="Planche 72" src="{static}/images/planche_72.png">
   <figcaption style="max-width: 209px"></figcaption>
 </figure>
 
@@ -33,7 +33,8 @@ Derrière le « cuzon »<br>
 Le « marmot » en mange quelques-unes.
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_72_detail_dessin.png">
+  <img alt="Détail de la planche 72"
+       src="{static}/images/planche_72_detail_dessin.png">
   <figcaption style="max-width: 376px"></figcaption>
 </figure>
 

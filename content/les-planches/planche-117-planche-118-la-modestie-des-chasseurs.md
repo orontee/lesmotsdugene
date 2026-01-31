@@ -12,12 +12,12 @@ découpé sinueusement. Les bords inférieur et supérieur sont bruts et
 bordés d'écorce. Les chiffres sont soulignés de deux traits.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_117.png">
+  <img alt="Planche 117" src="{static}/images/planche_117.png">
   <figcaption style="max-width: 550px"></figcaption>
 </figure>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_118.png">
+  <img alt="Planche 118" src="{static}/images/planche_118.png">
   <figcaption style="max-width: 550px"></figcaption>
 </figure>
 

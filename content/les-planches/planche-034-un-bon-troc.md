@@ -11,7 +11,7 @@ d'entonnoir, plus large en haut qu'en bas. Une grande tache sombre due
 à un nœud part du haut jusqu'au milieu de la hauteur. </p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_34.png">
+  <img alt="Planche 34" src="{static}/images/planche_34.png">
   <figcaption style="max-width: 209px"></figcaption>
 </figure>
 

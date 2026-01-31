@@ -13,7 +13,7 @@ tenant dans son bec un couteau. Le nombre « 63 » est gravé en haut à
 droite. Plus bas, dessin d’un couteau à droite du mot « cóté ».</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_93.png">
+  <img alt="Planche 93" src="{static}/images/planche_93.png">
   <figcaption style="max-width: 201px"></figcaption>
 </figure>
 
@@ -23,7 +23,8 @@ hOoo Fà ren bàme tïen tess entreprey de te man côme ina pòlà Ka trovà
 èn còté ne fô pâ Fare pe défàre le gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_93_poule.png">
+  <img alt="Dessin de poule de la planche 93"
+       src="{static}/images/planche_93_poule.png">
   <figcaption style="max-width: 365px"></figcaption>
 </figure>
 
@@ -36,7 +37,8 @@ faire pour défaire.
 Le Gène
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_93_couteau.png">
+  <img alt="Dessin de couteau de la planche 93"
+       src="{static}/images/planche_93_couteau.png">
   <figcaption style="max-width: 148px"></figcaption>
 </figure>
 

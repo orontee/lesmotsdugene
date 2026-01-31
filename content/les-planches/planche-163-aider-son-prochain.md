@@ -11,7 +11,7 @@ légèrement recourbée vers la droite, un peu plus large en haut. Les
 traces du pinceau qui a servi a teindre la planche sont visibles.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_163.png">
+  <img alt="Planche 163" src="{static}/images/planche_163.png">
   <figcaption style="max-width: 319px"></figcaption>
 </figure>
 

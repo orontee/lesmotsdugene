@@ -15,7 +15,7 @@ dessous du dessin, écrits en plus petits caractères, les mots :
 « carotte », « revenu », « retraite », « repos » et « vacance ».</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_113-2.png">
+  <img alt="Planche 113" src="{static}/images/planche_113-2.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>
 
@@ -30,7 +30,8 @@ carotte revenu retraite repos  vacance
 le gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="L&#x27;âne et la carotte (détail droite)" src="{static}/images/planche_113_detail_dessin.png">
+  <img alt="Dessin de la planche 113"
+       src="{static}/images/planche_113_detail_dessin.png">
   <figcaption style="max-width: 348px">L&#x27;âne et la carotte (détail droite)</figcaption>
 </figure>
 

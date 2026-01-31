@@ -12,7 +12,7 @@ autour d'un trou formé par un gros nœud allongé. Le bas est plus
 étroit que le haut.</p>
 
 <figure class="image-block" style="float: right; max-width: 40%;">
-  <img alt="" src="{static}/images/planche_66.png">
+  <img alt="Planche 66" src="{static}/images/planche_66.png">
   <figcaption style="max-width: 378px"></figcaption>
 </figure>
 

@@ -14,12 +14,12 @@ sous le bras. À sa place, un point d'interrogation est coiffé d'une
 casquette.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_90.png">
+  <img alt="Planche 90" src="{static}/images/planche_90.png">
   <figcaption style="max-width: 140px"></figcaption>
 </figure>
 
 <figure class="image-block" style="float: left;">
-  <img alt="Il a vraiment perdu la tête !" src="{static}/images/planche_90_dessin.png">
+  <img alt="Dessin de la planche 90" src="{static}/images/planche_90_dessin.png">
   <figcaption style="max-width: 142px">Il a vraiment perdu la tête !</figcaption>
 </figure>
 

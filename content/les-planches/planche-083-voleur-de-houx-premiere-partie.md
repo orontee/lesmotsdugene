@@ -17,7 +17,7 @@ se passe sur terre. Le « O » de « œil » est dessiné également comme u
 œil rond. Au bas de la planche, un arbuste de houx.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_83-2.png">
+  <img alt="Planche 83" src="{static}/images/planche_83-2.png">
   <figcaption style="max-width: 193px"></figcaption>
 </figure>
 

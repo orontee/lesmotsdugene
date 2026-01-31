@@ -15,7 +15,7 @@ par un petit trait.</p>
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_18_verso.png">
+  <img alt="Verso de la planche 18" src="{static}/images/planche_18_verso.png">
   <figcaption style="max-width: 352px">Dur labeur</figcaption>
 </figure>
 

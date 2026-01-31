@@ -14,7 +14,7 @@ sans pied, donc plus large en haut qu'en bas.</p>
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_19.png">
+  <img alt="Planche 19" src="{static}/images/planche_19.png">
   <figcaption style="max-width: 138px"></figcaption>
 </figure>
 

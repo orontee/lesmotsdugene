@@ -15,7 +15,7 @@ texte les mots « novella lûna ». De nombreuses étoiles à cinq branches
 parsèment cette partie du texte.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_119.png">
+  <img alt="Planche 119" src="{static}/images/planche_119.png">
   <figcaption style="max-width: 170px"></figcaption>
 </figure>
 

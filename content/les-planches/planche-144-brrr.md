@@ -13,7 +13,7 @@ d'un gros nœud ovale. Les lettres sont repeintes en doré. Tout en bas
 du texte, dessin d'un soleil.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_144.png">
+  <img alt="Planche 144" src="{static}/images/planche_144.png">
   <figcaption style="max-width: 180px"></figcaption>
 </figure>
 

@@ -17,7 +17,7 @@ contre le bord droit. Les deux parties de la phrase se répartissent à
 gauche et à droite du dessin central.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_140.png">
+  <img alt="Planche 140" src="{static}/images/planche_140.png">
   <figcaption style="max-width: 750px"></figcaption>
 </figure>
 
@@ -29,7 +29,8 @@ Begasse
 le gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="La bécasse a la queure basse !" src="{static}/images/planche_140_detail_gauche.png">
+  <img alt="Détail de la planche 140"
+       src="{static}/images/planche_140_detail_gauche.png">
   <figcaption style="max-width: 400px">La bécasse a la queure basse !</figcaption>
 </figure>
 

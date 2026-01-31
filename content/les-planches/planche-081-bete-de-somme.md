@@ -14,7 +14,7 @@ rectangulaire et crantée. Au bas de la planche, dessin d'une charrue
 vigneronne.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_81-2.png">
+  <img alt="Planche 81" src="{static}/images/planche_81-2.png">
   <figcaption style="max-width: 256px"></figcaption>
 </figure>
 

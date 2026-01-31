@@ -12,7 +12,7 @@ brun sombre. Les trois initiales C, O et N des mots « Conservateû »,
 « Obsêrvateû » et « Naturalaman » sont en gras et soulignées.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_175.png">
+  <img alt="Planche 175" src="{static}/images/planche_175.png">
   <figcaption style="max-width: 217px"></figcaption>
 </figure>
 

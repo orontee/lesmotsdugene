@@ -14,14 +14,14 @@ dessin d'un lièvre et en dessous contre le bord, dessin d'une tête de
 lièvre. Le nombre « 45 » est gravé en haut à droite.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_45-2.png">
+  <img alt="Planche 45" src="{static}/images/planche_45-2.png">
   <figcaption style="max-width: 191px"></figcaption>
 </figure>
 
 ## Texte en patois
 
 <figure class="image-block" style="float: right;">
-  <img alt="les lièvres du &quot;Pirôte&quot;" src="{static}/images/planche_45_dessin_gauche-3.png">
+  <img alt="Dessin de gauche de la planche 45" src="{static}/images/planche_45_dessin_gauche-3.png">
   <figcaption style="max-width: 113px">les lièvres du &quot;Pirôte&quot;</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ pour la casserole de la Marie…
 Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="Je les assomme et les ramène à la Marie." src="{static}/images/planche_45_dessin_droite-2.png">
+  <img alt="Dessin de droite de la planche 45" src="{static}/images/planche_45_dessin_droite-2.png">
   <figcaption style="max-width: 163px">Je les assomme et les ramène à la Marie</figcaption>
 </figure>
 

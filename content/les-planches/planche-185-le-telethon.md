@@ -12,7 +12,7 @@ légèrement convexe. Le côté droit est incurvé. Tâches rouges dans le
 bas.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_185.png">
+  <img alt="Planche 185" src="{static}/images/planche_185.png">
   <figcaption style="max-width: 219px"></figcaption>
 </figure>
 

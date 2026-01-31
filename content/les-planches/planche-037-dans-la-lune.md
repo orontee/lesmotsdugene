@@ -15,7 +15,7 @@ un profil humain qui semble regarder une fusée plus bas sur sa
 gauche. Le nombre « 77 » est gravé en haut à droite.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_37.png">
+  <img alt="Planche 37" src="{static}/images/planche_37.png">
   <figcaption style="max-width: 230px"></figcaption>
 </figure>
 

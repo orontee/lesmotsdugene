@@ -16,7 +16,7 @@ femme. Dessous ce dessin, une bulle dans laquelle est inscrite la
 mention : « marie léssè me sôtre le pantillon ». </p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_145.png">
+  <img alt="Planche 145" src="{static}/images/planche_145.png">
   <figcaption style="max-width: 208px"></figcaption>
 </figure>
 
@@ -27,7 +27,8 @@ pantillon la Marie reste coucha Dessû «marie léssè me sôtre le
 pantillon».  le gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="Mais rends moi mon pan de chemise !" src="{static}/images/planche_145_dessin_milieu.png">
+  <img alt="Dessin du milieu de la planche 145"
+       src="{static}/images/planche_145_dessin_milieu.png">
   <figcaption style="max-width: 193px">Mais rends moi mon pan de chemise !</figcaption>
 </figure>
 
@@ -41,7 +42,8 @@ avec un grand pan et la Marie reste couchée dessus…
 Le Gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="Au lit, le matin" src="{static}/images/planche_145_dessin_bas.png">
+  <img alt="Dessin du bas de la planche 145" 
+       src="{static}/images/planche_145_dessin_bas.png">
   <figcaption style="max-width: 350px">Au lit, le matin</figcaption>
 </figure>
 

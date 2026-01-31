@@ -12,7 +12,7 @@ deux tiers du haut sont deux fois plus larges que le bas. Au centre,
 dessin d'un homme tirant une carriole devant un âne. </p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_134_recto.png">
+  <img alt="Recto de la planche 134" src="{static}/images/planche_134_recto.png">
   <figcaption style="max-width: 252px"></figcaption>
 </figure>
 
@@ -39,7 +39,8 @@ payer… »
 Le Gène
 
 <figure class="image-block" style="float: right; max-width: 40%;">
-  <img alt="Jo attelé à sa charette suivi par le patron, son âne." src="{static}/images/planche_134_recto_dessin.png">
+  <img alt="Dessin du recto de la planche 134"
+       src="{static}/images/planche_134_recto_dessin.png">
   <figcaption style="max-width: 400px">Jo attelé à sa charette suivi par le patron, son âne</figcaption>
 </figure>
 

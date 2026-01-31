@@ -14,7 +14,7 @@ est gravée la silhouette d'un canard, les mots «coim coim» au dessus
 et le mot « gabo » en dessous.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_75.png">
+  <img alt="Planche 75" src="{static}/images/planche_75.png">
   <figcaption style="max-width: 208px"></figcaption>
 </figure>
 

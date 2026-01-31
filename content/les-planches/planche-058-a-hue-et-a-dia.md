@@ -13,7 +13,7 @@ point d'interrogation au dessus de la tête entre les mots « gôche » et
 esquisse de tête de vache.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_58.png">
+  <img alt="Planche 58" src="{static}/images/planche_58.png">
   <figcaption style="max-width: 239px"></figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ le mouche ién côp â drèta ien côp â gôche
 le gène
 
 <figure class="image-block" style="float: right; width: 40%;">
-  <img alt="Une vache qui réfléchit à hue et à dia" src="{static}/images/planche_58_dessin_haut.png">
+  <img alt="Haut de la planche 58" src="{static}/images/planche_58_dessin_haut.png">
   <figcaption style="max-width: 400px">Une vache qui réfléchit à hue et à dia</figcaption>
 </figure>
 

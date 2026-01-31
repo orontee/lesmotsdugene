@@ -10,7 +10,7 @@ series_index: 156
 et bordée d'écorce qui s'évase légèrement en partant du bas.</p>
 
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_148-2.png">
+  <img alt="Planche 148" src="{static}/images/planche_148-2.png">
   <figcaption style="max-width: 264px"></figcaption>
 </figure>
 

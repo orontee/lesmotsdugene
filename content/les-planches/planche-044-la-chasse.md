@@ -11,7 +11,7 @@ sombre. Deux traits verticaux sinueux séparent la première partie de
 l'énumération du gibier. Les lettres sont repeintes en doré.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_44.png">
+  <img alt="Planche 44" src="{static}/images/planche_44.png">
   <figcaption style="max-width: 630px"></figcaption>
 </figure>
 

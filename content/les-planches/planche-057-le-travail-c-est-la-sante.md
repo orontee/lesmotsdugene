@@ -11,7 +11,7 @@ concave. À gauche, dessin d'un homme assis au pied d'un arbre sous un
 soleil rayonnant.</p>
 
 <figure class="image-block" style="margin: auto; text-align: center;">
-  <img alt="" src="{static}/images/planche_57.png">
+  <img alt="Planche 57" src="{static}/images/planche_57.png">
   <figcaption style="max-width: 750px"></figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ soleil rayonnant.</p>
 Le travâ i la santè Fô sûtò pa z‘i tôchè le gène
 
 <figure class="image-block" style="float: right;">
-  <img alt="Petite sieste au pied de mon arbre…" src="{static}/images/planche_57_dessin.png">
+  <img alt="Dessin de la planche 57" src="{static}/images/planche_57_dessin.png">
   <figcaption style="max-width: 300px">Petite sieste au pied de mon arbre…</figcaption>
 </figure>
 

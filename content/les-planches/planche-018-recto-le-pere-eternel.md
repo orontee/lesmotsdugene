@@ -15,7 +15,7 @@ trait.</p>
 <div style="display: table; clear: both;"></div>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_18_recto.png">
+  <img alt="Recto de la planche 18" src="{static}/images/planche_18_recto.png">
   <figcaption style="max-width: 293px">Le Père Éternel</figcaption>
 </figure>
 

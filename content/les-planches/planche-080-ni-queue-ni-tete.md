@@ -15,7 +15,7 @@ le côté droit.Les lettres sont peintes en doré. Le nombre « 50 » est
 gravé tout en bas sur la partie droite.</p>
 
 <figure class="image-block" style="float: left;">
-  <img alt="" src="{static}/images/planche_80.png">
+  <img alt="Planche 80" src="{static}/images/planche_80.png">
   <figcaption style="max-width: 182px"></figcaption>
 </figure>
 

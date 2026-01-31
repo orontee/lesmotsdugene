@@ -13,12 +13,12 @@ dessin représentant un personnage masculin.</p>
 
 <div style="display: table; clear: both;"></div>
 <figure class="image-block" style="float: right;">
-  <img alt="" src="{static}/images/planche_16_verso.png">
+  <img alt="Verso de la planche 16" src="{static}/images/planche_16_verso.png">
   <figcaption style="max-width: 162px"></figcaption>
 </figure>
 
 <figure class="image-block" style="float: left;">
-  <img alt="De belles cuisses" src="{static}/images/planche_16_verso-2.png">
+  <img alt="Détail du verso de la planche 16" src="{static}/images/planche_16_verso-2.png">
   <figcaption style="max-width: 285px">De belles cuisses</figcaption>
 </figure>
 
