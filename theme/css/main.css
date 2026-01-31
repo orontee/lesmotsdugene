@@ -497,7 +497,7 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
 }
 
 #search-results {
-    display: 'none';
+    display: none;
 }
 
 #search-results a:link,
