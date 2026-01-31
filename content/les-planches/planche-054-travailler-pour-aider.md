@@ -9,7 +9,7 @@ series_index: 61
 <p style="text-align:justify;">Petite planche horizontale. Les bords
 sont ondulés. Le bas présente des petites rayures verticales.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_54.png">
   <figcaption style="max-width: 550px"></figcaption>
 </figure>

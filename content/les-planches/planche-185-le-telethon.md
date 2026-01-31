@@ -11,7 +11,7 @@ décembre</em>. Très petite planche verticale. Le bord inférieur est
 légèrement convexe. Le côté droit est incurvé. Tâches rouges dans le
 bas.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_185.png">
   <figcaption style="max-width: 219px"></figcaption>
 </figure>

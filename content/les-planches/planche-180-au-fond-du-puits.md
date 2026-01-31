@@ -10,7 +10,7 @@ Petite planche horizontale aux bords arrondis et légèrement incurvée
 vers le haut. À droite, dessin d'un puits maçonné avec des galets
 roulés.
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_180.png">
   <figcaption style="max-width: 685px"></figcaption>
 </figure>

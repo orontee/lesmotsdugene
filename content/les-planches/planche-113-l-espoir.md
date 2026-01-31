@@ -14,7 +14,7 @@ lui une perche au bout de laquelle est accrochée une carotte. En
 dessous du dessin, écrits en plus petits caractères, les mots :
 « carotte », « revenu », « retraite », « repos » et « vacance ».</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_113-2.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>

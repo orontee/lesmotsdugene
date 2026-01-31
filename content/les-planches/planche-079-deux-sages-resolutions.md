@@ -9,7 +9,7 @@ series_index: 88
 <p style="text-align:justify;">Petite planche horizontale. Texte en
 deux parties séparées par un trait vertical sinueux.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_79.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>

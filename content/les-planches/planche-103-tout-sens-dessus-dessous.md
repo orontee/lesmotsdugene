@@ -8,7 +8,7 @@ series_index: 112
 
 Petite planche horizontale légèrement courbe. Le « O » de « solé » figure un soleil.
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_103.png">
   <figcaption style="max-width: 580px"></figcaption>
 </figure>

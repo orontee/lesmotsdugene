@@ -11,7 +11,7 @@ légèrement courbe. Au centre, entre les deux textes, est gravé le
 dessin d'un bouc à grandes cornes. Les lettres du texte sont repeintes
 en doré. Nombreuses petites traces de galeries d'insectes.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_99.png">
   <figcaption style="max-width: 650px"></figcaption>
 </figure>

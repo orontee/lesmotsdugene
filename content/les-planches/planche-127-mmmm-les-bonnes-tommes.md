@@ -12,7 +12,7 @@ sculpté qui constitue une poignée, donnant à l'ensemble l'aspect d'un
 plateau de fromage. Le texte se répartit de part et d'autre de la
 poignée.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_127.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>

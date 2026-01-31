@@ -12,7 +12,7 @@ marques des attaches. Le texte est gravé en suivant la forme du bord
 supérieur arrondi. Sous le texte, dessins d'un croissant de lune
 présentant le profil d'un visage et un soleil.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_138.png">
   <figcaption style="max-width: 709px"></figcaption>
 </figure>
@@ -27,7 +27,7 @@ grand SOLEI
 Pour la météo et pour les amoureux, une jolie lune et une petite bise
 précédent toujours un grand SOLEIL.
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="Le soleil a rendez-vous avec la lune…" src="{static}/images/planche_138_detail_dessin.png">
   <figcaption style="max-width: 302px">Le soleil a rendez-vous avec la lune…</figcaption>
 </figure>

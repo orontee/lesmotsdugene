@@ -16,7 +16,7 @@ bois. Complètement à droite, une tête de bécasse est gravée tout
 contre le bord droit. Les deux parties de la phrase se répartissent à
 gauche et à droite du dessin central.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_140.png">
   <figcaption style="max-width: 750px"></figcaption>
 </figure>

@@ -15,7 +15,7 @@ but :
   partager le plaisir et la saveur avec toutes les personnes pouvant
   l'apprécier.
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="Pique-nique des adhérents le 14 juin 2015" src="{static}/images/assemblee_pique-nique.png">
   <figcaption style="max-width: 579px">Pique-nique des adhérents le 14 juin 2015</figcaption>
 </figure>

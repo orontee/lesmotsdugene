@@ -49,12 +49,12 @@ Le Gène
 Cette anecdote correspond à une visite effective de l'évêque à
 Viriville. Ces cartes postales anciennes témoignent de cet évènement.
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_22_eveque1.png">
   <figcaption style="max-width: 426px"></figcaption>
 </figure>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_22_eveque2.png">
   <figcaption style="max-width: 405px"></figcaption>
 </figure>

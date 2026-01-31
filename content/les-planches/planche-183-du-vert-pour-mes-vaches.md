@@ -12,7 +12,7 @@ représenter la silhouette d'une tête de vache. Les cornes et les
 oreilles sont redessinées pour souligner le sommet de la tête, les
 yeux et le mufle.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_183.png">
   <figcaption style="max-width: 399px"></figcaption>
 </figure>

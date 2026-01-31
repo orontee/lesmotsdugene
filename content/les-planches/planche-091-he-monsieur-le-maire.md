@@ -14,7 +14,7 @@ républicaine sous le porche d'une mairie. La dernière partie de la
 phrase et la signature sont inscrites en suivant la découpe du bord
 inférieur de la planche, en forme de pointe.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_91.png">
   <figcaption style="max-width: 720px"></figcaption>
 </figure>

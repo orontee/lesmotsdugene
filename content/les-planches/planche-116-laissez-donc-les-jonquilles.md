@@ -11,7 +11,7 @@ incurvée. À gauche et à droite, dessins de plants de jonquilles. Le
 « Ô » de « CÔrna » figure la caricature d'une tête portant deux cornes
 et coiffé par l'accent circonflexe.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_116.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>

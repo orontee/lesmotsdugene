@@ -12,7 +12,7 @@ droite, dessin d'un buste de femme aux cheveux longs, portant un
 masque sur les yeux et levant le bras droit. Dessous est dessiné un
 masque, (un « loup ») pourvu d'un petit manche.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_104.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>

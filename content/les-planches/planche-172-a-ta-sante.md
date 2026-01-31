@@ -10,7 +10,7 @@ series_index: 179
 droite est déchiqueté. Deux textes sont gravés à gauche et à droite,
 séparés par un trait sinueux vertical.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_172.png">
   <figcaption style="max-width: 1938px"></figcaption>
 </figure>

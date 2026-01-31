@@ -12,7 +12,7 @@ et le bord droite en biais forme une pointe dans le haut supérieur où
 est gravé le nombre « 86 ». Sous le texte, dessin de deux oiseaux
 entourant un nid contenant deux œufs. </p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_147-2.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>
@@ -33,7 +33,7 @@ Réflexion entendue et retenue lors d'un travail en groupe. Les pigeons
 représentent ici l'équivalent animalier d'un couple où la femme fait
 tout le travail et dirige la maison.
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_147_dessins.png">
   <figcaption style="max-width: 380px"></figcaption>
 </figure>

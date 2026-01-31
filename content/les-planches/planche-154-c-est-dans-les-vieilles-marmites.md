@@ -60,7 +60,7 @@ suivantes. Lorsqu'il a commencé ce travail, Eugène cherchait surtout à
 inscrire dans le bois, le plus de mots et expressions en patois afin
 qu'ils ne soient pas définitivement oubliés.
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_154-dessin_timon-2.png">
   <figcaption style="max-width: 380px"></figcaption>
 </figure>

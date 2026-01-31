@@ -11,7 +11,7 @@ latéraux sont découpés en ondulations, les bords inférieurs et
 supérieurs sont bruts. Sur le dos de la planche, Eugène s'est exercé à
 tracer des lettres avec des jolies courbes, comme ils les aime.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_88.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>

@@ -15,7 +15,7 @@ répartis de gauche à droite, séparés par le dessin d'un arbre portant
 des fruits puis celui d'une chèvre. À gauche, est gravé le nombre
 « 63 ».</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_87.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>

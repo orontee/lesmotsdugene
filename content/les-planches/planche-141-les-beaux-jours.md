@@ -16,7 +16,7 @@ vagues.</p>
 Vent le jô bize la nô rare Kan plô ? Lou z'amoërou Kon Keu Règime son
 asseura dou bô tan pe Lon.tan le gène
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="Conseil métèorologique pour tous" src="{static}/images/planche_141.png">
   <figcaption style="max-width: 658px">Conseil métèorologique pour tous</figcaption>
 </figure>

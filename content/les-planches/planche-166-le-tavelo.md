@@ -12,7 +12,7 @@ les yeux et le museau sont soulignés par des traits gravés. Un
 « tavelo » (petite entrave) est accroché sous la tête par une
 chaîne.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_166.png">
   <figcaption style="max-width: 389px"></figcaption>
 </figure>

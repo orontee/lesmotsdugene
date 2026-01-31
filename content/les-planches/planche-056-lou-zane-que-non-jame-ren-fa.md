@@ -11,7 +11,7 @@ series_index: 63
 joug. Entre les deux parties du texte, dessin de deux ânes près d'un
 chemin, d'un pommier et d'une charrue.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_56.png">
   <figcaption style="max-width: 680px"></figcaption>
 </figure>

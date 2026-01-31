@@ -9,7 +9,7 @@ series_index: 133
 <p style="text-align:justify;">Planche horizontale aux bords bien
 découpés, sur laquelle est fixé un vieux clairon cabossé.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_126.png">
   <figcaption style="max-width: 609px"></figcaption>
 </figure>

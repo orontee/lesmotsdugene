@@ -8,7 +8,7 @@ series_index: 8
 
 Planche horizontale assez fine, découpée en forme de sabot.
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_6.png">
   <figcaption style="max-width: 685px"></figcaption>
 </figure>

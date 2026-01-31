@@ -10,7 +10,7 @@ series_index: 161
 épais et très sombre qui comporte sept textes alignés les uns à côté
 des autres et séparés par un trait.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_153.png">
   <figcaption style="max-width: 1068px"></figcaption>
 </figure>

@@ -16,7 +16,7 @@ mais aussi curieux de tout et ouvert au monde, c’est l’apprentissage
 d’une vie bien remplie qu’Eugène nous a livré en gravant sur des
 planches à l’aspect brut, dessins et petits textes en patois.
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="Au café « Chez Simone », place des Buttes" 
        src="{static}/images/eugene_20140501.jpg">
   <figcaption style="max-width: 576px">

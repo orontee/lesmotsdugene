@@ -67,7 +67,7 @@ certaines lettres sont tracées en majuscules sans autre nécessité que
 ce plaisir de tracer une belle courbe comme pour les F, les P, les B
 ou les S, par exemple.
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="Quelques essais de belles lettres" src="{static}/images/planche_88_verso.png">
   <figcaption style="max-width: 354px">Quelques essais de belles lettres</figcaption>
 </figure>

@@ -12,7 +12,7 @@ rectiligne. L'autre partie du bas est naturellement en biais rendant
 la partie droite plus étroite. Elle est de plus, rayée par des fentes
 et des traits sombres.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_135.png">
   <figcaption style="max-width: 565px"></figcaption>
 </figure>

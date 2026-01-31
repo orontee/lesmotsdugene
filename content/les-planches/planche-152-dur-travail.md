@@ -10,7 +10,7 @@ series_index: 160
 sombre qui comporte huit textes les uns à côté des autres, séparés par
 un trait.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_152-2.png">
   <figcaption style="max-width: 830px"></figcaption>
 </figure>

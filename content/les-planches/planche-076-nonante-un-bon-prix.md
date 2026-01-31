@@ -11,7 +11,7 @@ trois parties : Les textes sont répartis à gauche et à droite, séparés
 par le dessin d'un chèque du Crédit Agricole adressé à
 M. Tartempion. À gauche, dessin de deux moutons.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_76.png">
   <figcaption style="max-width: 700px"></figcaption>
 </figure>

@@ -33,7 +33,7 @@ le gène
 hif hooo Kou le brave mé come lou méno. joye pa tojô comôde é dïu côme
 de bois d'abre
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_159_verso.png">
   <figcaption style="max-width: 2575px"></figcaption>
 </figure>

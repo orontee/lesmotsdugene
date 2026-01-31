@@ -11,7 +11,7 @@ deux trous sur le haut pour pouvoir y faire passer une ficelle et
 faciliter ainsi son accrochage. Sur la droite, dessin peu appuyé d'une
 grosse fraise avec son calice et son pédoncule.</p>
 
-<figure class="image-block" style="float: center;">
+<figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="" src="{static}/images/planche_55.png">
   <figcaption style="max-width: 700px"></figcaption>
 </figure>
