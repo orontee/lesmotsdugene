@@ -18,6 +18,17 @@
         {% endif %}
         {% block extra_head %}{% endblock extra_head %}
         {% endblock head %}
+
+<script>
+function getRandomPage() {
+const articles = [
+  {% for article in articles %}"/{{ article.url }}"{% if not loop.last %}
+  ,{% endif %}{% endfor %}
+  ];
+  return articles[Math.floor(Math.random() * articles.length)];
+}
+</script>
+
 </head>
 
 <body id="index" class="home">

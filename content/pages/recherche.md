@@ -4,13 +4,16 @@ Summary: Recherche sur le site
 Status: published
 
 
-Les thèmes abordés dans les planches et les sculptures sont à l'image
-de l'éclectisme d'Eugène. On a dit [par ailleurs ses expériences
-multiples](/) : conseiller municipal, engagé au sein du syndicat
-agricole, voyageur et toujours à l'écoute !
+Il y a environ 200 planches et une vingtaine de sculptures… 
 
-Le formulaire qui suit est là pour vous aider à explorer cette
-diversité.
+Les thèmes abordés sont à l'image de l'éclectisme d'Eugène. On a dit
+[par ailleurs ses expériences multiples](/) : conseiller municipal,
+engagé au sein du syndicat agricole, voyageur et toujours à l'écoute !
+
+Pour explorer cette diversité, vous pouvez <a href="#"
+onclick="window.location.href = getRandomPage(); return
+false;">piocher une page au hasard</a> ou faire des recherches
+textuelles avec le formulaire qui suit.
 
 <input id="search-field"
        type="search"
