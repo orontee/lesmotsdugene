@@ -62,6 +62,15 @@ a:hover, a:active {
     text-shadow: 1px 1px 1px #333;
 }
 
+span.disable-link {
+    color: #C74350;
+    cursor: not-allowed;
+    opacity: 0.6;
+    padding: 0 1px;
+    text-decoration: underline;
+}
+
+
 h1 a:hover {
     background-color: inherit
 }
@@ -149,6 +158,11 @@ tfoot td {}
 header, section, footer,
 aside, nav, article, figure {
     display: block;
+}
+
+header h2 {
+    margin-top: 0;
+    color: #7a7a7a;
 }
 
 figcaption {
@@ -409,6 +423,10 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
 .entry-title {font-size: 3em; margin-bottom: 10px; margin-top: 0;}
 .entry-title a:link, .entry-title a:visited {text-decoration: none; color: #333;}
 .entry-title a:visited {background-color: #fff;}
+
+.entry-title:has(+ h2) {
+    margin-bottom: 0;
+}
 
 .hentry .post-info * {font-style: normal;}
 
