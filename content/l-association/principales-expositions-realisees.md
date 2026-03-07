@@ -7,9 +7,26 @@ L'association « Les mots du Gène » a organisé de nombreuses
 expositions pour faire connaître le travail d'Eugène Vicat.
 
 <figure class="image-block" style="float: right; width: 40%;">
+<img alt="Affiche des 4e rencontres des patrimoines à Saint Marcellin (2025)"
+	 style="width: 80%;"
+     src="{static}/images/affiche-2025-saint-marcellin.png">
+</figure>
+
+<figure class="image-block" style="float: right; width: 40%;">
 <img alt="Affiche de l'exposition à Artas (2024)"
+	 style="width: 80%;"
      src="{static}/images/affiche-2024-mottier.png">
 </figure>
+
+### Août 2025
+
+Exposition à la Fête et foire de la Patate au Mottier.
+
+### Avril 2025
+
+Stand et exposition lors des [4èmes rencontres des
+patrimoines](https://www.saint-marcellin.fr/evenements/4emes-rencontres-des-patrimoines/)
+à Saint Marcellin.
 
 ### Septembre 2024
 
@@ -31,6 +48,7 @@ Saint-Pierre-de-Bressieux.
 
 <figure class="image-block" style="float: right; width: 40%;">
 <img alt="Affiche de l'exposition à Artas (2022)"
+	 style="width: 80%;"
      src="{static}/images/affiche-2022-pont-neuf.png">
 </figure>
 
@@ -59,12 +77,13 @@ Hauterives.
 Exposition à l’initiative de la mairie de Roybon, dans la salle
 d’exposition de l’Office du tourisme de Roybon
 
-### Octobre 2017
-
 <figure class="image-block" style="float: right; width: 40%;">
 <img alt="Affiche de l'exposition à Artas (2017)"
+	 style="width: 80%;"
      src="{static}/images/affiche-2017-la-grange-chevrotière.png">
 </figure>
+
+### Octobre 2017
 
 Grande exposition à Artas, La Grange Chevrotière.
 
