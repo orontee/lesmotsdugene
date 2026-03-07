@@ -4,8 +4,7 @@ Date: 2016-11-28 10:45:07
 Modified: 2016-11-28 10:45:07
 Summary: 
 Lang: fr
-Series: planches
-series_index: 191
+Category_index: 191
 
 <p style="text-align:justify;"><em>TELETHON 2016 : les 2 et 3
 décembre</em>. Très petite planche verticale. Le bord inférieur est

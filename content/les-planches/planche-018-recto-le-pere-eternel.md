@@ -4,8 +4,7 @@ Date: 2017-12-06 15:53:51
 Modified: 2017-12-06 16:05:17
 Summary: 
 Lang: fr
-Series: planches
-series_index: 23
+Category_index: 23
 
 <p style="text-align: justify;">Planche de moyenne hauteur, assez
 large et de forme trapézoïdale. Les bords supérieurs et inférieurs

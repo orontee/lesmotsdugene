@@ -4,8 +4,7 @@ Date: 2015-07-16 01:50:13
 Modified: 2016-01-20 17:15:50
 Summary: Quand les temps sont durs, les pauvres bêtes…
 Lang: fr
-Series: planches
-series_index: 75
+Category_index: 75
 
 <p style="text-align:justify;">Grande planche verticale à la forme
 originale. Son bord latéral droit présente une importante excroissance

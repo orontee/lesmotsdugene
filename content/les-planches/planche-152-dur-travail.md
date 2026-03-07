@@ -5,8 +5,7 @@ Date: 2016-12-30 14:41:33
 Modified: 2016-12-30 14:41:33
 Summary: 
 Lang: fr
-Series: planches
-series_index: 160
+Category_index: 160
 
 <p style="text-align:justify;">Longue planche horizontale en bois
 sombre qui comporte huit textes les uns à côté des autres, séparés par

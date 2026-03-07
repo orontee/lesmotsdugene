@@ -4,8 +4,7 @@ Date: 2016-09-28 15:53:30
 Modified: 2016-09-28 15:53:30
 Summary: 
 Lang: fr
-Series: planches
-series_index: 148
+Category_index: 148
 
 <p style="text-align:justify;">Petite planche horizontale dont la
 forme originale présente sur le bas un appendice de type crochet. À

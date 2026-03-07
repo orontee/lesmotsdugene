@@ -4,8 +4,7 @@ Date: 2017-01-30 15:52:51
 Modified: 2017-01-30 15:52:51
 Summary: 
 Lang: fr
-Series: planches
-series_index: 35
+Category_index: 35
 
 
 <p style="text-align:justify;">Planche rectangulaire verticale. Les

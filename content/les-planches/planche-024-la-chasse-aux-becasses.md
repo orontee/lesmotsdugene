@@ -4,8 +4,7 @@ Date: 2016-10-28 15:28:54
 Modified: 2016-10-28 15:28:54
 Summary: 
 Lang: fr
-Series: planches
-series_index: 30
+Category_index: 30
 
 <p style="text-align:justify;">Grande planche verticale. En haut, un
 dessin représente un chasseur marchant<code></code> en tenant sur

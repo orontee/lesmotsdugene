@@ -4,8 +4,7 @@ Date: 2017-03-29 18:32:56
 Modified: 2017-03-29 18:32:56
 Summary: 
 Lang: fr
-Series: planches
-series_index: 77
+Category_index: 77
 
 <p style="text-align:justify;">Très grande planche verticale, épaisse
 et lourde. Le bord supérieur est découpé en angle obtus. En haut est

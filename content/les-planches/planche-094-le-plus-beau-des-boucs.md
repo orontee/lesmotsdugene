@@ -4,8 +4,7 @@ Date: 2018-03-12 16:57:22
 Modified: 2018-03-12 16:57:22
 Summary: 
 Lang: fr
-Series: planches
-series_index: 103
+Category_index: 103
 
 <p style="text-align:justify;">Planche rectangulaire verticale en bois
 clair. Bord supérieur ondulé. Légèrement plus étroite en bas. Le

@@ -4,8 +4,7 @@ Date: 2017-05-30 16:39:32
 Modified: 2017-05-30 16:39:32
 Summary: 
 Lang: fr
-Series: planches
-series_index: 16
+Category_index: 16
 
 <p style="text-align:justify;">Planche de taille moyenne rectangulaire
 en forme de planche à laver. Un fer à cheval est fixé en haut, un fer

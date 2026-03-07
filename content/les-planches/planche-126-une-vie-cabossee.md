@@ -4,8 +4,7 @@ Date: 2016-01-28 15:13:16
 Modified: 2016-01-28 15:13:16
 Summary: 
 Lang: fr
-Series: planches
-series_index: 133
+Category_index: 133
 
 <p style="text-align:justify;">Planche horizontale aux bords bien
 découpés, sur laquelle est fixé un vieux clairon cabossé.</p>

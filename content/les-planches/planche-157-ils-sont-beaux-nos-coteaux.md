@@ -4,8 +4,7 @@ Date: 2017-03-29 18:30:14
 Modified: 2017-04-24 17:58:01
 Summary: 
 Lang: fr
-Series: planches
-series_index: 165
+Category_index: 165
 
 <p style="text-align:justify;">Planche verticale très veinée, de
 moyenne grandeur. Tous les bords sont découpés; celui du haut est

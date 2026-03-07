@@ -5,8 +5,7 @@ Date: 2016-07-04 16:18:48
 Modified: 2016-07-04 16:18:48
 Summary: 
 Lang: fr
-Series: planches
-series_index: 107
+Category_index: 107
 
 <p style="text-align:justify;">Planche rectangulaire verticale en bois
 clair.</p>

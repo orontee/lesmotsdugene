@@ -4,8 +4,7 @@ Date: 2016-05-23 17:58:50
 Modified: 2016-05-23 17:58:50
 Summary: 
 Lang: fr
-Series: planches
-series_index: 55
+Category_index: 55
 
 <p style="text-align:justify;">Planche verticale, très recourbée vers
 la gauche. La partie haute est plus large que la partie basse. Une

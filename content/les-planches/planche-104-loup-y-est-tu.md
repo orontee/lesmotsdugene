@@ -4,8 +4,7 @@ Date: 2018-03-12 16:55:40
 Modified: 2018-03-12 16:55:40
 Summary: 
 Lang: fr
-Series: planches
-series_index: 113
+Category_index: 113
 
 <p style="text-align:justify;">Petite planche horizontale, gravée sur
 une seule face. En haut à gauche, figure un beau dessin de loup. À

@@ -4,8 +4,7 @@ Date: 2016-05-23 18:22:54
 Modified: 2019-07-25 14:04:26
 Summary: 
 Lang: fr
-Series: planches
-series_index: 4
+Category_index: 4
 
 Planche  verticale haute, étroite et légèrement courbe. Sa forme fait penser à une botte.
 

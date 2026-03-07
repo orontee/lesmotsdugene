@@ -4,8 +4,7 @@ Date: 2016-01-28 15:12:54
 Modified: 2016-01-28 15:12:54
 Summary: 
 Lang: fr
-Series: planches
-series_index: 136
+Category_index: 136
 
 <p style="text-align:justify;">Petite planche verticale double
 face. Le haut est découpé en forme de tête d'animal.  Sur le recto,

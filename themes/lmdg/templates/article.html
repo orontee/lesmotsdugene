@@ -5,6 +5,20 @@
   {% if article.summary %}
         <meta name="description" content="{{ article.summary | striptags | safe | truncate(150) }}" >
   {% endif %}
+{% if article.category %}
+<script>
+function getRandomPage() {
+    const articles = [
+    {% for category, articles in categories if category == article.category %}
+    {% for article in articles %}
+       "/{{ article.url }}"{% if not loop.last %},{% endif %}
+    {% endfor %}
+    {% endfor %}
+    ];
+    return articles[Math.floor(Math.random() * articles.length)];
+}
+</script>
+{% endif %}
 {% endblock %}
 
 {% block pubdate %}{{ article.date.isoformat() }}{% endblock %}
@@ -18,7 +32,7 @@
 {% endblock %}
 
 {% block content %}
-<section id="content" class="body" {% if article.series %}data-pagefind-body{% endif %}>
+<section id="content" class="body" {% if article.category in ('les-planches', 'les-sculptures') %}data-pagefind-body{% endif %}>
   <article>
     <header>
       <h1 class="entry-title" data-pagefind-meta="title">
@@ -30,18 +44,24 @@
       {% include 'twitter.html' %}
     </header>
 
-    {% if article.series %}
-    {% if article.series.previous %}
-    <a href="{{ article.series.previous.url }}" data-pagefind-ignore>Précédent</a>
-    {% else %}
-    <span class="disable-link" aria-disabled="true" data-pagefind-ignore>Précédent</span>
-    {% endif %}
+    {% if article.category in ('les-planches', 'les-sculptures') %}
 
-    {% if article.series.next %}
-    <a href="{{ article.series.next.url }}" data-pagefind-ignore>Suivant</a>
-    {% else %}
-    <span class="disable-link" aria-disabled="true" data-pagefind-ignore>Suivant</span>
-    {% endif %}
+    {% for category, articles in categories if category == article.category %}
+    {% for other_article in articles|sort_numeric('category_index') %}
+      {% if other_article == article %}
+         {% if loop.previtem %}
+           <a href="{{ loop.previtem.url }}" data-pagefind-ignore>Précédent</a>
+         {% else %}
+           <span class="disable-link" aria-disabled="true" data-pagefind-ignore>Précédent</span>
+         {% endif %}
+         {% if loop.nextitem %}
+           <a href="{{ loop.nextitem.url }}" data-pagefind-ignore>Suivant</a>
+         {% else %}
+           <span class="disable-link" aria-disabled="true" data-pagefind-ignore>Suivant</span>
+         {% endif %}
+     {% endif %}
+   {% endfor %}
+   {% endfor %}
 
     <a href="#" onclick="window.location.href = getRandomPage(); return false;" data-pagefind-ignore>Au hasard</a>
     {% endif %}

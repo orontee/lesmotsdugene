@@ -4,8 +4,7 @@ Date: 2017-05-30 16:22:28
 Modified: 2017-05-30 16:22:28
 Summary: 
 Lang: fr
-Series: planches
-series_index: 50
+Category_index: 50
 
 
 <p style="text-align:justify;">Grande planche verticale. Le bas

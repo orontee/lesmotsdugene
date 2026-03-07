@@ -4,8 +4,7 @@ Date: 2017-06-27 18:11:00
 Modified: 2017-06-27 18:11:00
 Summary: 
 Lang: fr
-Series: planches
-series_index: 68
+Category_index: 68
 
 <p style="text-align:justify;">Planche horizontale en forme de vague :
 le bord supérieur est à peu près droit, le bord inférieur est

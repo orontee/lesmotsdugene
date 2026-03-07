@@ -4,8 +4,7 @@ Date: 2016-03-16 16:00:53
 Modified: 2016-03-16 16:00:53
 Summary: 
 Lang: fr
-Series: planches
-series_index: 81
+Category_index: 81
 
 <p style="text-align:justify;">Grande planche rectangulaire
 verticale. Du bord supérieur à droite part un petit trait creusé en

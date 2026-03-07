@@ -4,8 +4,7 @@ Date: 2017-05-30 16:21:25
 Modified: 2017-05-30 16:21:25
 Summary: 
 Lang: fr
-Series: planches
-series_index: 162
+Category_index: 162
 
 <p style="text-align:justify;">Grande planche verticale très
 étroite. Au dessus du texte, dessin d'un chaudron. Un peu plus bas,

@@ -4,8 +4,7 @@ Date: 2016-12-30 14:41:42
 Modified: 2016-12-30 14:41:42
 Summary: 
 Lang: fr
-Series: planches
-series_index: 105
+Category_index: 105
 
 <p style="text-align:justify;">Grande planche verticale. Le bord
 latéral gauche est ondulé, brut et bordé d'écorce. Le côté droit est

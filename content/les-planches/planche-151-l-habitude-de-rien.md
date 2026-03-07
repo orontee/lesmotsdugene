@@ -4,8 +4,7 @@ Date: 2016-03-16 16:00:23
 Modified: 2016-03-16 16:00:23
 Summary: 
 Lang: fr
-Series: planches
-series_index: 159
+Category_index: 159
 
 <p style="text-align:justify;">Petite planche rectangulaire
 horizontale. Les bords inférieur et supérieur sont droits, les bords

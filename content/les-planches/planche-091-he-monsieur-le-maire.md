@@ -4,8 +4,7 @@ Date: 2017-06-27 18:36:24
 Modified: 2017-06-27 18:36:24
 Summary: 
 Lang: fr
-Series: planches
-series_index: 100
+Category_index: 100
 
 <p style="text-align: justify">Petite planche horizontale présentant
 une excroissance au centre du bord supérieur. À gauche est gravé le

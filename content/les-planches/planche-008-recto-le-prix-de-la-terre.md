@@ -4,8 +4,7 @@ Date: 2016-10-28 15:25:25
 Modified: 2016-10-28 15:25:25
 Summary: 
 Lang: fr
-Series: planches
-series_index: 10
+Category_index: 10
 
 <p style="text-align:justify;">Grande Planche verticale gravée sur les
 deux faces. Elle est légèrement courbe, bordée d'écorce brute, de

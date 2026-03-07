@@ -4,8 +4,7 @@ Date: 2016-10-28 15:20:39
 Modified: 2016-10-28 15:20:39
 Summary: 
 Lang: fr
-Series: planches
-series_index: 152
+Category_index: 152
 
 <p style="text-align:justify;">Petite planche verticale, très veinée,
 plus ou moins en forme de triangle. La planche repose sur une pointe

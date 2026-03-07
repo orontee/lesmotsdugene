@@ -4,8 +4,7 @@ Date: 2017-06-27 18:05:49
 Modified: 2017-06-27 18:05:49
 Summary: 
 Lang: fr
-Series: planches
-series_index: 184
+Category_index: 184
 
 Planche verticale de bois sombre aux veines très apparentes.
 

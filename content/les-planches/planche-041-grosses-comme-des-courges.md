@@ -4,8 +4,7 @@ Date: 2016-12-30 14:50:41
 Modified: 2016-12-30 14:50:41
 Summary: 
 Lang: fr
-Series: planches
-series_index: 48
+Category_index: 48
 
 <p style="text-align:justify;">Grande planche verticale,
 rectangulaire. En haut de la planche, à gauche, dessin peu appuyé

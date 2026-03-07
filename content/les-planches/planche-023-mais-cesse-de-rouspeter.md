@@ -4,8 +4,7 @@ Date: 2017-05-01 10:51:24
 Modified: 2017-05-01 10:51:24
 Summary: 
 Lang: fr
-Series: planches
-series_index: 29
+Category_index: 29
 
 <p style="text-align:justify;">Planche verticale de dimension
 moyenne. En haut, dessin de la tête d'une vache qui meugle

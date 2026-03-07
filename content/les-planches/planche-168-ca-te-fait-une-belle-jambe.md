@@ -4,8 +4,7 @@ Date: 2017-06-27 18:08:50
 Modified: 2017-06-27 18:08:50
 Summary: 
 Lang: fr
-Series: planches
-series_index: 175
+Category_index: 175
 
 <p style="text-align:justify;">Grande planche verticale, légère, très
 étroite, découpée en forme de jambe. Les lettres du texte sont

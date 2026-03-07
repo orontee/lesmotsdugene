@@ -4,8 +4,7 @@ Date: 2016-03-16 15:59:55
 Modified: 2016-03-16 15:59:55
 Summary: 
 Lang: fr
-Series: planches
-series_index: 146
+Category_index: 146
 
 <p style="text-align:justify;">Cette planche est un segment du plateau
 d'une table ronde. On peut voir sur le bord inférieur, les deux

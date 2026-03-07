@@ -4,8 +4,7 @@ Date: 2017-03-01 16:35:25
 Modified: 2017-03-01 16:35:25
 Summary: 
 Lang: fr
-Series: planches
-series_index: 106
+Category_index: 106
 
 <p style="text-align:justify;">Petite planche verticale, peu
 épaisse. Le haut est très profondément échancré. Sur les deux branches

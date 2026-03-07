@@ -4,8 +4,7 @@ Date: 2018-02-09 17:38:32
 Modified: 2018-02-09 17:38:32
 Summary: 
 Lang: fr
-Series: planches
-series_index: 145
+Category_index: 145
 
 <p style="text-align: justify;">Planche verticale rectangulaire. le
 bord supérieur est sinueux. Une petite fente part du bord

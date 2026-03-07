@@ -57,6 +57,14 @@ LINKS = (
 #     ('Another social link', '#'),
 # )
 
+def sort_numeric(articles, attribute):
+    return sorted(
+        articles,
+        key=lambda a: int(getattr(a, attribute, 0))
+    )
+
+JINJA_FILTERS = {"sort_numeric": sort_numeric}
+
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -68,7 +76,7 @@ SITEMAP = {
     "format": "xml",
     "priorities": {
         "articles": 0.5,
-        "indexes": 0,
+        "indexes": 0.1,
         "pages": 1.0
     },
     "changefreqs": {

@@ -4,8 +4,7 @@ Date: 2018-03-12 16:52:23
 Modified: 2018-03-12 16:52:23
 Summary: 
 Lang: fr
-Series: planches
-series_index: 73
+Category_index: 73
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur,
 un peu fendue en bas et gravée sur les deux faces. Les bords bas et

@@ -4,8 +4,7 @@ Date: 2018-02-09 16:32:29
 Modified: 2018-02-09 16:32:29
 Summary: 
 Lang: fr
-Series: planches
-series_index: 40
+Category_index: 40
 
 <p style="text-align:justify;">Planche verticale rectangulaire, gravée
 sur les deux faces. Le bois est gris. Les côtés latéraux en bas

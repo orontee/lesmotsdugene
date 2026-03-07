@@ -4,8 +4,7 @@ Date: 2017-12-06 17:02:33
 Modified: 2017-12-06 17:02:33
 Summary: 
 Lang: fr
-Series: planches
-series_index: 80
+Category_index: 80
 
 <p style="text-align:justify;">Planche rectangulaire verticale,
 légèrement incurvée sur le côté gauche. Dans le « O » du dernier mot

@@ -4,8 +4,7 @@ Date: 2018-02-09 17:08:16
 Modified: 2018-02-09 17:19:55
 Summary: 
 Lang: fr
-Series: planches
-series_index: 90
+Category_index: 90
 
 <p style="text-align:justify;">Planche verticale trapézoïdale, un peu
 plus large en haut. Le bord droit est un peu fendu. À droite, en haut,

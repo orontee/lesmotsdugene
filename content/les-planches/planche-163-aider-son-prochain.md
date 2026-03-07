@@ -4,8 +4,7 @@ Date: 2017-05-30 16:35:20
 Modified: 2017-05-30 16:35:20
 Summary: 
 Lang: fr
-Series: planches
-series_index: 170
+Category_index: 170
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur,
 légèrement recourbée vers la droite, un peu plus large en haut. Les

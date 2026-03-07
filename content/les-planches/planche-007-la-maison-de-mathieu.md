@@ -4,8 +4,7 @@ Date: 2017-03-29 18:35:56
 Modified: 2017-03-29 18:35:56
 Summary: 
 Lang: fr
-Series: planches
-series_index: 9
+Category_index: 9
 
 <p style="text-align:justify;">Petite planche horizontale en forme de
 parallélogramme. Une tête en pierre sculptée figurant une tête de

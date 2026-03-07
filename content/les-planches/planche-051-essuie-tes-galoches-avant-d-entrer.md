@@ -4,8 +4,7 @@ Date: 2018-02-09 17:31:23
 Modified: 2018-02-09 17:31:23
 Summary: 
 Lang: fr
-Series: planches
-series_index: 58
+Category_index: 58
 
 <p style="text-align:justify;">Petite planche rectangulaire. Le bas
 est légèrement convexe. Aux coins supérieurs sont fixés des semelles

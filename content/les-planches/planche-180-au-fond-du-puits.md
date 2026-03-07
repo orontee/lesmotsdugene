@@ -4,8 +4,7 @@ Date: 2016-05-23 18:05:09
 Modified: 2016-05-23 18:05:09
 Summary: 
 Lang: fr
-Series: planches
-series_index: 187
+Category_index: 187
 
 Petite planche horizontale aux bords arrondis et légèrement incurvée
 vers le haut. À droite, dessin d'un puits maçonné avec des galets

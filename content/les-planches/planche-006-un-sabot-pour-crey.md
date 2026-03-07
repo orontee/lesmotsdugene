@@ -4,8 +4,7 @@ Date: 2016-01-28 15:14:58
 Modified: 2016-01-28 15:14:58
 Summary: 
 Lang: fr
-Series: planches
-series_index: 8
+Category_index: 8
 
 Planche horizontale assez fine, découpée en forme de sabot.
 

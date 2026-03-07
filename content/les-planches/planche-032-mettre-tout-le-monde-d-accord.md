@@ -4,8 +4,7 @@ Date: 2016-09-28 15:23:15
 Modified: 2016-09-28 15:23:15
 Summary: 
 Lang: fr
-Series: planches
-series_index: 39
+Category_index: 39
 
 <p style="text-align:justify;">Planche très sombre, découpée en forme
 de poisson et gravée sur les deux faces. Un rond dessine l'œil, deux

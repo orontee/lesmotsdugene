@@ -4,8 +4,7 @@ Date: 2018-03-12 17:00:13
 Modified: 2018-03-12 17:00:13
 Summary: 
 Lang: fr
-Series: planches
-series_index: 94
+Category_index: 94
 
 <p style="text-align:justify;">Grande planche verticale. Le bord
 supérieur est découpé en dents de scie. Dessin d'un papillon à droite

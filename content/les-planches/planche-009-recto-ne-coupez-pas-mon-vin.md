@@ -4,8 +4,7 @@ Date: 2017-01-30 15:51:17
 Modified: 2017-01-30 15:51:17
 Summary: 
 Lang: fr
-Series: planches
-series_index: 11
+Category_index: 11
 
 <p style="text-align:justify;">Grande planche rectangulaire, assez
 large aux bords très découpés, gravée sur les deux faces. Elle

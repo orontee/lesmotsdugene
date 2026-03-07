@@ -4,8 +4,7 @@ Date: 2016-05-23 17:35:25
 Modified: 2016-06-12 19:23:29
 Summary: 
 Lang: fr
-Series: planches
-series_index: 114
+Category_index: 114
 
 <p style="text-align:justify;">Grande planche verticale, étroite,
 s'évasant un peu vers le haut à partir du milieu. Les bords latéraux

@@ -4,8 +4,7 @@ Date: 2016-09-28 15:30:55
 Modified: 2016-09-28 15:30:55
 Summary: 
 Lang: fr
-Series: planches
-series_index: 101
+Category_index: 101
 
 <p style="text-align:justify">Petite planche horizontale. Les bords
 latéraux ont une découpe sinueuse.</p>

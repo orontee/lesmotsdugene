@@ -4,8 +4,7 @@ Date: 2017-01-30 15:45:57
 Modified: 2017-01-30 15:45:57
 Summary: 
 Lang: fr
-Series: planches
-series_index: 141
+Category_index: 141
 
 <p style="text-align:justify;">Planche naturellement très découpée
 avec des nœuds sombres, des cicatrices et des fentes dans le bois. Les

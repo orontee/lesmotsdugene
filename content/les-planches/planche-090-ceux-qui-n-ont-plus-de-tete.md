@@ -4,8 +4,7 @@ Date: 2017-03-29 18:27:49
 Modified: 2017-03-29 18:27:49
 Summary: 
 Lang: fr
-Series: planches
-series_index: 99
+Category_index: 99
 
 <p style="text-align:justify;">Planche verticale très étroite en bas
 et s'évasant vers le haut. Le bord haut est découpé en formant des

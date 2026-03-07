@@ -4,8 +4,7 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:42:32
 Summary: 
 Lang: fr
-Series: planches
-series_index: 135
+Category_index: 135
 
 <p style="text-align:justify;">Planche moyenne en bois clair,
 verticale, légèrement incurvée vers la gauche. Les bords sont nets. Le

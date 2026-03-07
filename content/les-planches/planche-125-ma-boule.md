@@ -4,8 +4,7 @@ Date: 2016-03-16 16:01:03
 Modified: 2016-03-16 16:01:03
 Summary: 
 Lang: fr
-Series: planches
-series_index: 132
+Category_index: 132
 
 <p style="text-align:justify;">Planche de taille moyenne rectangulaire
 et verticale. Tout en haut est dessiné un gros point d'interrogation

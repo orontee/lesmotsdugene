@@ -4,8 +4,7 @@ Date: 2018-02-09 16:51:31
 Modified: 2018-02-09 16:51:31
 Summary: 
 Lang: fr
-Series: planches
-series_index: 72
+Category_index: 72
 
 <p style="text-align:justify;">Grande planche verticale double face,
 fendue en bas, légèrement incurvée sur un côté. Les bords latéraux

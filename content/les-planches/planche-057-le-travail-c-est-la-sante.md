@@ -4,8 +4,7 @@ Date: 2018-03-12 16:53:02
 Modified: 2018-03-12 16:53:02
 Summary: 
 Lang: fr
-Series: planches
-series_index: 64
+Category_index: 64
 
 <p style="text-align:justify;">Petite planche horizontale de forme
 concave. À gauche, dessin d'un homme assis au pied d'un arbre sous un

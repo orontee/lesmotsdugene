@@ -4,8 +4,7 @@ Date: 2015-11-24 18:00:35
 Modified: 2016-01-20 16:07:54
 Summary: C'est en laissant faire les jeunes…
 Lang: fr
-Series: planches
-series_index: 127
+Category_index: 127
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur
 sur laquelle est fixé un gros vilebrequin ancien. Le bord inférieur

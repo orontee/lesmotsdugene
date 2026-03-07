@@ -1,5 +1,6 @@
 Title: Principales expositions réalisées
 Date: 2024-11-05 23:33:57+01:00
+Category_index: 0
 Summary: L'association « Les mots du Gène » a organisé de nombreuses
     expositions pour faire connaître le travail d'Eugène Vicat
 

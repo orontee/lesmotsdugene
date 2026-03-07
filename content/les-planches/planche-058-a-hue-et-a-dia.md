@@ -4,8 +4,7 @@ Date: 2016-05-23 18:01:47
 Modified: 2016-05-23 18:01:47
 Summary: 
 Lang: fr
-Series: planches
-series_index: 65
+Category_index: 65
 
 <p style="text-align:justify;">Planche verticale de moyenne
 grandeur. En haut à gauche, dessin d'une vache la queue dressée, un

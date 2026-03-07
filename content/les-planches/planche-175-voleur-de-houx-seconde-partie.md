@@ -4,8 +4,7 @@ Date: 2016-10-27 20:00:00
 Modified: 2016-10-28 15:19:25
 Summary: 
 Lang: fr
-Series: planches
-series_index: 182
+Category_index: 182
 
 <p style="text-align:justify;">Planche verticale en bois clair, un peu
 plus large en haut et percée de deux trous au sommet. Les lettres sont

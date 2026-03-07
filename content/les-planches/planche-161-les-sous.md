@@ -4,8 +4,7 @@ Date: 2017-05-30 16:17:19
 Modified: 2017-05-30 16:17:19
 Summary: 
 Lang: fr
-Series: planches
-series_index: 169
+Category_index: 169
 
 Petite planche verticale. Le bord supérieur est ondulé et les côtés
 latéraux bordés d'écorce.

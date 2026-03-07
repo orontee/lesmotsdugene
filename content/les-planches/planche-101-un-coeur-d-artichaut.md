@@ -4,8 +4,7 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:41:15
 Summary: 
 Lang: fr
-Series: planches
-series_index: 110
+Category_index: 110
 
 <p style="text-align:justify;">Très grande planche verticale
 légèrement courbe en vieux bois de noyer très sombre. Les lettres sont

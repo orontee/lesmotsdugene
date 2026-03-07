@@ -4,8 +4,7 @@ Date: 2016-09-28 15:59:26
 Modified: 2016-09-28 15:59:26
 Summary: 
 Lang: fr
-Series: planches
-series_index: 108
+Category_index: 108
 
 <p style="text-align:justify;">Longue planche horizontale, étroite et
 légèrement courbe. Au centre, entre les deux textes, est gravé le

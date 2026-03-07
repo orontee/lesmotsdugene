@@ -4,8 +4,7 @@ Date: 2017-06-27 18:05:06
 Modified: 2017-06-27 18:05:06
 Summary: 
 Lang: fr
-Series: planches
-series_index: 151
+Category_index: 151
 
 <p style="text-align:justify;">Petite planche rectangulaire verticale
 bordée d'écorce. Une petite fente part du sommet.</p>

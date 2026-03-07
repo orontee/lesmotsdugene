@@ -4,8 +4,7 @@ Date: 2017-03-01 16:29:20
 Modified: 2017-03-01 16:29:20
 Summary: 
 Lang: fr
-Series: planches
-series_index: 87
+Category_index: 87
 
 <p style="text-align:justify;">Planche triangulaire verticale, évasée
 en partant du bas. La base est très étroite. Le haut est fendu. En

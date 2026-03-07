@@ -4,8 +4,7 @@ Date: 2017-05-01 11:00:41
 Modified: 2017-05-01 11:00:41
 Summary: 
 Lang: fr
-Series: planches
-series_index: 134
+Category_index: 134
 
 <p style="text-align:justify;">Petite planche rectangulaire,
 horizontale en bois sombre. Au centre est fixé un morceau de bois

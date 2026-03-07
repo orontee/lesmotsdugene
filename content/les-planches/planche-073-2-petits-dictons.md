@@ -4,8 +4,7 @@ Date: 2017-01-30 15:40:32
 Modified: 2017-01-30 15:40:32
 Summary: 
 Lang: fr
-Series: planches
-series_index: 82
+Category_index: 82
 
 <p style="text-align:justify;">Petite planche horizontale en deux
 parties séparées par un trait vertical. Le nombre « 78 » est gravé en

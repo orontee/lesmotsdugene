@@ -4,8 +4,7 @@ Date: 2016-01-28 15:14:08
 Modified: 2016-01-28 15:14:08
 Summary: 
 Lang: fr
-Series: planches
-series_index: 121
+Category_index: 121
 
 <p style="text-align:justify;">Planche horizontale de taille
 moyenne. À droite, les bords supérieur et inférieur présentent des

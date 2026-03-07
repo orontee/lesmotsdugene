@@ -4,8 +4,7 @@ Date: 2016-12-30 14:55:12
 Modified: 2016-12-30 14:55:12
 Summary: 
 Lang: fr
-Series: planches
-series_index: 125
+Category_index: 125
 
 <p style="text-align:justify;">Très petite planche horizontale. Le
 coté gauche est lisse et relevé vers le haut. Le côté droit est

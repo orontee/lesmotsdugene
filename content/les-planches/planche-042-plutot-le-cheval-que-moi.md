@@ -4,8 +4,7 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:40:42
 Summary: 
 Lang: fr
-Series: planches
-series_index: 49
+Category_index: 49
 
 <p style="text-align:justify;">Planche verticale, découpée en forme de
 silhouette d'homme de profil portant une casquette. L'œil et le béret

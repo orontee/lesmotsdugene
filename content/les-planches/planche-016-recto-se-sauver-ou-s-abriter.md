@@ -4,8 +4,7 @@ Date: 2016-07-04 16:51:10
 Modified: 2016-07-04 16:51:10
 Summary: 
 Lang: fr
-Series: planches
-series_index: 19
+Category_index: 19
 
 <p style="text-align:justify;">Planche étroite en bois clair, de
 grande taille et gravée des deux côtés. Elle est posée sur un socle et

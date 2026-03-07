@@ -4,8 +4,7 @@ Date: 2016-01-28 15:12:26
 Modified: 2016-01-28 15:12:26
 Summary: 
 Lang: fr
-Series: planches
-series_index: 115
+Category_index: 115
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur à
 la forme atypique. En haut à droite, elle forme une grande saillie sur

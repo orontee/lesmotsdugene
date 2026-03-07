@@ -4,8 +4,7 @@ Date: 2016-10-28 15:24:23
 Modified: 2016-10-28 15:24:23
 Summary: 
 Lang: fr
-Series: planches
-series_index: 45
+Category_index: 45
 
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur.

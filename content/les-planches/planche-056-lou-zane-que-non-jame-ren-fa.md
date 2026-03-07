@@ -4,8 +4,7 @@ Date: 2016-12-30 14:54:39
 Modified: 2016-12-30 14:54:39
 Summary: 
 Lang: fr
-Series: planches
-series_index: 63
+Category_index: 63
 
 <p style="text-align:justify;">Longue planche horizontale assez
 étroite, un peu concave, dont la forme évoque vaguement celle d'un

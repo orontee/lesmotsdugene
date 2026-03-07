@@ -4,8 +4,7 @@ Date: 2016-09-28 15:27:18
 Modified: 2016-09-28 15:27:18
 Summary: 
 Lang: fr
-Series: planches
-series_index: 41
+Category_index: 41
 
 <p style="text-align:justify;">Grande planche verticale en forme
 d'entonnoir, plus large en haut qu'en bas. Une grande tache sombre due

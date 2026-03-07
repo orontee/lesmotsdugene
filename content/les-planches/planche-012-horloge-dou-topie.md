@@ -4,8 +4,7 @@ Date: 2015-06-15 00:16:30
 Modified: 2016-02-22 16:21:17
 Summary: Inâ tôpa. dïeu tôpa tré tôpa quatre…
 Lang: fr
-Series: planches
-series_index: 15
+Category_index: 15
 
 <p style="text-align:justify;">Grande planche verticale en forme d'horloge. Le cadran marque midi vingt. Chaque nombre est écrit en chiffres de un à douze et est accompagné de sa traduction en patois suivie de «tôp». La mention «horloge dou tôpiè» est inscrite en arrondie sous le cadran et juste en dessous, dessin de deux taupes. En bas de la planche, dessins de deux buissons.</p>
 

@@ -4,8 +4,7 @@ Date: 2016-11-28 10:21:27
 Modified: 2016-11-28 10:21:27
 Summary: 
 Lang: fr
-Series: planches
-series_index: 111
+Category_index: 111
 
 <p style="text-align:justify;">Grande planche sombre légèrement
 torsadée qui présente une petite fente verticale en son centre. Le

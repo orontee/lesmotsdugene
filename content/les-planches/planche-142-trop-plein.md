@@ -4,8 +4,7 @@ Date: 2016-03-16 15:59:24
 Modified: 2016-03-16 15:59:24
 Summary: 
 Lang: fr
-Series: planches
-series_index: 150
+Category_index: 150
 
 <p style="text-align:justify;">Petite planche verticale en forme de
 vagues. Ses bords latéraux sont bordés d'écorce. Une grosse tâche

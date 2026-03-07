@@ -4,8 +4,7 @@ Date: 2016-09-28 15:21:48
 Modified: 2016-09-28 15:21:48
 Summary: 
 Lang: fr
-Series: planches
-series_index: 186
+Category_index: 186
 
 <p style="text-align:justify;">Toute petite planche verticale un peu
 plus large en haut qu'en bas. Le bord inférieur est ondulé. Les

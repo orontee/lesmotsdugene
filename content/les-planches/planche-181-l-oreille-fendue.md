@@ -4,8 +4,7 @@ Date: 2016-11-28 10:23:51
 Modified: 2016-11-28 10:23:51
 Summary: 
 Lang: fr
-Series: planches
-series_index: 188
+Category_index: 188
 
 <p style="text-align:justify;">Planche verticale légèrement
 incurvée. À droite et à gauche, deux oreilles dessinées et découpées

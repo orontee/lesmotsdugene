@@ -4,8 +4,7 @@ Date: 2018-02-09 17:45:27
 Modified: 2018-02-09 17:46:49
 Summary: 
 Lang: fr
-Series: planches
-series_index: 109
+Category_index: 109
 
 Petite planche verticale claire et veinée, légèrement évasée de bas en haut.
 

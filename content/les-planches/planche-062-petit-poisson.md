@@ -4,8 +4,7 @@ Date: 2016-07-04 16:24:54
 Modified: 2016-07-04 16:24:54
 Summary: 
 Lang: fr
-Series: planches
-series_index: 69
+Category_index: 69
 
 <p style="text-align:justify;">Petite planche horizontale en forme de
 poisson. Le nombre « 56 » est gravé en haut à gauche. Une fente

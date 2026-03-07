@@ -4,8 +4,7 @@ Date: 2017-06-27 18:35:14
 Modified: 2017-06-27 18:35:14
 Summary: 
 Lang: fr
-Series: planches
-series_index: 52
+Category_index: 52
 
 <p style="text-align:justify;">Grande planche verticale, très découpée
 en haut. En haut, à droite, dessin d'un homme tenant un lièvre par les

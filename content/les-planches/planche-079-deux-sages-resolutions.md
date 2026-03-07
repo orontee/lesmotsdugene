@@ -4,8 +4,7 @@ Date: 2017-05-30 16:40:41
 Modified: 2017-05-30 16:40:41
 Summary: 
 Lang: fr
-Series: planches
-series_index: 88
+Category_index: 88
 
 <p style="text-align:justify;">Petite planche horizontale. Texte en
 deux parties séparées par un trait vertical sinueux.</p>

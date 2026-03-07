@@ -4,8 +4,7 @@ Date: 2018-02-09 16:01:49
 Modified: 2018-02-09 16:03:42
 Summary: 
 Lang: fr
-Series: planches
-series_index: 60
+Category_index: 60
 
 <p style="text-align:justify;">Planche verticale de moyenne
 grandeur. Les bords latéraux sont bordés d'écorce. Le bord droite est

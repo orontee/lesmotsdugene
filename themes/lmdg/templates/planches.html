@@ -19,8 +19,10 @@
     {{ page.content }}
 
     <ul>
-      {% for article in series.planches %}
+      {% for category, articles in categories if category == 'les-planches' %}
+      {% for article in articles|sort_numeric('category_index') %}
       <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
+      {% endfor %}
       {% endfor %}
     </ul>
 </section>

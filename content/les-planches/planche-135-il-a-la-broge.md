@@ -4,8 +4,7 @@ Date: 2017-05-01 10:35:45
 Modified: 2017-05-01 10:35:45
 Summary: 
 Lang: fr
-Series: planches
-series_index: 143
+Category_index: 143
 
 <p style="text-align:justify;">Petite planche horizontale. Le bord
 gauche et la moitié du bord inférieur sont découpés de manière

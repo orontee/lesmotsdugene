@@ -4,8 +4,7 @@ Date: 2018-03-12 16:56:14
 Modified: 2018-03-12 16:56:14
 Summary: 
 Lang: fr
-Series: planches
-series_index: 91
+Category_index: 91
 
 <p style="text-align:justify;">Petite planche horizontale. Le bord
 latéral gauche est découpé en dents de scie. Sur la découpe est

@@ -4,8 +4,7 @@ Date: 2017-05-01 11:04:06
 Modified: 2017-05-01 11:04:06
 Summary: 
 Lang: fr
-Series: planches
-series_index: 131
+Category_index: 131
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur
 aux bords très droits. Sur le haut est fixé un cor à trois pistons un

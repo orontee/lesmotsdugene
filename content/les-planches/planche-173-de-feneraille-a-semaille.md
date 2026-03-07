@@ -4,8 +4,7 @@ Date: 2016-10-28 15:30:36
 Modified: 2016-10-28 15:31:49
 Summary: 
 Lang: fr
-Series: planches
-series_index: 180
+Category_index: 180
 
 <p style="text-align:justify;">Toute petite planche verticale
 légèrement bordée d'écorce.</p>

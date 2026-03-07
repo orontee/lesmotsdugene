@@ -4,8 +4,7 @@ Date: 2017-01-30 15:53:51
 Modified: 2017-02-10 11:08:33
 Summary: 
 Lang: fr
-Series: planches
-series_index: 181
+Category_index: 181
 
 <p style="text-align:justify;">Très longue planche verticale très
 étroite, en bois clair d'alisier (150cm x 25cm). Les lettres sont

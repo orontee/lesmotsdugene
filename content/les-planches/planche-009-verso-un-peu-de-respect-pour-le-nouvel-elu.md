@@ -4,8 +4,7 @@ Date: 2016-07-04 16:35:31
 Modified: 2016-07-04 16:35:31
 Summary: 
 Lang: fr
-Series: planches
-series_index: 12
+Category_index: 12
 
 <p style="text-align:justify;">Planche vaguement rectangulaire, assez
 large et épaisse. Ses bords sont très découpés. Un nœud percé a laissé

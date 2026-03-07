@@ -4,8 +4,7 @@ Date: 2017-03-29 18:31:59
 Modified: 2017-03-29 18:31:59
 Summary: 
 Lang: fr
-Series: planches
-series_index: 154
+Category_index: 154
 
 <p style="text-align:justify;">Petite planche rectangulaire et
 horizontale, bordée d'écorce. Le nombre « 77 » est gravé en haut à

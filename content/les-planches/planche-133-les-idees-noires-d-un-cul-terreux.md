@@ -4,8 +4,7 @@ Date: 2016-10-28 15:22:03
 Modified: 2016-10-28 15:22:03
 Summary: 
 Lang: fr
-Series: planches
-series_index: 140
+Category_index: 140
 
 <p style="text-align:justify;">Planche verticale légèrement incurvée
 vers la gauche. Tous les côtés sont découpés mécaniquement et trois

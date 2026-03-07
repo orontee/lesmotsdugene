@@ -4,8 +4,7 @@ Date: 2017-01-30 15:44:33
 Modified: 2017-01-30 15:44:33
 Summary: 
 Lang: fr
-Series: planches
-series_index: 93
+Category_index: 93
 
 <p style="text-align:justify;">Planche de bouleau, claire,
 rectangulaire et verticale. Au sommet est gravé le nombre « 54 ». La

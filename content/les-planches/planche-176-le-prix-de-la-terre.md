@@ -5,8 +5,7 @@ Date: 2017-05-01 10:45:48
 Modified: 2017-05-01 10:45:48
 Summary: 
 Lang: fr
-Series: planches
-series_index: 183
+Category_index: 183
 
 <p style="text-align:justify;">Grande planche rectangulaire
 verticale. Le bord inférieur est ondulé, celui du haut est droit. Au

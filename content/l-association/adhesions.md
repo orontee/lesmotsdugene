@@ -1,5 +1,6 @@
 Title: Adhésions
 Date: 2015-12-14 17:37:00
+Category_index: 4
 Summary: Si vous partagez la passion d'Eugène pour le patois, si ses souvenirs
     d'un temps passé vous intéressent et si ses réflexions
     (im-)pertinentes sur la nature et les hommes vous touchent nous vous

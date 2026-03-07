@@ -4,8 +4,7 @@ Date: 2018-02-09 16:41:19
 Modified: 2018-02-09 16:41:19
 Summary: 
 Lang: fr
-Series: planches
-series_index: 156
+Category_index: 156
 
 <p style="text-align:justify;">Petite planche verticale assez épaisse
 et bordée d'écorce qui s'évase légèrement en partant du bas.</p>

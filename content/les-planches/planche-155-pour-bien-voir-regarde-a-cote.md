@@ -4,8 +4,7 @@ Date: 2016-03-16 16:01:11
 Modified: 2016-03-16 16:01:11
 Summary: 
 Lang: fr
-Series: planches
-series_index: 163
+Category_index: 163
 
 <p style="text-align:judtify;">Grande planche verticale bordée
 d'écorce, plus large en haut qu'en bas. Au sommet de la première face

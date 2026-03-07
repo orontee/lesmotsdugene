@@ -4,8 +4,7 @@ Date: 2018-02-09 15:49:15
 Modified: 2018-02-09 15:49:15
 Summary: 
 Lang: fr
-Series: planches
-series_index: 26
+Category_index: 26
 
 <p style="text-align:justify;">Petite planche dont les deux bords
 latéraux sont concaves et les bords hauts et bas ondulés.</p>

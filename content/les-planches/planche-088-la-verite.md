@@ -4,8 +4,7 @@ Date: 2018-02-09 16:16:27
 Modified: 2018-02-09 16:16:27
 Summary: 
 Lang: fr
-Series: planches
-series_index: 97
+Category_index: 97
 
 <p style="text-align:justify;">Petite planche horizontale. Les bords
 latéraux sont découpés en ondulations, les bords inférieurs et

@@ -4,8 +4,7 @@ Date: 2017-03-29 18:31:11
 Modified: 2017-03-29 18:31:11
 Summary: 
 Lang: fr
-Series: planches
-series_index: 158
+Category_index: 158
 
 <p style="text-align:justify;">Petite planche verticale trapézoïdale,
 bordée d'écorce. Les deux faces sont gravées.</p>

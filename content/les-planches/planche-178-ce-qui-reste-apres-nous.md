@@ -4,8 +4,7 @@ Date: 2016-09-28 15:21:56
 Modified: 2016-09-28 15:23:48
 Summary: 
 Lang: fr
-Series: planches
-series_index: 185
+Category_index: 185
 
 <p style="text-align:justify;">Planche horizontale de moyenne
 grandeur. Elle présente deux petites aspérités vers son milieu, l'une

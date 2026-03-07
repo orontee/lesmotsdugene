@@ -4,8 +4,7 @@ Date: 2016-03-16 16:00:34
 Modified: 2016-03-16 16:00:34
 Summary: 
 Lang: fr
-Series: planches
-series_index: 167
+Category_index: 167
 
 <p style="text-align:justify;">Planche horizontale double face, en
 bois d'if très dur. Elle est bordée d'écorce et légèrement courbe. Sur

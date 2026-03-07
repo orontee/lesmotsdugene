@@ -4,8 +4,7 @@ Date: 2015-11-26 16:44:23
 Modified: 2016-01-20 16:10:32
 Summary: espèce  de  gran .  souflà
 Lang: fr
-Series: planches
-series_index: 174
+Category_index: 174
 
 <p style="text-align:justify;">Planche découpée en forme de
 soufflet. Dans la partie supérieure, dessin d'un homme souriant,

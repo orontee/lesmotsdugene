@@ -4,8 +4,7 @@ Date: 2017-03-01 16:30:53
 Modified: 2017-03-01 16:30:53
 Summary:
 Lang: fr
-Series: planches
-series_index: 176
+Category_index: 176
 
 <p style="text-align:justify;">Planche verticale de moyenne
 grandeur. Le texte est de couleur claire sur fond de bois sombre. Sous

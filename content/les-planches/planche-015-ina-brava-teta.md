@@ -4,8 +4,7 @@ Date: 2016-01-28 15:16:07
 Modified: 2016-01-28 15:16:07
 Summary: 
 Lang: fr
-Series: planches
-series_index: 18
+Category_index: 18
 
 <p style="text-align:justify;">Planche de taille moyenne de forme
 ovale, représentant une tête d'homme au menton pointu. De chaque côté,

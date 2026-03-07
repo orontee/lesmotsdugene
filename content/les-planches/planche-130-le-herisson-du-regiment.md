@@ -4,8 +4,7 @@ Date: 2016-01-28 15:13:41
 Modified: 2016-01-28 15:13:41
 Summary: 
 Lang: fr
-Series: planches
-series_index: 137
+Category_index: 137
 
 Planche rectangulaire verticale légèrement recourbée vers la gauche.
 

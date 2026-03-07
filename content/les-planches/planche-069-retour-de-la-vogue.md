@@ -4,8 +4,7 @@ Date: 2016-07-04 16:22:58
 Modified: 2016-07-04 16:22:58
 Summary: 
 Lang: fr
-Series: planches
-series_index: 78
+Category_index: 78
 
 
 <p style="text-align:justify:">Grande planche verticale légèrement

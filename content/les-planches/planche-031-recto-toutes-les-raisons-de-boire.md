@@ -4,8 +4,7 @@ Date: 2017-12-06 16:19:57
 Modified: 2017-12-06 16:19:57
 Summary: 
 Lang: fr
-Series: planches
-series_index: 37
+Category_index: 37
 
 <p style="text-align:justify;">Planche verticale, rectangulaire,
 bordée d'écorce et gravée sur les deux faces.</p>

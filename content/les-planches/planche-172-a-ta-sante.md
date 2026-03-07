@@ -4,8 +4,7 @@ Date: 2017-12-06 17:41:08
 Modified: 2018-02-09 15:37:19
 Summary: 
 Lang: fr
-Series: planches
-series_index: 179
+Category_index: 179
 
 <p style="text-align:justify;">Petite planche horizontale. Le bord
 droite est déchiqueté. Deux textes sont gravés à gauche et à droite,

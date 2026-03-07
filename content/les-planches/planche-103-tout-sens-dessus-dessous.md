@@ -4,8 +4,7 @@ Date: 2017-12-06 17:09:30
 Modified: 2017-12-06 17:09:30
 Summary: 
 Lang: fr
-Series: planches
-series_index: 112
+Category_index: 112
 
 Petite planche horizontale légèrement courbe. Le « O » de « solé » figure un soleil.
 

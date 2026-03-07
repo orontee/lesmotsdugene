@@ -4,8 +4,7 @@ Date: 2016-01-28 15:15:47
 Modified: 2016-01-28 15:15:47
 Summary: 
 Lang: fr
-Series: planches
-series_index: 7
+Category_index: 7
 
 <p style="text-align:justify;">Grande planche verticale étroite et
 courbe. Le haut est découpé en forme d'oreilles d'âne, soulignées à

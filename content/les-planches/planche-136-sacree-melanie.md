@@ -4,8 +4,7 @@ Date: 2016-11-28 10:26:08
 Modified: 2016-11-28 10:26:08
 Summary: 
 Lang: fr
-Series: planches
-series_index: 144
+Category_index: 144
 
 <p style="text-align:justify;">Grande planche verticale
 rectangulaire. En haut avant le texte, dessin d'un homme et d'une

@@ -4,8 +4,7 @@ Date: 2017-03-01 16:28:32
 Modified: 2017-03-01 16:28:32
 Summary: 
 Lang: fr
-Series: planches
-series_index: 54
+Category_index: 54
 
 <p style="text-align:justify;">Grande planche rectangulaire vernie,
 verticale, légèrement courbe et un peu plus large vers le haut. Deux

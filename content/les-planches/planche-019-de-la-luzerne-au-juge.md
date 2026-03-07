@@ -4,8 +4,7 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:41:28
 Summary: 
 Lang: fr
-Series: planches
-series_index: 25
+Category_index: 25
 
 
 <p style="text-align:justify;">Planche verticale très étroite gravée

@@ -4,8 +4,7 @@ Date: 2017-03-01 16:31:54
 Modified: 2017-03-01 16:31:54
 Summary: 
 Lang: fr
-Series: planches
-series_index: 189
+Category_index: 189
 
 <p style="text-align:justify;">Planche verticale. Les bords latéraux
 sont bordés d'écorce. Le haut et le bas sont découpés afin de

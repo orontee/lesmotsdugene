@@ -4,8 +4,7 @@ Date: 2017-05-01 10:39:52
 Modified: 2017-05-01 10:39:52
 Summary: 
 Lang: fr
-Series: planches
-series_index: 47
+Category_index: 47
 
 
 <p style="text-align:justify;">Petite planche rectangulaire

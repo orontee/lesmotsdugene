@@ -4,8 +4,7 @@ Date: 2018-03-12 16:56:44
 Modified: 2018-03-12 16:56:44
 Summary: 
 Lang: fr
-Series: planches
-series_index: 51
+Category_index: 51
 
 <p style="text-align:justify;">Petite planche horizontale très
 sombre. Deux traits verticaux sinueux séparent la première partie de

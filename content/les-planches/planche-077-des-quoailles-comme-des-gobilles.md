@@ -4,8 +4,7 @@ Date: 2016-04-22 10:31:04
 Modified: 2016-04-22 10:31:04
 Summary: 
 Lang: fr
-Series: planches
-series_index: 86
+Category_index: 86
 
 <p style="text-align:justify;">Planche verticale un peu évasée en
 remontant vers le haut. Le bord supérieur est légèrement convexe. En

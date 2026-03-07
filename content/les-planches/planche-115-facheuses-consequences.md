@@ -4,8 +4,7 @@ Date: 2016-11-28 10:19:35
 Modified: 2016-11-28 10:19:35
 Summary: 
 Lang: fr
-Series: planches
-series_index: 123
+Category_index: 123
 
 <p style="text-align:justify;">Planche verticale très sombre en deux
 parties : Au sommet se trouve un dessin gravé représentant un soleil,

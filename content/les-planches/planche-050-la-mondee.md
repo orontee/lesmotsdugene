@@ -4,8 +4,7 @@ Date: 2016-12-30 14:53:18
 Modified: 2016-12-30 14:53:18
 Summary: 
 Lang: fr
-Series: planches
-series_index: 57
+Category_index: 57
 
 <p style="text-align:justify;">Planche verticale, incurvée sur la
 gauche et bordée d'écorce. Le haut est orné d'un dessin représentant

@@ -4,8 +4,7 @@ Date: 2017-06-27 18:11:59
 Modified: 2017-06-27 18:11:59
 Summary: 
 Lang: fr
-Series: planches
-series_index: 153
+Category_index: 153
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur
 en bois clair. Sa forme à peu près rectangulaire présente sur le côté

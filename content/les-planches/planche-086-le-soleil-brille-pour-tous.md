@@ -4,8 +4,7 @@ Date: 2017-12-06 17:02:13
 Modified: 2017-12-06 17:02:13
 Summary: 
 Lang: fr
-Series: planches
-series_index: 95
+Category_index: 95
 
 Planche ronde en sapin. Le texte fait le tour complet en suivant le
 bord. « ou Brille pe nou tou » est gravé au centre de la

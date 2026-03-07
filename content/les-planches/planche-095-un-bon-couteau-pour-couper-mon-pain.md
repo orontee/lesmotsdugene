@@ -4,8 +4,7 @@ Date: 2018-03-12 16:50:52
 Modified: 2018-03-12 16:50:52
 Summary: 
 Lang: fr
-Series: planches
-series_index: 104
+Category_index: 104
 
 <p style="text-align:justify;">Grande planche verticale qui présente
 en son milieu de haut en bas, une veine naturelle un peu plus sombre,

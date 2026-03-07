@@ -4,8 +4,7 @@ Date: 2017-01-30 15:47:01
 Modified: 2017-01-30 15:47:01
 Summary: 
 Lang: fr
-Series: planches
-series_index: 129
+Category_index: 129
 
 <p style="text-align:justify;">Planche verticale s'évasant vers le
 haut. Une fente largement ouverte part du sommet jusqu'au centre. Le

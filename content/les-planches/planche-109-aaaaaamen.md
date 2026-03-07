@@ -4,8 +4,7 @@ Date: 2016-03-16 16:00:45
 Modified: 2016-03-16 16:00:45
 Summary: 
 Lang: fr
-Series: planches
-series_index: 117
+Category_index: 117
 
 <p style=align:justify;">Petite planche verticale trapézoïdale plus
 étroite en bas.Un trait sombre dû à une veine du bois la traverse de

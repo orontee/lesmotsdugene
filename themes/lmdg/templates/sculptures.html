@@ -17,8 +17,10 @@
     {{ page.content }}
 
     <ul>
-      {% for article in series.sculptures %}
+      {% for category, articles in categories if "les-sculptures" == category %}
+      {% for article in articles|sort_numeric('category_index') %}
       <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
+      {% endfor %}
       {% endfor %}
     </ul>
 </section>

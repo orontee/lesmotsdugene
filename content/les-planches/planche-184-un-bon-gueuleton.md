@@ -4,8 +4,7 @@ Date: 2017-03-01 16:32:21
 Modified: 2017-03-01 16:32:21
 Summary: 
 Lang: fr
-Series: planches
-series_index: 190
+Category_index: 190
 
 <p style="text-align:justify;">Petite planche horizontale qui présente
 un nœud sombre contre le bord inférieur et une tâche rouge. Le bord

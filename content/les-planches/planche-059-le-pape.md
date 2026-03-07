@@ -4,8 +4,7 @@ Date: 2017-01-30 15:52:15
 Modified: 2017-01-30 15:52:15
 Summary: 
 Lang: fr
-Series: planches
-series_index: 66
+Category_index: 66
 
 <p style="text-align:justify;">Planche verticale, étroite et un peu
 courbe. En haut, dessin d'un homme coiffé d'un chapeau, assis sur une

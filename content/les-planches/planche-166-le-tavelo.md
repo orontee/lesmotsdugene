@@ -4,8 +4,7 @@ Date: 2016-09-28 15:25:40
 Modified: 2016-09-28 15:25:40
 Summary: 
 Lang: fr
-Series: planches
-series_index: 173
+Category_index: 173
 
 <p style="text-align:justify;">Planche découpée en forme de tête de
 vache. Une chaîne permet de la suspendre. Les cornes, les oreilles,

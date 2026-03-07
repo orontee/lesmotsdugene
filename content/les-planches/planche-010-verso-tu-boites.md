@@ -4,8 +4,7 @@ Date: 2017-05-01 10:48:39
 Modified: 2017-05-01 10:48:39
 Summary: 
 Lang: fr
-Series: planches
-series_index: 14
+Category_index: 14
 
 <p style="text-align:justify;">Grande planche rectangulaire
 verticale. Les bords latéraux sont bruts. Les deux faces sont

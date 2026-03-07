@@ -4,8 +4,7 @@ Date: 2015-11-24 18:21:24
 Modified: 2016-01-20 16:08:55
 Summary: étié in histoira a Dormi Debout que Finaï en quoua de Pésson
 Lang: fr
-Series: planches
-series_index: 89
+Category_index: 89
 
 <p style="text-align:justify;">Petite planche verticale en forme de
 poisson. La forme naturelle du bas évoquant la queue a conduit Eugène

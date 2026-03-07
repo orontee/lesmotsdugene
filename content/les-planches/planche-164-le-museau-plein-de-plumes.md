@@ -4,8 +4,7 @@ Date: 2016-05-23 18:22:17
 Modified: 2016-06-12 10:44:26
 Summary: 
 Lang: fr
-Series: planches
-series_index: 171
+Category_index: 171
 
 <p style="text-align:justify;">Planche verticale de grandeur moyenne
 en bois teinté assez sombre. Le bord haut est découpé pour former deux

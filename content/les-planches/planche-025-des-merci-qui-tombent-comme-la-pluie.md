@@ -4,8 +4,7 @@ Date: 2016-09-28 15:24:54
 Modified: 2016-10-26 17:41:14
 Summary: 
 Lang: fr
-Series: planches
-series_index: 31
+Category_index: 31
 
 <p style="text-align:justify;">Planche de taille moyenne rectangulaire
 et verticale. Le haut est découpé de façon sinueuse. Un trait tremblé

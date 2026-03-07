@@ -4,8 +4,7 @@ Date: 2017-05-30 16:28:25
 Modified: 2017-05-30 16:28:25
 Summary: 
 Lang: fr
-Series: planches
-series_index: 84
+Category_index: 84
 
 <p style="text-align:justify;">Planche de bois clair, verticale et
 rectangulaire. En haut, dessin gravé d'un homme debout qui tend les

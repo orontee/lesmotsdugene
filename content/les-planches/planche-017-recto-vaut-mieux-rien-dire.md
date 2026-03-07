@@ -3,8 +3,7 @@ Subtitle: Planche 17 recto
 Date: 2016-09-28 15:50:06
 Modified: 2016-09-28 15:50:06
 Lang: fr
-Series: planches
-series_index: 21
+Category_index: 21
 
 
 <p style="text-align:justify;">Grande planche verticale assez large et

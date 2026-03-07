@@ -4,8 +4,7 @@ Date: 2018-03-12 16:47:39
 Modified: 2018-03-12 16:47:39
 Summary: 
 Lang: fr
-Series: planches
-series_index: 67
+Category_index: 67
 
 <p style="text-align:justify;">Planche de grandeur moyenne, très
 veinée, en forme légèrement évasée vers le haut et gravée des deux

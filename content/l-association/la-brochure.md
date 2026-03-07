@@ -1,5 +1,6 @@
 Title: La brochure
 Date: 2023-04-16 10:59:00
+Category_index: 2
 Summary: Brochure de 74 pages où sont présentées plus d'une
     soixantaine de planches
 

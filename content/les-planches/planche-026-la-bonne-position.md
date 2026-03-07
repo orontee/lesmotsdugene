@@ -4,8 +4,7 @@ Date: 2017-03-01 16:34:41
 Modified: 2017-03-06 16:48:56
 Summary: 
 Lang: fr
-Series: planches
-series_index: 32
+Category_index: 32
 
 
 <p style="text-align:justify;">Planche de grande taille assez

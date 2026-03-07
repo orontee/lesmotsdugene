@@ -4,8 +4,7 @@ Date: 2016-03-16 16:00:07
 Modified: 2016-03-16 16:00:07
 Summary: 
 Lang: fr
-Series: planches
-series_index: 164
+Category_index: 164
 
 <p style="text-align:justify;">Longue planche verticale découpée en
 forme de silhouette. Le haut figure une tête avec deux yeux dessinés
