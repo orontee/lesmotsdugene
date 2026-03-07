@@ -1,4 +1,5 @@
-Title: Plutôt le cheval que moi  (planche 42)
+Title: Plutôt le cheval que moi 
+Subtitle: Planche 42
 Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:40:42
 Summary: 

@@ -1,4 +1,5 @@
-Title: Aider son prochain (planche 163)
+Title: Aider son prochain
+Subtitle: Planche 163
 Date: 2017-05-30 16:35:20
 Modified: 2017-05-30 16:35:20
 Summary: 

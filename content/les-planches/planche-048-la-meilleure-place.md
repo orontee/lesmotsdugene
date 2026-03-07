@@ -1,4 +1,5 @@
-Title: La meilleure place (planche 48)
+Title: La meilleure place
+Subtitle: Planche 48
 Date: 2016-05-23 17:58:50
 Modified: 2016-05-23 17:58:50
 Summary: 

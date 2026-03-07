@@ -1,4 +1,5 @@
-Title: Gène, tu deviens « Kankane » (planche 150 recto et verso)
+Title: Gène, tu deviens « Kankane »
+Subtitle: Planche 150 recto et verso
 Date: 2017-03-29 18:31:11
 Modified: 2017-03-29 18:31:11
 Summary: 

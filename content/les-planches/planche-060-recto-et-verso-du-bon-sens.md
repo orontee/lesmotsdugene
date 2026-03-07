@@ -1,4 +1,5 @@
-Title: Du bon sens (planche 60 recto et verso)
+Title: Du bon sens
+Subtitle: Planche 60 recto et verso
 Date: 2018-03-12 16:47:39
 Modified: 2018-03-12 16:47:39
 Summary: 

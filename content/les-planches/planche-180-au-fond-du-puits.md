@@ -1,4 +1,5 @@
-Title: Au fond du puits (planche 180)
+Title: Au fond du puits
+Subtitle: Planche 180
 Date: 2016-05-23 18:05:09
 Modified: 2016-05-23 18:05:09
 Summary: 

@@ -1,4 +1,5 @@
-Title: Les cupelettes (planche 129)
+Title: Les cupelettes
+Subtitle: Planche 129
 Date: 2016-01-28 15:12:54
 Modified: 2016-01-28 15:12:54
 Summary: 

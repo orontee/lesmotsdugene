@@ -1,4 +1,5 @@
-Title: Bien chaussés… (planche 13)
+Title: Bien chaussés…
+Subtitle: Planche 13
 Date: 2017-05-30 16:39:32
 Modified: 2017-05-30 16:39:32
 Summary: 

@@ -1,4 +1,5 @@
-Title: La grande cuillère (planche 165)
+Title: La grande cuillère
+Subtitle: Planche 165
 Date: 2016-04-22 12:00:00
 Modified: 2016-08-16 16:59:04
 Summary: 

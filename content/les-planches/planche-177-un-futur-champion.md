@@ -1,4 +1,5 @@
-Title: Un futur champion ? (planche 177)
+Title: Un futur champion ?
+Subtitle: Planche 177
 Date: 2017-06-27 18:05:49
 Modified: 2017-06-27 18:05:49
 Summary: 

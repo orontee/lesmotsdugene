@@ -1,4 +1,5 @@
-Title: Le Père Éternel (planche 18 recto)
+Title: Le Père Éternel
+Subtitle: Planche 18 recto
 Date: 2017-12-06 15:53:51
 Modified: 2017-12-06 16:05:17
 Summary: 

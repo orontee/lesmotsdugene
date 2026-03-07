@@ -1,4 +1,5 @@
-Title: Les idées noires d'un cul-terreux (planche 133)
+Title: Les idées noires d'un cul-terreux
+Subtitle: Planche 133
 Date: 2016-10-28 15:22:03
 Modified: 2016-10-28 15:22:03
 Summary: 

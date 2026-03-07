@@ -1,4 +1,5 @@
-Title: 2 petits dictons (planche 73)
+Title: 2 petits dictons
+Subtitle: Planche 73
 Date: 2017-01-30 15:40:32
 Modified: 2017-01-30 15:40:32
 Summary: 

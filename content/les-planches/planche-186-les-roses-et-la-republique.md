@@ -1,4 +1,5 @@
-Title: Les roses et la république (planche 186)
+Title: Les roses et la république
+Subtitle: Planche 186
 Date: 2017-06-27 18:12:15
 Modified: 2017-06-30 18:09:39
 Summary: 

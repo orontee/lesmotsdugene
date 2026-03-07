@@ -1,4 +1,6 @@
-Title: Dur travail ! (planche 152)
+Title: Dur travail !
+Subtitle: Planche 152
+Slug: dur-travail-planche-152
 Date: 2016-12-30 14:41:33
 Modified: 2016-12-30 14:41:33
 Summary: 

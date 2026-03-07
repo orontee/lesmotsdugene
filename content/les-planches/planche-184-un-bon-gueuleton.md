@@ -1,4 +1,5 @@
-Title: Un bon gueuleton (planche 184)
+Title: Un bon gueuleton
+Subtitle: Planche 184
 Date: 2017-03-01 16:32:21
 Modified: 2017-03-01 16:32:21
 Summary: 

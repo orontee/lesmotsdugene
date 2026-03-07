@@ -1,4 +1,5 @@
-Title: Un sabot pour « crey » (planche 6)
+Title: Un sabot pour « crey »
+Subtitle: Planche 6
 Date: 2016-01-28 15:14:58
 Modified: 2016-01-28 15:14:58
 Summary: 

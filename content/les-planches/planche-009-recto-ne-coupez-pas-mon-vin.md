@@ -1,4 +1,5 @@
-Title: Ne coupez pas mon vin (planche 9 recto)
+Title: Ne coupez pas mon vin
+Subtitle: Planche 9 recto
 Date: 2017-01-30 15:51:17
 Modified: 2017-01-30 15:51:17
 Summary: 

@@ -1,4 +1,5 @@
-Title: Chez Joseph (planche 121)
+Title: Chez Joseph
+Subtitle: Planche 121
 Date: 2017-12-06 17:34:57
 Modified: 2017-12-06 17:34:57
 Summary: 

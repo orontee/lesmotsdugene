@@ -1,4 +1,5 @@
-Title: Faut laisser murir (planche 92)
+Title: Faut laisser murir
+Subtitle: Planche 92
 Date: 2016-09-28 15:30:55
 Modified: 2016-09-28 15:30:55
 Summary: 

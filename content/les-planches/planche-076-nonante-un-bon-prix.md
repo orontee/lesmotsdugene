@@ -1,4 +1,5 @@
-Title: Nonante, un bon prix (planche 76)
+Title: Nonante, un bon prix
+Subtitle: Planche 76
 Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:40:58
 Summary: 

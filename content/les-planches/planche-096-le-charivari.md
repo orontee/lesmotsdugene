@@ -1,4 +1,5 @@
-Title:  Le charivari (planche 96)
+Title:  Le charivari
+Subtitle: Planche 96
 Date: 2016-12-30 14:41:42
 Modified: 2016-12-30 14:41:42
 Summary: 

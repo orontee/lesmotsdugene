@@ -1,4 +1,5 @@
-Title: Brrr (planche 144)
+Title: Brrr
+Subtitle: Planche 144
 Date: 2016-10-28 15:20:39
 Modified: 2016-10-28 15:20:39
 Summary: 

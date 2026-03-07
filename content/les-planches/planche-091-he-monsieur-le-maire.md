@@ -1,4 +1,5 @@
-Title: Hé ! Monsieur le maire ! (planche 91)
+Title: Hé ! Monsieur le maire !
+Subtitle: Planche 91
 Date: 2017-06-27 18:36:24
 Modified: 2017-06-27 18:36:24
 Summary: 

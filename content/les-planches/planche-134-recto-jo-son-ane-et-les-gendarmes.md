@@ -1,4 +1,5 @@
-Title: Jo, son âne et les gendarmes (planche 134 recto)
+Title: Jo, son âne et les gendarmes
+Subtitle: Planche 134 recto
 Date: 2017-01-30 15:45:57
 Modified: 2017-01-30 15:45:57
 Summary: 

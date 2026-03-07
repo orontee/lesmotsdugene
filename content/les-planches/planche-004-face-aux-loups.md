@@ -1,4 +1,5 @@
-Title: Face aux loups (planche 4)
+Title: Face aux loups
+Subtitle: Planche 4
 Date: 2016-10-28 15:27:46
 Modified: 2016-10-28 15:27:46
 Summary: 

@@ -1,4 +1,5 @@
-Title: Le soleil brille pour tous (planche 86)
+Title: Le soleil brille pour tous
+Subtitle: Planche 86
 Date: 2017-12-06 17:02:13
 Modified: 2017-12-06 17:02:13
 Summary: 

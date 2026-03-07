@@ -1,4 +1,5 @@
-Title: Le roi de la basse-cour (planche 46)
+Title: Le roi de la basse-cour
+Subtitle: Planche 46
 Date: 2017-12-06 16:37:03
 Modified: 2017-12-06 16:40:51
 Summary: 

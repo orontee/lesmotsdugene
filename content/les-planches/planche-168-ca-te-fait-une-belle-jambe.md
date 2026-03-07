@@ -1,4 +1,5 @@
-Title: Ça te fait une belle jambe ! (planche 168)
+Title: Ça te fait une belle jambe !
+Subtitle: Planche 168
 Date: 2017-06-27 18:08:50
 Modified: 2017-06-27 18:08:50
 Summary: 

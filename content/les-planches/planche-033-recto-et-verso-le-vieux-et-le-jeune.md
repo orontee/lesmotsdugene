@@ -1,4 +1,5 @@
-Title: Le vieux et le jeune (planche 33 recto et verso)
+Title: Le vieux et le jeune
+Subtitle: Planche 33 recto et verso
 Date: 2018-02-09 16:32:29
 Modified: 2018-02-09 16:32:29
 Summary: 

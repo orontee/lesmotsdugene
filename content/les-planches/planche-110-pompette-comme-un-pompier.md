@@ -1,4 +1,5 @@
-Title: Pompette comme un pompier (planche 110)
+Title: Pompette comme un pompier
+Subtitle: Planche 110
 Date: 2016-07-04 16:57:14
 Modified: 2016-07-04 16:57:14
 Summary: 

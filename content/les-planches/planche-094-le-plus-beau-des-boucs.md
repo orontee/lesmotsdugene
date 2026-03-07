@@ -1,4 +1,5 @@
-Title: Le plus beau des boucs (planche 94) 
+Title: Le plus beau des boucs
+Subtitle: Planche 94
 Date: 2018-03-12 16:57:22
 Modified: 2018-03-12 16:57:22
 Summary: 

@@ -1,4 +1,5 @@
-Title: Deux sages résolutions  (planche 79)
+Title: Deux sages résolutions 
+Subtitle: Planche 79
 Date: 2017-05-30 16:40:41
 Modified: 2017-05-30 16:40:41
 Summary: 

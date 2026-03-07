@@ -1,4 +1,5 @@
-Title: Passe donc me voir ! (planche 28)
+Title: Passe donc me voir !
+Subtitle: Planche 28
 Date: 2018-02-09 16:58:25
 Modified: 2018-02-09 16:58:25
 Summary: 

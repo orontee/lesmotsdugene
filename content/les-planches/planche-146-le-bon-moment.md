@@ -1,4 +1,5 @@
-Title: Le bon moment (planche 146)
+Title: Le bon moment
+Subtitle: Planche 146
 Date: 2017-03-29 18:31:59
 Modified: 2017-03-29 18:31:59
 Summary: 

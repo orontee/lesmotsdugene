@@ -1,4 +1,5 @@
-Title: Se sauver ou s'abriter (planche 16 recto)
+Title: Se sauver ou s'abriter
+Subtitle: Planche 16 recto
 Date: 2016-07-04 16:51:10
 Modified: 2016-07-04 16:51:10
 Summary: 

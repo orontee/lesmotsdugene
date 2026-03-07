@@ -1,4 +1,5 @@
-Title: Du vert pour mes vaches (planche 183)
+Title: Du vert pour mes vaches
+Subtitle: Planche 183
 Date: 2017-03-01 16:31:54
 Modified: 2017-03-01 16:31:54
 Summary: 

@@ -1,4 +1,5 @@
-Title: Rayonne comme le soleil ! (planche 68)
+Title: Rayonne comme le soleil !
+Subtitle: Planche 68
 Date: 2017-03-29 18:32:56
 Modified: 2017-03-29 18:32:56
 Summary: 

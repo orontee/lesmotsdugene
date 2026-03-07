@@ -1,4 +1,5 @@
-Title: Ceux qui n'ont plus de tête (planche 90)
+Title: Ceux qui n'ont plus de tête
+Subtitle: Planche 90
 Date: 2017-03-29 18:27:49
 Modified: 2017-03-29 18:27:49
 Summary: 

@@ -1,4 +1,5 @@
-Title: La mondée (planche 50)
+Title: La mondée
+Subtitle: Planche 50
 Date: 2016-12-30 14:53:18
 Modified: 2016-12-30 14:53:18
 Summary: 

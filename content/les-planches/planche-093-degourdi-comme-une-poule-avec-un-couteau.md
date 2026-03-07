@@ -1,4 +1,5 @@
-Title: Dégourdi comme une poule avec un couteau (planche 93)
+Title: Dégourdi comme une poule avec un couteau
+Subtitle: Planche 93
 Date: 2018-03-12 16:43:55
 Modified: 2018-03-12 16:43:55
 Summary: 

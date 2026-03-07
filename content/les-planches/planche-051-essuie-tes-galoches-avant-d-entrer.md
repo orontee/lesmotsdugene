@@ -1,4 +1,5 @@
-Title: Essuie tes galoches avant d'entrer (planche 51)
+Title: Essuie tes galoches avant d'entrer
+Subtitle: Planche 51
 Date: 2018-02-09 17:31:23
 Modified: 2018-02-09 17:31:23
 Summary: 

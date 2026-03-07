@@ -1,4 +1,5 @@
-Title: La chasse aux subventions (planche 65 verso)
+Title: La chasse aux subventions
+Subtitle: Planche 65 verso
 Date: 2016-10-28 15:23:36
 Modified: 2016-10-28 15:23:36
 Summary: 

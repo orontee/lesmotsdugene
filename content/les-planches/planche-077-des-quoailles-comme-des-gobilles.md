@@ -1,4 +1,5 @@
-Title: Des quoailles comme des gobilles (planche 77)
+Title: Des quoailles comme des gobilles
+Subtitle: Planche 77
 Date: 2016-04-22 10:31:04
 Modified: 2016-04-22 10:31:04
 Summary: 

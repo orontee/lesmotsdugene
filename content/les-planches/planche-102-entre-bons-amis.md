@@ -1,4 +1,5 @@
-Title: Entre bons amis (planche 102)
+Title: Entre bons amis
+Subtitle: Planche 102
 Date: 2016-11-28 10:21:27
 Modified: 2016-11-28 10:21:27
 Summary: 

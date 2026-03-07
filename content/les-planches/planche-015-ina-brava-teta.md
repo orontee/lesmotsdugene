@@ -1,4 +1,5 @@
-Title: Ina brava têta (planche 15)
+Title: Ina brava têta
+Subtitle: Planche 15
 Date: 2016-01-28 15:16:07
 Modified: 2016-01-28 15:16:07
 Summary: 

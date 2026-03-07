@@ -1,4 +1,5 @@
-Title: J'ai déchiré mon pantalon (planche 111)
+Title: J'ai déchiré mon pantalon
+Subtitle: Planche 111
 Date: 2018-03-12 16:44:31
 Modified: 2018-03-12 16:44:31
 Summary: 

@@ -1,4 +1,5 @@
-Title: La cuisse de Jupiter (planche 16 verso)
+Title: La cuisse de Jupiter
+Subtitle: Planche 16 verso
 Date: 2016-07-04 16:44:04
 Modified: 2016-07-04 16:44:04
 Summary: 

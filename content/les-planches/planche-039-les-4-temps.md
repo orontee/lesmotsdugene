@@ -1,4 +1,5 @@
-Title: Les 4 temps (planche 39)
+Title: Les 4 temps
+Subtitle: Planche 39
 Date: 2017-05-01 10:32:55
 Modified: 2017-05-01 10:32:55
 Summary: 

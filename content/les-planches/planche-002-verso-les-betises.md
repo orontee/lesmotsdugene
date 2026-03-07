@@ -1,4 +1,5 @@
-Title: Les bêtises (planche 2 verso)
+Title: Les bêtises
+Subtitle: Planche 2 verso
 Date: 2016-05-23 18:22:54
 Modified: 2019-07-25 14:04:26
 Summary: 

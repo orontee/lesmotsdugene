@@ -1,4 +1,5 @@
-Title: Un peu de respect pour le nouvel élu (planche 9 verso)
+Title: Un peu de respect pour le nouvel élu
+Subtitle: Planche 9 verso
 Date: 2016-07-04 16:35:31
 Modified: 2016-07-04 16:35:31
 Summary: 

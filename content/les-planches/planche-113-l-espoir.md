@@ -1,4 +1,5 @@
-Title: L'espoir (planche 113)
+Title: L'espoir
+Subtitle: Planche 113
 Date: 2016-01-28 15:14:08
 Modified: 2016-01-28 15:14:08
 Summary: 

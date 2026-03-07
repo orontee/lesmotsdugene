@@ -1,4 +1,5 @@
-Title: Les beaux jours (planche 141)
+Title: Les beaux jours
+Subtitle: Planche 141
 Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:41:51
 Summary: 

@@ -1,4 +1,5 @@
-Title: Le Karnio (planche 74)
+Title: Le Karnio
+Subtitle: Planche 74
 Date: 2015-11-18 18:19:40
 Modified: 2016-01-20 16:07:00
 Summary: Comment ce fait-il que tu ne t'es jamais marié ?

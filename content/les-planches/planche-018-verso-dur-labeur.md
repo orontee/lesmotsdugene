@@ -1,4 +1,5 @@
-Title: Dur labeur (planche 18 verso)
+Title: Dur labeur
+Subtitle: Planche 18 verso
 Date: 2017-05-30 16:31:37
 Modified: 2017-05-30 16:31:37
 Summary: 

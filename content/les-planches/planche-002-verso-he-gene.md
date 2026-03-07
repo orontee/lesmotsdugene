@@ -1,4 +1,5 @@
-Title: Hé ! Gène (planche 2 verso)
+Title: Hé ! Gène
+Subtitle: Planche 2 verso
 Date: 2016-11-28 10:13:52
 Modified: 2019-07-25 19:41:26
 Summary: 

@@ -1,4 +1,5 @@
-Title: Une vie cabossée (planche 126)
+Title: Une vie cabossée
+Subtitle: Planche 126
 Date: 2016-01-28 15:13:16
 Modified: 2016-01-28 15:13:16
 Summary: 

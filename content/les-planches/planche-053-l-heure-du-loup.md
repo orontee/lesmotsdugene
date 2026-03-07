@@ -1,4 +1,5 @@
-Title: L'heure du loup (planche 53)
+Title: L'heure du loup
+Subtitle: Planche 53
 Date: 2018-02-09 16:01:49
 Modified: 2018-02-09 16:03:42
 Summary: 

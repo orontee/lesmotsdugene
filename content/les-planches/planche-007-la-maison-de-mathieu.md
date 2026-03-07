@@ -1,4 +1,5 @@
-Title: La maison de Mathieu (planche 7)
+Title: La maison de Mathieu
+Subtitle: Planche 7
 Date: 2017-03-29 18:35:56
 Modified: 2017-03-29 18:35:56
 Summary: 

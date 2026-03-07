@@ -1,4 +1,5 @@
-Title: Le hérisson du règiment (planche 130)
+Title: Le hérisson du règiment
+Subtitle: Planche 130
 Date: 2016-01-28 15:13:41
 Modified: 2016-01-28 15:13:41
 Summary: 

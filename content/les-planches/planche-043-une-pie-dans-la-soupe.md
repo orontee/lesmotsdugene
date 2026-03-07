@@ -1,4 +1,5 @@
-Title: Une pie dans la soupe (planche 43)
+Title: Une pie dans la soupe
+Subtitle: Planche 43
 Date: 2017-05-30 16:22:28
 Modified: 2017-05-30 16:22:28
 Summary: 

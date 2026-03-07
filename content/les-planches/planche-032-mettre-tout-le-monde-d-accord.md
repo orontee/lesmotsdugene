@@ -1,4 +1,5 @@
-Title: Mettre tout le monde d'accord (planche 32)
+Title: Mettre tout le monde d'accord
+Subtitle: Planche 32
 Date: 2016-09-28 15:23:15
 Modified: 2016-09-28 15:23:15
 Summary: 

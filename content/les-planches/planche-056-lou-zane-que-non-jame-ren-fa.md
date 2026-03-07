@@ -1,4 +1,5 @@
-Title: Lou z’âne que n’on jamè ren Fâ  (planche 56)
+Title: Lou z’âne que n’on jamè ren Fâ 
+Subtitle: Planche 56
 Date: 2016-12-30 14:54:39
 Modified: 2016-12-30 14:54:39
 Summary: 

@@ -1,4 +1,5 @@
-Title: Autour de ton nombril (planche 156)
+Title: Autour de ton nombril
+Subtitle: Planche 156
 Date: 2016-03-16 16:00:07
 Modified: 2016-03-16 16:00:07
 Summary: 

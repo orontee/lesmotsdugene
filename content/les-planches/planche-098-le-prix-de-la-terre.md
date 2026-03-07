@@ -1,4 +1,6 @@
-Title: Le prix de la terre (planche 98)
+Title: Le prix de la terre
+Subtitle: Planche 98
+Slug: le-prix-de-la-terre-planche-98
 Date: 2016-07-04 16:18:48
 Modified: 2016-07-04 16:18:48
 Summary: 

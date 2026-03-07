@@ -1,4 +1,5 @@
-Title: Mais cesse de rouspéter ! (planche 23)
+Title: Mais cesse de rouspéter !
+Subtitle: Planche 23
 Date: 2017-05-01 10:51:24
 Modified: 2017-05-01 10:51:24
 Summary: 

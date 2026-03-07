@@ -1,4 +1,5 @@
-Title: Loup y est-tu? (planche 104)
+Title: Loup y est-tu?
+Subtitle: Planche 104
 Date: 2018-03-12 16:55:40
 Modified: 2018-03-12 16:55:40
 Summary: 

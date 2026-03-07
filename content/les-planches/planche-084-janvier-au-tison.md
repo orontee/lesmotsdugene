@@ -1,4 +1,5 @@
-Title: Janvier au tison… (planche 84)
+Title: Janvier au tison…
+Subtitle: Planche 84
 Date: 2017-01-30 15:44:33
 Modified: 2017-01-30 15:44:33
 Summary: 

@@ -1,4 +1,5 @@
-Title: L'accident de vélo (planche 52)
+Title: L'accident de vélo
+Subtitle: Planche 52
 Date: 2016-01-28 15:15:24
 Modified: 2016-01-28 15:15:24
 Summary: 

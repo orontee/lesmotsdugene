@@ -1,4 +1,5 @@
-Title: Il y a toujours quelque chose à prendre dans les coteaux (planche 108)
+Title: Il y a toujours quelque chose à prendre dans les coteaux
+Subtitle: Planche 108
 Date: 2015-07-16 01:01:47
 Modified: 2018-01-25 17:36:03
 Summary: À la montée,  je ne peux rien apporter…

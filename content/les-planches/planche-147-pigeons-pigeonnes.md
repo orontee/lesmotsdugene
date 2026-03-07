@@ -1,4 +1,5 @@
-Title: Pigeons, pigeonnes (planche 147)
+Title: Pigeons, pigeonnes
+Subtitle: Planche 147
 Date: 2017-03-01 16:37:35
 Modified: 2017-03-01 16:37:35
 Summary: 

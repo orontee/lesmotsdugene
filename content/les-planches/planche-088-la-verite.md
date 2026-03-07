@@ -1,4 +1,5 @@
-Title: La vérité (planche 88)
+Title: La vérité
+Subtitle: Planche 88
 Date: 2018-02-09 16:16:27
 Modified: 2018-02-09 16:16:27
 Summary: 

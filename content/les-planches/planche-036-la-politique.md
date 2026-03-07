@@ -1,4 +1,5 @@
-Title: La politique (planche 36)
+Title: La politique
+Subtitle: Planche 36
 Date: 2016-11-28 10:39:59
 Modified: 2016-11-28 10:39:59
 Summary: 

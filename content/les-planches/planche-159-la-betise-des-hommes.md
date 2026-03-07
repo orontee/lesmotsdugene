@@ -1,4 +1,5 @@
-Title: La bêtise des hommes (planche 159)
+Title: La bêtise des hommes
+Subtitle: Planche 159
 Date: 2016-03-16 16:00:34
 Modified: 2016-03-16 16:00:34
 Summary: 

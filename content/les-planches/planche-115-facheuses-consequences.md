@@ -1,4 +1,5 @@
-Title: Facheuses conséquences ? (planche 115)
+Title: Facheuses conséquences ?
+Subtitle: Planche 115
 Date: 2016-11-28 10:19:35
 Modified: 2016-11-28 10:19:35
 Summary: 

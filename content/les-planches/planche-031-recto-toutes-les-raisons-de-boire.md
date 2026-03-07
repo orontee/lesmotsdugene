@@ -1,4 +1,5 @@
-Title: Toutes les raisons de boire (planche 31 recto)
+Title: Toutes les raisons de boire
+Subtitle: Planche 31 recto
 Date: 2017-12-06 16:19:57
 Modified: 2017-12-06 16:19:57
 Summary: 

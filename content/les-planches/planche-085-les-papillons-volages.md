@@ -1,4 +1,5 @@
-Title: Les papillons volages (planche 85)
+Title: Les papillons volages
+Subtitle: Planche 85
 Date: 2018-03-12 17:00:13
 Modified: 2018-03-12 17:00:13
 Summary: 

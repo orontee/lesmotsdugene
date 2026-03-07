@@ -1,4 +1,5 @@
-Title: Petit poisson (planche 62)
+Title: Petit poisson
+Subtitle: Planche 62
 Date: 2016-07-04 16:24:54
 Modified: 2016-07-04 16:24:54
 Summary: 

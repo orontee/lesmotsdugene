@@ -1,4 +1,5 @@
-Title: Le karnio des Chambarans (planche 89)
+Title: Le karnio des Chambarans
+Subtitle: Planche 89
 Date: 2016-11-28 10:34:52
 Modified: 2016-11-28 10:34:52
 Summary: 

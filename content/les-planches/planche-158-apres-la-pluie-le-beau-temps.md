@@ -1,4 +1,5 @@
-Title: Après la pluie, le beau temps (planche 158)
+Title: Après la pluie, le beau temps
+Subtitle: Planche 158
 Date: 2018-03-12 16:58:42
 Modified: 2018-03-12 16:58:42
 Summary: 

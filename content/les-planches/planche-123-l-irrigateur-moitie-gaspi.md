@@ -1,4 +1,5 @@
-Title: L'irrigateur moitié-gaspi (planche 123)
+Title: L'irrigateur moitié-gaspi
+Subtitle: Planche 123
 Date: 2016-12-30 14:42:27
 Modified: 2016-12-30 14:42:27
 Summary: 

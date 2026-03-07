@@ -1,4 +1,5 @@
-Title: Vaut mieux rien dire (planche 17 recto)
+Title: Vaut mieux rien dire
+Subtitle: Planche 17 recto
 Date: 2016-09-28 15:50:06
 Modified: 2016-09-28 15:50:06
 Lang: fr

@@ -1,4 +1,5 @@
-Title: Chasse de nuit (planche 64 verso)
+Title: Chasse de nuit
+Subtitle: Planche 64 verso
 Date: 2018-02-09 16:51:31
 Modified: 2018-02-09 16:51:31
 Summary: 

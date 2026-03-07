@@ -1,4 +1,5 @@
-Title: Trop « plein » (planche 142)
+Title: Trop « plein »
+Subtitle: Planche 142
 Date: 2016-03-16 15:59:24
 Modified: 2016-03-16 15:59:24
 Summary: 

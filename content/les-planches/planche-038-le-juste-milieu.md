@@ -1,4 +1,5 @@
-Title: Le juste milieu (planche 38)
+Title: Le juste milieu
+Subtitle: Planche 38
 Date: 2016-10-28 15:24:23
 Modified: 2016-10-28 15:24:23
 Summary: 

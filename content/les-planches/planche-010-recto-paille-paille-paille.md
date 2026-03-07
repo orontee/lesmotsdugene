@@ -1,4 +1,5 @@
-Title: Paille, paille, paille (planche 10 recto)
+Title: Paille, paille, paille
+Subtitle: Planche 10 recto
 Date: 2017-03-29 18:35:23
 Modified: 2017-03-29 18:35:23
 Summary: 

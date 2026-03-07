@@ -1,4 +1,5 @@
-Title: La chasse (planche 44)
+Title: La chasse
+Subtitle: Planche 44
 Date: 2018-03-12 16:56:44
 Modified: 2018-03-12 16:56:44
 Summary: 

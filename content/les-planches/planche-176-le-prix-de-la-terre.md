@@ -1,4 +1,6 @@
-Title: Le prix de la terre (planche 176)
+Title: Le prix de la terre
+Subtitle: Planche 176
+Slug: le-prix-de-la-terre-planche-176
 Date: 2017-05-01 10:45:48
 Modified: 2017-05-01 10:45:48
 Summary: 

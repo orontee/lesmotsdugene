@@ -1,4 +1,5 @@
-Title: La visite de l'évêque (planche 22)
+Title: La visite de l'évêque
+Subtitle: Planche 22
 Date: 2016-01-28 15:14:29
 Modified: 2016-01-28 15:14:29
 Summary: 

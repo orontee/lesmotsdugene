@@ -1,4 +1,5 @@
-Title: Le travail c'est la santé (planche 57)
+Title: Le travail c'est la santé
+Subtitle: Planche 57
 Date: 2018-03-12 16:53:02
 Modified: 2018-03-12 16:53:02
 Summary: 

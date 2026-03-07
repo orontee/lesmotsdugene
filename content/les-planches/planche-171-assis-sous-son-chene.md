@@ -1,4 +1,5 @@
-Title: Assis sous son chêne (planche 171)
+Title: Assis sous son chêne
+Subtitle: Planche 171
 Date: 2017-05-01 10:41:36
 Modified: 2017-05-01 10:47:24
 Summary: 

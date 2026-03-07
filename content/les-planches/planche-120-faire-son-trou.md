@@ -1,4 +1,5 @@
-Title: Faire son trou (planche 120)
+Title: Faire son trou
+Subtitle: Planche 120
 Date: 2015-11-24 18:00:35
 Modified: 2016-01-20 16:07:54
 Summary: C'est en laissant faire les jeunes…

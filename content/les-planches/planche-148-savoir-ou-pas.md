@@ -1,4 +1,5 @@
-Title: Savoir ou pas (planche 148)
+Title: Savoir ou pas
+Subtitle: Planche 148
 Date: 2018-02-09 16:41:19
 Modified: 2018-02-09 16:41:19
 Summary: 

@@ -1,4 +1,5 @@
-Title: Un bon maçon (planche 143)
+Title: Un bon maçon
+Subtitle: Planche 143
 Date: 2017-06-27 18:05:06
 Modified: 2017-06-27 18:05:06
 Summary: 

@@ -1,4 +1,5 @@
-Title: Une retraite à faire pleurer (planche 134 verso)
+Title: Une retraite à faire pleurer
+Subtitle: Planche 134 verso
 Date: 2016-11-28 18:16:00
 Modified: 2016-12-12 18:17:56
 Summary: 

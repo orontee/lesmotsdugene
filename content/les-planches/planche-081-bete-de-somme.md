@@ -1,4 +1,5 @@
-Title: Bête de somme (planche 81)
+Title: Bête de somme
+Subtitle: Planche 81
 Date: 2018-02-09 17:08:16
 Modified: 2018-02-09 17:19:55
 Summary: 

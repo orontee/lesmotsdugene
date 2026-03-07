@@ -1,4 +1,5 @@
-Title: Ni queue, ni tête (planche 80)
+Title: Ni queue, ni tête
+Subtitle: Planche 80
 Date: 2015-11-24 18:21:24
 Modified: 2016-01-20 16:08:55
 Summary: étié in histoira a Dormi Debout que Finaï en quoua de Pésson

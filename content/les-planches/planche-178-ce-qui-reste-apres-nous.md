@@ -1,4 +1,5 @@
-Title: Ce qui reste après nous (planche 178)
+Title: Ce qui reste après nous
+Subtitle: Planche 178
 Date: 2016-09-28 15:21:56
 Modified: 2016-09-28 15:23:48
 Summary: 

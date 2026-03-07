@@ -1,4 +1,5 @@
-Title: Petites maximes des Chambarans (planche 30)
+Title: Petites maximes des Chambarans
+Subtitle: Planche 30
 Date: 2016-11-28 10:23:35
 Modified: 2016-11-28 10:23:35
 Summary: 

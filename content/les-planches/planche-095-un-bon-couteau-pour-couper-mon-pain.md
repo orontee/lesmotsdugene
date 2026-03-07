@@ -1,4 +1,5 @@
-Title: Un bon couteau pour couper mon pain (planche 95)
+Title: Un bon couteau pour couper mon pain
+Subtitle: Planche 95
 Date: 2018-03-12 16:50:52
 Modified: 2018-03-12 16:50:52
 Summary: 

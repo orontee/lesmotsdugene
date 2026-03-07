@@ -1,4 +1,5 @@
-Title: Allez ! Courage ! (planche 112)
+Title: Allez ! Courage !
+Subtitle: Planche 112
 Date: 2017-06-27 18:06:48
 Modified: 2017-06-27 18:06:48
 Summary: 

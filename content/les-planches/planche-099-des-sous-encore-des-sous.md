@@ -1,4 +1,5 @@
-Title: Des sous, encore, des sous ! (planche 99)
+Title: Des sous, encore, des sous !
+Subtitle: Planche 99
 Date: 2016-09-28 15:59:26
 Modified: 2016-09-28 15:59:26
 Summary: 

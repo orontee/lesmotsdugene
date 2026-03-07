@@ -1,4 +1,5 @@
-Title: Grosses comme des courges (planche 41)
+Title: Grosses comme des courges
+Subtitle: Planche 41
 Date: 2016-12-30 14:50:41
 Modified: 2016-12-30 14:50:41
 Summary: 

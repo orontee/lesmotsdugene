@@ -1,4 +1,5 @@
-Title: Profites-en bien (planche 140)
+Title: Profites-en bien
+Subtitle: Planche 140
 Date: 2016-09-28 15:53:30
 Modified: 2016-09-28 15:53:30
 Summary: 

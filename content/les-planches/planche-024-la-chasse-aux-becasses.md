@@ -1,4 +1,5 @@
-Title: La chasse aux bécasses (planche 24)
+Title: La chasse aux bécasses
+Subtitle: Planche 24
 Date: 2016-10-28 15:28:54
 Modified: 2016-10-28 15:28:54
 Summary: 

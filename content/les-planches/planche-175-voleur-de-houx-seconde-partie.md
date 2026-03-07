@@ -1,4 +1,5 @@
-Title: Voleur de houx, seconde partie (planche 175)
+Title: Voleur de houx, seconde partie
+Subtitle: Planche 175
 Date: 2016-10-27 20:00:00
 Modified: 2016-10-28 15:19:25
 Summary: 

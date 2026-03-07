@@ -1,4 +1,5 @@
-Title: Mmmm! Les bonnes tommes (planche 127)
+Title: Mmmm! Les bonnes tommes
+Subtitle: Planche 127
 Date: 2017-05-01 11:00:41
 Modified: 2017-05-01 11:00:41
 Summary: 

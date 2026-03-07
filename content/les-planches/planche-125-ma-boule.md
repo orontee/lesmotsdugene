@@ -1,4 +1,5 @@
-Title: Ma-boule ? (planche 125)
+Title: Ma-boule ?
+Subtitle: Planche 125
 Date: 2016-03-16 16:01:03
 Modified: 2016-03-16 16:01:03
 Summary: 

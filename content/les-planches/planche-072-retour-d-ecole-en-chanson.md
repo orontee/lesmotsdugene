@@ -1,4 +1,5 @@
-Title: Retour d'école en chanson (planche 72)
+Title: Retour d'école en chanson
+Subtitle: Planche 72
 Date: 2016-03-16 16:00:53
 Modified: 2016-03-16 16:00:53
 Summary: 

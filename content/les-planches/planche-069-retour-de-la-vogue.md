@@ -1,4 +1,5 @@
-Title: Retour de la vogue (planche 69)
+Title: Retour de la vogue
+Subtitle: Planche 69
 Date: 2016-07-04 16:22:58
 Modified: 2016-07-04 16:22:58
 Summary: 

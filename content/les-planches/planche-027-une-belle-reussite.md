@@ -1,4 +1,5 @@
-Title: Une belle réussite (planche 27)
+Title: Une belle réussite
+Subtitle: Planche 27
 Date: 2017-01-30 15:49:00
 Modified: 2017-01-30 15:49:00
 Summary: 

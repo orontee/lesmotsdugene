@@ -1,4 +1,5 @@
-Title: Joseph bat la breloque (planche 114)
+Title: Joseph bat la breloque
+Subtitle: Planche 114
 Date: 2016-12-30 14:47:25
 Modified: 2016-12-30 14:47:25
 Summary: 

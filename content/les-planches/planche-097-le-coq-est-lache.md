@@ -1,4 +1,5 @@
-Title: Le coq est laché ! (planche 97)
+Title: Le coq est laché !
+Subtitle: Planche 97
 Date: 2017-03-01 16:35:25
 Modified: 2017-03-01 16:35:25
 Summary: 

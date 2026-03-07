@@ -1,4 +1,5 @@
-Title:  La bardelle et les amoureux (planche 31 verso)
+Title:  La bardelle et les amoureux
+Subtitle: Planche 31 verso
 Date: 2017-05-30 16:25:21
 Modified: 2017-05-30 16:25:21
 Summary: 

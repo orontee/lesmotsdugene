@@ -1,4 +1,5 @@
-Title: Bon pour tous (planche 128)
+Title: Bon pour tous
+Subtitle: Planche 128
 Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:42:32
 Summary: 

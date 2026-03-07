@@ -1,4 +1,5 @@
-Title: Quand les temps sont difficiles (planche 66)
+Title: Quand les temps sont difficiles
+Subtitle: Planche 66
 Date: 2015-07-16 01:50:13
 Modified: 2016-01-20 17:15:50
 Summary: Quand les temps sont durs, les pauvres bêtes…

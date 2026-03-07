@@ -1,4 +1,5 @@
-Title: Au pied de mon arbre (planche 17 verso)
+Title: Au pied de mon arbre
+Subtitle: Planche 17 verso
 Date: 2016-07-04 16:16:08
 Modified: 2016-07-09 22:13:25
 Summary: 

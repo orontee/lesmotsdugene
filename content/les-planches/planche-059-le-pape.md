@@ -1,4 +1,5 @@
-Title: Le papé (planche 59)
+Title: Le papé
+Subtitle: Planche 59
 Date: 2017-01-30 15:52:15
 Modified: 2017-01-30 15:52:15
 Summary: 

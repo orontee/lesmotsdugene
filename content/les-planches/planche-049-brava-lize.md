@@ -1,4 +1,5 @@
-Title: Brâva Lize (planche 49)
+Title: Brâva Lize
+Subtitle: Planche 49
 Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:39:25
 Summary: 

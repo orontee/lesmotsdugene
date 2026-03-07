@@ -1,4 +1,5 @@
-Title: Trans-Géne-Hic (planche 55)
+Title: Trans-Géne-Hic
+Subtitle: Planche 55
 Date: 2016-05-23 17:48:18
 Modified: 2016-05-23 17:48:18
 Summary: 

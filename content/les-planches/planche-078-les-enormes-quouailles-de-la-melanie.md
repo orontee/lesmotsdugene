@@ -1,4 +1,5 @@
-Title: Les énormes « quouailles » de la Mélanie (planche 78)
+Title: Les énormes « quouailles » de la Mélanie
+Subtitle: Planche 78
 Date: 2017-03-01 16:29:20
 Modified: 2017-03-01 16:29:20
 Summary: 

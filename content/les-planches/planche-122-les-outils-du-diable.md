@@ -1,4 +1,5 @@
-Title: Les outils du diable (planche 122)
+Title: Les outils du diable
+Subtitle: Planche 122
 Date: 2017-01-30 15:47:01
 Modified: 2017-01-30 15:47:01
 Summary: 

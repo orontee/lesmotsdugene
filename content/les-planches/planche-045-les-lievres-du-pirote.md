@@ -1,4 +1,5 @@
-Title: Les lièvres du « Pirôte » (planche 45)
+Title: Les lièvres du « Pirôte »
+Subtitle: Planche 45
 Date: 2017-06-27 18:35:14
 Modified: 2017-06-27 18:35:14
 Summary: 

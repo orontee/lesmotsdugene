@@ -1,4 +1,5 @@
-Title: De fenéraille à semaille… (planche 173)
+Title: De fenéraille à semaille…
+Subtitle: Planche 173
 Date: 2016-10-28 15:30:36
 Modified: 2016-10-28 15:31:49
 Summary: 

@@ -24,6 +24,9 @@
       <h1 class="entry-title" data-pagefind-meta="title">
         <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
            title="Lien vers {{ article.title|striptags }}">{{ article.title }}</a></h1>
+      {% if article.subtitle %}
+      <h2>{{ article.subtitle }}</h2>
+      {% endif %}
       {% include 'twitter.html' %}
     </header>
 

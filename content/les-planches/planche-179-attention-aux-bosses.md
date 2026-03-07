@@ -1,4 +1,5 @@
-Title: Attention aux bosses ! (planche 179)
+Title: Attention aux bosses !
+Subtitle: Planche 179
 Date: 2016-09-28 15:21:48
 Modified: 2016-09-28 15:21:48
 Summary: 

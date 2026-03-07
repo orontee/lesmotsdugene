@@ -1,4 +1,5 @@
-Title: Quel bazar ici ! (planche 67)
+Title: Quel bazar ici !
+Subtitle: Planche 67
 Date: 2017-05-30 16:16:33
 Modified: 2017-05-30 16:16:33
 Summary: 

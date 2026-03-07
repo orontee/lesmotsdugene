@@ -1,4 +1,5 @@
-Title: Un cœur d'artichaut (planche 101)
+Title: Un cœur d'artichaut
+Subtitle: Planche 101
 Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:41:15
 Summary: 
