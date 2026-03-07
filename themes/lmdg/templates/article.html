@@ -18,7 +18,7 @@
 {% endblock %}
 
 {% block content %}
-<section id="content" class="body">
+<section id="content" class="body" {% if article.series %}data-pagefind-body{% endif %}>
   <article>
     <header>
       <h1 class="entry-title" data-pagefind-meta="title">
