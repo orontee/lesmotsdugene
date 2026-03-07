@@ -18,8 +18,6 @@ async function searchAsync() {
         const first_found = search.results.slice(0, MAX_RESULTS);
         const first_results_promises = first_found.map(item => item.data());
         const first_results = await Promise.all(first_results_promises);
-        console.log(first_results);
-
         displayResults(first_results);
     }
 }
