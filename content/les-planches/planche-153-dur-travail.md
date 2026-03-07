@@ -12,6 +12,10 @@ series_index: 161
 épais et très sombre qui comporte sept textes alignés les uns à côté
 des autres et séparés par un trait.</p>
 
+<p style="text-align:justify;">C'est une planche très proche de <a href="/dur-travail-planche-152.html">la
+précédente</a>, autant pour sa forme que pour la mise en forme du
+texte.</p>
+
 <figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="Planche 153" src="{static}/images/planche_153.png">
   <figcaption style="max-width: 1068px"></figcaption>
