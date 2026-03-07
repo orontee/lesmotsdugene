@@ -33,10 +33,14 @@
     {% if article.series %}
     {% if article.series.previous %}
     <a href="{{ article.series.previous.url }}" data-pagefind-ignore>Précédent</a>
+    {% else %}
+    <span class="disable-link" aria-disabled="true" data-pagefind-ignore>Précédent</span>
     {% endif %}
 
     {% if article.series.next %}
     <a href="{{ article.series.next.url }}" data-pagefind-ignore>Suivant</a>
+    {% else %}
+    <span class="disable-link" aria-disabled="true" data-pagefind-ignore>Suivant</span>
     {% endif %}
 
     <a href="#" onclick="window.location.href = getRandomPage(); return false;" data-pagefind-ignore>Au hasard</a>
