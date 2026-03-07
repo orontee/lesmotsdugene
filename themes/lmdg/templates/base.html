@@ -21,11 +21,20 @@
 
 <script>
 function getRandomPage() {
-const articles = [
-  {% for article in articles %}"/{{ article.url }}"{% if not loop.last %}
-  ,{% endif %}{% endfor %}
-  ];
-  return articles[Math.floor(Math.random() * articles.length)];
+    {% if article and article.series %}
+    const articles = [
+    {% for article in article.series.all %}
+       "/{{ article.url }}"{% if not loop.last %},{% endif %}
+    {% endfor %}
+    ];
+    {% else %}
+    const articles = [
+       {% for article in articles|selectattr('series', 'defined') %}
+       "/{{ article.url }}"{% if not loop.last %},{% endif %}
+       {% endfor %}
+      ];
+    {% endif %}
+    return articles[Math.floor(Math.random() * articles.length)];
 }
 </script>
 

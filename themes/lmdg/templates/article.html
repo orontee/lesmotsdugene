@@ -35,6 +35,8 @@
     {% if article.series.next %}
     <a href="{{ article.series.next.url }}">Suivant</a>
     {% endif %}
+
+    <a href="#" onclick="window.location.href = getRandomPage(); return false;">Au hasard</a>
     {% endif %}
 
     <div class="entry-content">
