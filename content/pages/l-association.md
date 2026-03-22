@@ -6,7 +6,7 @@ Template: association
 
 Soucieuse de préserver les planches gravées et sculptures qu'Eugène
 Vicat a créées pendant plusieurs décennies, notre association a pour
-but :
+buts :
 
 - conserver cet ensemble d'environ 200 planches et une quinzaine de
   sculptures,
@@ -20,3 +20,6 @@ but :
        src="{static}/images/assemblee_pique-nique.png">
   <figcaption style="max-width: 579px">Pique-nique des adhérents le 14 juin 2015</figcaption>
 </figure>
+
+L'association organise également chaque année plusieurs rendez-vous amicaux pour ses
+adhérents et leurs amis : soirée galette en janvier, pique-nique boules en juin, etc.

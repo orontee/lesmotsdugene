@@ -18,7 +18,7 @@ asseura dou bô tan pe Lon.tan le gène
 
 <figure class="image-block" style="margin: auto; text-align: center;">
   <img alt="Planche 141" src="{static}/images/planche_141.png">
-  <figcaption style="max-width: 658px">Conseil métèorologique pour tous</figcaption>
+  <figcaption style="max-width: 658px">Conseil météorologique pour tous</figcaption>
 </figure>
 
 ## Traduction
