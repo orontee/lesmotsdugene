@@ -4,6 +4,7 @@ Date: 2016-09-28 15:27:18
 Modified: 2016-09-28 15:27:18
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 41
 
 <p style="text-align:justify;">Grande planche verticale en forme

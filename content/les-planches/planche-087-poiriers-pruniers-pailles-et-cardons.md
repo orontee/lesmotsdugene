@@ -4,6 +4,7 @@ Date: 2018-03-08 17:40:04
 Modified: 2018-03-08 17:40:04
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 96
 
 <p style="text-align:justify;">Longue planche horizontale assez

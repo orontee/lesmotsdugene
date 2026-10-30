@@ -4,6 +4,7 @@ Date: 2016-05-23 18:05:09
 Modified: 2016-05-23 18:05:09
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 187
 
 Petite planche horizontale aux bords arrondis et légèrement incurvée

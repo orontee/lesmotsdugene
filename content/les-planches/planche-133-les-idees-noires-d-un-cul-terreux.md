@@ -4,6 +4,7 @@ Date: 2016-10-28 15:22:03
 Modified: 2016-10-28 15:22:03
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 140
 
 <p style="text-align:justify;">Planche verticale légèrement incurvée

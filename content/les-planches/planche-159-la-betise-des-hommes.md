@@ -4,6 +4,7 @@ Date: 2016-03-16 16:00:34
 Modified: 2016-03-16 16:00:34
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 167
 
 <p style="text-align:justify;">Planche horizontale double face, en

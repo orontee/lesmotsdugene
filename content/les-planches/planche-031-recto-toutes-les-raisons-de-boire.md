@@ -4,6 +4,7 @@ Date: 2017-12-06 16:19:57
 Modified: 2017-12-06 16:19:57
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 37
 
 <p style="text-align:justify;">Planche verticale, rectangulaire,

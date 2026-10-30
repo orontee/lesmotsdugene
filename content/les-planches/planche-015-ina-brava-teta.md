@@ -4,6 +4,7 @@ Date: 2016-01-28 15:16:07
 Modified: 2016-01-28 15:16:07
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 18
 
 <p style="text-align:justify;">Planche de taille moyenne de forme

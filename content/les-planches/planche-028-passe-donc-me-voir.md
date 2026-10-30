@@ -4,6 +4,7 @@ Date: 2018-02-09 16:58:25
 Modified: 2018-02-09 16:58:25
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 34
 
 <p style="text-align:justify;">Planche moyenne verticale de forme oblongue aux angles arrondis.</p>

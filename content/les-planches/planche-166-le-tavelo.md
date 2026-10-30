@@ -4,6 +4,7 @@ Date: 2016-09-28 15:25:40
 Modified: 2016-09-28 15:25:40
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 173
 
 <p style="text-align:justify;">Planche découpée en forme de tête de

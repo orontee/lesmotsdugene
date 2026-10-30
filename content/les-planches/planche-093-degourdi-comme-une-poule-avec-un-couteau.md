@@ -4,6 +4,7 @@ Date: 2018-03-12 16:43:55
 Modified: 2018-03-12 16:43:55
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 102
 
 <p style="text-align:justify;">Grande planche verticale. Le bord droit

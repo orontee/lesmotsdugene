@@ -4,6 +4,7 @@ Date: 2017-06-27 18:06:48
 Modified: 2017-06-27 18:06:48
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 120
 
 <p style="text-align:justify;">Planche rectangulaire verticale en bois

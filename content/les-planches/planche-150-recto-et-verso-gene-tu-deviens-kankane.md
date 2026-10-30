@@ -4,6 +4,7 @@ Date: 2017-03-29 18:31:11
 Modified: 2017-03-29 18:31:11
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 158
 
 <p style="text-align:justify;">Petite planche verticale trapézoïdale,

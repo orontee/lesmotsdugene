@@ -4,6 +4,7 @@ Date: 2016-10-28 15:20:39
 Modified: 2016-10-28 15:20:39
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 152
 
 <p style="text-align:justify;">Petite planche verticale, très veinée,

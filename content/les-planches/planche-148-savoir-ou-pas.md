@@ -4,6 +4,7 @@ Date: 2018-02-09 16:41:19
 Modified: 2018-02-09 16:41:19
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 156
 
 <p style="text-align:justify;">Petite planche verticale assez épaisse

@@ -4,6 +4,7 @@ Date: 2017-03-01 16:36:44
 Modified: 2017-03-06 16:44:20
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 70
 
 <p style="text-align:justify;">Planche verticale. Le bord supérieur

@@ -4,6 +4,7 @@ Date: 2018-03-12 16:47:39
 Modified: 2018-03-12 16:47:39
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 67
 
 <p style="text-align:justify;">Planche de grandeur moyenne, très

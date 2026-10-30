@@ -4,6 +4,7 @@ Date: 2017-12-06 16:37:03
 Modified: 2017-12-06 16:40:51
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 53
 
 <p style="text-align:justify;">Très grande planche verticale

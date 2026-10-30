@@ -4,6 +4,7 @@ Date: 2017-05-01 10:41:36
 Modified: 2017-05-01 10:47:24
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 178
 
 Planche rectangulaire verticale légèrement fendue. En haut, dessin

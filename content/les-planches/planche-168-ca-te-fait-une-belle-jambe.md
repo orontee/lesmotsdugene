@@ -4,6 +4,7 @@ Date: 2017-06-27 18:08:50
 Modified: 2017-06-27 18:08:50
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 175
 
 <p style="text-align:justify;">Grande planche verticale, légère, très

@@ -4,6 +4,7 @@ Date: 2018-03-12 16:55:40
 Modified: 2018-03-12 16:55:40
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 113
 
 <p style="text-align:justify;">Petite planche horizontale, gravée sur

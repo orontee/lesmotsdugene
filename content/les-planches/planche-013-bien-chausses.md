@@ -4,6 +4,7 @@ Date: 2017-05-30 16:39:32
 Modified: 2017-05-30 16:39:32
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 16
 
 <p style="text-align:justify;">Planche de taille moyenne rectangulaire

@@ -4,6 +4,7 @@ Date: 2016-05-23 17:46:12
 Modified: 2016-05-23 17:46:12
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 42
 
 <p style="text-align:justify;">Grande planche verticale étroite, en

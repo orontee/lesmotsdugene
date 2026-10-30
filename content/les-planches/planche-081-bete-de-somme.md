@@ -4,6 +4,7 @@ Date: 2018-02-09 17:08:16
 Modified: 2018-02-09 17:19:55
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 90
 
 <p style="text-align:justify;">Planche verticale trapézoïdale, un peu

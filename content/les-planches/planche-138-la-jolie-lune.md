@@ -4,6 +4,7 @@ Date: 2016-03-16 15:59:55
 Modified: 2016-03-16 15:59:55
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 146
 
 <p style="text-align:justify;">Cette planche est un segment du plateau

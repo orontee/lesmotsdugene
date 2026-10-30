@@ -4,6 +4,7 @@ Date: 2015-11-24 18:21:24
 Modified: 2016-01-20 16:08:55
 Summary: étié in histoira a Dormi Debout que Finaï en quoua de Pésson
 Lang: fr
+Category: les-planches
 Category_index: 89
 
 <p style="text-align:justify;">Petite planche verticale en forme de

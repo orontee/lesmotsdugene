@@ -4,6 +4,7 @@ Date: 2016-10-27 20:00:00
 Modified: 2016-10-28 15:19:25
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 182
 
 <p style="text-align:justify;">Planche verticale en bois clair, un peu

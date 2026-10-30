@@ -4,6 +4,7 @@ Date: 2017-06-27 18:11:59
 Modified: 2017-06-27 18:11:59
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 153
 
 <p style="text-align:justify;">Planche verticale de moyenne grandeur

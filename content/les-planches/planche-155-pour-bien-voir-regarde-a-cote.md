@@ -4,6 +4,7 @@ Date: 2016-03-16 16:01:11
 Modified: 2016-03-16 16:01:11
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 163
 
 <p style="text-align:judtify;">Grande planche verticale bordée

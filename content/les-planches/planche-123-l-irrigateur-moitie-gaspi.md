@@ -4,6 +4,7 @@ Date: 2016-12-30 14:42:27
 Modified: 2016-12-30 14:42:27
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 130
 
 <p style="text-align:justify;">Planche verticale, peu épaisse. En bas,

@@ -3,6 +3,7 @@ Subtitle: Planche 17 recto
 Date: 2016-09-28 15:50:06
 Modified: 2016-09-28 15:50:06
 Lang: fr
+Category: les-planches
 Category_index: 21
 
 

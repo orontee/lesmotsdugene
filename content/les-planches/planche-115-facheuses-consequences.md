@@ -4,6 +4,7 @@ Date: 2016-11-28 10:19:35
 Modified: 2016-11-28 10:19:35
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 123
 
 <p style="text-align:justify;">Planche verticale très sombre en deux

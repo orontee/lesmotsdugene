@@ -4,6 +4,7 @@ Date: 2016-07-04 16:35:31
 Modified: 2016-07-04 16:35:31
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 12
 
 <p style="text-align:justify;">Planche vaguement rectangulaire, assez

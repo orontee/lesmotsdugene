@@ -4,6 +4,7 @@ Date: 2017-01-30 15:44:33
 Modified: 2017-01-30 15:44:33
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 93
 
 <p style="text-align:justify;">Planche de bouleau, claire,

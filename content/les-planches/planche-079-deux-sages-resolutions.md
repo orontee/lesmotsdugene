@@ -4,6 +4,7 @@ Date: 2017-05-30 16:40:41
 Modified: 2017-05-30 16:40:41
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 88
 
 <p style="text-align:justify;">Petite planche horizontale. Texte en

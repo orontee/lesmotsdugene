@@ -4,6 +4,7 @@ Date: 2017-12-06 16:48:07
 Modified: 2017-12-06 16:48:07
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 61
 
 <p style="text-align:justify;">Petite planche horizontale. Les bords

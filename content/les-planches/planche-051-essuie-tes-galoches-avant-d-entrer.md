@@ -4,6 +4,7 @@ Date: 2018-02-09 17:31:23
 Modified: 2018-02-09 17:31:23
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 58
 
 <p style="text-align:justify;">Petite planche rectangulaire. Le bas

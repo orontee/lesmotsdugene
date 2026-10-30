@@ -4,6 +4,7 @@ Date: 2016-12-30 14:53:18
 Modified: 2016-12-30 14:53:18
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 57
 
 <p style="text-align:justify;">Planche verticale, incurvée sur la

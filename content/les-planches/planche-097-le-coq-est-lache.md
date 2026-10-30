@@ -4,6 +4,7 @@ Date: 2017-03-01 16:35:25
 Modified: 2017-03-01 16:35:25
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 106
 
 <p style="text-align:justify;">Petite planche verticale, peu

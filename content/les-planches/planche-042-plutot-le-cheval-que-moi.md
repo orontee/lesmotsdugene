@@ -4,6 +4,7 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:40:42
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 49
 
 <p style="text-align:justify;">Planche verticale, découpée en forme de

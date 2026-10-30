@@ -4,6 +4,7 @@ Date: 2016-12-30 14:56:14
 Modified: 2016-12-30 14:56:14
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 177
 
 <p style="text-align:justify;">Longue planche verticale en bois clair

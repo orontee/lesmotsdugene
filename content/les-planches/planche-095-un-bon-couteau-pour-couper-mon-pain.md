@@ -4,6 +4,7 @@ Date: 2018-03-12 16:50:52
 Modified: 2018-03-12 16:50:52
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 104
 
 <p style="text-align:justify;">Grande planche verticale qui présente

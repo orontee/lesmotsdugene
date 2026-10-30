@@ -4,6 +4,7 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-04-22 10:40:58
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 85
 
 <p style="text-align:justify;">Très grande planche horizontale en

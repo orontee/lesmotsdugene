@@ -4,6 +4,7 @@ Date: 2017-03-01 16:29:20
 Modified: 2017-03-01 16:29:20
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 87
 
 <p style="text-align:justify;">Planche triangulaire verticale, évasée

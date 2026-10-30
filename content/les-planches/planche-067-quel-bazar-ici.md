@@ -4,6 +4,7 @@ Date: 2017-05-30 16:16:33
 Modified: 2017-05-30 16:16:33
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 76
 
 <p style="text-align:justify;">Planche de moyenne grandeur,

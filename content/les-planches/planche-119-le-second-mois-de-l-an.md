@@ -4,6 +4,7 @@ Date: 2015-11-18 17:47:37
 Modified: 2016-01-20 16:05:49
 Summary: Pour le second mois de l’an, le soleil est chaud !
 Lang: fr
+Category: les-planches
 Category_index: 126
 
 <p style="text-align:justify;">Planche verticale de moyenne

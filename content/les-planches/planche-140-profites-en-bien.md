@@ -4,6 +4,7 @@ Date: 2016-09-28 15:53:30
 Modified: 2016-09-28 15:53:30
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 148
 
 <p style="text-align:justify;">Petite planche horizontale dont la

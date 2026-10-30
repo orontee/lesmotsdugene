@@ -4,6 +4,7 @@ Date: 2016-10-28 15:28:54
 Modified: 2016-10-28 15:28:54
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 30
 
 <p style="text-align:justify;">Grande planche verticale. En haut, un

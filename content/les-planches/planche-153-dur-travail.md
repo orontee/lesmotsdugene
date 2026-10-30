@@ -5,6 +5,7 @@ Date: 2016-05-23 18:20:06
 Modified: 2016-05-23 18:20:06
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 161
 
 <p style="text-align:justify;">Longue planche horizontale en bois

@@ -4,6 +4,7 @@ Date: 2016-01-28 15:15:24
 Modified: 2016-01-28 15:15:24
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 59
 
 <p style="text-align:justify;">Longue et lourde planche verticale,

@@ -4,6 +4,7 @@ Date: 2016-12-30 14:55:12
 Modified: 2016-12-30 14:55:12
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 125
 
 <p style="text-align:justify;">Très petite planche horizontale. Le

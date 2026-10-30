@@ -4,6 +4,7 @@ Date: 2017-01-30 15:47:01
 Modified: 2017-01-30 15:47:01
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 129
 
 <p style="text-align:justify;">Planche verticale s'évasant vers le

@@ -4,6 +4,7 @@ Date: 2017-01-30 15:40:32
 Modified: 2017-01-30 15:40:32
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 82
 
 <p style="text-align:justify;">Petite planche horizontale en deux

@@ -4,6 +4,7 @@ Date: 2016-01-28 15:12:54
 Modified: 2016-01-28 15:12:54
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 136
 
 <p style="text-align:justify;">Petite planche verticale double

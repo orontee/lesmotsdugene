@@ -4,6 +4,7 @@ Date: 2017-03-29 18:27:49
 Modified: 2017-03-29 18:27:49
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 99
 
 <p style="text-align:justify;">Planche verticale très étroite en bas

@@ -4,6 +4,7 @@ Date: 2017-03-29 18:27:00
 Modified: 2017-03-29 18:27:00
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 138
 
 <p style="text-align:justify;">Grande planche verticale assez brute en

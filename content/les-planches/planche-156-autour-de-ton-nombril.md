@@ -4,6 +4,7 @@ Date: 2016-03-16 16:00:07
 Modified: 2016-03-16 16:00:07
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 164
 
 <p style="text-align:justify;">Longue planche verticale découpée en

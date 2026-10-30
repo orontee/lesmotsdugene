@@ -4,6 +4,7 @@ Date: 2016-05-23 17:48:18
 Modified: 2016-05-23 17:48:18
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 62
 
 <p style="text-align:justify;">Petite planche horizontale percée de

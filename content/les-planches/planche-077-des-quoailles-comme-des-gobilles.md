@@ -4,6 +4,7 @@ Date: 2016-04-22 10:31:04
 Modified: 2016-04-22 10:31:04
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 86
 
 <p style="text-align:justify;">Planche verticale un peu évasée en

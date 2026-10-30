@@ -4,6 +4,7 @@ Date: 2018-02-09 16:51:31
 Modified: 2018-02-09 16:51:31
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 72
 
 <p style="text-align:justify;">Grande planche verticale double face,

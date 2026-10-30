@@ -4,6 +4,7 @@ Date: 2016-03-16 15:59:44
 Modified: 2016-07-01 18:50:41
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 79
 
 <p style="text-align:justify;">Longue planche verticale en bois

@@ -4,6 +4,7 @@ Date: 2016-09-28 15:21:48
 Modified: 2016-09-28 15:21:48
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 186
 
 <p style="text-align:justify;">Toute petite planche verticale un peu

@@ -4,6 +4,7 @@ Date: 2016-01-28 15:13:16
 Modified: 2016-01-28 15:13:16
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 133
 
 <p style="text-align:justify;">Planche horizontale aux bords bien

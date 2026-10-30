@@ -4,6 +4,7 @@ Date: 2017-05-01 11:00:41
 Modified: 2017-05-01 11:00:41
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 134
 
 <p style="text-align:justify;">Petite planche rectangulaire,

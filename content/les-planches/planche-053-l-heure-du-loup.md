@@ -4,6 +4,7 @@ Date: 2018-02-09 16:01:49
 Modified: 2018-02-09 16:03:42
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 60
 
 <p style="text-align:justify;">Planche verticale de moyenne

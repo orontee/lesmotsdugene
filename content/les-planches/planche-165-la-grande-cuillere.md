@@ -4,6 +4,7 @@ Date: 2016-04-22 12:00:00
 Modified: 2016-08-16 16:59:04
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 172
 
 <p style="text-align:justify;">Grande planche verticale en bois très

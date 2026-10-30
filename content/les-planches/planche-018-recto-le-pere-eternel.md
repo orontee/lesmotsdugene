@@ -4,6 +4,7 @@ Date: 2017-12-06 15:53:51
 Modified: 2017-12-06 16:05:17
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 23
 
 <p style="text-align: justify;">Planche de moyenne hauteur, assez

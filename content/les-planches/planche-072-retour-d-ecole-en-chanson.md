@@ -4,6 +4,7 @@ Date: 2016-03-16 16:00:53
 Modified: 2016-03-16 16:00:53
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 81
 
 <p style="text-align:justify;">Grande planche rectangulaire

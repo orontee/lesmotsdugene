@@ -4,6 +4,7 @@ Date: 2016-09-28 15:21:56
 Modified: 2016-09-28 15:23:48
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 185
 
 <p style="text-align:justify;">Planche horizontale de moyenne

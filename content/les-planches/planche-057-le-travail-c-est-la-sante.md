@@ -4,6 +4,7 @@ Date: 2018-03-12 16:53:02
 Modified: 2018-03-12 16:53:02
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 64
 
 <p style="text-align:justify;">Petite planche horizontale de forme

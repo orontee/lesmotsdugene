@@ -4,6 +4,7 @@ Date: 2017-06-27 18:35:14
 Modified: 2017-06-27 18:35:14
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 52
 
 <p style="text-align:justify;">Grande planche verticale, très découpée

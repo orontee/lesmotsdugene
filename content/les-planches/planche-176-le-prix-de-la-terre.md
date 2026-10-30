@@ -5,6 +5,7 @@ Date: 2017-05-01 10:45:48
 Modified: 2017-05-01 10:45:48
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 183
 
 <p style="text-align:justify;">Grande planche rectangulaire

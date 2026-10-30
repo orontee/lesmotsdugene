@@ -4,6 +4,7 @@ Date: 2018-03-12 16:44:31
 Modified: 2018-03-12 16:44:31
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 119
 
 Petite planche verticale, trapézoïdale.

@@ -4,6 +4,7 @@ Date: 2017-03-01 16:33:42
 Modified: 2017-03-01 16:33:42
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 124
 
 <p style="text-align: justify;">Petite planche horizontale légèrement

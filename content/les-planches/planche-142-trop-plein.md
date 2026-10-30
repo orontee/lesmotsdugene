@@ -4,6 +4,7 @@ Date: 2016-03-16 15:59:24
 Modified: 2016-03-16 15:59:24
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 150
 
 <p style="text-align:justify;">Petite planche verticale en forme de

@@ -4,6 +4,7 @@ Date: 2016-07-04 16:51:10
 Modified: 2016-07-04 16:51:10
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 19
 
 <p style="text-align:justify;">Planche étroite en bois clair, de

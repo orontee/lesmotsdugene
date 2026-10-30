@@ -4,6 +4,7 @@ Date: 2016-11-28 10:34:52
 Modified: 2016-11-28 10:34:52
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 98
 
 <p style="text-align:justify;">Planche rectangulaire verticale, fendue

@@ -4,6 +4,7 @@ Date: 2016-12-30 14:41:42
 Modified: 2016-12-30 14:41:42
 Summary: 
 Lang: fr
+Category: les-planches
 Category_index: 105
 
 <p style="text-align:justify;">Grande planche verticale. Le bord
